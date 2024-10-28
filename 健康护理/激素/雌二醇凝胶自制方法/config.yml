@@ -1,0 +1,82 @@
+name: 雌二醇凝胶自制方法
+description: 本目录提供了雌二醇凝胶的自制方法，帮助跨性别者获取激素治疗的知识与资源，促进自我过渡。
+curator: ''
+source: ''
+tags:
+- 激素治疗
+- 跨性别护理
+- 自制药物
+- 雌二醇凝胶
+- 健康资源
+license: ''
+files:
+- name: COA
+  filename: COA.webp
+  description: 此文件为雌二醇凝胶自制方法的图像资料，可能包含相关的配方或步骤说明，旨在帮助跨性别者了解如何自行制作雌二醇凝胶，以满足他们的医疗需求。
+  type: image
+  format: WebP Image
+  size: 59502
+  md5: 5f49b9dbdd963213f0e9e64ef35560c2
+  date: 未知
+  archived: '2024-10-28 07:12:05'
+  link: ''
+  creator: ''
+  tags:
+  - 雌二醇
+  - 激素疗法
+  - 自制方法
+  - 健康护理
+  - 跨性别
+- name: 溶解完成
+  filename: 溶解完成.jpg
+  description: 该图片显示了一种液体及其容器，可能与自制雌二醇凝胶的制备过程相关。根据文件名称，该图片可能展示了溶解雌二醇的步骤。
+  type: image
+  format: JPEG Image
+  size: 3358028
+  md5: 8d7fcdc8d1b7493fcb982cfb32bab0ac
+  date: 未知
+  archived: '2024-10-28 07:12:05'
+  link: ''
+  creator: ''
+  tags:
+  - 雌二醇
+  - 激素疗法
+  - 自制方法
+  - 跨性别医疗
+  - 健康护理
+- name: 溶解完成带灯光
+  filename: 溶解完成带灯光.jpg
+  description: 本文件展示了自制雌二醇凝胶的过程，图中为溶解完成的凝胶液体。该资料适合希望了解跨性别护理中激素治疗的个人。
+  type: image
+  format: JPEG Image
+  size: 4070823
+  md5: 5364bb5cf32b287e85ee477f2ca29f87
+  date: 未知
+  archived: '2024-10-28 07:12:05'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别医疗
+  - 雌二醇
+  - 自制凝胶
+  - 激素治疗
+  - 生命护理
+- name: 雌二醇凝胶自制方法
+  filename: 雌二醇凝胶自制方法.md
+  description: 本文介绍了一种自制雌二醇凝胶的方法，详细说明了配方、制作步骤以及注意事项。强调该配方仅供个人学习与分享，不能用于医疗目的。文中提到了多次更新的制备经验，并建议在制作过程中注意安全防护。
+  type: document
+  format: Markdown
+  size: 11962
+  md5: 29904478ff6d297f34b25c5b61f3fa31
+  date: 未知
+  archived: '2024-10-28 07:12:21'
+  link: ''
+  creator: ''
+  tags:
+  - 雌二醇
+  - 凝胶制作
+  - 跨性别健康护理
+  - 个人分享
+  - 激素治疗
+  page: 雌二醇凝胶自制方法.md
+subdirs: []

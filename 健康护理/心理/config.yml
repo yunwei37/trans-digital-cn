@@ -1,0 +1,147 @@
+name: 心理
+description: 本目录包含关于跨性别者心理健康的研究和经验分享，探讨了心理咨询与积极心理疗法在跨性别群体中的应用，以及与变性手术相关的心理护理内容。
+curator: ''
+source: ''
+tags:
+- 心理健康
+- 跨性别者
+- 心理咨询
+- 变性手术
+- 性别认同
+- 心理疗法
+license: ''
+files:
+- name: A_Systematic_Review_of_Research_on_Counselling_and
+  filename: A_Systematic_Review_of_Research_on_Counselling_and.pdf
+  description: 本文件是一篇关于为跨性别、女同性恋、男同性恋及双性恋人群提供咨询与心理治疗的系统综述。这项研究由多位来自伦敦大学学院及其他院校的教授及研究人员完成，于2007年首次发布。该文为从事心理健康服务的专业人士提供了重要的参考资料和分析。
+  type: document
+  format: PDF Document
+  size: 775429
+  md5: 675e99e42f2a167080bf2a98addc0441
+  date: '2007-04-01'
+  archived: '2024-10-27 19:06:58'
+  link: ''
+  creator: ''
+  tags:
+  - 系统综述
+  - 心理治疗
+  - 咨询
+  - LGBT
+  - 跨性别
+  - 心理健康
+  - 研究资料
+  page: A_Systematic_Review_of_Research_on_Counselling_and_page.md
+- name: Affirmative_Psychotherapy_with_Bisexual_Transgender_People
+  filename: Affirmative_Psychotherapy_with_Bisexual_Transgender_People.pdf
+  description: 本文讨论了为双性恋跨性别者提供积极心理治疗的方法，旨在提高心理健康服务对这一群体的包容性和有效性。作者Nick Embaye在文章中探讨了特定的心理疗法策略及其对改善双性恋跨性别者心理健康的意义。
+  type: document
+  format: PDF Document
+  size: 772212
+  md5: 6a230d7e365becc49b0c40e78b4d2f00
+  date: '2006'
+  archived: '2024-10-28 00:01:33'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 双性恋
+  - 心理治疗
+  - 心理健康
+  - 包容性护理
+  page: Affirmative_Psychotherapy_with_Bisexual_Transgender_People_page.md
+- name: Depth_psychotherapy_with_transgender_people
+  filename: Depth_psychotherapy_with_transgender_people.pdf
+  description: 这篇文章介绍了一种用于跨性别人士的深层心理治疗初级模型。文章结合了现代心理动力学、荣格理论和性别认同理论，反映了跨性别身份发展的独特道路。它不将跨性别身份视为病态，而是探讨了跨性别个体在身份构建过程中由于社会误解和性别二元性带来的心理挑战。文章讨论了跨性别身份发展过程中的不同阶段，并提出了可能的治疗主题和干预措施，并通过作者37年的临床经验中的案例进行说明。
+  type: document
+  format: PDF Document
+  size: 249774
+  md5: 9d934b398276fdf6b83547bdd8ce83e3
+  date: 2009-05
+  archived: '2024-10-28 00:01:33'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 心理治疗
+  - 性别认同
+  - 心理动力学
+  - 荣格理论
+  page: Depth_psychotherapy_with_transgender_people_page.md
+- name: 变性手术患者的心理护理
+  filename: 变性手术患者的心理护理.pdf
+  description: 此文档探讨变性手术患者的心理护理，介绍了对易性癖患者在术前和术后所需的心理支持和护理措施。文章强调了护理人员通过倾听、交流和尊重患者个性的重要性，以帮助患者更好地适应手术及其后的生活。报告基于对14例实施变性手术的患者的观察和护理实践。
+  type: document
+  format: PDF Document
+  size: 259056
+  md5: f6b09478cb9fecdcac349aab2472847b
+  date: '2002-06-01'
+  archived: '2024-10-27 06:27:22'
+  link: ''
+  creator: ''
+  tags:
+  - 变性手术
+  - 心理护理
+  - 易性癖
+  - 性别认同
+  - 临床护理
+  page: 变性手术患者的心理护理_page.md
+- name: 從「性別認同障礙」到「性別不安」
+  filename: 從「性別認同障礙」到「性別不安」.pdf
+  description: 本文件分析了性别认同相关诊断从DSM-IV中的"性别认同障碍"转变为DSM-5中的"性别不安"的过程，并探讨了其去病化的意义。文中详细讨论了该变更对于跨性别群体的影响，以及性别认同的多样性和其正常化的必要性。此外，文件中还包括跨性别健康专专业学会对新诊断标准的反响，并讨论了对成人与儿童性别不安诊断的独立和伦理考量。
+  type: document
+  format: PDF Document
+  size: 1053324
+  md5: 89f771669a22ee003e70cbe9bc0192a6
+  date: '2013'
+  archived: '2024-10-27 06:27:23'
+  link: ''
+  creator: ''
+  tags:
+  - 性别认同
+  - 性别不安
+  - DSM-5
+  - 跨性别
+  - 去病化
+  - 心理健康
+  - 性别多样性
+  - 医疗诊断
+  - 精神医学
+  page: 從「性別認同障礙」到「性別不安」_page.md
+- name: 性别认同障碍
+  filename: 性别认同障碍.doc
+  description: 这份档案涉及性别认同障碍，属于心理健康及医疗护理的主题。尽管文件内容无法提取，但可以推测该档案可能包含有关跨性别个体在性别认同障碍方面的心理健康问题、诊断标准、治疗途径及相关心理支持方法。
+  type: document
+  format: Microsoft Word Document
+  size: 55808
+  md5: 23f82f61eae1cbdc3478b0a43eec791a
+  date: 未知
+  archived: '2024-10-27 06:27:22'
+  link: ''
+  creator: ''
+  tags:
+  - 心理健康
+  - 性别认同障碍
+  - 跨性别
+  - 医疗护理
+  - 心理支持
+  page: 性别认同障碍_page.md
+- name: 性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro
+  filename: 性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro.pdf
+  description: 这篇文章是一项关于性别认同障碍（GID）患者在变性手术前后人格、心理病理和社会适应水平变化的比较研究。研究表明，受试者在手术后显现出多层次的显著变化，包括在人格档案、心理病理症状和社会适应性方面的积极演变。作者通过非随机样本调查22名性别认同障碍患者，采用了多种心理评估工具，结果指出变性手术对人格结构及基本人格模式带来的显著影响。
+  type: document
+  format: PDF Document
+  size: 490637
+  md5: 1aee369e2e71d46ba36f8283c0fa497b
+  date: '2012-01-01'
+  archived: '2024-10-28 00:01:33'
+  link: ''
+  creator: ''
+  tags:
+  - 性别认同障碍
+  - 人格变化
+  - 心理病理
+  - 社会适应
+  - 变性手术
+  - 心理学研究
+  page: 性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro_page.md
+subdirs: []

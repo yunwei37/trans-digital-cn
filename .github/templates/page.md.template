@@ -1,0 +1,14 @@
+# {name}
+
+- Download: [{filename}]({filename})
+    - Type: {type} / Format: {format} / Size: {size} bytes / MD5: {md5}
+- Original Link: {link}
+- Creator: {creator}
+- Archived Date: {archived}
+- Tags: {tags}
+
+## Description
+
+{description}
+
+> 本文档自动生成，请修改 config.yml 或 .github/templates/page.md.template 模板

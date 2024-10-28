@@ -1,0 +1,3 @@
+[submodule ".github/scripts"]
+	path = .github/scripts
+	url = https://github.com/yunwei37/scripts

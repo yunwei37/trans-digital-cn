@@ -1,0 +1,10 @@
+/docs/
+/.cache/
+/mkdocs.yml
+/hooks/
+/overrides/
+__pycache__/
+.env*
+cleanup.py
+/workspace/
+old_workspace/

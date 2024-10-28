@@ -1,0 +1,50 @@
+name: ci 
+on:
+  push:
+    branches:
+      - master 
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          recursive: true
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git submodule update --init --recursive
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material "mkdocs-material[imaging]" mkdocs-git-authors-plugin mkdocs-git-revision-date-localized-plugin
+      - run: pip install mkdocs-rss-plugin  mkdocs-static-i18n[material] python-dotenv openai pdfplumber python-docx
+      - run: sudo apt-get install libcairo2-dev
+      # New steps start here
+      - name: Generate and update TOC, generate and config other things
+        run: |
+          .github/build.sh
+      - name: Commit changes
+        run: |
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update for modify contents" && git push)
+      # New steps end here
+      - run: mkdocs gh-deploy --force
+
+      # - name: Run publish script
+      #   env:
+      #     PUBLISHER_API_KEY: ${{ secrets.PUBLISHER_API_KEY }}
+      #     PUBLISH_AS_DRAFT: 'true'  # Or 'false' if you want to publish directly
+      #   run: |
+      #     python .github/manage/publish.py

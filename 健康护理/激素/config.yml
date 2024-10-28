@@ -1,0 +1,1079 @@
+name: 激素
+description: 该目录收录与跨性别者在激素治疗相关的医疗资源和经验分享，包括各种激素使用的指南、研究、患者故事等。适合希望了解激素治疗过程的跨性别者及其支持者，提供科学数据与真实经历的交融。
+curator: ''
+source: ''
+tags:
+- 激素治疗
+- 医疗资源
+- 患者经验
+- 跨性别
+- 健康护理
+license: ''
+files:
+- name: 00194562
+  filename: 00194562.pdf
+  description: 文件内容是一篇关于使用人工智能技术分析复杂微分博弈的论文，涉及空对空作战中两架装备中程制导导弹的飞机之间的动态冲突。文章讨论了博弈的结果包括对抗双方均被击落、只有一方被击落或者两方都幸存的可能性。研究通过一个专家系统对博弈的成功与风险进行评估，并建议飞行员何时发射导弹或采取规避动作。
+  type: document
+  format: PDF Document
+  size: 687677
+  md5: 7792aef773368c45b1f6c65dbc2254c8
+  date: 1988年12月
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 微分博弈
+  - 人工智能
+  - 空对空作战
+  - 专家系统
+  - 军事技术
+  page: 00194562_page.md
+- name: 001_JMIS_march_EDITORLETTER
+  filename: 001_JMIS_march_EDITORLETTER.pdf
+  description: 这份文件似乎是一篇关于人工智能应用的军用研究出版物，并不包含与跨性别健康护理或激素相关的内容。它主要讨论了人工智能在军事上的潜在应用，以及与此相关的研究课题。
+  type: document
+  format: PDF Document
+  size: 530218
+  md5: a062f4e37c3d74af1897a8180424a907
+  date: 2014-01
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 人工智能
+  - 军事研究
+  - 技术应用
+  page: 001_JMIS_march_EDITORLETTER_page.md
+- name: '1526426092294'
+  filename: 1526426092294.png
+  description: 该图片文件包含与跨性别相关的医疗资源信息，特别是有关激素治疗的内容，展示了一些患者的经历和建议，是跨性别者进行过渡过程中的重要参考资料。
+  type: image
+  format: PNG Image
+  size: 1377184
+  md5: 8a8ac4fdc0cbeb7d1a507dcbb86df885
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 医疗资源
+  - 激素治疗
+  - 过渡经历
+- name: '1526426111749'
+  filename: 1526426111749.png
+  description: 该文件包含关于跨性别者激素治疗的医学建议和指南，详细介绍了多种激素的使用以及推荐的剂量。这些信息为希望进行性别过渡的跨性别者提供了宝贵的医学资源和参考。
+  type: image
+  format: PNG Image
+  size: 983284
+  md5: 7863a8a0925076dd1c3e85662eb799bd
+  date: '2004-01-01'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 医学资源
+  - 性别过渡
+  - 健康护理
+- name: '1526426113788'
+  filename: 1526426113788.png
+  description: 该文件包含关于激素治疗的医疗资料，信息涉及激素浓度在标准治疗过程中的变化曲线。通过图表展示不同时间点的激素水平，为跨性别者提供医疗参考资料。
+  type: image
+  format: PNG Image
+  size: 973019
+  md5: 4fefd115350493988bcfa08d6812a84b
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别健康
+  - 医疗资源
+  - 数据统计
+  - 治疗经验
+- name: '1526426115999'
+  filename: 1526426115999.jpeg
+  description: 该文件是关于跨性别人士使用激素替代疗法（HRT）的讨论，具体提到了progynova和destrofen等药物的用法和剂量，反映了一些跨性别者在自我管理激素治疗中遇到的问题和分享的经验。
+  type: image
+  format: JPEG Image
+  size: 133797
+  md5: 33abf78798c498c9c84d934a6c5266b1
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素替代疗法
+  - 医疗经验
+  - 药物使用
+  - HRT
+- name: '1526426121029'
+  filename: 1526426121029.jpeg
+  description: 该文件包含一张与跨性别人士激素治疗相关的图像，可能呈现了个人的经验和建议。图中文字讨论了激素治疗的方法和剂量，涉及特定药物的使用情况。这为跨性别人士提供了经验分享和医疗资源的信息。
+  type: image
+  format: JPEG Image
+  size: 133797
+  md5: 33abf78798c498c9c84d934a6c5266b1
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 经验分享
+  - 医疗资源
+  - 药物使用
+- name: '1526426127004'
+  filename: 1526426127004.jpeg
+  description: 该图像文件包含有关激素治疗的图示和信息，可能涉及跨性别人士的医疗经验和使用的药物。这可能包括激素的类型、剂量以及用药后的效果等内容，旨在为跨性别人士提供医疗方面的参考与指导。
+  type: image
+  format: JPEG Image
+  size: 3502050
+  md5: e38181492b012f7925c86bb0979b7464
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别医疗
+  - 健康护理
+  - 医疗经验
+  - 生存现状
+- name: '1526426154814'
+  filename: 1526426154814.jpeg
+  description: 此文件包含一张与跨性别健康护理相关的图像，主要涉及激素治疗的内容和信息。图像中可能展现了与激素相关的医疗资源，具体内容需查看图像。
+  type: image
+  format: JPEG Image
+  size: 122374
+  md5: c2c6345200f7ae83f7450faa02daf9e8
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 健康护理
+  - 医疗资源
+  - 图像
+- name: '1526426157939'
+  filename: 1526426157939.png
+  description: 本文件包含了一项关于环戊烯酸酯（CPA）对男性生殖腺和肾上腺功能影响的研究。研究涉及对多种激素的生理变化进行分析，特别关注CPA对激素水平抑制的效果及其对生物钟的影响。
+  type: image
+  format: PNG Image
+  size: 337692
+  md5: ffb85bbdaabc17f7988e91eff5f8ae28
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别医疗
+  - 性别转变
+  - 激素治疗
+  - 生殖健康
+  - 医学研究
+- name: '1526426162001'
+  filename: 1526426162001.png
+  description: 该文件为一张关于激素（ELESTRIN）的图片，包含医疗信息和研究数据。内容涉及激素的临床应用及其对身体的影响，适用于跨性别者的医疗资源和分享。
+  type: image
+  format: PNG Image
+  size: 534142
+  md5: 050a4e4429bc2da6402e77c700afde4a
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别医疗
+  - ELESTRIN
+  - 医疗资源
+  - 临床研究
+- name: '1526426172695'
+  filename: 1526426172695.png
+  description: 此文件包含有关激素治疗的医学信息，特别是在调节和应用激素Esclim方面的信息，包括其剂量与效果等相关研究数据。
+  type: image
+  format: PNG Image
+  size: 529153
+  md5: 4075629d9d7fc09f54282109a7bf78cb
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - Esclim
+  - 医疗资源
+  - 研究资料
+  - 跨性别健康
+- name: '1526426175586'
+  filename: 1526426175586.jpeg
+  description: 该文件包含关于Escilm（雌激素转化药物）在不同体部的药代动力学数据及实验结果的详细信息。数据包括不同剂量（0.025、0.05和0.14
+    mg）下药物浓度的变化以及各项统计指标。该研究提供了对跨性别个体在激素治疗中可能遇到的药物代谢情况的深入分析。
+  type: image
+  format: JPEG Image
+  size: 186932
+  md5: 35b8bcc02fb2681376ee0164f3568490
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 雌激素
+  - 跨性别医疗
+  - 药物研究
+  - 激素治疗
+  - 生理数据
+- name: '1526426181859'
+  filename: 1526426181859.png
+  description: 这是一张关于Escilim（雌激素）在不同用药方案下的血浆浓度变化的图表，提供了详细的统计数据和分析结果，以帮助跨性别人士了解激素治疗的效果和安全性。
+  type: image
+  format: PNG Image
+  size: 353828
+  md5: f5bfb8659211ab0764bb38b9058171ae
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 医学资源
+  - 雌激素
+  - 统计数据
+- name: '1526426186219'
+  filename: 1526426186219.png
+  description: 该文件为一幅关于Esclim（雌激素替代疗法）系统的图示，上面提供了有关该系统的基本信息和使用方法。内容涉及药物使用的建议、潜在风险和注意事项，旨在帮助跨性别者及相关人员更好地理解和使用Esclim系统。
+  type: image
+  format: PNG Image
+  size: 532291
+  md5: 5908928cece963899b5e91f72504b951
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - Esclim
+  - 雌激素
+  - 跨性别医疗
+  - 医疗资源
+  - 激素治疗
+  - 健康护理
+- name: '1526426196175'
+  filename: 1526426196175.jpeg
+  description: 该文件包含关于螺内酯（Spironolactone）作为激素替代治疗（HRT）的信息，包括其作用机制、适应症和患者使用中的注意事项。文件中提到螺内酯对乳腺组织的影响及其在跨性别者激素治疗中的重要性。
+  type: image
+  format: JPEG Image
+  size: 245912
+  md5: 1bbcb846df7700220ed2db2aeec1e630
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 螺内酯
+  - 激素替代治疗
+  - 跨性别健康
+  - 医疗资源
+  - 个人经历
+- name: '1526427703899'
+  filename: 1526427703899.jpeg
+  description: 该文件包含关于Estrofem（2mg，28片装）药物的信息，主要用于荷尔蒙疗法，针对使用者的健康建议和剂量说明。信息中包括药物的适应症、用法用量，以及注意事项，是跨性别个体在接受激素治疗过程中可能需要的医疗资源。
+  type: image
+  format: JPEG Image
+  size: 254341
+  md5: 776c70f36a14c49e3dafb967f4a1d272
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素疗法
+  - Estrofem
+  - 医疗资源
+  - 跨性别
+  - 健康护理
+- name: '1526427706959'
+  filename: 1526427706959.jpeg
+  description: 此文件包含有关Estrofem 2mg药物的信息，包括其在激素替代疗法中的使用情况、成分、适应症和可能的副作用。该药物用于缓解因雌激素缺乏而引起的症状，适合于女性的生理状况。
+  type: image
+  format: JPEG Image
+  size: 306479
+  md5: a1f803cabac2b41cf9f70f51a2e76ae2
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素替代疗法
+  - Estrofem
+  - 医疗资源
+  - 药物信息
+  - 跨性别健康
+- name: '1526427710811'
+  filename: 1526427710811.png
+  description: 该文件包含了一张关于女性荷尔蒙药物的整理图表，列出了不同类型的激素药物，如Estradiol和Progesterone等，以及它们的成分、用途和用法。这些信息对于跨性别人士在过渡过程中使用激素疗法提供了实用的医疗资源。
+  type: image
+  format: PNG Image
+  size: 977615
+  md5: 5ee9bb8fcfb32ad26039976d4150b651
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素疗法
+  - 跨性别医疗
+  - 女性荷尔蒙
+  - 药物信息
+  - 过渡经历
+- name: '1526427715724'
+  filename: 1526427715724.jpeg
+  description: 该图表展示了雌二醇在6mg舌下服用后，各个时间点的浓度变化情况，比较了同时服用与分散服用两种方法对激素水平的影响。这对跨性别者在激素治疗中的选择具有重要参考价值。
+  type: image
+  format: JPEG Image
+  size: 171636
+  md5: e963fe5c19f656ad9e9690ea361307cf
+  date: '2017-03-23'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 雌二醇
+  - 激素治疗
+  - 浓度变化
+  - 跨性别医疗
+  - 数据统计
+- name: '1526427718296'
+  filename: 1526427718296.jpeg
+  description: 该图展示了在24小时内，单次口服（PO）或舌下（SL）使用微粒化17β-雌二醇后的血清雌二醇浓度变化，数据包含了不同剂量（0.25 mg到1
+    mg SL，以及0.5 mg PO）的药物效果。图中的曲线表示了血液中雌二醇浓度的变化趋势，反映了激素疗法在跨性别个体中的药物代谢特征。
+  type: image
+  format: JPEG Image
+  size: 66900
+  md5: e34e9fc8b021dc313c8b19f3502b1914
+  date: 未知
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 雌二醇
+  - 激素疗法
+  - 跨性别健康
+  - 药物代谢
+  - 医学研究
+- name: '1526427723238'
+  filename: 1526427723238.jpeg
+  description: 该文件包含有关自然激素及合成激素的详细信息，主要介绍了激素类型、使用剂量和适用方案等内容。文中强调了激素的使用注意事项及可能的副作用，适用于跨性别者在进行激素治疗时的参考。
+  type: image
+  format: JPEG Image
+  size: 121720
+  md5: 1ef6e56e75d3893dea180c9210db6d68
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:30'
+  link: ''
+  creator: ''
+  tags:
+  - 激素疗法
+  - 跨性别
+  - 医疗资源
+  - 健康护理
+  - 生存现状
+- name: '1526427728034'
+  filename: 1526427728034.png
+  description: 这是一张呈现跨性别相关医疗支持内容的图片，可能包含有关激素治疗的信息。图像中提及的内容和信息对跨性别群体的健康护理经验具有重要意义。
+  type: image
+  format: PNG Image
+  size: 1377184
+  md5: 8a8ac4fdc0cbeb7d1a507dcbb86df885
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 健康护理
+  - 激素治疗
+  - 医疗资源
+  - 经验分享
+- name: '1526427732850'
+  filename: 1526427732850.png
+  description: 此文件是一张关于激素治疗的PNG图像，包含有关跨性别人士治愈和支持的信息。该图像可能涉及跨性别人士在其过渡过程中所需的医疗资源和实用建议。
+  type: image
+  format: PNG Image
+  size: 2211509
+  md5: ee16556bf07a886a1cb12337d9b85fee
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 医疗资源
+  - 过渡经历
+- name: '1526427740542'
+  filename: 1526427740542.png
+  description: 该文件是关于激素治疗的图像资料，展示了与激素浓度相关的数据和图表，可能涉及跨性别人士在激素治疗过程中的生理变化和效果评估。这些信息对于理解激素治疗的影响和效果极为重要。
+  type: image
+  format: PNG Image
+  size: 973019
+  md5: 4fefd115350493988bcfa08d6812a84b
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别健康
+  - 医疗资源
+  - 生理变化
+  - 研究数据
+- name: '1526427742516'
+  filename: 1526427742516.png
+  description: 该文件包含与激素治疗相关的研究数据和图表，重点讨论不同激素水平变化的时间趋势。文件涉及跨性别者在激素治疗过程中可能经历的生理变化，提供了科学背景和医疗参考，对跨性别者的健康护理具有重要意义。
+  type: image
+  format: PNG Image
+  size: 973019
+  md5: 4fefd115350493988bcfa08d6812a84b
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别医疗资源
+  - 生理变化
+  - 医疗数据
+  - 健康护理
+- name: '1526427745255'
+  filename: 1526427745255.jpeg
+  description: 该文件包含与跨性别人士在激素替代疗法（HRT）中使用的药物相关的信息，可能涉及个人经验和用药指南。内容摘录提及使用的具体药物名及剂量，为希望了解激素治疗的跨性别者提供了参考。
+  type: image
+  format: JPEG Image
+  size: 133797
+  md5: 33abf78798c498c9c84d934a6c5266b1
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素替代疗法
+  - 跨性别
+  - 医疗资源
+  - 个人经验
+  - 药物使用
+- name: '1526427745863'
+  filename: 1526427745863.jpeg
+  description: 该图像文件包含了一位跨性别者关于荷尔蒙替代疗法(HRT)的讨论。内容涉及了不同的激素药物选择和用量，以及个人在荷尔蒙治疗中的经历。
+  type: image
+  format: JPEG Image
+  size: 133797
+  md5: 33abf78798c498c9c84d934a6c5266b1
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 荷尔蒙替代疗法
+  - 医疗经验
+  - 药物使用
+  - 生存现状
+- name: '1526427754883'
+  filename: 1526427754883.jpeg
+  description: 这是一张关于跨性别者所使用的激素治疗的图片，可能包含有关激素药物的种类与使用方法的相关信息。该资料旨在为跨性别者提供医学支持和资源。
+  type: image
+  format: JPEG Image
+  size: 3502050
+  md5: e38181492b012f7925c86bb0979b7464
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别医疗资源
+  - 健康护理
+  - 跨性别者支持
+- name: '1526427759136'
+  filename: 1526427759136.jpeg
+  description: 该文件包含有关跨性别者激素治疗过程中的激素浓度的图表数据，展示了口服（Oral）与经皮（Transdermal）给药后体内激素浓度的变化情况。这些数据对于研究和理解跨性别者在激素治疗中的生理反应具有重要意义。
+  type: image
+  format: JPEG Image
+  size: 52001
+  md5: 1eb9ac6b59d2d80ff0d900eca0cd7eeb
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 健康护理
+  - 数据统计
+  - 生理反应
+- name: '1526427759992'
+  filename: 1526427759992.jpeg
+  description: 该图表展示了雌激素药物（口服和透皮用药）在体内的浓度变化，分别记录了用药后不同时间段的血清浓度。此数据对跨性别个体的激素疗法有参考价值。
+  type: image
+  format: JPEG Image
+  size: 52001
+  md5: 1eb9ac6b59d2d80ff0d900eca0cd7eeb
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素疗法
+  - 跨性别医疗
+  - 血清浓度
+  - 口服雌激素
+  - 透皮雌激素
+  - 医学研究
+- name: '1526427762624'
+  filename: 1526427762624.jpeg
+  description: 该文件包含一张关于激素类药物在不同给药方式下（如贴片、凝胶和喷雾）的雌激素浓度变化的图表。图表展示了不同时间点雌激素在血清中的浓度变化，为跨性别者提供重要的医疗数据和参考。
+  type: image
+  format: JPEG Image
+  size: 94599
+  md5: 3be9de087efbe979a7360311e6f4bef1
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素替代疗法
+  - 跨性别医疗
+  - 雌激素
+  - 血清浓度
+  - 药物给药方式
+- name: '1526427769871'
+  filename: 1526427769871.jpeg
+  description: 该图片展示了不同类型的雌激素（口服、贴片、凝胶和喷雾）在给药后不同时间点的血清浓度变化曲线，旨在提供跨性别人士在激素治疗中可能会接触到的医疗信息和经验。
+  type: image
+  format: JPEG Image
+  size: 56889
+  md5: 92091267cf221a6748cf84c4f5b4c66f
+  date: 未知
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别医疗
+  - 生理变化
+  - 雌激素
+  - 医学图表
+- name: '1526427772589'
+  filename: 1526427772589.jpeg
+  description: 该图像文件包含关于 PROMETRIUM 和 PROVERA 药物的使用和研究信息，主要讨论了这些药物在阻止 DHT 转化方面的有效性以及相关的研究结果。内容涉及药物对不同激素受体的作用，可能对跨性别人士在激素替代疗法中使用激素药物的影响。
+  type: image
+  format: JPEG Image
+  size: 242736
+  md5: 1c0910fa3244939e0bd0d2ef4514eaab
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - PROMETRIUM
+  - PROVERA
+  - DHT转化
+  - 医疗资源
+  - 研究资料
+- name: '1526427775284'
+  filename: 1526427775284.jpeg
+  description: 该文件包含一张关于激素治疗的图像，可能展示了与跨性别相关的健康护理和激素使用的信息。具体内容需要查看图像以获取更详细的信息。
+  type: image
+  format: JPEG Image
+  size: 238021
+  md5: 65c7291aeb8731b504529b1f9c7e0edc
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别健康
+  - 医疗资源
+  - 性别过渡经历
+- name: '1526427784635'
+  filename: 1526427784635.png
+  description: 该文件为一张图片，内容涉及激素疗法在跨性别者的健康管理中的应用。图片可能包含与激素使用、健康护理相关的信息与资源，旨在分享医疗经验和知识。
+  type: image
+  format: PNG Image
+  size: 337692
+  md5: ffb85bbdaabc17f7988e91eff5f8ae28
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素疗法
+  - 健康护理
+  - 医疗资源
+  - 经验分享
+- name: '1526427787316'
+  filename: 1526427787316.jpeg
+  description: 该图像文件可能与激素治疗相关，展示了跨性别者在医疗护理中的重要性。文件内含有可能的医疗数据或资源，但具体内容需查看图像以确认。
+  type: image
+  format: JPEG Image
+  size: 122374
+  md5: c2c6345200f7ae83f7450faa02daf9e8
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 医疗资源
+  - 跨性别
+  - 健康护理
+  - 护理经验
+- name: '1526427808478'
+  filename: 1526427808478.png
+  description: 该文件包含有关ELESrin（雌激素激素制剂）的详细信息，包括其药理学、临床应用以及药代动力学数据。文中提到ELESrin对跨性别患者的激素治疗的重要性，并提供了相关的临床研究结果。
+  type: image
+  format: PNG Image
+  size: 534142
+  md5: 050a4e4429bc2da6402e77c700afde4a
+  date: 未知
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - ELESrin
+  - 雌激素
+  - 跨性别医疗
+  - 激素治疗
+  - 药代动力学
+- name: '1526427810918'
+  filename: 1526427810918.png
+  description: 该文件包含关于激素治疗的信息，主要探讨了一种名为Esclim的药物及其在跨性别健康护理中的应用。这段资料涉及Esclim的临床研究、剂量和使用效果，提供了相关医疗经验和信息。
+  type: image
+  format: PNG Image
+  size: 529153
+  md5: 4075629d9d7fc09f54282109a7bf78cb
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - Esclim
+  - 跨性别健康
+  - 医疗资源
+  - 药物信息
+- name: '1526427814685'
+  filename: 1526427814685.jpeg
+  description: 此文件为一张JPEG图像，包含有关Eslclim（雌激素一种形式）在不同体态部位应用时的血药浓度变化及其药学研究的数据图表。内容涉及药物在不同时间段的服用效果及其生理反应，适用于研究和理解跨性别个体在激素治疗中的医疗信息。
+  type: image
+  format: JPEG Image
+  size: 186932
+  md5: 35b8bcc02fb2681376ee0164f3568490
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别健康
+  - 医疗资源
+  - Eslclim
+  - 药物研究
+- name: '1526427816985'
+  filename: 1526427816985.png
+  description: 该文件包含有关Escilim（雌激素替代药物）在不同剂量下对血液特征影响的研究数据。文中通过表格详细列出了不同剂量及其对各种生理指标的影响，为跨性别群体提供了宝贵的医疗参考信息。
+  type: image
+  format: PNG Image
+  size: 353828
+  md5: f5bfb8659211ab0764bb38b9058171ae
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素替代疗法
+  - 雌激素
+  - 跨性别医疗
+  - Eslcim
+  - 血液指标
+  - 研究资料
+- name: '1526427819787'
+  filename: 1526427819787.png
+  description: 该文件包含对Esclim（雌激素替代疗法系统）的介绍，详细说明了使用该系统的相关信息及其对激素过渡的影响。内容涉及激素的使用、适应症及注意事项，适合需要了解激素治疗的跨性别人士及其医疗服务提供者。
+  type: image
+  format: PNG Image
+  size: 532291
+  md5: 5908928cece963899b5e91f72504b951
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 雌激素
+  - 激素治疗
+  - 跨性别
+  - 医疗资源
+  - Esclim
+- name: '1526427822404'
+  filename: 1526427822404.jpeg
+  description: 该文件包含关于螺内酯（Spironolactone）作为跨性别者激素治疗的一部分的详细信息。它讨论了螺内酯的功能、应用、效果以及使用注意事项。文件中提及的相关数据和参考文献进一步为使用者提供了科学依据和实用建议。
+  type: image
+  format: JPEG Image
+  size: 245912
+  md5: 1bbcb846df7700220ed2db2aeec1e630
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 螺内酯
+  - 跨性别医疗
+  - 健康护理
+  - 经验分享
+- name: '1526427824640'
+  filename: 1526427824640.png
+  description: 该文件包含一篇关于男性转女性跨性别者使用雌激素的临床研究。研究中分析了在50名接受激素治疗的男性转女性患者中，通过不同的激素剂量对其生理反应和各项指标变化的影响。研究结果提供了对雌激素治疗安全性和有效性的深入了解，为相关医疗实践提供数据支持。
+  type: image
+  format: PNG Image
+  size: 137277
+  md5: a03b0d27ad606677cac662f131c51a91
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别健康
+  - 激素治疗
+  - 男性转女性
+  - 雌激素
+  - 临床研究
+- name: '1526427827672'
+  filename: 1526427827672.png
+  description: 此文件包含一张关于激素水平变化的图表，可能涉及跨性别者在进行激素治疗期间的雌激素水平监测。图表展示了在特定时间范围内激素水平的变化，这对了解激素疗法的效果和身体反应具有重要意义。
+  type: image
+  format: PNG Image
+  size: 21442
+  md5: 4879e66af76931c468031527212d20ea
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素治疗
+  - 雌激素水平
+  - 医疗资源
+  - 生理变化
+- name: '1526427833528'
+  filename: 1526427833528.png
+  description: 该图显示了不同剂量（10mg和100mg）的雌二醇（Estradiol）在14天内的水平变化。这些数据有助于了解跨性别个体在激素过渡过程中激素水平的变化，能够为激素治疗的效果及其监测提供参考和支持。
+  type: image
+  format: PNG Image
+  size: 24962
+  md5: 03cc9e700cae9aab426c01ef55ca7821
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 雌二醇水平
+  - 跨性别健康
+  - 医疗数据
+  - 过渡经历
+- name: '1526427836274'
+  filename: 1526427836274.jpeg
+  description: 该图像展示了不同剂量的雌二醇（Estradiol）在体内的水平变化情况，包含10mg和100mg两种剂量的情况。通过图表可以观察到在不同天数内，雌二醇水平的波动。这一数据可能对研究和了解跨性别人士在激素治疗过程中的激素变化具有重要意义。
+  type: image
+  format: JPEG Image
+  size: 180349
+  md5: 6786dc1ca1ba5cc6f189312f63f2af90
+  date: 未知
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别
+  - 雌二醇水平
+  - 健康护理
+  - 医学研究
+- name: '1526483860457'
+  filename: 1526483860457.png
+  description: 该文件包含有关共轭雌激素（CEE）和相关激素疗法的信息。这些信息对于跨性别个体的医疗资源和经验分享具有重要意义，可能涉及激素治疗的背景和使用方式。
+  type: image
+  format: PNG Image
+  size: 130169
+  md5: c4d4072be63217058250240ff02344bf
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 共轭雌激素
+  - 跨性别医疗
+  - 健康护理
+  - 医疗资源
+- name: '1526483913565'
+  filename: 1526483913565.png
+  description: 该图片文件包含有关共轭雌激素（CEE）及其用途的信息，主要用于医疗和激素替代治疗，特别是涉及跨性别者的激素治疗方面。该资料可能提供了关于共轭雌激素的科学背景和应用实例，适合需要了解激素治疗的特定人群。
+  type: image
+  format: PNG Image
+  size: 130169
+  md5: c4d4072be63217058250240ff02344bf
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 共轭雌激素
+  - 激素替代治疗
+  - 跨性别医疗
+  - 健康护理
+- name: '1526483916423'
+  filename: 1526483916423.png
+  description: 该文件包含与跨性别医疗相关的激素信息，可能涉及激素疗法的作用和影响，包括雌激素的不同形式及其生理效果。
+  type: image
+  format: PNG Image
+  size: 113033
+  md5: b6b9a92af233b857308f35d9d50e5a99
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 医疗资源
+  - 激素治疗
+  - 生理影响
+  - 雌激素
+- name: '1526483920787'
+  filename: 1526483920787.png
+  description: 该文件包含关于激素的图像信息，可能涉及跨性别者在医疗护理方面的内容，包括激素治疗的药物成分及其相对效能等。
+  type: image
+  format: PNG Image
+  size: 80371
+  md5: 7adbcd860f41e66142b760342b1cbc1f
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别医疗
+  - 医疗资源
+  - 药物成分
+  - 跨性别者健康
+- name: '1526483925359'
+  filename: 1526483925359.png
+  description: 该文件包含有关激素类型的表格，包括生物同质性和合成激素的相关数据。这些数据显示不同类型激素对身体的影响程度，适用于医疗资源和经验分享相关的信息。
+  type: image
+  format: PNG Image
+  size: 58762
+  md5: aa6c767b9efd194980fdca40e2e0526c
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 医疗资源
+  - 跨性别健康
+  - 生物同质性
+  - 合成激素
+- name: '1526483954945'
+  filename: 1526483954945.png
+  description: 该文件包含有关激素治疗的图像资料，可能涉及跨性别群体在健康护理方面的相关信息和资源分享。
+  type: image
+  format: PNG Image
+  size: 195821
+  md5: 48fc3941e2751f8a0ff514bf624e69be
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 激素治疗
+  - 跨性别健康
+  - 医疗资源
+  - 图像资料
+- name: '1526484057156'
+  filename: 1526484057156.png
+  description: 此文件包含关于女性荷尔蒙药物的详细信息，包括不同药物的成分、用途及使用方法，为跨性别人士提供医疗资源与经验分享。
+  type: image
+  format: PNG Image
+  size: 977615
+  md5: 5ee9bb8fcfb32ad26039976d4150b651
+  date: '2024-10-27'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别医疗
+  - 荷尔蒙治疗
+  - 药物信息
+  - 经验分享
+  - 健康护理
+- name: 5000012290-5000020606-1-PB
+  filename: 5000012290-5000020606-1-PB.pdf
+  description: 该文档似乎是一个关于人工智能应用的社论文章，讨论了人工智能在军事领域的潜在用途。文章引用了人工智能的几个定义，并探讨了其在军队运作中的可能性。强调人工智能在执行目前由人类更擅长的任务时的潜力。文中还提到了一些研究项目和研究人员的合作关系。
+  type: document
+  format: PDF Document
+  size: 531017
+  md5: ccf8a93749c753e116f8282249e67b57
+  date: 2014-03
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 人工智能
+  - 军事应用
+  - AI研究
+  - 信息科技
+  - 社会科学
+  page: 5000012290-5000020606-1-PB_page.md
+- name: ce7f496e06922be8dcfa9193fd0333f60290
+  filename: ce7f496e06922be8dcfa9193fd0333f60290.pdf
+  description: 该文档位于健康护理文件夹下，文件名称暂未揭示具体内容。由于内容提取失败，具体细节无法得知。然而，文件所属的目录“激素”可能暗示文档涉及跨性别人士在性别确认医疗过程中使用的激素疗法相关信息，可能分享有关激素治疗的经验、效果或潜在的医学建议。
+  type: document
+  format: PDF Document
+  size: 0
+  md5: d41d8cd98f00b204e9800998ecf8427e
+  date: 未知
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 激素疗法
+  - 医疗资源
+  - 经验分享
+  - 健康护理
+  page: ce7f496e06922be8dcfa9193fd0333f60290_page.md
+- name: hormones_MTF
+  filename: hormones_MTF.pdf
+  description: 本文件是为有意进行性别过渡的跨性别女性（MTF）提供的一份关于激素疗法的指南。该指南详细解释了激素的作用、MTF激素的预期变化、潜在的风险及副作用，并提供如何最大化疗效及最小化风险的信息。此手册不仅适用于考虑使用激素的MTF个人，也对他们的伴侣、家庭成员、朋友以及负责处方和护理的医疗专业人士有帮助。
+  type: document
+  format: PDF Document
+  size: 141773
+  md5: 9cb665114e4e6c58a09dacb7dd962d20
+  date: 未知
+  archived: '2024-10-27 19:04:14'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 性别过渡
+  - 激素疗法
+  - MTF
+  - 医疗指南
+  page: hormones_MTF_page.md
+- name: 性激素与免疫系统关系的研究进展
+  filename: 性激素与免疫系统关系的研究进展.pdf
+  description: 这篇文章综述了近年来关于性激素对免疫系统影响的研究进展。文章主要探讨性激素受体及其机制，特别是雌激素在青春期对胸腺和免疫系统的影响。此外，文章还总结了性激素如何通过特定途径影响免疫应答和自身免疫机制的研究成果。
+  type: document
+  format: PDF Document
+  size: 80328
+  md5: 480fdffaccbc02f0955693792c7e6cb3
+  date: '2023'
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 性激素
+  - 免疫系统
+  - 研究进展
+  - 综述
+  - 医学研究
+  page: 性激素与免疫系统关系的研究进展_page.md
+- name: 性激素免疫调节效应与疾病发生的关系
+  filename: 性激素免疫调节效应与疾病发生的关系.pdf
+  description: 本文是《中华预防医学杂志》的一篇综述文章，探讨了性激素免疫调节效应与疾病发生的关系。文章讨论了性激素广泛的作用，不仅在生殖调节方面，还在免疫调节中发挥着重要作用。研究表明，性激素对免疫系统有重大影响，从而影响肿瘤和自身免疫性疾病的发病率。同时，文章提到了神经内分泌免疫学作为一门新兴学科的发展，关注性激素与免疫系统间的复杂交互作用。
+  type: document
+  format: PDF Document
+  size: 66153
+  md5: 8e06f294d977e14da472b3d529416137
+  date: 未知
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 性激素
+  - 免疫调节
+  - 疾病发生
+  - 肿瘤
+  - 自身免疫性疾病
+  - 神经内分泌免疫学
+  - 医学研究
+  page: 性激素免疫调节效应与疾病发生的关系_page.md
+- name: 性激素对创伤-失血性休克后机体免疫功能的影响
+  filename: 性激素对创伤-失血性休克后机体免疫功能的影响.pdf
+  description: 这篇文章来自《西南国防医药》2010年1月第20卷第1期，讨论了性激素在创伤和失血性休克后对机体免疫功能的影响。研究表明，性激素会影响免疫抑制的周期、机制及其对细胞免疫的影响。论文总结道，性激素通过影响包括睾酮在内的多种激素水平，可对创伤后机体的免疫反应有重要调节作用。
+  type: document
+  format: PDF Document
+  size: 188547
+  md5: 554f43bd72438469ef9ab3b3d764e913
+  date: 2010-01
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 性激素
+  - 免疫功能
+  - 创伤
+  - 失血性休克
+  - 医学研究
+  - 免疫抑制
+  page: 性激素对创伤-失血性休克后机体免疫功能的影响_page.md
+- name: 性激素对机体免疫系统功能的影响
+  filename: 性激素对机体免疫系统功能的影响.pdf
+  description: 该文件是关于性激素对机体免疫系统功能影响的综述，讨论了不同性别在自身免疫性疾病发病及表现上的差异，并介绍了性激素如何通过与免疫细胞的相互作用影响免疫应答。文中提及了一些具体的免疫细胞（如T细胞和巨噬细胞）及其在应对病原体中的独特反应。
+  type: document
+  format: PDF Document
+  size: 87494
+  md5: dbc7b7ea809f68017bbe4d935bd4795a
+  date: 2024-05
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 性激素
+  - 免疫系统
+  - 自身免疫性疾病
+  - 性别差异
+  - 医学研究
+  page: 性激素对机体免疫系统功能的影响_page.md
+- name: 报道1
+  filename: 报道1.pdf
+  description: 该文件可能涉及对跨性别人士在接受激素治疗方面的医疗经验和信息的报道或讨论。由于文件的原始内容缺失，仅提供与激素相关的主题标签。
+  type: document
+  format: PDF Document
+  size: 784913
+  md5: 0e00efab03c1f95b339fa450bdea85b4
+  date: 未知
+  archived: '2024-10-27 06:07:31'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 医疗
+  - 激素治疗
+  - 健康护理
+  page: 报道1_page.md
+subdirs:
+- 雌二醇凝胶自制方法

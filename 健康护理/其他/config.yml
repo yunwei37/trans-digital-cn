@@ -1,0 +1,52 @@
+name: 其他
+description: 该目录包含关于跨性别者在中国的健康护理及相关医疗资源的信息，特别是一些其他类型的支持和资源，不适合进行分类的资料。这些资料旨在帮助跨性别者更好地理解和获取所需的医疗信息与服务。
+curator: ''
+source: ''
+tags:
+- 健康护理
+- 医疗资源
+- 跨性别者
+- 支持资源
+- 中国
+license: ''
+files:
+- name: SOC_V7_Chinese
+  filename: SOC_V7_Chinese.pdf
+  description: 这份文件是世界跨性别健康专业协会（WPATH）发布的《跨性别及非性别常规者健康照护标准》的第七版中文翻译。文件详细介绍了健康照护的目标、适用性及相关策略，包括心理健康、贺尔蒙治疗、性别相关手术等多方面的指南。这是一个关于跨性别者健康照护的权威指南，涵盖了医疗、心理及生活质素等多方面的内容。
+  type: document
+  format: PDF Document
+  size: 5733967
+  md5: a56ef4c4d9e3b0a26bb1686b12d979c0
+  date: '2012'
+  archived: '2024-10-28 00:01:33'
+  link: ''
+  creator: ''
+  tags:
+  - 跨性别
+  - 健康照护
+  - WPATH
+  - 医疗指南
+  - 性别不安
+  page: SOC_V7_Chinese_page.md
+- name: 中国易性症多学科诊疗专家共识
+  filename: 中国易性症多学科诊疗专家共识.pdf
+  description: 该文件为中国心理卫生协会性心理健康专业委员会发布的关于易性症的多学科诊疗专家共识。内容涵盖了易性症的评估、诊断和治疗，并提出了针对临床实践的建议和规范，以促进各学科的
+    cooperación 和发展，旨在为相关专业人员提供更安全和有效的诊疗规范。
+  type: document
+  format: PDF Document
+  size: 605157
+  md5: e35e072de45846913f3646911f837a98
+  date: '2022'
+  archived: '2024-10-28 07:04:06'
+  link: ''
+  creator: ''
+  tags:
+  - 易性症
+  - 诊断
+  - 治疗
+  - 多学科
+  - 专家共识
+  - 心理健康
+  - 医疗资源
+  page: 中国易性症多学科诊疗专家共识_page.md
+subdirs: []
