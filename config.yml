@@ -31,19 +31,6 @@ files:
   creator: ''
   tags: []
   page: CONTRIBUTING.md
-- name: res
-  filename: res.md
-  description: ''
-  type: webpage
-  format: Markdown
-  size: 163209
-  md5: 6d8667a28a586ed3299b84637cd0bffc
-  date: ''
-  archived: '2024-11-01 08:16:25'
-  link: ''
-  creator: ''
-  tags: []
-  page: res.md
 subdirs:
 - 健康护理
 - 文学与艺术作品
