@@ -1,0 +1,3829 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.23122,
+        "formattedSearchTime": "0.23",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "国家限制类技术目录（2022 年版）",
+          "htmlTitle": "国家限制类技术目录（2022 年版）",
+          "link": "http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144/files/05bffdb6d7514898b7a1a45281078075.pdf",
+          "displayLink": "www.nhc.gov.cn",
+          "snippet": "“64.5x00x001 变性手术(男变女)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64.000x001 易性症,女转男；F64.000x002 易性症,男转女）. 识别 ...",
+          "htmlSnippet": "“64.5x00x001 变性手术(<b>男变女</b>)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64.000x001 易性症,女转男；F64.000x002 易性症,男转女）. 识别&nbsp;...",
+          "formattedUrl": "http://www.nhc.gov.cn/yzygj/.../05bffdb6d7514898b7a1a45281078075.pd...",
+          "htmlFormattedUrl": "http://www.nhc.gov.cn/yzygj/.../05bffdb6d7514898b7a1a45281078075.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220426105446+02'54'",
+                "creationdate": "D:20220426105446+02'54'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220426105446+02'54'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "htmlTitle": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "link": "http://www.medline.com.cn/lzj2013-dengmingyu/20150501xingbiekunaodelinchuang.pdf",
+          "displayLink": "www.medline.com.cn",
+          "snippet": "6.3.2 变性手术的内容. Page 9. （1）针对男变女（MtF）的患者，手术治疗可能包括以下内容： a. 乳房/胸部手术：隆乳手术（植入手术/脂肪填充手术）； b. 生殖器手术：阴茎切除手术、 ...",
+          "htmlSnippet": "6.3.2 变性手术的内容. Page 9. （1）针对<b>男变女</b>（MtF）的患者，手术治疗可能包括以下内容： a. 乳房/胸部手术：隆乳手术（植入手术/脂肪填充手术）； b. 生殖器手术：阴茎切除手术、&nbsp;...",
+          "formattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "htmlFormattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150501081335+08'00'",
+                "creationdate": "D:20150424113620-04'00'",
+                "creator": "Acrobat PDFMaker 9.0 Word 版",
+                "sourcemodified": "D:20150424153613",
+                "author": "User",
+                "producer": "Adobe PDF Library 9.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "儿童ALK 阳性间变性大细胞淋巴瘤诊疗规范",
+          "htmlTitle": "儿童ALK 阳性间变性大细胞淋巴瘤诊疗规范",
+          "link": "http://www.nhc.gov.cn/yzygj/s3593/201909/5f1d3329606e4cd2aa6e501603703ee4/files/a1d91544a73740c5aed87c46037d2b3b.pdf",
+          "displayLink": "www.nhc.gov.cn",
+          "snippet": "10%～15%，并以男性占多数（男：女=1.5：1）。在儿童和青. 少年患者中超过90%的患者为ALK+ALCL，而成人患者中仅. 40%～50%为ALK+ALCL。 二、适用范围. 经病理、免疫组化 ...",
+          "htmlSnippet": "10%～15%，并以<b>男性</b>占多数（男：女=1.5：1）。在儿童和青. 少年患者中超过90%的患者为ALK+ALCL，而成人患者中仅. 40%～50%为ALK+ALCL。 二、适用范围. 经病理、免疫组化&nbsp;...",
+          "formattedUrl": "http://www.nhc.gov.cn/yzygj/.../a1d91544a73740c5aed87c46037d2b3b.pd...",
+          "htmlFormattedUrl": "http://www.nhc.gov.cn/yzygj/.../a1d91544a73740c5aed87c46037d2b3b.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190827153429+07'34'",
+                "creationdate": "D:20190827153429+07'34'",
+                "creator": "WPS Office 专业版",
+                "sourcemodified": "D:20190827153429+07'34'",
+                "author": "yang jing"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "(&例淀粉样变性肾病患者临床及病理特点研究",
+          "htmlTitle": "(&amp;例淀粉样变性肾病患者临床及病理特点研究",
+          "link": "http://www.lcszb.com/cn/article/pdf/preview/10.3969/j.issn.1671-2390.y20-232.pdf",
+          "displayLink": "www.lcszb.com",
+          "snippet": "变(其中男!*例%女%$例%男女比例为&/()&,年. 龄范围为\"&*(!岁%年龄为\"*(/%.'/-#岁 ... 男性为主(男性的血红蛋白水平显著高于女性患. 者%可能由于男性体内雄激素水平 ...",
+          "htmlSnippet": "变(其中男!*例%女%$例%男女比例为&amp;/()&amp;,年. 龄范围为&quot;&amp;*(!岁%年龄为&quot;*(/%.&#39;/-#岁 ... <b>男性</b>为主(<b>男性</b>的血红蛋白水平显著高于女性患. 者%可能由于<b>男性</b>体内雄激素水平&nbsp;...",
+          "formattedUrl": "http://www.lcszb.com/cn/article/pdf/.../10.../j.issn.1671-2390.y20-232.pdf",
+          "htmlFormattedUrl": "http://www.lcszb.com/cn/article/pdf/.../10.../j.issn.1671-2390.y20-232.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6ADNoJeAFnq2rT7KO11-Y5sU6JzLzy-fNHGJYDxUw7Bzxv1yu3OXIlc&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210707085521-08'00'",
+                "creationdate": "D:20210703094532+08'00'",
+                "producer": "http://www.adultpdf.com"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d3c38c4131852ae361e4f8adca69448f1e6c4c788775a399646890726302c666"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新加坡文秘职业“女性化”变迁及其影响",
+          "htmlTitle": "新加坡文秘职业“女性化”变迁及其影响",
+          "link": "https://g-city.sass.org.cn/_upload/article/files/7d/47/d7666a284a5f9e129acab9ad33d9/4bee79bf-0214-4172-8eb6-528c517270ad.pdf",
+          "displayLink": "g-city.sass.org.cn",
+          "snippet": "可以说，经济增长、教育发展、性别观念合力将文秘职业从“男性职业”变为“女性职业”。经济增长和产. 业结构变化提供了更多白领就业机会，教育水平提高使女性能够胜任文秘工作， ...",
+          "htmlSnippet": "可以说，经济增长、教育发展、性别观念合力将文秘职业从“<b>男性</b>职业”变为“女性职业”。经济增长和产. 业结构变化提供了更多白领就业机会，教育水平提高使女性能够胜任文秘工作，&nbsp;...",
+          "formattedUrl": "https://g-city.sass.org.cn/_.../4bee79bf-0214-4172-8eb6-528c517270ad.pd...",
+          "htmlFormattedUrl": "https://g-city.sass.org.cn/_.../4bee79bf-0214-4172-8eb6-528c517270ad.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20220421100929-08'00'",
+                "creator": "ReaderEx_DIS 2.3.0 Build 3999",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中重度脂肪变性供肝应用于成人肝移植术的早期预后及其危险因素分析",
+          "htmlTitle": "中重度脂肪变性供肝应用于成人肝移植术的早期预后及其危险因素分析",
+          "link": "https://www.organtranspl.com/cn/article/pdf/preview/10.3969/j.issn.1674-7445.2020.06.008.pdf",
+          "displayLink": "www.organtranspl.com",
+          "snippet": "Nov 6, 2020 ... 供、受者各475 例，供者男455 例，女20 例，年龄. （39±7）岁；受者男395 ... 相关研究表明，在移. 植术前对供肝采取一些修复措施可以降低重度脂肪变.",
+          "htmlSnippet": "Nov 6, 2020 <b>...</b> 供、受者各475 例，供者男455 例，女20 例，年龄. （39±7）岁；受者男395 ... 相关研究表明，在移. 植术前对供肝采取一些修复措施可以降低重度脂肪变.",
+          "formattedUrl": "https://www.organtranspl.com/cn/.../10.../j.issn.1674-7445.2020.06.008.pd...",
+          "htmlFormattedUrl": "https://www.organtranspl.com/cn/.../10.../j.issn.1674-7445.2020.06.008.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUae6vv-h_yaCzuQrNa-ZZ-PyrUj-NFpO40AhDsOdzM1Zqqw77nmLMePAf&s",
+                "width": "192",
+                "height": "263"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210107161944-08'00'",
+                "creator": "AdultPDFSPMG-CHS-LordFox",
+                "creationdate": "D:20210107161944-08'00'",
+                "producer": "http://www.adultpdf.com"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8716ed0fb817b02031daedad39580a18605f50f0ab80f51a4c16a742d9bea631"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别ABC",
+          "htmlTitle": "跨性别ABC",
+          "link": "https://docs.transonline.org.cn/files/Transgender_ABC.pdf",
+          "displayLink": "docs.transonline.org.cn",
+          "snippet": "女变男（Female-to-Male 、FTM），男变女（Male-to-Female、MTF）：女变男. 是指生理上是女性，却认同自己是男性，作为男性生活，已经或希望通过医疗干预使得. 自己的 ...",
+          "htmlSnippet": "女变男（Female-to-Male 、FTM），<b>男变女</b>（Male-to-Female、MTF）：女变男. 是指生理上是女性，却认同自己是男性，作为男性生活，已经或希望通过医疗干预使得. 自己的&nbsp;...",
+          "formattedUrl": "https://docs.transonline.org.cn/files/Transgender_ABC.pdf",
+          "htmlFormattedUrl": "https://docs.transonline.org.cn/files/Transgender_ABC.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7fQhvnoDFYCWhKY-LaO35YrMr5p4LaFKnJ_ZfUeA6Pec7Paz2mySYs5a2&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20120719070610+08'00'",
+                "creationdate": "D:20120718165421+08'00'",
+                "creator": "Adobe InDesign CS6 (Macintosh)",
+                "author": "爱白文化教育中心 www.aibai.com",
+                "producer": "Adobe PDF Library 10.0.1",
+                "title": "跨性别ABC"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///80d2bfa8f90d32ce908b42559b9a6823f0e9543dbdd937992a55027175493a66"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肝豆状核变性的临床误诊研究",
+          "htmlTitle": "肝豆状核变性的临床误诊研究",
+          "link": "http://wilson-disease.org/Editor/eWebeditor/uploadfile/20150113092341490.pdf",
+          "displayLink": "wilson-disease.org",
+          "snippet": "2. 诊断不明组：193 例中，男121 例，女72 例；. 年龄6 3 50 岁，平均21 岁± 8 岁。分型：脑型169. 例，内脏型6 例，脑内脏型17 例，脊髓型1 例。首发. 症状 ...",
+          "htmlSnippet": "2. 诊断不明组：193 例中，男121 例，女72 例；. 年龄6 3 50 岁，平均21 岁± 8 岁。分型：脑型169. 例，内脏型6 例，脑内脏型17 例，脊髓型1 例。首发. 症状&nbsp;...",
+          "formattedUrl": "http://wilson-disease.org/Editor/eWebeditor/.../20150113092341490.pdf",
+          "htmlFormattedUrl": "http://wilson-disease.org/Editor/eWebeditor/.../20150113092341490.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzl99AO5zfEBTlYWUN1cqg0Eq7Lx-NlD0MQVuI2rjc1NHpXXOd61fDaQ&s",
+                "width": "134",
+                "height": "84"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2ecb971af1d35a171480139c0cfb809533e64a6fb9edae19d6dc647fc8259175"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别运动员参加高水平体育比赛的科学思考",
+          "htmlTitle": "跨性别运动员参加高水平体育比赛的科学思考",
+          "link": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "displayLink": "cmstykx.cisszgty.com",
+          "snippet": "位由男性变为女性参加奥运会女子比赛的跨性别运动. 员，劳拉·哈伯德依然引起 ... 由男变女的跨性别运动员变性前的男性运动优势在性别. 重整手术或激素治疗之后是否 ...",
+          "htmlSnippet": "位由男性变为女性参加奥运会女子比赛的跨性别运动. 员，劳拉·哈伯德依然引起 ... 由<b>男变女</b>的跨性别运动员变性前的男性运动优势在性别. 重整手术或激素治疗之后是否&nbsp;...",
+          "formattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "htmlFormattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxl4aWfdzLDIlw2zrK92qnPAMs_qv4UISilv4GE2ZLyTfZySb1CGvcQSWU&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220124153512+08'00'",
+                "creationdate": "D:20220124153512+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1671",
+                "author": "Microsoft xionghp",
+                "producer": "Founder",
+                "title": "faf42564-2f4c-44f2-af9c-fcf401824a14"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f4a19c6bd9b93654a3a9d4245bebf3bf59aedc3a1f57409740e132f981976d30"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "电力行业职业技能鉴定指导中心文件",
+          "htmlTitle": "电力行业职业技能鉴定指导中心文件",
+          "link": "https://www.cec.org.cn/upload/1/editor/1600068406427.pdf",
+          "displayLink": "www.cec.org.cn",
+          "snippet": "男变电运行高级技师变电管理二所. 广东省电力行业职业技能. 鉴定中心. 5 陈颖华男变 ... 女变电运行高级技师铜川供电公司. 陕西省电力行业职业技能. 鉴定中心. 137 王荣.",
+          "htmlSnippet": "<b>男变</b>电运行高级技师变电管理二所. 广东省电力行业职业技能. 鉴定中心. 5 陈颖华<b>男变</b> ... 女变电运行高级技师铜川供电公司. 陕西省电力行业职业技能. 鉴定中心. 137 王荣.",
+          "formattedUrl": "https://www.cec.org.cn/upload/1/editor/1600068406427.pdf",
+          "htmlFormattedUrl": "https://www.cec.org.cn/upload/1/editor/1600068406427.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjz3uvi0fJh3xyKzL3JPXp1rA86NUj21BvgxZBv7RZdTX1s-v7Mixiv0&s",
+                "width": "187",
+                "height": "269"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200914151727+08'00'",
+                "creationdate": "D:20200914151727+08'00'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a2a0df5da5128e4246eb9e98fc59fc574b589e073e5f0d7a74bc8883f5e2ca96"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:11"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.243965,
+        "formattedSearchTime": "0.24",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "等效性检验——结构方程模型评价和测量不变性分析的新视角",
+          "htmlTitle": "等效性检验——结构方程模型评价和测量不变性分析的新视角",
+          "link": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=5229",
+          "displayLink": "journal.psych.ac.cn",
+          "snippet": "示例样本为856. 名大学生, 男487 人, 女369 人。统计软件采用. Mplus 8.3 和R ... 对于形态不变性, 单独用男生和女生样本. 拟合数据, 结果RMSEA 和CFI 都可以接受 ...",
+          "htmlSnippet": "示例样本为856. 名大学生, 男487 人, 女369 人。统计软件采用. Mplus 8.3 和R ... 对于形态不变性, 单独用男生和女生样本. 拟合数据, 结果RMSEA 和CFI 都可以接受&nbsp;...",
+          "formattedUrl": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqF_EnOfPk76szPO1KvmLukw7Z2AHBcsUOcsANBqlQZCWv8HOnZeOxa0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20201031155946+08'00'",
+                "creationdate": "D:20201031073825+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows)",
+                "title": "Microsoft Word - 14王阳温忠麟jz20-070-方法_new_.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///be15e2f8e5715a5c5b8d9b72957408cdfbbc90daecc76cc161aa309a527c5059"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "PowerPoint 演示文稿",
+          "htmlTitle": "PowerPoint 演示文稿",
+          "link": "https://www.mhealthu.com/uploads/20200313/1654d2f111cef626e4c4ea9a0f0e711e.pdf",
+          "displayLink": "www.mhealthu.com",
+          "snippet": "晚起病性别烦躁男性，大比例与出生性别为女性个体同居或结婚。 ◇变性后，个体的自我认同为同性恋。 ◇早起病群体会寻求临床激素治疗和性别再分配手术的 ...",
+          "htmlSnippet": "晚起病性别烦躁<b>男性</b>，大比例与出生性别为女性个体同居或结婚。 ◇变性后，个体的自我认同为同性恋。 ◇早起病群体会寻求临床激素治疗和性别再分配手术的&nbsp;...",
+          "formattedUrl": "https://www.mhealthu.com/.../1654d2f111cef626e4c4ea9a0f0e711e.pdf",
+          "htmlFormattedUrl": "https://www.mhealthu.com/.../1654d2f111cef626e4c4ea9a0f0e711e.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KYvmpw7_jwtchGyLAotO86x38Yin_V4PRpNLoNJxl0L93N36InSJt9k&s",
+                "width": "299",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200313165920+08'00'",
+                "creationdate": "D:20190612170731+08'00'",
+                "creator": "Microsoft® PowerPoint® 适用于 Office 365",
+                "author": "china",
+                "producer": "Microsoft® PowerPoint® 适用于 Office 365",
+                "title": "PowerPoint 演示文稿"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5ef87f9607d913b89dccaf7cc7e75f0725ab0d32c6ed544d024858768ffdd525"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家能源局可靠性和质监中心发布",
+          "htmlTitle": "国家能源局可靠性和质监中心发布",
+          "link": "http://prpq.nea.gov.cn/uploads/file1/20220613/62a6a6bec9dac.pdf",
+          "displayLink": "prpq.nea.gov.cn",
+          "snippet": "Jun 10, 2022 ... 女. 高级工程师. 火电风电生物质发电. 汽机机务工程管理. 中能建东北 ... 输变电火电风电生物质发电建筑输电线路工程管理. 辽宁中心站. 65. 房国成. 男.",
+          "htmlSnippet": "Jun 10, 2022 <b>...</b> 女. 高级工程师. 火电风电生物质发电. 汽机机务工程管理. 中能建东北 ... 输变电火电风电生物质发电建筑输电线路工程管理. 辽宁中心站. 65. 房国成. 男.",
+          "formattedUrl": "http://prpq.nea.gov.cn/uploads/file1/20220613/62a6a6bec9dac.pdf",
+          "htmlFormattedUrl": "http://prpq.nea.gov.cn/uploads/file1/20220613/62a6a6bec9dac.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBJ_JYUtREAtWCSRruDl4--lhFsai5tKKmgatCuypYR4nfHAaWxM9Efvx&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220610152943+08'00'",
+                "creationdate": "D:20220610152453+08'00'",
+                "producer": "Foxit Phantom Printer 版本 11.1.221.4582"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4c48fa76d824f813c256a5ad9682369958569588c3b12f7f286b272f63d0d82f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "12例间变性淋巴瘤激酶阳性间变性大细胞淋巴瘤临床分析",
+          "htmlTitle": "12例间变性淋巴瘤激酶阳性间变性大细胞淋巴瘤临床分析",
+          "link": "https://lcxyen.whuhzzs.com/data/article/lcxy/preview/pdf/lcxyxzz-36-5-354.pdf",
+          "displayLink": "lcxyen.whuhzzs.com",
+          "snippet": "其中男11例,女1例。11例(91.67%)患者初诊时. 评估晚期(Ⅲ~Ⅳ期),7例(58.33%)患者合并B. 症状,5 例(41.67%)患者LDH 升高,4 例. (33.33%)患者以浅表淋巴结肿大为首发部位,. 7 ...",
+          "htmlSnippet": "其中男11例,女1例。11例(91.67%)患者初诊时. 评估晚期(Ⅲ~Ⅳ期),7例(58.33%)患者合并B. 症状,5 例(41.67%)患者LDH 升高,4 例. (33.33%)患者以浅表淋巴结肿大为首发部位,. 7&nbsp;...",
+          "formattedUrl": "https://lcxyen.whuhzzs.com/data/article/lcxy/.../pdf/lcxyxzz-36-5-354.pdf",
+          "htmlFormattedUrl": "https://lcxyen.whuhzzs.com/data/article/lcxy/.../pdf/lcxyxzz-36-5-354.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7j9YtYVkYaDafWGaGIWm-n8q9bakFubspb500BjxoeIXwyKbBfQRLNk&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230420115000+08'00'",
+                "creationdate": "D:20230420114957+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7e088f9702dca0b6649910d59426cc6be33810a8826ce4b25d58d2e850e5fea6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "体质指数与贲门腺上皮内瘤变和早期贲门癌关系分析*",
+          "htmlTitle": "体质指数与贲门腺上皮内瘤变和早期贲门癌关系分析*",
+          "link": "http://www.cjco.cn/cn/article/pdf/preview/11138.pdf",
+          "displayLink": "www.cjco.cn",
+          "snippet": "男性偏瘦、正常、超重和肥胖4个切点与病理诊. 断正常人群、低级别内瘤变、高级别内瘤变和早期. 浸润癌的BMI 分布做关联性统计学处理，χ2= 6.675，>0.05，见表2。 女性偏瘦、 ...",
+          "htmlSnippet": "<b>男性</b>偏瘦、正常、超重和肥胖4个切点与病理诊. 断正常人群、低级别内瘤变、高级别内瘤变和早期. 浸润癌的BMI 分布做关联性统计学处理，χ2= 6.675，&gt;0.05，见表2。 女性偏瘦、&nbsp;...",
+          "formattedUrl": "http://www.cjco.cn/cn/article/pdf/preview/11138.pdf",
+          "htmlFormattedUrl": "http://www.cjco.cn/cn/article/pdf/preview/11138.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyty6QqUdTXia1lY2DwqGzwO_F1LhDGuVwT-9Zgk7L6SiW-2nLebYN74&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150617100808+08'00'",
+                "creationdate": "D:20150612153413-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5e0386c52cb862728a125f5c3030711f2d08754c9ded11e4c7a51eeafd868fdf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别女性的特征及艾滋病相关知识行为调查",
+          "htmlTitle": "跨性别女性的特征及艾滋病相关知识行为调查",
+          "link": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?journal_id=zhlxbx&file_name=8101D5DAB1C08948E75602FF36EC0DAE997B349F20780245349618035C29863401CC68A39FF5E763DD5ABCA5C3495EC981BFAEEA5D0BD8C0D4B94448DB18C3C0&open_type=self&file_no=20160116",
+          "displayLink": "chinaepi.icdc.cn",
+          "snippet": "Jan 16, 2016 ... 可找到的、生理性别为男性(若做过变性手术，则变. 性前生理性别为男性)，自述心理性别不是男性的. MTF人群进行调查，现场调查共55名MTF，收回. 55份问卷 ...",
+          "htmlSnippet": "Jan 16, 2016 <b>...</b> 可找到的、生理性别为<b>男性</b>(若做过变性手术，则变. 性前生理性别为<b>男性</b>)，自述心理性别不是<b>男性</b>的. MTF人群进行调查，现场调查共55名MTF，收回. 55份问卷&nbsp;...",
+          "formattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160111140252+08'00'",
+                "creationdate": "D:20160111140240+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "大会",
+          "htmlTitle": "大会",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "Mar 31, 2021 ... ... 变性人、男同性恋者和其他男男性行为者提. 供安全套、暴露前预防用药和 ... 决妇女艾滋病毒感染者、土著妇女、残疾妇女、变性妇女、性工作者、移民妇女.",
+          "htmlSnippet": "Mar 31, 2021 <b>...</b> ... 变性人、男同性恋者和其他男<b>男性</b>行为者提. 供安全套、暴露前预防用药和 ... 决妇女艾滋病毒感染者、土著妇女、残疾妇女、变性妇女、性工作者、移民妇女.",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsm-f12rfk21aumGpor4SZg-YE-WW0rh5J4BnsVaMJG4QCIfyjsaEJJXy&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210427103723-04'00'",
+                "creator": "Microsoft® Word 适用于 Microsoft 365",
+                "creationdate": "D:20210427103723-04'00'",
+                "author": "Qiping Jia",
+                "producer": "Microsoft® Word 适用于 Microsoft 365"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a163b87a570586d88ac9218ac4cca03683f0c3fa4ebcf2024f59266c69fd66f8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "LASKK",
+          "htmlTitle": "LASKK",
+          "link": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20111236?file_name=93B673825CB8464572DD4362DCF5B7082EA59E31757945DB308D2822B4D380C0D140FEB548B66F0DBE38E2A9C496E881CE6C3D2972AC85BE&open_type=self",
+          "displayLink": "gjyk.ijournals.cn",
+          "snippet": "... 周边部视网膜. 变 眼中男眼 女眼 男女之. 眼. 分类. <$ 1$ $ =$ 7. 2. 视网膜病变. 视网膜裂孔. 间的差异无统计学意义 7. 2. > P1 周边视网. 膜病变发生在低度近视者眼 中 ...",
+          "htmlSnippet": "... 周边部视网膜. 变 眼中男眼 女眼 男女之. 眼. 分类. &lt;$ 1$ $ =$ 7. 2. 视网膜病变. 视网膜裂孔. 间的差异无统计学意义 7. 2. &gt; P1 周边视网. 膜病变发生在低度近视者眼 中&nbsp;...",
+          "formattedUrl": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20111236?file_name...self",
+          "htmlFormattedUrl": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20111236?file_name...self",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20111205161222+08'00'",
+                "creationdate": "D:20111205161222+08'00'",
+                "creator": "Windows NT 4.0",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "11-12ZZ"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肝豆状核变性的肝影像学表现",
+          "htmlTitle": "肝豆状核变性的肝影像学表现",
+          "link": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?journal_id=fsxsjzz&file_name=B3147901C258E490D979EE43861CEE2773CD65F42F800F43CADF50EFB1C6593D36CA80617A37C096B778BC9068798DD97AB59019249A091BCC3C648389307436&open_type=self&file_no=20050117",
+          "displayLink": "www.fsxsj.net",
+          "snippet": "状核变性病例17例。其中男7例，女10例，年龄9～. 42岁，平均19．3岁。就诊前有肝或神经系统锥体外. 系症状的时间为3天～5年不等。17例中4例有WD. 家族 ...",
+          "htmlSnippet": "状核变性病例17例。其中男7例，女10例，年龄9～. 42岁，平均19．3岁。就诊前有肝或神经系统锥体外. 系症状的时间为3天～5年不等。17例中4例有WD. 家族&nbsp;...",
+          "formattedUrl": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59i_JiqtKZuGQbgi7G5rXgViqn4J0PbNKoZ0RGxyeUfoPZovqJG4Xc1s&s",
+                "width": "190",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141107161445+08'00'",
+                "creationdate": "D:20141107161439+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3ac2f77922fc4351a74d89b1acafaaa1974df95e11d8a2aecff2bc59305e41c8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "京剧男旦与歌舞伎女形比较",
+          "htmlTitle": "京剧男旦与歌舞伎女形比较",
+          "link": "http://106.37.81.211:8082/wxzy/down/sjs_journal/22257513.html",
+          "displayLink": "106.37.81.211",
+          "snippet": "“女形”与“男旦”相比较，“男旦”是男扮女装的表演艺. 术：“女形”是男性变身的演绎技术，都是以创造女性人物艺术. 形象美为准则，再创造东方女性人物形象的精美程度上具有异曲.",
+          "htmlSnippet": "“女形”与“男旦”相比较，“男旦”是男扮女装的表演艺. 术：“女形”是<b>男性变</b>身的演绎技术，都是以创造女性人物艺术. 形象美为准则，再创造东方女性人物形象的精美程度上具有异曲.",
+          "formattedUrl": "http://106.37.81.211:8082/wxzy/down/sjs_journal/22257513.html",
+          "htmlFormattedUrl": "http://106.37.81.211:8082/wxzy/down/sjs_journal/22257513.html",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20110804111612+08'00'",
+                "creationdate": "D:20110804111612+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0.5 (Windows)",
+                "title": "Microsoft Word - 2011.4月定稿.doc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:13"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.304516,
+        "formattedSearchTime": "0.30",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "男声女调患者与正常男性嗓音参数的对比分析及临床意义",
+          "htmlTitle": "男声女调患者与正常<b>男性</b>嗓音参数的对比分析及临床意义",
+          "link": "http://zgebyheldwkzz.ijournals.cn/zgebyheldwkzz/article/pdf/1007-1520201805010?file_name=93B673825CB84645AFA992DD124E2D27AA1A8368EA64A468A19E893909FE66E64F01A991C1EC71956495C20C1EE3B199AEA55A1FCFC6D4BA51A0EB7B6B326B26&open_type=self",
+          "displayLink": "zgebyheldwkzz.ijournals.cn",
+          "snippet": "同时，男声女调患者的最长. 发音时间均较正常男性变短，可能由于大部分患者. 喉内肌软弱，发音时声门闭合不全、漏气所致；音域. 均较正常男性变窄，主要是因为男声女调患者声带.",
+          "htmlSnippet": "同时，男声女调患者的最长. 发音时间均较正常<b>男性变</b>短，可能由于大部分患者. 喉内肌软弱，发音时声门闭合不全、漏气所致；音域. 均较正常<b>男性变</b>窄，主要是因为男声女调患者声带.",
+          "formattedUrl": "http://zgebyheldwkzz.ijournals.cn/.../article/.../1007-1520201805010?...",
+          "htmlFormattedUrl": "http://zgebyheldwkzz.ijournals.cn/.../article/.../1007-1520201805010?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnFoB5BD14OzqtCiBnxE0bhY1hLdz54YHsRORiK3DDhx4PoFmGasQtQJR&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181025101042+08'00'",
+                "creationdate": "D:20181025101030+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///624d7cbebb03048b67866cfd2494dd19381971db5e7aa37070f8f4d76f75f507"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别选择权:性质界定与法权塑造",
+          "htmlTitle": "性别选择权:性质界定与法权塑造",
+          "link": "https://www.civillaw.com.cn/uploadfile/lmpic/20180315/20180315200557734.pdf",
+          "displayLink": "www.civillaw.com.cn",
+          "snippet": "Mar 15, 2018 ... 最终撕裂数千年的“男 女”二分藩篱. “参照群体”(referencegroup) ... 女性变性为男性后,仅得去男性厕. 所,浴室,不得使用女性厕所,浴室.概因性别 ...",
+          "htmlSnippet": "Mar 15, 2018 <b>...</b> 最终撕裂数千年的“男  女”二分藩篱. “参照群体”(referencegroup) ... 女性变性为<b>男性</b>后,仅得去<b>男性</b>厕. 所,浴室,不得使用女性厕所,浴室.概因性别&nbsp;...",
+          "formattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "htmlFormattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20180314220626-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3948",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新汉语水平考试",
+          "htmlTitle": "新汉语水平考试",
+          "link": "https://www.chinesetest.cn/userfiles/file/HSK/level4/H41004.pdf",
+          "displayLink": "www.chinesetest.cn",
+          "snippet": "男：改了。三点半，推迟了半个小时。 女：好，602 会议室没变吧？ 男：对，没 ...",
+          "htmlSnippet": "男：改了。三点半，推迟了半个小时。 女：好，602 会议室没变吧？ 男：对，没&nbsp;...",
+          "formattedUrl": "https://www.chinesetest.cn/userfiles/file/HSK/level4/H41004.pdf",
+          "htmlFormattedUrl": "https://www.chinesetest.cn/userfiles/file/HSK/level4/H41004.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5o3ZSKjiAZBxRTAhPCmOH6gOdKlnPIo5ePu3d3qEPb2T7jgal3IRttk&s",
+                "width": "230",
+                "height": "219"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20110411110331",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20110411110331",
+                "author": "zjj",
+                "producer": "Microsoft® Office Word 2007",
+                "title": "新汉语水平考试"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5759add5ab877df44d6771cb279bdfd310ce566b003a9f32c48d03a44a392c8d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "经椎间孔椎间融合术治疗腰椎退变性疾病的临床研究",
+          "htmlTitle": "经椎间孔椎间融合术治疗腰椎退变性疾病的临床研究",
+          "link": "http://www.spinejournal.net/ch/reader/download_pdf_file.aspx?journal_id=jss&file_name=A8D77C701D04C8818330CA0E26014BB24D8ACEAA8D067C4249494E3E40D08708A8BF38C6A07F9E2C44FCD91C33A5F9E2&open_type=self&file_no=20090306",
+          "displayLink": "www.spinejournal.net",
+          "snippet": "治疗下腰段退变性疾病患者圆远例袁其中男员苑例袁女. 窑. 远源. 员. 窑. 摇脊柱外科杂志袁圆园园怨年远月袁第苑卷第猿期摇允杂责蚤灶葬造杂怎则早袁允怎灶藻圆园园怨袁灾燥 ...",
+          "htmlSnippet": "治疗下腰段退变性疾病患者圆远例袁其中男员苑例袁女. 窑. 远源. 员. 窑. 摇脊柱外科杂志袁圆园园怨年远月袁第苑卷第猿期摇允杂责蚤灶葬造杂怎则早袁允怎灶藻圆园园怨袁灾燥&nbsp;...",
+          "formattedUrl": "http://www.spinejournal.net/ch/.../download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.spinejournal.net/ch/.../download_pdf_file.aspx?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-3-I3cd5qJe3VceOYJj5dXwd2DbmPXy28-5sGe10kUEcgNPGtnhcyw&s",
+                "width": "397",
+                "height": "127"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140310094520+08'00'",
+                "creationdate": "D:20140310093947+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<D5FDCEC42E6D7073>"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c9e90a2a42459fddb099f2a8da633af579a06c1c9ca08834b35ade9d7ea05df3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "P200 说明书-new",
+          "htmlTitle": "P200 说明书-new",
+          "link": "http://maiyuetech.com/img01/P200%20manual.pdf",
+          "displayLink": "maiyuetech.com",
+          "snippet": "循环切换\"女变男\",. \"男变女\",\"娃娃音\",\"电音\", 黄色显示为对应功能打开. \"爆音\"模式，松开按键回到正常状态;. \"闪避/静音\". \"变声/电音\"模式为互斥，按下可进入对应模式 ...",
+          "htmlSnippet": "循环切换&quot;女变男&quot;,. &quot;<b>男变女</b>&quot;,&quot;娃娃音&quot;,&quot;电音&quot;, 黄色显示为对应功能打开. &quot;爆音&quot;模式，松开按键回到正常状态;. &quot;闪避/静音&quot;. &quot;变声/电音&quot;模式为互斥，按下可进入对应模式&nbsp;...",
+          "formattedUrl": "http://maiyuetech.com/img01/P200%20manual.pdf",
+          "htmlFormattedUrl": "http://maiyuetech.com/img01/P200%20manual.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20170703102910Z",
+                "creationdate": "D:20170703102910Z",
+                "creator": "CorelDRAW",
+                "author": "ThinkPad",
+                "producer": "Corel PDF Engine Version 14.0.0.653",
+                "title": "P200 说明书-new"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "锌盐治疗肝豆状核变性的远期随访报告",
+          "htmlTitle": "锌盐治疗肝豆状核变性的远期随访报告",
+          "link": "http://www.zgddek.com/EN/article/downloadArticleFile.do?attachType=PDF&id=11836",
+          "displayLink": "www.zgddek.com",
+          "snippet": "Jun 3, 2000 ... ... 变性患儿中坚持治疗和随. 访的病例,其中男11 例,女7 例,发病年龄(7～15). 岁,其中≤10 岁12 例。病程为半个月至两年。 病例选择标准为:有肝豆状核变性的临床 ...",
+          "htmlSnippet": "Jun 3, 2000 <b>...</b> ... 变性患儿中坚持治疗和随. 访的病例,其中男11 例,女7 例,发病年龄(7～15). 岁,其中≤10 岁12 例。病程为半个月至两年。 病例选择标准为:有肝豆状核变性的临床&nbsp;...",
+          "formattedUrl": "http://www.zgddek.com/EN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://www.zgddek.com/EN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYD35g_WjzXefv8PUqY5OViySOq47GKpdnIZqNg_cFeJEgUYZk_vLzJ_ga&s",
+                "width": "186",
+                "height": "271"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:00000000000000Z",
+                "creator": "TTOD CAJ2PDF",
+                "creationdate": "D:20040528095528Z",
+                "author": "TTOD Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ff06b7ca5df811ec45052333162dd11670fbf071ab2b04d0fdf7c30bf13cd4fb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "细胞周期Ｇ２／Ｍ期调控与神经变性疾病",
+          "htmlTitle": "细胞周期Ｇ２／Ｍ期调控与神经变性疾病",
+          "link": "http://www.jinn.org.cn/gjsjbxsjwkxzz/article/pdf/2018-3-320?file_name=93B673825CB846457E40B1270DFB3F1FD93125EC9C61DC08DE5B8FF246E2A276B53715B8956738A3096276925F55A26ECFBAD23CDE8321DBFBFB9F6C55E28E768F72092778258733&open_type=self",
+          "displayLink": "www.jinn.org.cn",
+          "snippet": "通信作者：王洪财（1982r），男，医学博士，主治医师，主要从事帕金森病及神经变性疾病发病机制的研究。Email：whc2891@126.com。 细胞周期G2／M期调控与神经变性疾病. 侯一玮综述 ...",
+          "htmlSnippet": "通信作者：王洪财（1982r），男，医学博士，主治医师，主要从事帕金森病及神经变性疾病发病机制的研究。Email：whc2891@126.com。 细胞周期G2／M期调控与神经变性疾病. 侯一玮综述&nbsp;...",
+          "formattedUrl": "http://www.jinn.org.cn/gjsjbxsjwkxzz/article/pdf/2018-3-320?file...",
+          "htmlFormattedUrl": "http://www.jinn.org.cn/gjsjbxsjwkxzz/article/pdf/2018-3-320?file...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20180725115402+08'00'",
+                "creationdate": "D:20180725115351+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "施图伦滴眼液对黄斑变性的疗效观察",
+          "htmlTitle": "施图伦滴眼液对黄斑变性的疗效观察",
+          "link": "http://yxsj.smmu.edu.cn/fileYXSJZZ/journal/article/yxsjzz/2001/3/PDF/20010304.pdf",
+          "displayLink": "yxsj.smmu.edu.cn",
+          "snippet": "女. 45. 右. 右眼黑影2 月. 02/ 15. 有渗出中心凹. AMD. 08/ 15. 光反射恢复. 反射消失可见玻璃膜疣. 刘XX. 男. 64. 左. 左眼黑影4 月. 15/ 02. 左眼黄斑有黄色渗出及色素 ...",
+          "htmlSnippet": "女. 45. 右. 右眼黑影2 月. 02/ 15. 有渗出中心凹. AMD. 08/ 15. 光反射恢复. 反射消失可见玻璃膜疣. 刘XX. 男. 64. 左. 左眼黑影4 月. 15/ 02. 左眼黄斑有黄色渗出及色素&nbsp;...",
+          "formattedUrl": "http://yxsj.smmu.edu.cn/fileYXSJZZ/journal/article/yxsjzz/.../20010304.pdf",
+          "htmlFormattedUrl": "http://yxsj.smmu.edu.cn/fileYXSJZZ/journal/article/yxsjzz/.../20010304.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20120105134035+08'00'",
+                "creationdate": "D:20111227100107Z",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3724",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3724)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "峡部裂性与退变性腰椎滑脱ＭＳＣＴ 扫描解剖学因素的对照研究",
+          "htmlTitle": "峡部裂性与退变性腰椎滑脱ＭＳＣＴ 扫描解剖学因素的对照研究",
+          "link": "https://qks.ncu.edu.cn/Jwk_xbyxb/CN/article/downloadArticleFile.do?attachType=PDF&id=34999",
+          "displayLink": "qks.ncu.edu.cn",
+          "snippet": "收稿日期：2015－01－20. 基金项目：唐山市科学技术与发展研究指令性课题（12140209A－34）. 作者简介：王志军（1974—），男，学士，主治医师，主要从事影像诊断学的研究。 峡部裂性与退 ...",
+          "htmlSnippet": "收稿日期：2015－01－20. 基金项目：唐山市科学技术与发展研究指令性课题（12140209A－34）. 作者简介：王志军（1974—），男，学士，主治医师，主要从事影像诊断学的研究。 峡部裂性与退&nbsp;...",
+          "formattedUrl": "https://qks.ncu.edu.cn/Jwk_xbyxb/CN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://qks.ncu.edu.cn/Jwk_xbyxb/CN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz74cZkYql01sYc4ZBzwrV5jMYH6ZK6QqI4N9BYR3S8KcP2raBIH9guSZq&s",
+                "width": "288",
+                "height": "175"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20150818032448-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6031e192e1ac98e0d4e38ec125928471a58082b17407e6468fac2fa07287e8fa"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "我国女性科研人员发展现状、挑战及政策演变",
+          "htmlTitle": "我国女性科研人员发展现状、挑战及政策演变",
+          "link": "https://www.nsfc.gov.cn/csc/20345/20348/pdf/2018/201806622.pdf",
+          "displayLink": "www.nsfc.gov.cn",
+          "snippet": "尽管中国社会早已进入倡导两性平等的现代社. 会,但“男主外,女主内”的传统思想依然影响女性的 ... 变. 迁．北京:中国科学技术出版社,2016． [3] 中国两院院士分析 ...",
+          "htmlSnippet": "尽管中国社会早已进入倡导两性平等的现代社. 会,但“男主外,女主内”的传统思想依然影响女性的 ... 变. 迁．北京:中国科学技术出版社,2016． [3] 中国两院院士分析&nbsp;...",
+          "formattedUrl": "https://www.nsfc.gov.cn/csc/20345/20348/pdf/2018/201806622.pdf",
+          "htmlFormattedUrl": "https://www.nsfc.gov.cn/csc/20345/20348/pdf/2018/201806622.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6l0CLQSCdQxUEvfHLZgxZdSkGN9WS3yLjHFXTuKXySMOdwFg73661HNg&s",
+                "width": "190",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190827150921+08'00'",
+                "creationdate": "D:20181127142314+08'00'",
+                "creator": "创建者&#x08;䐉",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0c06e619a109429e852a3ae92a5151516946ba2916e3d6d6c4a6243a673e7439"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:16"
+  },
+  {
+    "page": 4,
+    "start_index": 31,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.153722,
+        "formattedSearchTime": "0.15",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "免疫球蛋白轻链型心肌淀粉样变性临床分析",
+          "htmlTitle": "免疫球蛋白轻链型心肌淀粉样变性临床分析",
+          "link": "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType=PDF&id=4749",
+          "displayLink": "www.chinagp.net",
+          "snippet": "2.1 一般资料43 例中男32 例（74.4%）、女11 例（25.6%），. 平均发病年龄（59±10 ... 变患者占44%）［18］。本组患者出现的假性病理性Q 波分别. 位于前间隔（9 例 ...",
+          "htmlSnippet": "2.1 一般资料43 例中男32 例（74.4%）、女11 例（25.6%），. 平均发病年龄（59±10 ... 变患者占44%）［18］。本组患者出现的假性病理性Q 波分别. 位于前间隔（9 例&nbsp;...",
+          "formattedUrl": "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnIAm7qbyROl5QB-yKXev9a0cajdUSILkQ14kXCHjb8IEf9RYuYT4VYMv&s",
+                "width": "252",
+                "height": "200"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200608162119+08'00'",
+                "creationdate": "D:20200608162116+08'00'",
+                "creator": "Adobe Photoshop CS6 (Windows)",
+                "author": "Administrator",
+                "producer": "Adobe Photoshop for Windows -- Image Conversion Plug-in"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0df45ba8aed3399e6181ca7508dc97b672966094e9763bdce318904e2887d677"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "话语竞争与性别平等理念的传播",
+          "htmlTitle": "话语竞争与性别平等理念的传播",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20181026/20181026093824_7629.pdf",
+          "displayLink": "www.shehui.pku.edu.cn",
+          "snippet": "Oct 25, 2018 ... 金星的男变女身树立了反传统的、去性别的. 形象，这些都是令人鼓舞的事。 最后，我建议将“女权主义”（feminism）一词改. 为“男女平权主义”，这 ...",
+          "htmlSnippet": "Oct 25, 2018 <b>...</b> 金星的<b>男变女</b>身树立了反传统的、去性别的. 形象，这些都是令人鼓舞的事。 最后，我建议将“女权主义”（feminism）一词改. 为“男女平权主义”，这&nbsp;...",
+          "formattedUrl": "http://www.shehui.pku.edu.cn/upload/editor/.../20181026093824_7629.pd...",
+          "htmlFormattedUrl": "http://www.shehui.pku.edu.cn/upload/editor/.../20181026093824_7629.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20180622153159+08'00'",
+                "creationdate": "D:20150626123944-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "退变性与峡部裂性腰椎滑脱患者脊柱—骨盆矢状面参数的对比研究",
+          "htmlTitle": "退变性与峡部裂性腰椎滑脱患者脊柱—骨盆矢状面参数的对比研究",
+          "link": "https://xb.xzhmu.edu.cn/cn/article/pdf/preview/10.3969/j.issn.2096-3882.2023.07.001.pdf",
+          "displayLink": "xb.xzhmu.edu.cn",
+          "snippet": "变性腰椎滑脱患者设为退变组(n= 37),峡部裂性腰椎滑脱患者设为峡部裂组(n= 43) ... 见表1。 表1 3 组基线资料比较. 组别 n. 性别(男/ 女,例). 年龄(岁). BMI(kg/ m2 ).",
+          "htmlSnippet": "变性腰椎滑脱患者设为退变组(n= 37),峡部裂性腰椎滑脱患者设为峡部裂组(n= 43) ... 见表1。 表1 3 组基线资料比较. 组别 n. 性别(男/ 女,例). 年龄(岁). BMI(kg/ m2 ).",
+          "formattedUrl": "https://xb.xzhmu.edu.cn/cn/article/pdf/.../j.issn.2096-3882.2023.07.001.pdf",
+          "htmlFormattedUrl": "https://xb.xzhmu.edu.cn/cn/article/pdf/.../j.issn.2096-3882.2023.07.001.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCb7IBCeldZCuueY4bhQUUyCqf9sKamS5ETwCePb4H_LXa-M-Dq1QLLTL&s",
+                "width": "206",
+                "height": "244"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231205092527+08'00'",
+                "creationdate": "D:20231205092526+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4e9264939915a7da4b9a20a622ff51d31895d21758f46aafbc04d22e01ca163f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "大慈大悲观世音——民众的佛教想象葛兆光引子：大慈大悲与 ...",
+          "htmlTitle": "大慈大悲观世音——民众的佛教想象葛兆光引子：大慈大悲与 ...",
+          "link": "http://www.pacilution.com/UploadFile/20230518/16844165906085951.pdf",
+          "displayLink": "www.pacilution.com",
+          "snippet": "May 18, 2023 ... 这还要从历史讲起，. 其实，关于观世音菩萨的历史故事很多，里面的问题也很多。比如，为什么他在印度本是男. 身，到中国变了女身，这里面有什么奥秘？他是怎样和 ...",
+          "htmlSnippet": "May 18, 2023 <b>...</b> 这还要从历史讲起，. 其实，关于观世音菩萨的历史故事很多，里面的问题也很多。比如，为什么他在印度本是男. 身，到中国变了女身，这里面有什么奥秘？他是怎样和&nbsp;...",
+          "formattedUrl": "http://www.pacilution.com/UploadFile/20230518/16844165906085951.pdf",
+          "htmlFormattedUrl": "http://www.pacilution.com/UploadFile/20230518/16844165906085951.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230518211411+08'00'",
+                "creator": "Microsoft® Word 2013",
+                "creationdate": "D:20230518211411+08'00'",
+                "author": "philips",
+                "producer": "Microsoft® Word 2013"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "21 《女人帮》 蒋雯丽“挤掉”邬君梅变女一号",
+          "htmlTitle": "21 《女人帮》 蒋雯丽“挤掉”邬君梅<b>变女</b>一号",
+          "link": "http://epaper.632news.com/xst/page/51/2013-12/12/21/2013121221_pdf.pdf",
+          "displayLink": "epaper.632news.com",
+          "snippet": "Dec 12, 2013 ... 电视剧《回马枪》正在横店热拍，. 该剧由海润影视出品，连奕名导演并. 主演，其中连奕名和邵兵分饰男主角. 胡四郎和龙飞虎。 《回马枪》原名《生死龙城》， ...",
+          "htmlSnippet": "Dec 12, 2013 <b>...</b> 电视剧《回马枪》正在横店热拍，. 该剧由海润影视出品，连奕名导演并. 主演，其中连奕名和邵兵分饰男主角. 胡四郎和龙飞虎。 《回马枪》原名《生死龙城》，&nbsp;...",
+          "formattedUrl": "http://epaper.632news.com/xst/page/51/2013-12/.../2013121221_pdf.pdf",
+          "htmlFormattedUrl": "http://epaper.632news.com/xst/page/51/2013-12/.../2013121221_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmP-yHMsjmj88Yi6bIcC2-Yn9vcFktGTjyzyMvxv-ee9ZaRG0NgM0wgnN&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20131211160910+08'00'",
+                "creationdate": "D:20131211160910+08'00'",
+                "creator": "网络版",
+                "author": "微软中国 Administrator",
+                "subject": "无命题1",
+                "producer": "pdflib",
+                "title": "XST21BXST21C131212"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///cc0193ee45f0a4998ee48c700b25685cd4d9cf868055ff0b6cc15258864a9c50"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "“女生节”高校条幅语言使用的批评话语分析与思考",
+          "htmlTitle": "“女生节”高校条幅语言使用的批评话语分析与思考",
+          "link": "http://www.discourse-studies.com/upload/file/2019/cda100/100.pdf",
+          "displayLink": "www.discourse-studies.com",
+          "snippet": "部位代表女生整体，“烈焰红唇”是性感的代表，其本身也是对女性的刻板印象，似乎如. 此打扮才会变得性感，赢得男性欢心一样。在物化女性的同时，类似这样的条幅也在给.",
+          "htmlSnippet": "部位代表女生整体，“烈焰红唇”是性感的代表，其本身也是对女性的刻板印象，似乎如. 此打扮才会变得性感，赢得<b>男性</b>欢心一样。在物化女性的同时，类似这样的条幅也在给.",
+          "formattedUrl": "http://www.discourse-studies.com/upload/file/2019/cda100/100.pdf",
+          "htmlFormattedUrl": "http://www.discourse-studies.com/upload/file/2019/cda100/100.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20210116221419-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3968",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "网络女性写作的生产与生态",
+          "htmlTitle": "网络女性写作的生产与生态",
+          "link": "http://journal.pku.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=265",
+          "displayLink": "journal.pku.edu.cn",
+          "snippet": "是指女性作者基于女性视点所展开的书写\"表述女性的欲望和诉求\"与保留了基本 ... 身文) 穿越男变女或者女变男*%百合文) 又称V'. 文!女女恋* 等等$ 这些文类早期出现 ...",
+          "htmlSnippet": "是指女性作者基于女性视点所展开的书写&quot;表述女性的欲望和诉求&quot;与保留了基本 ... 身文) 穿越<b>男变女</b>或者女变男*%百合文) 又称V&#39;. 文!女女恋* 等等$ 这些文类早期出现&nbsp;...",
+          "formattedUrl": "http://journal.pku.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://journal.pku.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150417101928+08'00'",
+                "creationdate": "D:20150417101922+08'00'"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "原发系统型间变性大细胞淋巴瘤48例临床特征及预后分析",
+          "htmlTitle": "原发系统型间变性大细胞淋巴瘤48例临床特征及预后分析",
+          "link": "https://lcxy.whuhzzs.com/data/article/lcxy/preview/pdf/lcxyxzz-35-1-52.pdf",
+          "displayLink": "lcxy.whuhzzs.com",
+          "snippet": "[关键词] 间变大细胞淋巴瘤;间变性淋巴瘤激酶;化疗;预后因素. DOI:10.13201/j ... 48例患者中男31 例,女17 例,男女比例. 1.82∶1.00;中位发病年龄37(18~79)岁,>60岁.",
+          "htmlSnippet": "[关键词] 间变大细胞淋巴瘤;间变性淋巴瘤激酶;化疗;预后因素. DOI:10.13201/j ... 48例患者中男31 例,女17 例,男女比例. 1.82∶1.00;中位发病年龄37(18~79)岁,&gt;60岁.",
+          "formattedUrl": "https://lcxy.whuhzzs.com/data/article/lcxy/preview/.../lcxyxzz-35-1-52.pdf",
+          "htmlFormattedUrl": "https://lcxy.whuhzzs.com/data/article/lcxy/preview/.../lcxyxzz-35-1-52.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUF5DUPfqSe8uHGG-OztANRZqIdT_B09rl5I-MzayGtU3qEVtsUeQW3g0&s",
+                "width": "273",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "(D:20211220105701+08'00')",
+                "creationdate": "(D:20211220105701+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d971d9bc8987f671ec693c643381388b0b55bd40fa7adf2ea9191b58fc588225"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家限制类技术目录（2022 年版）",
+          "htmlTitle": "国家限制类技术目录（2022 年版）",
+          "link": "https://cdn045.yun-img.com/static/upload/bjtcma/news/20220708121231_30717.pdf",
+          "displayLink": "cdn045.yun-img.com",
+          "snippet": "“64.5x00x001 变性手术(男变女)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64.000x001 易性症,女转男；F64.000x002 易性症,男转女）. 识别 ...",
+          "htmlSnippet": "“64.5x00x001 变性手术(<b>男变女</b>)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64.000x001 易性症,女转男；F64.000x002 易性症,男转女）. 识别&nbsp;...",
+          "formattedUrl": "https://cdn045.yun-img.com/static/upload/.../20220708121231_30717.pdf",
+          "htmlFormattedUrl": "https://cdn045.yun-img.com/static/upload/.../20220708121231_30717.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220419092517+01'25'",
+                "creationdate": "D:20220419092517+01'25'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220419092517+01'25'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "经阴道彩色多普勒在子宫肌瘤变性诊断中的价值",
+          "htmlTitle": "经阴道彩色多普勒在子宫肌瘤变性诊断中的价值",
+          "link": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?journal_id=cjmit&file_name=8101D5DAB1C08948522C3F3A04C8705E4CC254E004A3A1F2958392D32EF43C99DFDB9CFC7F139DB91CD85B717318AA55EE4A67684738038404AD611B20664C08&open_type=self&file_no=20010748",
+          "displayLink": "www.cjmit.com",
+          "snippet": "[作者简介]胡献金(1965-),男,安徽无为人,学士,主治医师。 [收稿日期]2001-03-15. TheDiagnostcValueofTransvaginalColourDopplerinDenaturedUterineMyoma. HUXian-jin.",
+          "htmlSnippet": "[作者简介]胡献金(1965-),男,安徽无为人,学士,主治医师。 [收稿日期]2001-03-15. TheDiagnostcValueofTransvaginalColourDopplerinDenaturedUterineMyoma. HUXian-jin.",
+          "formattedUrl": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20100916122747+08'00'",
+                "creationdate": "D:20100916122745+08'00'",
+                "creator": "创建者",
+                "subject": "科目",
+                "author": "作者",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:18"
+  },
+  {
+    "page": 5,
+    "start_index": 41,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.181776,
+        "formattedSearchTime": "0.18",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "深圳地区的变应性鼻炎患者吸入性变应原分布特点及结果分析∗",
+          "htmlTitle": "深圳地区的变应性鼻炎患者吸入性变应原分布特点及结果分析∗",
+          "link": "https://en.whuhzzs.com/data/article/lceh/preview/pdf/lcebyhtjwkzz-36-6-467.pdf",
+          "displayLink": "en.whuhzzs.com",
+          "snippet": "者3351例,其中男1964例,女1387例;年龄1~87. 岁,平均(19.89±15.09)岁。所有患者均在 ... 男性变应原的. 检出率高于女性,但除户尘螨和粉尘螨男女变应原. 的检出率差异 ...",
+          "htmlSnippet": "者3351例,其中男1964例,女1387例;年龄1~87. 岁,平均(19.89±15.09)岁。所有患者均在 ... <b>男性变</b>应原的. 检出率高于女性,但除户尘螨和粉尘螨男女变应原. 的检出率差异&nbsp;...",
+          "formattedUrl": "https://en.whuhzzs.com/data/article/lceh/.../pdf/lcebyhtjwkzz-36-6-467.pdf",
+          "htmlFormattedUrl": "https://en.whuhzzs.com/data/article/lceh/.../pdf/lcebyhtjwkzz-36-6-467.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC6iWyacxWFtbd51dia5VtTDQ8e-hHPN0aYg0bCDAF3HxHOako2v6R_sON&s",
+                "width": "309",
+                "height": "163"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220530233602+08'00'",
+                "creationdate": "D:20220530233559+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///68dbfca5715608b178a67595bb2ed4c5608220d735776d51af04373af8695d86"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "62 例心肌淀粉样变性患者的临床特点及预后分析",
+          "htmlTitle": "62 例心肌淀粉样变性患者的临床特点及预后分析",
+          "link": "https://xuebao.301hospital.com.cn/cn/article/pdf/preview/10.3969/j.issn.2095-5227.2013.03.004.pdf",
+          "displayLink": "xuebao.301hospital.com.cn",
+          "snippet": "Oct 22, 2012 ... P ＜ 0.05. 为差异有统计学意义。 结果. 1 一般资料62 例中男39 例，女23 例，平均年. 龄(56±13) 岁。54.83% 患者入院NYHA 分级为. Ⅲ / Ⅳ，入院时BNP ...",
+          "htmlSnippet": "Oct 22, 2012 <b>...</b> P ＜ 0.05. 为差异有统计学意义。 结果. 1 一般资料62 例中男39 例，女23 例，平均年. 龄(56±13) 岁。54.83% 患者入院NYHA 分级为. Ⅲ / Ⅳ，入院时BNP&nbsp;...",
+          "formattedUrl": "https://xuebao.301hospital.com.cn/cn/.../j.issn.2095-5227.2013.03.004.pdf",
+          "htmlFormattedUrl": "https://xuebao.301hospital.com.cn/cn/.../j.issn.2095-5227.2013.03.004.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fuRRPcBmmOnspZItFw5Y8WQLtXPctkmjNG6DFLaDFbIt_7FFF2WhSWit&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20130315113218+08'00'",
+                "creationdate": "D:20130315113218+08'00'",
+                "creator": "Adobe InDesign CS3 (5.0)",
+                "producer": "Adobe PDF Library 8.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ed61b3fca7cab6cf3704f5463b36a38f649955f94880486fa7f54841ec91c66d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "前交叉韧带黏液样变性的MRI表现和伴随征象",
+          "htmlTitle": "前交叉韧带黏液样变性的MRI表现和伴随征象",
+          "link": "https://www.med-sci.cn/cgzcx/article/cjmri-201402/1674-8034-14-02-007s.pdf",
+          "displayLink": "www.med-sci.cn",
+          "snippet": "叉韧带黏液样变性，平均年龄为40岁(最小年龄17. 岁，最大年龄66岁)，女20例，男14例，左膝21. 例，右膝13例。纳入标准：符合前交叉韧带黏液. 样变性和腱鞘囊肿诊断条件的病例。",
+          "htmlSnippet": "叉韧带黏液样变性，平均年龄为40岁(最小年龄17. 岁，最大年龄66岁)，女20例，男14例，左膝21. 例，右膝13例。纳入标准：符合前交叉韧带黏液. 样变性和腱鞘囊肿诊断条件的病例。",
+          "formattedUrl": "https://www.med-sci.cn/cgzcx/article/cjmri.../1674-8034-14-02-007s.pdf",
+          "htmlFormattedUrl": "https://www.med-sci.cn/cgzcx/article/cjmri.../1674-8034-14-02-007s.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYB7XWIUDrwciLOhMkfXYKK7fxtP06u_X284GoiDLDh_3T-cP9cRiCQ5Qd&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200824185807+08'00'",
+                "creationdate": "D:20140321135228+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0.2)",
+                "producer": "Adobe PDF Library 9.9; modified using iTextSharp 5.0.5 (c) 1T3XT BVBA"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c448aa1c4928b68fee758ea953578e2d0d376676a47ad1bd1c05dfb41f3bab44"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "变身型男的几个小技巧",
+          "htmlTitle": "变身型男的几个小技巧",
+          "link": "https://epaper.zjgrrb.com/images/2017-01/11/z2017011100003.pdf",
+          "displayLink": "epaper.zjgrrb.com",
+          "snippet": "Jan 11, 2017 ... 巴黎时装名家圣罗兰推出的锦. 缎靴、各色衬短裙的金靴、配斗牛式服的蓝靴，为. 女子穿靴的风格和方式带来一股新风。 靴子搭配不同质料的长袜，已成为一种新 ...",
+          "htmlSnippet": "Jan 11, 2017 <b>...</b> 巴黎时装名家圣罗兰推出的锦. 缎靴、各色衬短裙的金靴、配斗牛式服的蓝靴，为. 女子穿靴的风格和方式带来一股新风。 靴子搭配不同质料的长袜，已成为一种新&nbsp;...",
+          "formattedUrl": "https://epaper.zjgrrb.com/images/2017-01/11/z2017011100003.pdf",
+          "htmlFormattedUrl": "https://epaper.zjgrrb.com/images/2017-01/11/z2017011100003.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5kpakum7DFXSkSCkwuiE1scL54Z18ijXYYxIA-dZ4RHLwnHSIMZ-Adc&s",
+                "width": "264",
+                "height": "191"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20170110214928+08'00'",
+                "creationdate": "D:20170110214928+08'00'",
+                "creator": "网络版",
+                "subject": "gr8102",
+                "author": "Administrator",
+                "producer": "pdflib",
+                "title": "gr9311"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///121ac7547f1ed90b8085b86012998b34ff4eaa1448d51790045acab021e9d1fe"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "22年的悬案破了！",
+          "htmlTitle": "22年的悬案破了！",
+          "link": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "displayLink": "zjfzb.zjol.com.cn",
+          "snippet": "Aug 30, 2018 ... 从. 网上，他得知，像他这样身为男生却想变为. 女生的人，被称为“跨性别者”。他还从网. 上得知，要从男性变为女性，可以先通过吃. 药来一点点改变。 读高 ...",
+          "htmlSnippet": "Aug 30, 2018 <b>...</b> 从. 网上，他得知，像他这样身为男生却想变为. 女生的人，被称为“跨性别者”。他还从网. 上得知，要从<b>男性变</b>为女性，可以先通过吃. 药来一点点改变。 读高&nbsp;...",
+          "formattedUrl": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "htmlFormattedUrl": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUxDtxrOm83mIa3Qfjp7hqtqDTZAm_ModNEhRhdB4M2ByGwRqIJXw2L0&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180829191854+08'00'",
+                "creationdate": "D:20180829191854+08'00'",
+                "creator": "网络版",
+                "subject": "FZ1",
+                "author": "Microsoft fzbzper",
+                "producer": "pdflib",
+                "title": "zjfz20180830f01616版"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b9c02544c25e66b49531cee3ba92279354828f349032075950da72e38231901"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "“他”与“她”：《丹麦女孩》的性别角色塑造",
+          "htmlTitle": "“他”与“她”：《丹麦女孩》的性别角色塑造",
+          "link": "https://www.sinoss.net/uploadfile/2017/0929/20170929121247284.pdf",
+          "displayLink": "www.sinoss.net",
+          "snippet": "Sep 29, 2017 ... 《丹麦女孩》改编自美国同名小说，其故事来源于丹麦画家埃纳尔·韦格纳的真实经历。 电影讲述的是一个男主角艾纳在他妻子格尔达的帮助下，实现从男性变成女性 ...",
+          "htmlSnippet": "Sep 29, 2017 <b>...</b> 《丹麦女孩》改编自美国同名小说，其故事来源于丹麦画家埃纳尔·韦格纳的真实经历。 电影讲述的是一个男主角艾纳在他妻子格尔达的帮助下，实现从<b>男性变</b>成女性&nbsp;...",
+          "formattedUrl": "https://www.sinoss.net/uploadfile/2017/0929/20170929121247284.pdf",
+          "htmlFormattedUrl": "https://www.sinoss.net/uploadfile/2017/0929/20170929121247284.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20170929001445+16'14'",
+                "creationdate": "D:20170929001445+16'14'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20170929001445+16'14'",
+                "author": "SINOSS",
+                "title": "社科网－论文在线"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "三维斑点追踪成像在诊断AL淀粉样变性病人心脏受累中的价值姬后亮 ...",
+          "htmlTitle": "三维斑点追踪成像在诊断AL淀粉样变性病人心脏受累中的价值姬后亮 ...",
+          "link": "https://xuebao.bbmu.edu.cn/cn/article/pdf/preview/10.13898/j.cnki.issn.1000-2200.2022.06.024.pdf",
+          "displayLink": "xuebao.bbmu.edu.cn",
+          "snippet": "病人中,男45 例,女35 例;年龄34 ~ 78 岁,平均. (58. 17 依9. 27) 岁。 按照心脏受累标准[6] ,分成心. 脏未受累组(A 组)35 例和心脏受累组(B 组)45. 例。 本研究已经获得院 ...",
+          "htmlSnippet": "病人中,男45 例,女35 例;年龄34 ~ 78 岁,平均. (58. 17 依9. 27) 岁。 按照心脏受累标准[6] ,分成心. 脏未受累组(A 组)35 例和心脏受累组(B 组)45. 例。 本研究已经获得院&nbsp;...",
+          "formattedUrl": "https://xuebao.bbmu.edu.cn/cn/.../j.cnki.issn.1000-2200.2022.06.024.pdf",
+          "htmlFormattedUrl": "https://xuebao.bbmu.edu.cn/cn/.../j.cnki.issn.1000-2200.2022.06.024.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBhTHEiY6HvAQ9-4fDeU0AwOs8Z925IsHw02m-vwQIfcXVGU3U0m19qt8&s",
+                "width": "281",
+                "height": "179"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220711144811+08'00'",
+                "creationdate": "D:20220711143139+08'00'",
+                "producer": "iText® 5.5.11 ©2000-2017 iText Group NV (AGPL-version)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///437f66a2228a76e962672f61fdaf4c011db68d7456e0b9e00a40b4c67199ec42"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "男男性行为人群预防艾滋病干预",
+          "htmlTitle": "男<b>男性</b>行为人群预防艾滋病干预",
+          "link": "https://www.chinaaids.cn/xwgy/jswj3/201609/W020160913346815395954.pdf",
+          "displayLink": "www.chinaaids.cn",
+          "snippet": "Sep 12, 2016 ... 英文为Lesbian，女性同性恋者的俗称. 直男. 指异性恋者. 跨性别者. 英文为Transgender，指生理性别与自我认同性别不一致者。通. 常以男变女居多，也有女变男 ...",
+          "htmlSnippet": "Sep 12, 2016 <b>...</b> 英文为Lesbian，女性同性恋者的俗称. 直男. 指异性恋者. 跨性别者. 英文为Transgender，指生理性别与自我认同性别不一致者。通. 常以<b>男变女</b>居多，也有女变男&nbsp;...",
+          "formattedUrl": "https://www.chinaaids.cn/xwgy/jswj3/.../W020160913346815395954.pdf",
+          "htmlFormattedUrl": "https://www.chinaaids.cn/xwgy/jswj3/.../W020160913346815395954.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160727142422+08'00'",
+                "creationdate": "D:20160727142418+08'00'",
+                "creator": "Adobe InDesign CS5.5 (7.5)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "第四人民医院健康体检套餐",
+          "htmlTitle": "第四人民医院健康体检套餐",
+          "link": "https://www.sh4th.com/upload/doc/201906/12113724.pdf",
+          "displayLink": "www.sh4th.com",
+          "snippet": "乳腺(女)、前列腺（男）、肛门情况. 15. 眼科. 了解眼底、外眼等情况. 15. 耳鼻喉科 ... 变、妊娠女性等. 32. △. ☆. ◇. □. 肿瘤标志物六. 项--SCC. 又称鳞状细胞癌相关抗原 ...",
+          "htmlSnippet": "乳腺(女)、前列腺（男）、肛门情况. 15. 眼科. 了解眼底、外眼等情况. 15. 耳鼻喉科 ... 变、妊娠女性等. 32. △. ☆. ◇. □. 肿瘤标志物六. 项--SCC. 又称鳞状细胞癌相关抗原&nbsp;...",
+          "formattedUrl": "https://www.sh4th.com/upload/doc/201906/12113724.pdf",
+          "htmlFormattedUrl": "https://www.sh4th.com/upload/doc/201906/12113724.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFTTNiFho3HVHbeKMlL7SLHhD6pIDbjNMheWYodcDpeTJ_0fD5zOvC38&s",
+                "width": "178",
+                "height": "178"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190510113139+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20190510113139+08'00'",
+                "author": "hp",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7a44bb4e647d4a51e730c4d4ba47978b15cffbb7b34e39e55679623c137b5fc0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "环境关心的性别差异分析*",
+          "htmlTitle": "环境关心的性别差异分析*",
+          "link": "http://ces.ruc.edu.cn/upfile/image/1375085829_754.pdf",
+          "displayLink": "ces.ruc.edu.cn",
+          "snippet": "态度、环保行为相关的研究文献, 明确指出: 与早期研究中很不一致的. 观点相比, 关于性别与环境关心之关系的观点已经变得更为清晰了, 这. 就是女性比男性具有更强的环境关心 ...",
+          "htmlSnippet": "态度、环保行为相关的研究文献, 明确指出: 与早期研究中很不一致的. 观点相比, 关于性别与环境关心之关系的观点已经变得更为清晰了, 这. 就是女性比<b>男性</b>具有更强的环境关心&nbsp;...",
+          "formattedUrl": "http://ces.ruc.edu.cn/upfile/image/1375085829_754.pdf",
+          "htmlFormattedUrl": "http://ces.ruc.edu.cn/upfile/image/1375085829_754.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqNOIz8km-bYz84x8nMsBrTdeS7aAYF5FIlJZt71obzjrlcJxi_Fh5A4&s",
+                "width": "169",
+                "height": "298"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20120924034945",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3809",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3809)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9a3917b3a6daa930d2c740ddd4213e70c2f4f6a57284eac8759ad6252584cf56"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:20"
+  },
+  {
+    "page": 6,
+    "start_index": 51,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.173811,
+        "formattedSearchTime": "0.17",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "型男理容记",
+          "htmlTitle": "型男理容记",
+          "link": "http://app.why.com.cn/epaper/webpc/shzk/images/2018-12/04/A18/20181204A18_pdf.pdf",
+          "displayLink": "app.why.com.cn",
+          "snippet": "比如，“女性用的护肤品里有雌激素，男生用了. 之后会变娘，所以要用男士专用的产品”“男女皮脂腺分泌量不同，女性护肤品用了之后. 反而会长痘痘、闭口”……这些似是而非的 ...",
+          "htmlSnippet": "比如，“女性用的护肤品里有雌激素，男生用了. 之后会变娘，所以要用男士专用的产品”“男女皮脂腺分泌量不同，女性护肤品用了之后. 反而会长痘痘、闭口”……这些似是而非的&nbsp;...",
+          "formattedUrl": "http://app.why.com.cn/epaper/webpc/shzk/...12/.../20181204A18_pdf.pdf",
+          "htmlFormattedUrl": "http://app.why.com.cn/epaper/webpc/shzk/...12/.../20181204A18_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IERcOdx4NITJQWecn7ctQ_a7Biqj4HpcO--TkAE-xRb7RVI90WfsPPlw&s",
+                "width": "229",
+                "height": "220"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181204125104+08'00'",
+                "creationdate": "D:20181204125058+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///77a2f0e5320357696af226c58ae152b105f97cf65eb7559c44466d0052d842a0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国居民1990 — 2019 年白血病疾病负担趋势分析*",
+          "htmlTitle": "中国居民1990 — 2019 年白血病疾病负担趋势分析*",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1135530.pdf",
+          "displayLink": "www.zgggws.com",
+          "snippet": "通. 过组间比较，结果均显示P < 0.05，1990 — 2019 年. 我国白血病死亡率总体、男性、女性之间的趋势变. 化差异具有统计学意义。 表 5 1990 — 2019 年我国白血病标化DALY ...",
+          "htmlSnippet": "通. 过组间比较，结果均显示P &lt; 0.05，1990 — 2019 年. 我国白血病死亡率总体、<b>男性</b>、女性之间的趋势变. 化差异具有统计学意义。 表 5 1990 — 2019 年我国白血病标化DALY&nbsp;...",
+          "formattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1135530.pdf",
+          "htmlFormattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1135530.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDlz-G7T_CVBI4NAJGZ-fkWegu0LSz6BXNJEM-rRsSmEDokzmIRYBLenfl&s",
+                "width": "298",
+                "height": "169"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220520091008+08'00'",
+                "creationdate": "D:20220520091008+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fb0c011d9e1335ff72be48f8c5f5642e6c6f85c9ff34a50d278c14102cf43e74"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "售电公司备案公示信息",
+          "htmlTitle": "售电公司备案公示信息",
+          "link": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/glfw/gsgg/201708/P020220825336297332113.pdf",
+          "displayLink": "gxt.nx.gov.cn",
+          "snippet": "主变容. 量. （MVA）. 自有输. 电线路. （km）. 备注. /. 220. / / / / /. 110. / / / / /. 35 ... 男. 52. 会计师. 会计. 师. 高级. 本科. 会计. 13 年. 2. 李强. 男. 52 高层 ...",
+          "htmlSnippet": "主变容. 量. （MVA）. 自有输. 电线路. （km）. 备注. /. 220. / / / / /. 110. / / / / /. 35 ... 男. 52. 会计师. 会计. 师. 高级. 本科. 会计. 13 年. 2. 李强. 男. 52 高层&nbsp;...",
+          "formattedUrl": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/.../P020220825336297332113.pdf",
+          "htmlFormattedUrl": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/.../P020220825336297332113.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0d3X_TQKV2LkyRRBF8Aubh51LYvk5s2oaYqm3tysoxsCLkZK_Ct_TGJvM&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20170815090847+01'08'",
+                "creationdate": "D:20170815090847+01'08'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20170815090847+01'08'",
+                "author": "lenovo"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///69261ab6d4848b8cd50ecd934271206b9098486390efe474929b631e2a21873c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "视网膜变性模型大鼠部分生物学特性分析",
+          "htmlTitle": "视网膜变性模型大鼠部分生物学特性分析",
+          "link": "https://www.slarc.org.cn/dwyx/EN/article/downloadArticleFile.do?attachType=PDF&id=4547",
+          "displayLink": "www.slarc.org.cn",
+          "snippet": "[作者简介] 沈艳(1977-), 女, 硕士, 主要从事动物模型的建立. 及实验研究, E-mail: shenyan@shaphc.org. [通讯作者] 周文江(1963-), 男, 副主任技师, 主要从事实验动. 物 ...",
+          "htmlSnippet": "[作者简介] 沈艳(1977-), 女, 硕士, 主要从事动物模型的建立. 及实验研究, E-mail: shenyan@shaphc.org. [通讯作者] 周文江(1963-), 男, 副主任技师, 主要从事实验动. 物&nbsp;...",
+          "formattedUrl": "https://www.slarc.org.cn/dwyx/EN/article/downloadArticleFile.do?...id...",
+          "htmlFormattedUrl": "https://www.slarc.org.cn/dwyx/EN/article/downloadArticleFile.do?...id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdEzRNkPy8kNpZBa4KERvGl3ia0L-qop8iBtMCQi-1rslKYKwaE6naQjg&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211009084352+08'00'",
+                "creationdate": "D:20211009084153+08'00'",
+                "creator": "Adobe PageMaker 6.5C - [E:\\2011动(3)\\目录.p65]",
+                "author": "Admin",
+                "producer": "Adobe Acrobat 7.0",
+                "title": "E:\\2011动(3)\\目录.p65"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a93c4338bbbc52eb1a20246122c21be7307e518b2267db815bc819b305ad5dbc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "女性主义田野研究的方法学反思",
+          "htmlTitle": "女性主义田野研究的方法学反思",
+          "link": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/2015-08-27/Issue/oeewkyyp.pdf",
+          "displayLink": "shxyj.ajcass.com",
+          "snippet": "又有人误以为女性主义就是把男尊女卑翻倒过来,变成女上男下的女性霸权。但我所理. 解的女性主义, 是两性携手打破僵化性别标签与教条。父权体制其实不是“男压迫女” ,因为男.",
+          "htmlSnippet": "又有人误以为女性主义就是把男尊女卑翻倒过来,变成女上男下的女性霸权。但我所理. 解的女性主义, 是两性携手打破僵化性别标签与教条。父权体制其实不是“男压迫女” ,因为男.",
+          "formattedUrl": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/.../oeewkyyp.pdf",
+          "htmlFormattedUrl": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/.../oeewkyyp.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd98G5YOXiymVIo-D5nx91SvWpKFi27N4oytj6Fbq-jJ_LWngnEJf2jNP1&s",
+                "width": "182",
+                "height": "277"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20150126083806",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3925",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3925)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///76397e77da341966813c4cd76784e67760b9f8ef715492beca5e6f15aa258c2d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "育龄妇女基础信息卡",
+          "htmlTitle": "育龄妇女基础信息卡",
+          "link": "http://app.shandong.gov.cn/attach/2016/19/245-1.pdf",
+          "displayLink": "app.shandong.gov.cn",
+          "snippet": "婚姻变. 动日期. 女方初婚. 日期. 男. 女. 领独生子. 女父母光. 荣证日期. 避孕. 种类. 开始 ... 10、 “性别”，男孩的填“男”，女孩的填“女”。 11、 “是否合法”，合法的填“是 ...",
+          "htmlSnippet": "婚姻变. 动日期. 女方初婚. 日期. 男. 女. 领独生子. 女父母光. 荣证日期. 避孕. 种类. 开始 ... 10、 “性别”，男孩的填“男”，女孩的填“女”。 11、 “是否合法”，合法的填“是&nbsp;...",
+          "formattedUrl": "http://app.shandong.gov.cn/attach/2016/19/245-1.pdf",
+          "htmlFormattedUrl": "http://app.shandong.gov.cn/attach/2016/19/245-1.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160707135353+08'00'",
+                "creationdate": "D:20160707135353+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "jnjn",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<4D6963726F736F667420576F7264202D20C9BDB6ABCAA1D3FDC1E4B8BEC5AED0C5CFA2B9DCC0EDB9E6B7B65FB0ECCEC4B8E55F2E646F63>"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "日本老妇“操控人心”致死十余人",
+          "htmlTitle": "日本老妇“操控人心”致死十余人",
+          "link": "http://epaper.xxcb.cn/xxcba/page/101/2012-11-12/A10/8901352664332765.PDF",
+          "displayLink": "epaper.xxcb.cn",
+          "snippet": "Nov 12, 2012 ... ... 报道. 国产精锐战机. 将亮相珠海航展. 英国广播公司总裁辞职. 变性之后. 的凯蒂·希尔. （右）和阿伦·. 安德鲁斯在一. 起。 资料图片. 男变女. 女变男. 图/ ...",
+          "htmlSnippet": "Nov 12, 2012 <b>...</b> ... 报道. 国产精锐战机. 将亮相珠海航展. 英国广播公司总裁辞职. 变性之后. 的凯蒂·希尔. （右）和阿伦·. 安德鲁斯在一. 起。 资料图片. <b>男变女</b>. 女变男. 图/&nbsp;...",
+          "formattedUrl": "http://epaper.xxcb.cn/xxcba/page/101/2012-11.../8901352664332765.PDF",
+          "htmlFormattedUrl": "http://epaper.xxcb.cn/xxcba/page/101/2012-11.../8901352664332765.PDF",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmck2h8GfBDF2J_VsrThwEx0H2tU8dKPQ6qkyYAvtp2AIDY6LnNVGXTs4&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20121112012603+08'00'",
+                "creationdate": "D:20121112012603+08'00'",
+                "creator": "FantArt",
+                "subject": "Untitiled",
+                "author": "Founder",
+                "producer": "idle",
+                "title": "Untitiled"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b6622714da4735e896b55378607526765fae9cf9b009738a667742cf6794bfac"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "高校扩招对婚姻市场的影响剩女) 剩男)",
+          "htmlTitle": "高校扩招对婚姻市场的影响剩女) 剩男)",
+          "link": "https://nsd.pku.edu.cn/attachments/25c099add54c43e6bf082683cbcc6ed3.pdf",
+          "displayLink": "nsd.pku.edu.cn",
+          "snippet": "... 男##岁#女#$岁%根据中. 国学制#本科生会在##,#;岁毕业#研究生会在#:岁以后毕业 ... 市场上的地位变得不利#那么#男性则因女性供给增加而在婚姻市场上变得. 更有利(所 ...",
+          "htmlSnippet": "... 男##岁#女#$岁%根据中. 国学制#本科生会在##,#;岁毕业#研究生会在#:岁以后毕业 ... 市场上的地位变得不利#那么#<b>男性</b>则因女性供给增加而在婚姻市场上变得. 更有利(所&nbsp;...",
+          "formattedUrl": "https://nsd.pku.edu.cn/.../25c099add54c43e6bf082683cbcc6ed3.pdf",
+          "htmlFormattedUrl": "https://nsd.pku.edu.cn/.../25c099add54c43e6bf082683cbcc6ed3.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJOYWS13ZlYUUSjwWKcaUq_Em4ElCBqiZHc-lraO94HxdaeM7XYdOOgQ&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141125212421+08'00'",
+                "creationdate": "D:20141125212419+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///39c7de4d7a469f99add83a89e1044678cfec883ef32b1cc0fbd7c9d4dbb0e72c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2024年度“变招工为招生”资格审核计划",
+          "htmlTitle": "2024年度“变招工为招生”资格审核计划",
+          "link": "https://www.sdhgjs.com/upload/file/20240720/20240720145749724972.pdf",
+          "displayLink": "www.sdhgjs.com",
+          "snippet": "男. 1715. 本科. 2470. 7月26日. 上午9:00-10:00. 安浩然. 2004/7/27. 女. 3228. 高中. 306. 7月21日. 下午14:30-15:30. 安敬贤. 2004/7/13. 男. 0072.",
+          "htmlSnippet": "男. 1715. 本科. 2470. 7月26日. 上午9:00-10:00. 安浩然. 2004/7/27. 女. 3228. 高中. 306. 7月21日. 下午14:30-15:30. 安敬贤. 2004/7/13. 男. 0072.",
+          "formattedUrl": "https://www.sdhgjs.com/upload/file/.../20240720145749724972.pdf",
+          "htmlFormattedUrl": "https://www.sdhgjs.com/upload/file/.../20240720145749724972.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240720134415+05'44'",
+                "creationdate": "D:20240720134415+05'44'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20240720134415+05'44'",
+                "author": "hua'wei"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://cyzr2020.oss-cn-beijing.aliyuncs.com/%E8%AF%B4%E6%98%8E%E4%B9%A6/ST90%E7%94%B5%E5%AD%90%E7%89%88%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+          "displayLink": "cyzr2020.oss-cn-beijing.aliyuncs.com",
+          "snippet": "男变女:短按切换到男变女变声音效模式;. 娃娃音:短按切换到娃娃音变声音效模式;. 女变男:短按切换到女变男变声音效模式;. Page 5. 按键功能说明. 2.电源键长按2s开机/关机 ...",
+          "htmlSnippet": "<b>男变女</b>:短按切换到<b>男变女</b>变声音效模式;. 娃娃音:短按切换到娃娃音变声音效模式;. 女变男:短按切换到女变男变声音效模式;. Page 5. 按键功能说明. 2.电源键长按2s开机/关机&nbsp;...",
+          "formattedUrl": "https://cyzr2020.oss-cn-beijing.aliyuncs.com/说明书/ST90电子版说明书.pdf",
+          "htmlFormattedUrl": "https://cyzr2020.oss-cn-beijing.aliyuncs.com/说明书/ST90电子版说明书.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfClHu4_mpGkSXD5wfNM62CxMlh43OkpTRKp6VfPGiwVAwuKXWodYNaKy&s",
+                "width": "270",
+                "height": "186"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Aug 25 23:20:10 2022",
+                "creator": "Adobe Illustrator 26.0 (Windows)",
+                "creationdate": "Fri Aug 26 00:20:10 2022",
+                "producer": "Adobe PDF library 16.03"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9110dbeb914a917fec2b6fa12ff8dbfee13d48f74c36d091cb2b4208995cf751"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:26"
+  },
+  {
+    "page": 7,
+    "start_index": 61,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.175417,
+        "formattedSearchTime": "0.18",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "“她经济”视角下解读小妞电影的女性凝视",
+          "htmlTitle": "“她经济”视角下解读小妞电影的女性凝视",
+          "link": "https://sociology.nju.edu.cn/_upload/article/files/bd/c7/0ee811954cbd8eaf159f5dddafc9/cc42ba00-fe65-431f-a6e8-29b65632c107.pdf",
+          "displayLink": "sociology.nju.edu.cn",
+          "snippet": "先的男多女少变为现在的女多男少，年轻都市女性. 已经成为电影产业最看重的受众群体。那么，电影市. 场上的这种“女人说了算”[3]的现象是如何产生的？它. 是否可以被解读为 ...",
+          "htmlSnippet": "先的男多女少变为现在的女多男少，年轻都市女性. 已经成为电影产业最看重的受众群体。那么，电影市. 场上的这种“女人说了算”[3]的现象是如何产生的？它. 是否可以被解读为&nbsp;...",
+          "formattedUrl": "https://sociology.nju.edu.cn/_.../cc42ba00-fe65-431f-a6e8-29b65632c107....",
+          "htmlFormattedUrl": "https://sociology.nju.edu.cn/_.../cc42ba00-fe65-431f-a6e8-29b65632c107....",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20150415193642-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "佛山市中小学生变应性疾病的流行病学调查分析",
+          "htmlTitle": "佛山市中小学生变应性疾病的流行病学调查分析",
+          "link": "https://lceh.whuhzzs.com/data/article/lceh/preview/pdf/20191017.pdf",
+          "displayLink": "lceh.whuhzzs.com",
+          "snippet": "变应性鼻炎,其中男生416例,女生226例,男生患. 病率高于女生(χ2 =29.337,P <0.05);110 例. (2.64%)既往诊断过哮喘,男生64例,女生46例,. 男生患病率高于女生(χ2 =0.457,P> ...",
+          "htmlSnippet": "变应性鼻炎,其中男生416例,女生226例,男生患. 病率高于女生(χ2 =29.337,P &lt;0.05);110 例. (2.64%)既往诊断过哮喘,男生64例,女生46例,. 男生患病率高于女生(χ2 =0.457,P&gt;&nbsp;...",
+          "formattedUrl": "https://lceh.whuhzzs.com/data/article/lceh/preview/pdf/20191017.pdf",
+          "htmlFormattedUrl": "https://lceh.whuhzzs.com/data/article/lceh/preview/pdf/20191017.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnC3OgsbZw6vYiZ63HIsyGOeYNTbODpzkmbogHaBS0zUiqXDDilhT0gb6J&s",
+                "width": "261",
+                "height": "193"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190926112230+08'00'",
+                "creationdate": "D:20190926112226+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f4fda16fd242110ebc00db091fab54a01c94e602c76333a8c5e4f5cd804c6d5a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "脑型肝豆状核变性的CT 诊断",
+          "htmlTitle": "脑型肝豆状核变性的CT 诊断",
+          "link": "https://www.fsxsj.net/ch/reader/download_pdf_file.aspx?journal_id=fsxsjzz&file_name=B3147901C258E490D979EE43861CEE2773CD65F42F800F43CADF50EFB1C6593D36CA80617A37C09607DA8CEE4E29BF62528CE613CDD07A3003A6000DD1AE1A12&open_type=self&file_no=20010110",
+          "displayLink": "www.fsxsj.net",
+          "snippet": "作者单位: 154002. 黑龙江省佳木斯中心医院CT 室( 朗光会) ;. 156500 黑龙江省抚远县人民医院CT 室( 刘君凤、李伟). 作者简介: 郎兆会( 1969~ ) , 男, 黑龙江人, 主治医师, ...",
+          "htmlSnippet": "作者单位: 154002. 黑龙江省佳木斯中心医院CT 室( 朗光会) ;. 156500 黑龙江省抚远县人民医院CT 室( 刘君凤、李伟). 作者简介: 郎兆会( 1969~ ) , 男, 黑龙江人, 主治医师,&nbsp;...",
+          "formattedUrl": "https://www.fsxsj.net/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "https://www.fsxsj.net/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWUrQVh3SEhaVPVR12NqiGhhFBmS6HNnP0KPbb8u9OVxFqpt40_VWzhI&s",
+                "width": "210",
+                "height": "240"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20120413152445",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3781",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3781)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1449f6f962fe95c28ee29e26db84bbcc8ded4d5b45062a79b90b7bb369b70058"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "POEMS 综合征的临床和周围神经病理特点",
+          "htmlTitle": "POEMS 综合征的临床和周围神经病理特点",
+          "link": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.3969/j.issn.1674-9081.2012.03.010.pdf",
+          "displayLink": "xhyxzz.pumch.cn",
+          "snippet": "结果11 例患者中，男8 例，女3 例，年龄40 ～ 64. 岁，病程8 个月～ 8 年。11 例 ... 6 例呈混合性轴索髓鞘病. 变，可见神经纤维的丢失和轴索变性肿胀，并可见. 薄髓 ...",
+          "htmlSnippet": "结果11 例患者中，男8 例，女3 例，年龄40 ～ 64. 岁，病程8 个月～ 8 年。11 例 ... 6 例呈混合性轴索髓鞘病. 变，可见神经纤维的丢失和轴索变性肿胀，并可见. 薄髓&nbsp;...",
+          "formattedUrl": "https://xhyxzz.pumch.cn/cn/article/pdf/.../j.issn.1674-9081.2012.03.010.pd...",
+          "htmlFormattedUrl": "https://xhyxzz.pumch.cn/cn/article/pdf/.../j.issn.1674-9081.2012.03.010.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYDEuqP1MjjBLhSOqqaFMACmNoINZDAot_7oXUzrFVxiC6yIW9FO1jHA&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200817095819+08'00'",
+                "creationdate": "D:20200730170241-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3968",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///245f97e94c72ea1d636755dc96b4caa5cd702ac4c01d26047b4d8297ba29af8e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中卫市科技创新促进中心2021年自主公开招聘工作人员笔试岗位",
+          "htmlTitle": "中卫市科技创新促进中心2021年自主公开招聘工作人员笔试岗位",
+          "link": "https://www.nxzw.gov.cn/xwzx/tzgg/202104/P020210423667306620356.pdf",
+          "displayLink": "www.nxzw.gov.cn",
+          "snippet": "女. 中卫市科技创新促进中心. 管理岗. 2. 20210102002. 02. 002. 海明. 男. 中卫市 ... 王变变. 女. 中卫市科技创新促进中心. 管理岗. 28. 20210102028. 02. 028. 马小彦. 女.",
+          "htmlSnippet": "女. 中卫市科技创新促进中心. 管理岗. 2. 20210102002. 02. 002. 海明. 男. 中卫市 ... 王变变. 女. 中卫市科技创新促进中心. 管理岗. 28. 20210102028. 02. 028. 马小彦. 女.",
+          "formattedUrl": "https://www.nxzw.gov.cn/xwzx/tzgg/.../P020210423667306620356.pdf",
+          "htmlFormattedUrl": "https://www.nxzw.gov.cn/xwzx/tzgg/.../P020210423667306620356.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsazcBvj_xmmr_wJOmF_iSyXQ3naDjQWcX36C_fFF-YMLVRNtMAlnoBss&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210423175831+09'58'",
+                "creationdate": "D:20210423175831+09'58'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20210423175831+09'58'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5fb254b02c86b2514a53a0c07354c196c98c5a380d4d5d42e64289cbd5feb911"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "脑梗死患者颈动脉内膜厚度与甲状腺激素的关系",
+          "htmlTitle": "脑梗死患者颈动脉内膜厚度与甲状腺激素的关系",
+          "link": "http://syzxyjhlc.cnjournals.org/ch/reader/download_pdf_file.aspx?journal_id=syzyjhlc&file_name=3618E016C89268ECD4DFDA71FEEB8A7B4E2192F7F518135B75358D01E52C50CD048190E9C256096A62F781F6B59D2A22C38EF5B807085A4DF9D962790699A492&open_type=self&file_no=201302059",
+          "displayLink": "syzxyjhlc.cnjournals.org",
+          "snippet": "Yahyaoui 等[4]对实施变性手术的69 例健康人群. 进行研究， 发现男性变女性组的基础尿酸水平高，. 但女性变男性组在经过1 年的雄激素治疗后尿酸. 水平显著高于前者，提示 ...",
+          "htmlSnippet": "Yahyaoui 等[4]对实施变性手术的69 例健康人群. 进行研究， 发现<b>男性变</b>女性组的基础尿酸水平高，. 但女性变<b>男性</b>组在经过1 年的雄激素治疗后尿酸. 水平显著高于前者，提示&nbsp;...",
+          "formattedUrl": "http://syzxyjhlc.cnjournals.org/ch/.../download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://syzxyjhlc.cnjournals.org/ch/.../download_pdf_file.aspx?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNtb8BwAw_cuDdY3egmLkK6dJSXWP-2br7EF66oNsJB_jYMi3tUS3k1A&s",
+                "width": "180",
+                "height": "281"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160719152114+08'00'",
+                "creationdate": "D:20160719152108+08'00'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///24a8693d426c291517cd8a080eaf5515fe84b8ca329624637765ce5a3cd524f3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "包沫流变模型试验研究",
+          "htmlTitle": "包沫流变模型试验研究",
+          "link": "http://www.mtdzykt.com/cn/article/pdf/preview/3685c6bc-0b4e-43a6-9239-e6e74f049281.pdf",
+          "displayLink": "www.mtdzykt.com",
+          "snippet": "对泡沫流变性的研究就是要建立流变模型. 关系式 。 但武剪切应力和. 剪切速率 ... 男. 岁. 工程师. 钻探工程. 引言. 我局受. 公司委托. ，. 年. 月进人. 伊朗库姆大桥工地负责 ...",
+          "htmlSnippet": "对泡沫流变性的研究就是要建立流变模型. 关系式 。 但武剪切应力和. 剪切速率 ... 男. 岁. 工程师. 钻探工程. 引言. 我局受. 公司委托. ，. 年. 月进人. 伊朗库姆大桥工地负责&nbsp;...",
+          "formattedUrl": "http://www.mtdzykt.com/.../3685c6bc-0b4e-43a6-9239-e6e74f049281.pdf",
+          "htmlFormattedUrl": "http://www.mtdzykt.com/.../3685c6bc-0b4e-43a6-9239-e6e74f049281.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20221201110723+08'00'",
+                "creator": "ReaderEx_DIS_C 2.3.0 Build 3983",
+                "creationdate": "D:20211022114028",
+                "producer": "CNKI®ReaderEx(2.3.0 Build 3983)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国际农发基金项目社会性别主流化行动指导手册",
+          "htmlTitle": "国际农发基金项目社会性别主流化行动指导手册",
+          "link": "http://www.cnafun.moa.gov.cn/zt/ncfp/201306/P020130613649192784055.pdf",
+          "displayLink": "www.cnafun.moa.gov.cn",
+          "snippet": "社会性别平等并不意味着女性和男性必须变得完全一模一样，而是说他们. 的权利、责任和机遇，并不由他们生来是男还是女来决定。 社会性别公正（Gender Equity）. 社会性别公正指 ...",
+          "htmlSnippet": "社会性别平等并不意味着女性和<b>男性</b>必须变得完全一模一样，而是说他们. 的权利、责任和机遇，并不由他们生来是男还是女来决定。 社会性别公正（Gender Equity）. 社会性别公正指&nbsp;...",
+          "formattedUrl": "http://www.cnafun.moa.gov.cn/zt/ncfp/.../P020130613649192784055.pdf",
+          "htmlFormattedUrl": "http://www.cnafun.moa.gov.cn/zt/ncfp/.../P020130613649192784055.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jk_mZB__KkT395-8W1YjoZv16semgY67ntB1N9HaV0ewfOzSwCrbd5KW&s",
+                "width": "240",
+                "height": "210"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20091106021859",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20091106021859",
+                "author": "微软用户",
+                "producer": "Microsoft® Office Word 2007",
+                "title": "提高性别平等主流化能力指导手册"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///27cd9fe1de048d7ab9d5b2173ae542307055e02c82c04cfa29aadc9bab1e0aeb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2020 年中国儿童人口状况事实与数据",
+          "htmlTitle": "2020 年中国儿童人口状况事实与数据",
+          "link": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/202304/P020230419425666818737.pdf",
+          "displayLink": "www.stats.gov.cn",
+          "snippet": "人口普查为准确掌握儿童人口基础数据、反映人口变. 动、描述儿童总人口和子 ... 男童与女. 童的在校率基本持平；2000 年时高中学龄男童在校率的优势比初中学龄阶段 ...",
+          "htmlSnippet": "人口普查为准确掌握儿童人口基础数据、反映人口变. 动、描述儿童总人口和子 ... 男童与女. 童的在校率基本持平；2000 年时高中学龄男童在校率的优势比初中学龄阶段&nbsp;...",
+          "formattedUrl": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/.../P020230419425666818737.pd...",
+          "htmlFormattedUrl": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/.../P020230419425666818737.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFq8LlReTEI5zKh521a_MuILBzT0byJn3FnDGwubHkCvCSyTzAu8AOEh9&s",
+                "width": "245",
+                "height": "206"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230419104505+08'00'",
+                "creationdate": "D:20230406174104+08'00'",
+                "creator": "Acrobat PDFMaker 22 for Word",
+                "author": "UNICEF China",
+                "producer": "Adobe PDF Library 22.3.86",
+                "company": "UNICEF"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ac3a6fe8860e84990eb7462d504b08073bdadee29f42a3bd93db2867870619b3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "姓名性别导师信箱职称导师类别研究方向高爽女sgao@dicp.ac.cn ...",
+          "htmlTitle": "姓名性别导师信箱职称导师类别研究方向高爽女sgao@dicp.ac.cn ...",
+          "link": "http://www.gsc.dicp.ac.cn/dljt.pdf",
+          "displayLink": "www.gsc.dicp.ac.cn",
+          "snippet": "男 liutao@dicp.ac.cn. 副研究员. 硕导液流电池关键材料. 何腾. 男 heteng@dicp.ac.cn. 研究员. 硕导储氢材料. 史全. 男 shiquan@dicp.ac.cn. 研究员. 博导量热技术与相变 ...",
+          "htmlSnippet": "男 liutao@dicp.ac.cn. 副研究员. 硕导液流电池关键材料. 何腾. 男 heteng@dicp.ac.cn. 研究员. 硕导储氢材料. 史全. 男 shiquan@dicp.ac.cn. 研究员. 博导量热技术与相变&nbsp;...",
+          "formattedUrl": "http://www.gsc.dicp.ac.cn/dljt.pdf",
+          "htmlFormattedUrl": "http://www.gsc.dicp.ac.cn/dljt.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200925115628+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20200925115628+08'00'",
+                "author": "熊博晖",
+                "producer": "Microsoft® Word 2010"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:28"
+  },
+  {
+    "page": 8,
+    "start_index": 71,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.179595,
+        "formattedSearchTime": "0.18",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "资弃流劲易变性及其径济纹疫今祈",
+          "htmlTitle": "资弃流劲易变性及其径济纹疫今祈",
+          "link": "https://qks.shufe.edu.cn/J/PDFFull/A160824004089.pdf",
+          "displayLink": "qks.shufe.edu.cn",
+          "snippet": "Dec 12, 2003 ... 作者简介：李泽广(1979-），男，山东聊城人，南开大学金融系硕士；. 付飞(1970-），女，山东聊城人，农业发展银行聊城分行经济师，经济学博士；. 唐伟霞 ...",
+          "htmlSnippet": "Dec 12, 2003 <b>...</b> 作者简介：李泽广(1979-），男，山东聊城人，南开大学金融系硕士；. 付飞(1970-），女，山东聊城人，农业发展银行聊城分行经济师，经济学博士；. 唐伟霞&nbsp;...",
+          "formattedUrl": "https://qks.shufe.edu.cn/J/PDFFull/A160824004089.pdf",
+          "htmlFormattedUrl": "https://qks.shufe.edu.cn/J/PDFFull/A160824004089.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSjYp-bJyWk_zL8IxTLOiPox8yNm6wwDKZcJ0MXxN9vvs6cdokXadI6LZ&s",
+                "width": "273",
+                "height": "184"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210628144702+08'00'",
+                "creationdate": "D:20210628144655+08'00'",
+                "creator": "HP Scan",
+                "producer": "HP Scan Extended Application"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///599ab3fc2c36cf67f2e824575063fbb17f01d01d90c30495d8ec54f3575f6dc0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "A*=F4B3)0检测肝脂肪变成功率的影响因素及护理策略",
+          "htmlTitle": "A*=F4B3)0检测肝脂肪变成功率的影响因素及护理策略",
+          "link": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?attachType=PDF&id=68",
+          "displayLink": "www.hepatoday.org",
+          "snippet": "肝脂肪变检测值和变异的差异#但和同年龄层的男性. 患者对比#在&#\"岁的女性患者的肝脂肪变值低于男. 性患者#变异度高于男性患者(原因可能为慢性肝病. 患者中#男性酒精性 ...",
+          "htmlSnippet": "肝脂肪变检测值和变异的差异#但和同年龄层的<b>男性</b>. 患者对比#在&amp;#&quot;岁的女性患者的肝脂肪变值低于男. 性患者#变异度高于<b>男性</b>患者(原因可能为慢性肝病. 患者中#<b>男性</b>酒精性&nbsp;...",
+          "formattedUrl": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKY17QPFPmTIVDMiUOFIQZDMeiQeWt4SgU7ElJn0j2igy_yGYkiGLKUd&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200316150642+08'00'",
+                "creationdate": "D:20200316150636+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ff551fd0100f14994470434768140bfa7ad56d68eccef32b1f4d9bc59ea167c1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "ó癌患者围术期血液流变性变化的临床研究",
+          "htmlTitle": "ó癌患者围术期血液流变性变化的临床研究",
+          "link": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file_no=20110410&year_id=2011&quarter_id=4&falg=1",
+          "displayLink": "www.tougao120.com",
+          "snippet": "手术患者%\" 例，其中:男#$ 例，女#! 例;年龄(\" c<\" 岁。 无明显心脑血管疾病、糖尿病、脉管炎、肺部疾病等。 OS##\" o>8\" 7[/，吸烟者戒烟# 周以上。 凡术中出血量大. 于 ...",
+          "htmlSnippet": "手术患者%&quot; 例，其中:男#$ 例，女#! 例;年龄(&quot; c&lt;&quot; 岁。 无明显心脑血管疾病、糖尿病、脉管炎、肺部疾病等。 OS##&quot; o&gt;8&quot; 7[/，吸烟者戒烟# 周以上。 凡术中出血量大. 于&nbsp;...",
+          "formattedUrl": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file...",
+          "htmlFormattedUrl": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfBWjg2nczPxwwFOeJZNcDa0EkOqx1YPKbN8D0cj83cK3RuR8KC5vy_lb&s",
+                "width": "187",
+                "height": "269"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150427125108+08'00'",
+                "creationdate": "D:20150427125108+08'00'",
+                "producer": "iTextSharp 5.0.4 (c) 1T3XT BVBA"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bc72bd6fb68445beadefb922c6009927528f6f3cdbf46a50d48cd87fcec6b8c4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "1 例视网膜色素变性患者的护理",
+          "htmlTitle": "1 例视网膜色素变性患者的护理",
+          "link": "https://xyhlzz.xyeyy.com/fileXYHLZZ/journal/article/xyhlzz/2020/6/PDF/20200621.pdf",
+          "displayLink": "xyhlzz.xyeyy.com",
+          "snippet": "患者，男，29 岁，因“双眼视力下降伴夜盲5 年”，. 于2019 年12 月4 日入我院治疗。西医诊断：视网膜. 色素变性ou（双眼）；屈光不正ou（双眼）。中医诊. 断：高风雀目（肝 ...",
+          "htmlSnippet": "患者，男，29 岁，因“双眼视力下降伴夜盲5 年”，. 于2019 年12 月4 日入我院治疗。西医诊断：视网膜. 色素变性ou（双眼）；屈光不正ou（双眼）。中医诊. 断：高风雀目（肝&nbsp;...",
+          "formattedUrl": "https://xyhlzz.xyeyy.com/fileXYHLZZ/journal/article/.../6/.../20200621.pdf",
+          "htmlFormattedUrl": "https://xyhlzz.xyeyy.com/fileXYHLZZ/journal/article/.../6/.../20200621.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxOkf0UJiZ5uSNr3nji_QvrObYws7BkV3Pgz3PbD65BCqG3rCuZfPXJpXK&s",
+                "width": "193",
+                "height": "262"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210115143813+08'00'",
+                "creationdate": "D:20210115143813+08'00'",
+                "creator": "Adobe InDesign 14.0 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///897871dd16dd9e39b3688c61e6341835d9bf8607f81e0e3e4e8a8eb0bcc8c6cb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "烟台经济技术开发区工程技术专业职务资格中级评审通过人员公示表",
+          "htmlTitle": "烟台经济技术开发区工程技术专业职务资格中级评审通过人员公示表",
+          "link": "https://www.yeda.gov.cn/module/download/downfile.jsp?classid=0&showname=%E7%83%9F%E5%8F%B0%E7%BB%8F%E6%B5%8E%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E5%8C%BA%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A%E8%81%8C%E5%8A%A1%E8%B5%84%E6%A0%BC%E4%B8%AD%E7%BA%A7%E8%AF%84%E5%AE%A1%E9%80%9A%E8%BF%87%E4%BA%BA%E5%91%98%E5%85%AC%E7%A4%BA%E8%A1%A8.pdf&filename=bab50033f8764cdd9ca762718dad145a.pdf",
+          "displayLink": "www.yeda.gov.cn",
+          "snippet": "21. 曲秀楠. 女. 烟台东源送变电工程有限责任公司开发区分公司. 工程师. 22. 刘永峰. 男. 烟台东源送变电工程有限责任公司恒达分公司.",
+          "htmlSnippet": "21. 曲秀楠. 女. 烟台东源送变电工程有限责任公司开发区分公司. 工程师. 22. 刘永峰. 男. 烟台东源送变电工程有限责任公司恒达分公司.",
+          "formattedUrl": "https://www.yeda.gov.cn/module/download/downfile.jsp?classid=0...",
+          "htmlFormattedUrl": "https://www.yeda.gov.cn/module/download/downfile.jsp?classid=0...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211211103241+02'32'",
+                "creationdate": "D:20211211103241+02'32'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20211211103241+02'32'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "女博士生学术表现比男博士生好还是差?",
+          "htmlTitle": "女博士生学术表现比男博士生好还是差?",
+          "link": "https://www.csadge.edu.cn/upload_files/file/20210129/1611898313094053943.pdf",
+          "displayLink": "www.csadge.edu.cn",
+          "snippet": "Feb 1, 2021 ... 以来(尤其是二战以来)越来越多的女性参与进来而. 变得对女性科研工作者“和善”与“友好”。 ... 在我国,传统价值观念对“男强女弱”“男主外. 女主内”“贤妻良 ...",
+          "htmlSnippet": "Feb 1, 2021 <b>...</b> 以来(尤其是二战以来)越来越多的女性参与进来而. 变得对女性科研工作者“和善”与“友好”。 ... 在我国,传统价值观念对“男强女弱”“男主外. 女主内”“贤妻良&nbsp;...",
+          "formattedUrl": "https://www.csadge.edu.cn/upload_files/file/.../1611898313094053943.pdf",
+          "htmlFormattedUrl": "https://www.csadge.edu.cn/upload_files/file/.../1611898313094053943.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210127095230+08'00'",
+                "creationdate": "D:20210127095226+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "无脉络膜症的发病机制及诊疗进展* Survey and Investigation of the ...",
+          "htmlTitle": "无脉络膜症的发病机制及诊疗进展* Survey and Investigation of the ...",
+          "link": "http://biomed.cnjournals.com/ch/reader/download_pdf.aspx?file_no=201507045&year_id=2015&quarter_id=7&falg=1",
+          "displayLink": "biomed.cnjournals.com",
+          "snippet": "变可能会导致感光系统和REP 重建[23]。利用电子显微镜，作者. 报道玫瑰花样结构 ... MacDonald 报道，疾病进展和视野的确. 实女性携带者比男性慢的多[6]。不过，无 ...",
+          "htmlSnippet": "变可能会导致感光系统和REP 重建[23]。利用电子显微镜，作者. 报道玫瑰花样结构 ... MacDonald 报道，疾病进展和视野的确. 实女性携带者比<b>男性</b>慢的多[6]。不过，无&nbsp;...",
+          "formattedUrl": "http://biomed.cnjournals.com/ch/reader/download_pdf.aspx?...",
+          "htmlFormattedUrl": "http://biomed.cnjournals.com/ch/reader/download_pdf.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150216192210+08'00'",
+                "creationdate": "D:20150216192202+08'00'",
+                "creator": "pdfFactory Pro www.fineprint.cn",
+                "author": "Administrator",
+                "producer": "pdfFactory Pro 3.17 (Windows XP Professional Chinese)",
+                "title": "2015-07.FIT)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国性别暴力和男性气质研究定量调查报告",
+          "htmlTitle": "中国性别暴力和<b>男性</b>气质研究定量调查报告",
+          "link": "https://china.unfpa.org/sites/default/files/pub-pdf/6.Research%20on%20Gender-based%20Violence%20and%20Masculinities%20in%20China_Quantitativ.pdf",
+          "displayLink": "china.unfpa.org",
+          "snippet": "的暴力在压迫女性的同时，也在伤害着男人自. 身。正是由于许多男人都经历着阶级剥削、种. 族主义、同性恋憎恶、种姓和信仰歧视，他们. 与女性一样，都在要求社会政策变得更加 ...",
+          "htmlSnippet": "的暴力在压迫女性的同时，也在伤害着男人自. 身。正是由于许多男人都经历着阶级剥削、种. 族主义、同性恋憎恶、种姓和信仰歧视，他们. 与女性一样，都在要求社会政策变得更加&nbsp;...",
+          "formattedUrl": "https://china.unfpa.org/.../6.Research%20on%20Gender-based%20Violence...",
+          "htmlFormattedUrl": "https://china.unfpa.org/.../6.Research%20on%20Gender-based%20Violence...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20131210152714+08'00'",
+                "creationdate": "D:20131210152649+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0.2)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "加热过程中虾头蛋白变性程度的表征方法比较",
+          "htmlTitle": "加热过程中虾头蛋白变性程度的表征方法比较",
+          "link": "http://www.spgykj.com/cn/article/pdf/preview/10.13386/j.issn1002-0306.2022020069.pdf",
+          "displayLink": "www.spgykj.com",
+          "snippet": "* 通信作者：孙钦秀（1986−），女，博士，讲师，研究方向：食品冷冻新技术，E-mail：sunqinxiugo@163.com。 刘书成（1977−），男，博士，教授，研究方向：海洋食品 ...",
+          "htmlSnippet": "* 通信作者：孙钦秀（1986−），女，博士，讲师，研究方向：食品冷冻新技术，E-mail：sunqinxiugo@163.com。 刘书成（1977−），男，博士，教授，研究方向：海洋食品&nbsp;...",
+          "formattedUrl": "http://www.spgykj.com/cn/article/pdf/.../j.issn1002-0306.2022020069.pdf",
+          "htmlFormattedUrl": "http://www.spgykj.com/cn/article/pdf/.../j.issn1002-0306.2022020069.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG79QlrHObGzuzSSsnrlc3LsTGnFg0Oj8qvbl5n69KTQzjbl3lUfAhWeE0&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221020164209+08'00'",
+                "creationdate": "D:20221020164209+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1167b55ee1f0dd31b99034e0d2846bea768aa6d06e370a715f937d279fef616c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "ＩｇＭ型系统性轻链型淀粉样变性的临床特征和预后",
+          "htmlTitle": "ＩｇＭ型系统性轻链型淀粉样变性的临床特征和预后",
+          "link": "http://www.njcndt.com/EN/article/downloadArticleFile.do?attachType=PDF&id=10557",
+          "displayLink": "www.njcndt.com",
+          "snippet": "型AL（IgM⁃AL）淀粉样变性仅占所有AL淀粉样变. 性的5 ... 所有检验均为双侧检验，P＜0􀆰 05为差异有统. 计学意义。 结果. 临床特征17 例患者平均年龄61 岁，其中男.",
+          "htmlSnippet": "型AL（IgM⁃AL）淀粉样变性仅占所有AL淀粉样变. 性的5 ... 所有检验均为双侧检验，P＜0􀆰 05为差异有统. 计学意义。 结果. 临床特征17 例患者平均年龄61 岁，其中男.",
+          "formattedUrl": "http://www.njcndt.com/EN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://www.njcndt.com/EN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211028143133+08'00'",
+                "creationdate": "D:20211028143100+08'00'",
+                "creator": "创建者",
+                "subject": "科目",
+                "author": "作者",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:31"
+  },
+  {
+    "page": 9,
+    "start_index": 81,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.287711,
+        "formattedSearchTime": "0.29",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "膝内侧半月板与软骨退变损伤的相关性研究",
+          "htmlTitle": "膝内侧半月板与软骨退变损伤的相关性研究",
+          "link": "https://jpmed.qdu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=192",
+          "displayLink": "jpmed.qdu.edu.cn",
+          "snippet": "关系,为膝骨关节炎的预防与治疗提供依据.方法2016年6月—2018年6月,连续观察于我院行膝关节镜下内. 侧半月板手术患者266例,共282膝,其中男122膝,女160膝,年龄41~80岁, ...",
+          "htmlSnippet": "关系,为膝骨关节炎的预防与治疗提供依据.方法2016年6月—2018年6月,连续观察于我院行膝关节镜下内. 侧半月板手术患者266例,共282膝,其中男122膝,女160膝,年龄41~80岁,&nbsp;...",
+          "formattedUrl": "https://jpmed.qdu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://jpmed.qdu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNsOW1Yq0dvHh3dUeqgZQaX7BiX5ii4XVE54Iq9ovtLgSWmcPrhZDP8P8&s",
+                "width": "185",
+                "height": "272"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "(D:20190512222224+08'00')",
+                "creationdate": "(D:20190512222224+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///17c65e7800088ce82e10b015a5c7fdc19baf12e7d08e491d6077eec259e62077"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "摩利支天",
+          "htmlTitle": "摩利支天",
+          "link": "https://dflt.qdu.edu.cn/__local/9/5E/F3/32A4582D4F4375D8141ADB75637_842B9619_17DF6D.pdf",
+          "displayLink": "dflt.qdu.edu.cn",
+          "snippet": "而尤其值得注意的是，这一卷经中，没有显示出摩利支天的. 任何女性特征，我们也只能认为他是男性神。因此，摩利支. 天由男变女，也只能是此后，即持明密教形成以后的事情。",
+          "htmlSnippet": "而尤其值得注意的是，这一卷经中，没有显示出摩利支天的. 任何女性特征，我们也只能认为他是男性神。因此，摩利支. 天由<b>男变女</b>，也只能是此后，即持明密教形成以后的事情。",
+          "formattedUrl": "https://dflt.qdu.edu.cn/__.../32A4582D4F4375D8141ADB75637_842B961...",
+          "htmlFormattedUrl": "https://dflt.qdu.edu.cn/__.../32A4582D4F4375D8141ADB75637_842B961...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20210302134757-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3968",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "退变性脊柱畸形截骨多节段经椎间孔椎间融合",
+          "htmlTitle": "退变性脊柱畸形截骨多节段经椎间孔椎间融合",
+          "link": "https://jxwk.ijournals.cn/zgjxwkzz/article/pdf/20230507?file_name=FA5781DA138E61513D095D5EBEAD4CE9950E12CFFA4396B7F5CD378C48F9C4E66987EA49B0231335E062459415614CD2BE1E8F0560B8E42AA122C5873BB348BF&open_type=self",
+          "displayLink": "jxwk.ijournals.cn",
+          "snippet": "Mar 5, 2023 ... 性别（例，男/女）. BMI （kg/m2， xˉ ±s）. 病程（月， xˉ ±s）. 顶椎位置（例，L1/L2/L3/L4）. 截骨融合组. （n=40）. 65.1±7.1. 18/22. 22.4±2.1. 40.5±8.2.",
+          "htmlSnippet": "Mar 5, 2023 <b>...</b> 性别（例，男/女）. BMI （kg/m2， xˉ ±s）. 病程（月， xˉ ±s）. 顶椎位置（例，L1/L2/L3/L4）. 截骨融合组. （n=40）. 65.1±7.1. 18/22. 22.4±2.1. 40.5±8.2.",
+          "formattedUrl": "https://jxwk.ijournals.cn/zgjxwkzz/article/pdf/20230507?file_name...",
+          "htmlFormattedUrl": "https://jxwk.ijournals.cn/zgjxwkzz/article/pdf/20230507?file_name...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBoL8NkW9SOnu16BWrCukBpGRZYkeBBIde09CjcYOe5hpa_MZnnUWcSw&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230605171527+08'00'",
+                "creationdate": "D:20230605171527+08'00'",
+                "producer": "iText® 5.5.13.2 ©2000-2020 iText Group NV (AGPL-version)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///250f628661f5cb8dfac609fcf79e05b21ef72e14567011c6291241c8e03085b5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国退休年龄改革的时机和方案选择",
+          "htmlTitle": "中国退休年龄改革的时机和方案选择",
+          "link": "http://iple.cssn.cn/webpic/web/iple/upload/2012/02/d20120203094403043.pdf",
+          "displayLink": "iple.cssn.cn",
+          "snippet": "。 中国目前男性的退休年龄为60 岁, 女性平均的退休年龄为51 ... 变, 女性的退休年龄提高到60 岁。 方案二: 将男、. 女的退休年龄都提高到65 岁。 提高方法为, 男、 女 ...",
+          "htmlSnippet": "。 中国目前<b>男性</b>的退休年龄为60 岁, 女性平均的退休年龄为51 ... 变, 女性的退休年龄提高到60 岁。 方案二: 将男、. 女的退休年龄都提高到65 岁。 提高方法为, 男、 女&nbsp;...",
+          "formattedUrl": "http://iple.cssn.cn/webpic/web/iple/upload/.../d20120203094403043.pdf",
+          "htmlFormattedUrl": "http://iple.cssn.cn/webpic/web/iple/upload/.../d20120203094403043.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1uWLCZWaOPg8dKQLF_d52UNuBN1jzOhU2BFKJAn-aupWngeqVdFIjrDe-&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20100704053503",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 2989)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9273876fe57a905c7326dcb51b5102d59c55f99afcf2ed5946417cffe399e855"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "3000 万“剩男”跟谁结婚",
+          "htmlTitle": "3000 万“剩男”跟谁结婚",
+          "link": "http://paper.people.com.cn/rmrbhwb/page/2017-02/13/05/rmrbhwb2017021305.pdf",
+          "displayLink": "paper.people.com.cn",
+          "snippet": "Feb 13, 2017 ... 二是现代技术条件的发展，. 使得生男孩变得容易。他说，小型化、现代化的. 超声波检测技术，能够在女性怀孕14周到16周时. 检测出是男孩还是 ...",
+          "htmlSnippet": "Feb 13, 2017 <b>...</b> 二是现代技术条件的发展，. 使得生男孩变得容易。他说，小型化、现代化的. 超声波检测技术，能够在女性怀孕14周到16周时. 检测出是男孩还是&nbsp;...",
+          "formattedUrl": "http://paper.people.com.cn/rmrbhwb/page/.../rmrbhwb2017021305.pdf",
+          "htmlFormattedUrl": "http://paper.people.com.cn/rmrbhwb/page/.../rmrbhwb2017021305.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9LzxPk6H_vFp2MLrQdJrJ3SKr3STh5I5m7eDrDpE9pZZTeyiim93ifU&s",
+                "width": "296",
+                "height": "170"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20170213000828+08'00'",
+                "creator": "Founder PDF Library",
+                "author": "Founder Electronics Ltd",
+                "producer": "Founder PDF Library"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f2c557c2b4ced9bf407c6b97f0227d5c0e2b716c7d86ec18a5ff6bc784e9ebe0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "极大似然估计不变性的拓展",
+          "htmlTitle": "极大似然估计不变性的拓展",
+          "link": "http://homepage.hit.edu.cn/ueditor/jsp/upload/file/20190430/1556584201169587097.pdf",
+          "displayLink": "homepage.hit.edu.cn",
+          "snippet": "Aug 14, 2009 ... 作者简介: 石冠男(1984 - ) ,女,硕士研究生,主要研究方向:概率论与数理统计, E - mail: sgncx@163. com. 通讯作者: 王勇(1957 - ) ,男,教授,博士,博士生 ...",
+          "htmlSnippet": "Aug 14, 2009 <b>...</b> 作者简介: 石冠男(1984 - ) ,女,硕士研究生,主要研究方向:概率论与数理统计, E - mail: sgncx@163. com. 通讯作者: 王勇(1957 - ) ,男,教授,博士,博士生&nbsp;...",
+          "formattedUrl": "http://homepage.hit.edu.cn/ueditor/jsp/.../file/.../1556584201169587097.pd...",
+          "htmlFormattedUrl": "http://homepage.hit.edu.cn/ueditor/jsp/.../file/.../1556584201169587097.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20091217163100",
+                "author": "TTKN Co., Ltd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "乡村振兴视角下的农村劳动力回流弹性估计",
+          "htmlTitle": "乡村振兴视角下的农村劳动力回流弹性估计",
+          "link": "http://ae.ruc.edu.cn/docs/2022-03/c589abcbf5434beeab7082d25cfc8917.pdf",
+          "displayLink": "ae.ruc.edu.cn",
+          "snippet": "性别女=1，男=0）. 2014－2019. 242778. 0.46. 0.50. 作状. 工. 态（ 事雇佣工作. 从. =1 ... 若沿用表4 的带宽（1398. 米），则有效样本量增加至350 个，此时中老年男性对应的系数变 ...",
+          "htmlSnippet": "性别女=1，男=0）. 2014－2019. 242778. 0.46. 0.50. 作状. 工. 态（ 事雇佣工作. 从. =1 ... 若沿用表4 的带宽（1398. 米），则有效样本量增加至350 个，此时中老年<b>男性</b>对应的系数变&nbsp;...",
+          "formattedUrl": "http://ae.ruc.edu.cn/docs/2022.../c589abcbf5434beeab7082d25cfc8917.pdf",
+          "htmlFormattedUrl": "http://ae.ruc.edu.cn/docs/2022.../c589abcbf5434beeab7082d25cfc8917.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOAM8A9fmxiUjWIPkdEvpaoJ1xWLlB7zYWXywWz9xH8Yc_Ma5uGoiAgM&s",
+                "width": "263",
+                "height": "191"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220302110527+03'05'",
+                "creationdate": "D:20220302110527+03'05'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220302110527+03'05'",
+                "author": "fxzm",
+                "title": "农户土地承包经营权流转的影响因素分析"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9260a04767b58b6a3360dd856cec82c508dafbd2e4327dd7efd00edb66c3adef"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "特变电工股份有限公司2024 年第四次临时监事会会议决议公告",
+          "htmlTitle": "特变电工股份有限公司2024 年第四次临时监事会会议决议公告",
+          "link": "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-10-18/600089_20241018_P9YN.pdf",
+          "displayLink": "www.sse.com.cn",
+          "snippet": "Oct 18, 2024 ... 非职工监事候选人简历如下：. 1、张树星，男，汉族，37 岁，中共党员，本科学历，高级会计师职称。现. 任新疆特变 ...",
+          "htmlSnippet": "Oct 18, 2024 <b>...</b> 非职工监事候选人简历如下：. 1、张树星，男，汉族，37 岁，中共党员，本科学历，高级会计师职称。现. 任新疆特变&nbsp;...",
+          "formattedUrl": "https://www.sse.com.cn/disclosure/.../c/.../600089_20241018_P9YN.pdf",
+          "htmlFormattedUrl": "https://www.sse.com.cn/disclosure/.../c/.../600089_20241018_P9YN.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20241017160659+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20241017160659+08'00'",
+                "author": "焦海华",
+                "producer": "Microsoft® Word 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2024 年全国五一劳动奖和全国工人先锋号名单",
+          "htmlTitle": "2024 年全国五一劳动奖和全国工人先锋号名单",
+          "link": "https://m.acftu.org/xwdt/ghyw/202404/P020240429544687871252.pdf",
+          "displayLink": "m.acftu.org",
+          "snippet": "国网辽宁省电力有限公司朝阳供电公司变电运行工区变电运维一班盘锦. 京环环保科技 ... 吴颖岚(女) 湖南省妇幼保健院妇女保健科主任，主任医师. 吴亚军. 中国铁路广州 ...",
+          "htmlSnippet": "国网辽宁省电力有限公司朝阳供电公司变电运行工区变电运维一班盘锦. 京环环保科技 ... 吴颖岚(女) 湖南省妇幼保健院妇女保健科主任，主任医师. 吴亚军. 中国铁路广州&nbsp;...",
+          "formattedUrl": "https://m.acftu.org/xwdt/ghyw/202404/P020240429544687871252.pdf",
+          "htmlFormattedUrl": "https://m.acftu.org/xwdt/ghyw/202404/P020240429544687871252.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240428172701+09'27'",
+                "creationdate": "D:20240428172701+09'27'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20240428172701+09'27'",
+                "author": "Quer"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2021年度沈阳市工程系列高级专业技术资格评委会评审通过人员名单",
+          "htmlTitle": "2021年度沈阳市工程系列高级专业技术资格评委会评审通过人员名单",
+          "link": "https://rsj.shenyang.gov.cn/files/ueditor/SYRSJ/jsp/upload/file/20211105/1636067951182069540.pdf",
+          "displayLink": "rsj.shenyang.gov.cn",
+          "snippet": "女特变电工沈阳变压器集团有限公司. 机械. 工程师. 361 高双妹. 女特变电工沈阳 ... 男特变电工沈阳变压去集团有限公司. 自动化. 工程师. 374 孙文浩. 男沈阳鼓风机集团 ...",
+          "htmlSnippet": "女特变电工沈阳变压器集团有限公司. 机械. 工程师. 361 高双妹. 女特变电工沈阳 ... 男特变电工沈阳变压去集团有限公司. 自动化. 工程师. 374 孙文浩. 男沈阳鼓风机集团&nbsp;...",
+          "formattedUrl": "https://rsj.shenyang.gov.cn/files/ueditor/.../1636067951182069540.pdf",
+          "htmlFormattedUrl": "https://rsj.shenyang.gov.cn/files/ueditor/.../1636067951182069540.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLKyCZWD07il7vyN1FYD1gtDqS_OQaJzWyGAcHqteUdeW542ZddwbN3SV&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211231114513+03'45'",
+                "creationdate": "D:20211231114513+03'45'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20211231114513+03'45'",
+                "author": "Administrator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c2b8ad5c79097a4043b3ba3cd0c61b2b787e7276ba796909c77cf7f0be7a5f60"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:33"
+  },
+  {
+    "page": 10,
+    "start_index": 91,
+    "query": "'男变女' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - '男变女' filetype:pdf",
+            "totalResults": "344000",
+            "searchTerms": "'男变女' filetype:pdf",
+            "count": 10,
+            "startIndex": 101,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.257277,
+        "formattedSearchTime": "0.26",
+        "totalResults": "344000",
+        "formattedTotalResults": "344,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "接种HPV 疫苗是消除宫颈癌最关键的干预措施",
+          "htmlTitle": "接种HPV 疫苗是消除宫颈癌最关键的干预措施",
+          "link": "http://cdcp.gd.gov.cn/attachment/0/494/494753/3442088.pdf",
+          "displayLink": "cdcp.gd.gov.cn",
+          "snippet": "Aug 18, 2003 ... • 建议青春期前的孩子（男和女）11~12 岁,接种. 但. • 接种剂次据年龄, 可 ... CIN （宫颈上皮内瘤变）. 宫颈癌. 全民. 可及. ▫自然史. ▫病因/决定 ...",
+          "htmlSnippet": "Aug 18, 2003 <b>...</b> • 建议青春期前的孩子（男和女）11~12 岁,接种. 但. • 接种剂次据年龄, 可 ... CIN （宫颈上皮内瘤变）. 宫颈癌. 全民. 可及. ▫自然史. ▫病因/决定&nbsp;...",
+          "formattedUrl": "http://cdcp.gd.gov.cn/attachment/0/494/494753/3442088.pdf",
+          "htmlFormattedUrl": "http://cdcp.gd.gov.cn/attachment/0/494/494753/3442088.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Hd31D92rQnziPZDvmQGXxdL7U2IGYzhC3XhsiJMymuv6CVReOnC45xI&s",
+                "width": "270",
+                "height": "187"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190303030519",
+                "creationdate": "D:20190303030519",
+                "creator": "Microsoft® Office PowerPoint® 2007",
+                "producer": "Microsoft® Office PowerPoint® 2007",
+                "title": "PowerPoint Presentation"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///cf0077b24e9eab8b5297cca4f8cff9f40c513e737a9925345969e3fc44a3ab22"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "后路选择性减压融合术治疗老年退变性腰椎侧凸症",
+          "htmlTitle": "后路选择性减压融合术治疗老年退变性腰椎侧凸症",
+          "link": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20130115&flag=1&year_id=2013&quarter_id=1",
+          "displayLink": "tjyxxb.ijournals.cn",
+          "snippet": "医院老年退变性腰椎侧凸症患者. 例,获得完整随. 访,男. 例,女. 例年龄. 一. 岁,平均. 士. 岁。既往无特发性侧凸病史、脊柱手术史、脊柱. 感染及肿瘤病史。 例首发症状为 ...",
+          "htmlSnippet": "医院老年退变性腰椎侧凸症患者. 例,获得完整随. 访,男. 例,女. 例年龄. 一. 岁,平均. 士. 岁。既往无特发性侧凸病史、脊柱手术史、脊柱. 感染及肿瘤病史。 例首发症状为&nbsp;...",
+          "formattedUrl": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no...",
+          "htmlFormattedUrl": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1z5W31FvbvmoVP2we_Ec8Xmw21S1UW5Xn6Neh6BIlTuK0k_oOf9TbOsc&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20150407132659",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3925",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3925)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///896698415dc7d16b0e8d2126ebed194f4d4ba6aa8ca120388236aeecf97f4b44"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "腰椎小关节退变性损害的临床CT分析",
+          "htmlTitle": "腰椎小关节退变性损害的临床CT分析",
+          "link": "https://cttacn.org.cn/cn/article/pdf/preview/23043.pdf",
+          "displayLink": "cttacn.org.cn",
+          "snippet": "本组60 例，男43 例，女17 例，年龄20～81 岁，平均年龄48 岁；60 例患者均有不同. 程度腰骶部疼痛，活动受限，椎小关节部位压疼，部分患者合并单侧或双侧下肢胀痛、麻.",
+          "htmlSnippet": "本组60 例，男43 例，女17 例，年龄20～81 岁，平均年龄48 岁；60 例患者均有不同. 程度腰骶部疼痛，活动受限，椎小关节部位压疼，部分患者合并单侧或双侧下肢胀痛、麻.",
+          "formattedUrl": "https://cttacn.org.cn/cn/article/pdf/preview/23043.pdf",
+          "htmlFormattedUrl": "https://cttacn.org.cn/cn/article/pdf/preview/23043.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAA5F_llcYrsy35b1I5KaRzHeGWmuCasO1UQgKjxfSEZdCk-DLx2pqqc&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20110218155948+08'00'",
+                "creationdate": "D:20110216141250+08'00'",
+                "creator": "Acrobat PDFMaker 9.1 Word 版",
+                "sourcemodified": "D:20110201073328",
+                "author": "user",
+                "producer": "Acrobat Distiller 9.4.0 (Windows)",
+                "company": "CTTACN",
+                "title": "CT模板",
+                "mtwineqns": "1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b1834e741c6c0d7e919f60f34cfc7155aeca0c372d7ec7fab2ad569a9ca149a8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "广东省高级人民法院减刑、假释案件裁前公示表",
+          "htmlTitle": "广东省高级人民法院减刑、假释案件裁前公示表",
+          "link": "https://www.gdcourts.gov.cn/attachment/0/11/11310/1388487.pdf",
+          "displayLink": "www.gdcourts.gov.cn",
+          "snippet": "同意提请减为有期徒刑. 二十五年，剥夺政治权利改. 为十年。 第2页. 男. 死刑，缓期. 二年执行. 2020年11月6日对其减为无期徒刑，剥夺政治权利终身不. 变。 肇庆监狱. 获得 ...",
+          "htmlSnippet": "同意提请减为有期徒刑. 二十五年，剥夺政治权利改. 为十年。 第2页. 男. 死刑，缓期. 二年执行. 2020年11月6日对其减为无期徒刑，剥夺政治权利终身不. 变。 肇庆监狱. 获得&nbsp;...",
+          "formattedUrl": "https://www.gdcourts.gov.cn/attachment/0/11/11310/1388487.pdf",
+          "htmlFormattedUrl": "https://www.gdcourts.gov.cn/attachment/0/11/11310/1388487.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231019063153",
+                "creationdate": "D:20231019063153",
+                "creator": "Microsoft® Office Excel® 2007",
+                "producer": "Microsoft® Office Excel® 2007"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2023年6月授予法律职业资格人员名单",
+          "htmlTitle": "2023年6月授予法律职业资格人员名单",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/zwxxgk/fdzdgknr/fdzdgknrxzxk/202307/W020230717577715138697.pdf",
+          "displayLink": "www.moj.gov.cn",
+          "snippet": "... 男. 汉族. A20223505821992. A. 2. 蔡湘琪. 女. 汉族. A20223505812197. A. 3. 柯晓敏. 女. 汉族. A20223503041707. A. 4. 孔悦铃. 女. 汉族. A20223503041819. A. 5.",
+          "htmlSnippet": "... 男. 汉族. A20223505821992. A. 2. 蔡湘琪. 女. 汉族. A20223505812197. A. 3. 柯晓敏. 女. 汉族. A20223503041707. A. 4. 孔悦铃. 女. 汉族. A20223503041819. A. 5.",
+          "formattedUrl": "https://www.moj.gov.cn/pub/sfbgw/.../W020230717577715138697.pdf",
+          "htmlFormattedUrl": "https://www.moj.gov.cn/pub/sfbgw/.../W020230717577715138697.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230717145037+06'50'",
+                "creationdate": "D:20230717145037+06'50'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20230717145037+06'50'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "生物医药谷商务中心提升改造项目规划许可变更",
+          "htmlTitle": "生物医药谷商务中心提升改造项目规划许可变更",
+          "link": "https://njna.nanjing.gov.cn/njsjbxqglwyh/202404/P020240430618708034005.pdf",
+          "displayLink": "njna.nanjing.gov.cn",
+          "snippet": "Apr 30, 2024 ... 原规划用地性质为科研设计用地,现变. 更为旅馆用地。总用地面积约为 ... 管事部仓库、外包女更衣室和外包男更衣室;预留办公室调整为财务部,内部 ...",
+          "htmlSnippet": "Apr 30, 2024 <b>...</b> 原规划用地性质为科研设计用地,现变. 更为旅馆用地。总用地面积约为 ... 管事部仓库、外包女更衣室和外包男更衣室;预留办公室调整为财务部,内部&nbsp;...",
+          "formattedUrl": "https://njna.nanjing.gov.cn/njsjbxqglwyh/.../P020240430618708034005.p...",
+          "htmlFormattedUrl": "https://njna.nanjing.gov.cn/njsjbxqglwyh/.../P020240430618708034005.p...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Tue Apr 30 11:16:53 2024",
+                "creationdate": "Tue Apr 30 11:16:53 2024",
+                "sourcemodified": "Tue Apr 30 11:16:53 2024"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "职业技能提升行动培训补贴人员名单（2022年淄阳源电子商务师第1期）",
+          "htmlTitle": "职业技能提升行动培训补贴人员名单（2022年淄阳源电子商务师第1期）",
+          "link": "http://www.smxsfq.gov.cn/group1/M00/02/AA/CqDI22K5bOWAMFfpAAFeEfy14yQ467.pdf",
+          "displayLink": "www.smxsfq.gov.cn",
+          "snippet": "女. 41122319******0524. 电子商务师. 合格. 840. 2. 白国锋. 男. 41032919******7010. 电子商务师. 合格. 840. 3. 王效梅. 女. 41128219******804X. 电子商务师. 合格.",
+          "htmlSnippet": "女. 41122319******0524. 电子商务师. 合格. 840. 2. 白国锋. 男. 41032919******7010. 电子商务师. 合格. 840. 3. 王效梅. 女. 41128219******804X. 电子商务师. 合格.",
+          "formattedUrl": "http://www.smxsfq.gov.cn/.../CqDI22K5bOWAMFfpAAFeEfy14yQ467.pd...",
+          "htmlFormattedUrl": "http://www.smxsfq.gov.cn/.../CqDI22K5bOWAMFfpAAFeEfy14yQ467.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWcaPgZyz4Rg-mfnV3xaiUtQEX7E7KGHQB0g0XXWhlwEJFiNro1-qWZ7x&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220627111141+03'11'",
+                "creationdate": "D:20220627111141+03'11'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20220627111141+03'11'",
+                "author": "焦晨铭"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///41397d25aacc9a4dc2246516d9dd8d98c51088a29f0f46ed22e3ef8a3af8c734"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2024年国家医保药品目录调整申报材料（公示版）",
+          "htmlTitle": "2024年国家医保药品目录调整申报材料（公示版）",
+          "link": "https://www.nhsa.gov.cn/attach/Ypsn2024/YPSW202400124/YPSW202400124.pdf",
+          "displayLink": "www.nhsa.gov.cn",
+          "snippet": "Jul 11, 2024 ... 对主要临床结局指标改善情况. 总共用盐酸曲恩汀治疗了41 例年龄在6 至54 岁，诊断为肝豆状核变性病且不耐受D-青霉胺的患者（男18 例，女23. 例），剂量 ...",
+          "htmlSnippet": "Jul 11, 2024 <b>...</b> 对主要临床结局指标改善情况. 总共用盐酸曲恩汀治疗了41 例年龄在6 至54 岁，诊断为肝豆状核变性病且不耐受D-青霉胺的患者（男18 例，女23. 例），剂量&nbsp;...",
+          "formattedUrl": "https://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSW202400124.pdf",
+          "htmlFormattedUrl": "https://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSW202400124.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4jkMQ8A1hf5Gih1qdiUG6uMtLFIP5hLt4o1YC-Wa3lXugKqNNnWxqqpg&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240805063123+00'00'",
+                "creator": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36",
+                "creationdate": "D:20240805063123+00'00'",
+                "producer": "Skia/PDF m89"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///02b4848db517c5afcb9b08e2042cdcda7f3352f9394593e1b23984376ab0fc4c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "结肠黑变病的临床特点分析",
+          "htmlTitle": "结肠黑变病的临床特点分析",
+          "link": "http://www.zgnjzz.com/zgnjzz/article/pdf/202110005?file_name=FA5781DA138E61513D095D5EBEAD4CE9B866D2A4F58E2E212D73E801BF507C67EBC973C3BD9FADCEA5F468D49033DCB3054A7912C4C115841991A5C404F0D1D7&open_type=self",
+          "displayLink": "www.zgnjzz.com",
+          "snippet": "年龄≤ 60岁的患者中，女性检出率高于男性；大于60岁且小于80岁的患者中，男性检出. 率及上升幅度大于女性。息肉是MC最常见的伴发疾病，约占28.31%。息肉大小和性别差异无统计学 ...",
+          "htmlSnippet": "年龄≤ 60岁的患者中，女性检出率高于<b>男性</b>；大于60岁且小于80岁的患者中，<b>男性</b>检出. 率及上升幅度大于女性。息肉是MC最常见的伴发疾病，约占28.31%。息肉大小和性别差异无统计学&nbsp;...",
+          "formattedUrl": "http://www.zgnjzz.com/zgnjzz/article/pdf/202110005?file_name...",
+          "htmlFormattedUrl": "http://www.zgnjzz.com/zgnjzz/article/pdf/202110005?file_name...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBTk8oEmIZde_-m3zvCP-Bf4hLfYmi9ChNo7rbStB7wDtXAvZKr7BNul-&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211103094323+08'00'",
+                "creationdate": "D:20211103094323+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1669",
+                "author": "Microsoft qiaoheng",
+                "producer": "Founder",
+                "title": "80fd245d-1b61-49a8-92e0-192ce91d2778"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c83bbf24c28f456f7032491021c65cabb93ff7622dd5c668fa437ec3c4470502"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "南非大学生眼中的“习近平新时代中国特色社会主义思想”征文大赛获奖 ...",
+          "htmlTitle": "南非大学生眼中的“习近平新时代中国特色社会主义思想”征文大赛获奖 ...",
+          "link": "http://za.china-embassy.gov.cn/dshdxwfb/202210/P020221101758164659243.pdf",
+          "displayLink": "za.china-embassy.gov.cn",
+          "snippet": "男. M. 约堡大学. UJ. Three people with one heart, the loess turns into gold. （三人一条心，黄土变成金）. 7 Samara Christie Chetty. 女. F. 约堡大学. UJ. Poverty ...",
+          "htmlSnippet": "男. M. 约堡大学. UJ. Three people with one heart, the loess turns into gold. （三人一条心，黄土变成金）. 7 Samara Christie Chetty. 女. F. 约堡大学. UJ. Poverty&nbsp;...",
+          "formattedUrl": "http://za.china-embassy.gov.cn/dshdxwfb/.../P020221101758164659243.p...",
+          "htmlFormattedUrl": "http://za.china-embassy.gov.cn/dshdxwfb/.../P020221101758164659243.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL03585Zu8jFiRPhlcJzhhsKNVWGKRD6e216oJGDQm1qzdZYWDwOW9OrA&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221101144553+12'45'",
+                "creationdate": "D:20221101144553+12'45'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20221101144553+12'45'",
+                "author": "ShiYongRen"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///651e3a69411344e3ae24e834305ca8c96cba7b8a23bf89b858047aad2ae1887a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:35:36"
+  }
+]

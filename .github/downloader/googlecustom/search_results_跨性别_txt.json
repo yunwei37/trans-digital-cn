@@ -1,0 +1,376 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "跨性别 filetype:txt",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:txt",
+            "totalResults": "120",
+            "searchTerms": "跨性别 filetype:txt",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:txt",
+            "totalResults": "120",
+            "searchTerms": "跨性别 filetype:txt",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.168967,
+        "formattedSearchTime": "0.17",
+        "totalResults": "120",
+        "formattedTotalResults": "120"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.tup.tsinghua.edu.cn/upload/books/yz/052182-01.txt",
+          "displayLink": "www.tup.tsinghua.edu.cn",
+          "snippet": "... 跨地域性的蜡染研究相对较少；其六，对民间手工蜡染工艺传承保护的研究， 更多地 ... 性别、民族、社会地位、受教育程度，中国民间手工蜡染产地的传统文化、地理 ...",
+          "htmlSnippet": "... 跨地域性的蜡染研究相对较少；其六，对民间手工蜡染工艺传承保护的研究， 更多地 ... <b>性别</b>、民族、社会地位、受教育程度，中国民间手工蜡染产地的传统文化、地理&nbsp;...",
+          "formattedUrl": "http://www.tup.tsinghua.edu.cn/upload/books/yz/052182-01.txt",
+          "htmlFormattedUrl": "http://www.tup.tsinghua.edu.cn/upload/books/yz/052182-01.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.agrj.com/fldq%5Cwinwb86.txt",
+          "displayLink": "www.agrj.com",
+          "snippet": "... 跨khd khdn 跋khdc 踌khdf 蹰khdf 跖khdg 忠厚khdj 跨khdn 中原khdr 蹶khdw 啃khe ... 性别ntkl 飞行员ntkm 属ntky 恤ntl ntlg 恤ntlg 发回ntlk 懊ntm ntmd 懊 ...",
+          "htmlSnippet": "... 跨khd khdn 跋khdc 踌khdf 蹰khdf 跖khdg 忠厚khdj 跨khdn 中原khdr 蹶khdw 啃khe ... <b>性别</b>ntkl 飞行员ntkm 属ntky 恤ntl ntlg 恤ntlg 发回ntlk 懊ntm ntmd 懊&nbsp;...",
+          "formattedUrl": "http://www.agrj.com/fldq%5Cwinwb86.txt",
+          "htmlFormattedUrl": "http://www.agrj.com/fldq%5Cwinwb86.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "审讯与反审讯文章汇集.txt | 墨菲易云盘",
+          "htmlTitle": "审讯与反审讯文章汇集.txt | 墨菲易云盘",
+          "link": "https://pan.murphyyi.com/book/%E5%BF%83%E7%90%86%E5%AD%A6/%E5%AE%A1%E8%AE%AF%E4%B8%8E%E5%8F%8D%E5%AE%A1%E8%AE%AF/%E5%AE%A1%E8%AE%AF%E4%B8%8E%E5%8F%8D%E5%AE%A1%E8%AE%AF%E6%96%87%E7%AB%A0%E6%B1%87%E9%9B%86.txt",
+          "displayLink": "pan.murphyyi.com",
+          "snippet": "按照有关规定，审讯人员在审讯开始时应当问清犯罪嫌疑人三个方面的问题：一是姓名、性别 ... 对于那些重大的、系列性的、复杂化的、跨地区、跨年度的案件，本人认为在审讯中 ...",
+          "htmlSnippet": "按照有关规定，审讯人员在审讯开始时应当问清犯罪嫌疑人三个方面的问题：一是姓名、<b>性别</b> ... 对于那些重大的、系列性的、复杂化的、跨地区、跨年度的案件，本人认为在审讯中&nbsp;...",
+          "formattedUrl": "https://pan.murphyyi.com/book/心理学/.../审讯与反审讯文章汇集.txt",
+          "htmlFormattedUrl": "https://pan.murphyyi.com/book/心理学/.../审讯与反审讯文章汇集.txt",
+          "pagemap": {
+            "metatags": [
+              {
+                "referrer": "same-origin",
+                "theme-color": "#000000",
+                "viewport": "width=device-width, initial-scale=1",
+                "apple-mobile-web-app-capable": "yes",
+                "apple-mobile-web-app-title": "AList",
+                "google": "notranslate"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://manu44.magtech.com.cn/Jwk_infotech_wk3/fileup/2096-3467/SUPPL/20160428145750.txt",
+          "displayLink": "manu44.magtech.com.cn",
+          "snippet": "Apr 27, 2016 ... ... 性别 37504887 N, 资产 37502604 N, 参数 37500569 N, 通信 37492740 V ... 跨过 1446932 V, 程控 1446893 V, 李小姐 1446775 一站式 1446727 ...",
+          "htmlSnippet": "Apr 27, 2016 <b>...</b> ... <b>性别</b> 37504887 N, 资产 37502604 N, 参数 37500569 N, 通信 37492740 V ... 跨过 1446932 V, 程控 1446893 V, 李小姐 1446775 一站式 1446727&nbsp;...",
+          "formattedUrl": "https://manu44.magtech.com.cn/Jwk_infotech.../20160428145750.txt",
+          "htmlFormattedUrl": "https://manu44.magtech.com.cn/Jwk_infotech.../20160428145750.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://tcci.ccf.org.cn/conference/2016/dldoc/evasampledata4-TaskAA.txt",
+          "displayLink": "tcci.ccf.org.cn",
+          "snippet": "... 跨年夜不放鞭炮，都在悄悄改变着了传统的过年方式。让我们一起来看看今年是怎样 ... 性别筛查怀孕中期做掉了。我不想承受这种痛苦。儿子真的是有那么好吗？ NONE ...",
+          "htmlSnippet": "... 跨年夜不放鞭炮，都在悄悄改变着了传统的过年方式。让我们一起来看看今年是怎样 ... <b>性别</b>筛查怀孕中期做掉了。我不想承受这种痛苦。儿子真的是有那么好吗？ NONE&nbsp;...",
+          "formattedUrl": "http://tcci.ccf.org.cn/conference/2016/dldoc/evasampledata4-TaskAA.txt",
+          "htmlFormattedUrl": "http://tcci.ccf.org.cn/conference/2016/dldoc/evasampledata4-TaskAA.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://jamesqi.com/sites/jamesqi.com/files/min_jian_mi_shu_da_quan_.txt",
+          "displayLink": "jamesqi.com",
+          "snippet": "... 跨其颈，手拿铁钩，用以钩头：欲令象左行，钩头右侧；欲右，钩左；欲退，钩额；欲 ... 性别。用看“追星”、观体形、探鱼腹来鉴别之。 1.看“追星”：在金鱼繁殖期间 ...",
+          "htmlSnippet": "... 跨其颈，手拿铁钩，用以钩头：欲令象左行，钩头右侧；欲右，钩左；欲退，钩额；欲 ... <b>性别</b>。用看“追星”、观体形、探鱼腹来鉴别之。 1.看“追星”：在金鱼繁殖期间&nbsp;...",
+          "formattedUrl": "https://jamesqi.com/sites/jamesqi.com/files/min_jian_mi_shu_da_quan_.txt",
+          "htmlFormattedUrl": "https://jamesqi.com/sites/jamesqi.com/files/min_jian_mi_shu_da_quan_.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/file-manage-files/en-US/20221207/gbjd/main.dic.txt",
+          "displayLink": "static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com",
+          "snippet": "Dec 6, 2022 ... ... 性一贯方针一贯道一资半级一赢一走一走了之一起一超一趟一足一跃一跃而起一跃而过一跃龙门一跌一跌不振一跌再跌一跟一跤一跨一路一路上一路人一路发 ...",
+          "htmlSnippet": "Dec 6, 2022 <b>...</b> ... 性一贯方针一贯道一资半级一赢一走一走了之一起一超一趟一足一跃一跃而起一跃而过一跃龙门一跌一跌不振一跌再跌一跟一跤一跨一路一路上一路人一路发&nbsp;...",
+          "formattedUrl": "https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/file.../main.dic.txt",
+          "htmlFormattedUrl": "https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/file.../main.dic.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://spaces.ac.cn/usr/uploads/2016/08/627400080.txt",
+          "displayLink": "spaces.ac.cn",
+          "snippet": "... 跨3165 很重要3164 亿美元3163 目光3162 拥抱3162 审3160 赔偿3159 编号3158 体育 ... 性别2730 小说2730 订阅号2730 斌2730 常年2729 苏州2728 鸡蛋价格2728 61 ...",
+          "htmlSnippet": "... 跨3165 很重要3164 亿美元3163 目光3162 拥抱3162 审3160 赔偿3159 编号3158 体育 ... <b>性别</b>2730 小说2730 订阅号2730 斌2730 常年2729 苏州2728 鸡蛋价格2728 61&nbsp;...",
+          "formattedUrl": "https://spaces.ac.cn/usr/uploads/2016/08/627400080.txt",
+          "htmlFormattedUrl": "https://spaces.ac.cn/usr/uploads/2016/08/627400080.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.25yw.com/baidu/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE.txt",
+          "displayLink": "www.25yw.com",
+          "snippet": "Sep 29, 2024 ... 1. 我们会对可识别的个人身份信息进行加密传输和存储，以确保数据的保密性。对于您手机设备标识符国际移动设备身份码（IMEI），我们在您的设备端会用MD5算法 ...",
+          "htmlSnippet": "Sep 29, 2024 <b>...</b> 1. 我们会对可识别的个人身份信息进行加密传输和存储，以确保数据的保密性。对于您手机设备标识符国际移动设备身份码（IMEI），我们在您的设备端会用MD5算法&nbsp;...",
+          "formattedUrl": "http://www.25yw.com/baidu/隐私协议.txt",
+          "htmlFormattedUrl": "http://www.25yw.com/baidu/隐私协议.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://wq1282.com/tools/%E4%B8%A4%E5%AD%97%E8%AF%8D%E5%BA%93.txt",
+          "displayLink": "wq1282.com",
+          "snippet": "... 跨地图地界地轴地幔地峡地网地层地心地精地火地牢地窖地宫地富地狱地铁地名地铺 ... 性别发呆改口发嗲性器尾号发力发车发黑发回发软悔罪发轫改办发困发圈发帖发财 ...",
+          "htmlSnippet": "... 跨地图地界地轴地幔地峡地网地层地心地精地火地牢地窖地宫地富地狱地铁地名地铺 ... <b>性别</b>发呆改口发嗲性器尾号发力发车发黑发回发软悔罪发轫改办发困发圈发帖发财&nbsp;...",
+          "formattedUrl": "http://wq1282.com/tools/两字词库.txt",
+          "htmlFormattedUrl": "http://wq1282.com/tools/两字词库.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:46:59"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "跨性别 filetype:txt",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:txt",
+            "totalResults": "18",
+            "searchTerms": "跨性别 filetype:txt",
+            "count": 8,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:txt",
+            "totalResults": "18",
+            "searchTerms": "跨性别 filetype:txt",
+            "count": 8,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.15209,
+        "formattedSearchTime": "0.15",
+        "totalResults": "18",
+        "formattedTotalResults": "18"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.beijing2008.cn/uploads/20160113/bianliang2.txt",
+          "displayLink": "www.beijing2008.cn",
+          "snippet": "Jan 13, 2016 ... ... 跨3省特大盗销摩托车团伙被端61人被抓广州缉毒枪战致2死1伤受伤民警无 ... 性别起诉书店欺诈心脏病患者听信道场“断食诵经” 4后天身亡轿车撞护栏 ...",
+          "htmlSnippet": "Jan 13, 2016 <b>...</b> ... 跨3省特大盗销摩托车团伙被端61人被抓广州缉毒枪战致2死1伤受伤民警无 ... <b>性别</b>起诉书店欺诈心脏病患者听信道场“断食诵经” 4后天身亡轿车撞护栏&nbsp;...",
+          "formattedUrl": "https://www.beijing2008.cn/uploads/20160113/bianliang2.txt",
+          "htmlFormattedUrl": "https://www.beijing2008.cn/uploads/20160113/bianliang2.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://paddlenlp.bj.bcebos.com/models/transformers/ernie_tiny/vocab.txt",
+          "displayLink": "paddlenlp.bj.bcebos.com",
+          "snippet": "... 跨·号线·糖·插·约翰臣·人民币·森林·定位·总结·纽约·千万·路上·发布会 ... 性别·毕·透明·局长·路段·mm ·予以·象·长城·流动·火箭队·新城 ...",
+          "htmlSnippet": "... 跨·号线·糖·插·约翰臣·人民币·森林·定位·总结·纽约·千万·路上·发布会 ... <b>性别</b>·毕·透明·局长·路段·mm ·予以·象·长城·流动·火箭队·新城&nbsp;...",
+          "formattedUrl": "https://paddlenlp.bj.bcebos.com/models/transformers/ernie_tiny/vocab.txt",
+          "htmlFormattedUrl": "https://paddlenlp.bj.bcebos.com/models/transformers/ernie_tiny/vocab.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://paddle-serving.bj.bcebos.com/reader/senta/vocab.txt",
+          "displayLink": "paddle-serving.bj.bcebos.com",
+          "snippet": "... 跨幅 9165 二两58 9166 八潭十险十八湾 9167 看容易看电影 9168 得火烧 9169 邹纹 ... 性别女 39485 海苔玮 39486 无数趟 39487 一陀焦 39488 潘神的迷宫 39489 ...",
+          "htmlSnippet": "... 跨幅 9165 二两58 9166 八潭十险十八湾 9167 看容易看电影 9168 得火烧 9169 邹纹 ... <b>性别</b>女 39485 海苔玮 39486 无数趟 39487 一陀焦 39488 潘神的迷宫 39489&nbsp;...",
+          "formattedUrl": "https://paddle-serving.bj.bcebos.com/reader/senta/vocab.txt",
+          "htmlFormattedUrl": "https://paddle-serving.bj.bcebos.com/reader/senta/vocab.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://paddlenlp.bj.bcebos.com/data/senta_word_dict.txt",
+          "displayLink": "paddlenlp.bj.bcebos.com",
+          "snippet": "... 跨幅二两58 八潭十险十八湾看容易看电影得火烧邹纹松仁小肚鸭肝黑茶伊涅斯塔前话 ... 性别女海苔玮无数趟一陀焦潘神的迷宫服务知识可想菜冷锅冷灶俩人点VoVo 真 ...",
+          "htmlSnippet": "... 跨幅二两58 八潭十险十八湾看容易看电影得火烧邹纹松仁小肚鸭肝黑茶伊涅斯塔前话 ... <b>性别</b>女海苔玮无数趟一陀焦潘神的迷宫服务知识可想菜冷锅冷灶俩人点VoVo 真&nbsp;...",
+          "formattedUrl": "https://paddlenlp.bj.bcebos.com/data/senta_word_dict.txt",
+          "htmlFormattedUrl": "https://paddlenlp.bj.bcebos.com/data/senta_word_dict.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.laotapo.com/tools/elasticsearch/NLPIR/NLPIR%20SDK/Classify/Data/ChnSenti-76005.txt",
+          "displayLink": "www.laotapo.com",
+          "snippet": "... 跨 21 横梁 21 横流 21 横蛮 21 横蛮无理 21 横眉怒目 21 横拍 21 横批 21 横切面 ... 性别 7 性病 7 性感 15 性高潮 7 性格 15 性关系 7 性激素 15 性急 7 性交 ...",
+          "htmlSnippet": "... 跨 21 横梁 21 横流 21 横蛮 21 横蛮无理 21 横眉怒目 21 横拍 21 横批 21 横切面 ... <b>性别</b> 7 性病 7 性感 15 性高潮 7 性格 15 性关系 7 性激素 15 性急 7 性交&nbsp;...",
+          "formattedUrl": "https://www.laotapo.com/tools/elasticsearch/NLPIR/.../ChnSenti-76005.txt",
+          "htmlFormattedUrl": "https://www.laotapo.com/tools/elasticsearch/NLPIR/.../ChnSenti-76005.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.sssch.net/Admin/ckfinder/userfiles/files/shujixiazai/wodeshudan/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%BC%A0%E3%80%8B%EF%BC%88%E5%85%A8-%E7%BD%97%E6%96%AF.%E7%89%B9%E9%87%8C%E5%B0%94%E7%89%88%EF%BC%89.txt",
+          "displayLink": "www.sssch.net",
+          "snippet": "... 跨过而立之年后青春的活力会稍减，但还会保持那种改变环境的力量吗？ 在10月雨季 ... 性别比例几乎和军队一样是18:1。根据毛泽东在长沙时的老朋友蔡畅的说法 ...",
+          "htmlSnippet": "... 跨过而立之年后青春的活力会稍减，但还会保持那种改变环境的力量吗？ 在10月雨季 ... <b>性别</b>比例几乎和军队一样是18:1。根据毛泽东在长沙时的老朋友蔡畅的说法&nbsp;...",
+          "formattedUrl": "http://www.sssch.net/Admin/.../《毛泽东传》（全-罗斯.特里尔版）.txt",
+          "htmlFormattedUrl": "http://www.sssch.net/Admin/.../《毛泽东传》（全-罗斯.特里尔版）.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "揣测:女骑手接单暗号是什么，一个女骑手2024-10-26 06:51:41",
+          "htmlTitle": "揣测:女骑手接单暗号是什么，一个女骑手2024-10-26 06:51:41",
+          "link": "http://bjdfmodel.com/index.php/cmf4t5gj4hf22znfn.txt",
+          "displayLink": "bjdfmodel.com",
+          "snippet": "3 days ago ... 有人认为，外卖骑手不论性别，都应该以公平竞争为基础，而不应设置额外的条件。也有人觉得，这种做法既能增加互动，又能让服务更具个性化。女骑手接单 ...",
+          "htmlSnippet": "3 days ago <b>...</b> 有人认为，外卖骑手不论<b>性别</b>，都应该以公平竞争为基础，而不应设置额外的条件。也有人觉得，这种做法既能增加互动，又能让服务更具个性化。女骑手接单&nbsp;...",
+          "formattedUrl": "http://bjdfmodel.com/index.php/cmf4t5gj4hf22znfn.txt",
+          "htmlFormattedUrl": "http://bjdfmodel.com/index.php/cmf4t5gj4hf22znfn.txt",
+          "pagemap": {
+            "metatags": [
+              {
+                "pagetype": "1",
+                "filetype": "0",
+                "renderer": "webkit",
+                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+                "publishedtype": "1",
+                "catalogs": "1002"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "水星直播黄平台_水星直播平台最新版合",
+          "htmlTitle": "水星直播黄平台_水星直播平台最新版合",
+          "link": "http://www.waytonlawyer.com/W0er/Xd4c/520/fid=err192796034.txt",
+          "displayLink": "www.waytonlawyer.com",
+          "snippet": "Oct 18, 2024 ... 董明(ming)珠曾(ceng)在(zai)某档综艺节目(mu)中提到“职场无关性别只在乎 ... 广西推动陶瓷艺术创新发展上演跨文化艺术盛宴 · 台湾同胞表白祖国 ...",
+          "htmlSnippet": "Oct 18, 2024 <b>...</b> 董明(ming)珠曾(ceng)在(zai)某档综艺节目(mu)中提到“职场无关<b>性别</b>只在乎 ... 广西推动陶瓷艺术创新发展上演跨文化艺术盛宴 &middot; 台湾同胞表白祖国&nbsp;...",
+          "formattedUrl": "http://www.waytonlawyer.com/W0er/Xd4c/520/fid=err192796034.txt",
+          "htmlFormattedUrl": "http://www.waytonlawyer.com/W0er/Xd4c/520/fid=err192796034.txt",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:type": "article",
+                "viewport": "width=device-width, initial-scale=1, user-scalable=0",
+                "applicable-device": "pc,mobile",
+                "og:release_date": "2024-10-18"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:47:38"
+  }
+]

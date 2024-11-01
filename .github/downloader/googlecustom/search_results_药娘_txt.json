@@ -1,0 +1,499 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "药娘 filetype:txt",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "1230",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "1230",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.196054,
+        "formattedSearchTime": "0.20",
+        "totalResults": "1230",
+        "formattedTotalResults": "1,230"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://tcci.ccf.org.cn/conference/2016/dldoc/evasampledata4-TaskAA.txt",
+          "displayLink": "tcci.ccf.org.cn",
+          "snippet": "... 药弄死他？”“好嘞！妥妥地！” NONE 1884 开放二胎 二胎了小伙伴们替我想个名字 ... 娘的不是意识形态上的极左渣滓就是既得利益的官僚。全面开放二胎政策得以顺利 ...",
+          "htmlSnippet": "... 药弄死他？”“好嘞！妥妥地！” NONE 1884 开放二胎 二胎了小伙伴们替我想个名字 ... 娘的不是意识形态上的极左渣滓就是既得利益的官僚。全面开放二胎政策得以顺利&nbsp;...",
+          "formattedUrl": "http://tcci.ccf.org.cn/conference/2016/dldoc/evasampledata4-TaskAA.txt",
+          "htmlFormattedUrl": "http://tcci.ccf.org.cn/conference/2016/dldoc/evasampledata4-TaskAA.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://archive.keyllo.com/W-%E8%AF%97%E6%AD%8C/%E5%8F%A4%E5%85%B8%E8%AF%97%E8%AF%8D-%E4%B8%AD%E5%8D%8E%E8%AF%97%E8%AF%8D%E5%90%8D%E5%8F%A5%E9%89%B4%E8%B5%8F%EF%BC%88%E7%9B%9B%E5%BA%86%E6%96%8C%EF%BC%89.txt",
+          "displayLink": "archive.keyllo.com",
+          "snippet": "... 娘边【出处】汉·无名氏《卖子诗》 【鉴赏】不幸遇上荒年，贫穷人家无以维生，只得 ... 药成，问言与谁餐？蟾蜍蚀圆影，大明夜已残。畀昔落九鸟，天人清且安。阴精 ...",
+          "htmlSnippet": "... 娘边【出处】汉·无名氏《卖子诗》 【鉴赏】不幸遇上荒年，贫穷人家无以维生，只得 ... 药成，问言与谁餐？蟾蜍蚀圆影，大明夜已残。畀昔落九鸟，天人清且安。阴精&nbsp;...",
+          "formattedUrl": "http://archive.keyllo.com/W.../古典诗词-中华诗词名句鉴赏（盛庆斌）.txt",
+          "htmlFormattedUrl": "http://archive.keyllo.com/W.../古典诗词-中华诗词名句鉴赏（盛庆斌）.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://spaces.ac.cn/usr/uploads/2016/08/627400080.txt",
+          "displayLink": "spaces.ac.cn",
+          "snippet": "... 药12042 士12037 礼12034 更加12033 集12028 才是12015 批12011 盐12005 然12000 ... 娘3182 说是3181 QQ群3181 图文3180 合格3178 疑3178 c 3176 赞美3173 要 ...",
+          "htmlSnippet": "... 药12042 士12037 礼12034 更加12033 集12028 才是12015 批12011 盐12005 然12000 ... 娘3182 说是3181 QQ群3181 图文3180 合格3178 疑3178 c 3176 赞美3173 要&nbsp;...",
+          "formattedUrl": "https://spaces.ac.cn/usr/uploads/2016/08/627400080.txt",
+          "htmlFormattedUrl": "https://spaces.ac.cn/usr/uploads/2016/08/627400080.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://paddlenlp.bj.bcebos.com/data/senta_word_dict.txt",
+          "displayLink": "paddlenlp.bj.bcebos.com",
+          "snippet": "... 娘syd 康沈医院酱五花一般五花肉413号上顶公交样汤米李琼斯上页无为人白玉木耳 ... 药妆店186cm 肉呼呼菜黄焖奥斯卡最佳外语片实至名归不一手耲抽号机面筋面特酱 ...",
+          "htmlSnippet": "... 娘syd 康沈医院酱五花一般五花肉413号上顶公交样汤米李琼斯上页无为人白玉木耳 ... 药妆店186cm 肉呼呼菜黄焖奥斯卡最佳外语片实至名归不一手耲抽号机面筋面特酱&nbsp;...",
+          "formattedUrl": "https://paddlenlp.bj.bcebos.com/data/senta_word_dict.txt",
+          "htmlFormattedUrl": "https://paddlenlp.bj.bcebos.com/data/senta_word_dict.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://lefeetest.oss-cn-beijing.aliyuncs.com/LeBook/files/article/txt/11407/3288477.txt",
+          "displayLink": "lefeetest.oss-cn-beijing.aliyuncs.com",
+          "snippet": "... 药来退药的人。 四目相对，那人倒是错开了眼神。江寒星看着那人，示意管家接过药 ... 娘了。” 乔灵儿开口，声音低低的：“没事了，就是宫中太凉，风寒入体了。” 温 ...",
+          "htmlSnippet": "... 药来退药的人。 四目相对，那人倒是错开了眼神。江寒星看着那人，示意管家接过药 ... 娘了。” 乔灵儿开口，声音低低的：“没事了，就是宫中太凉，风寒入体了。” 温&nbsp;...",
+          "formattedUrl": "https://lefeetest.oss-cn-beijing.aliyuncs.com/LeBook/files/.../3288477.txt",
+          "htmlFormattedUrl": "https://lefeetest.oss-cn-beijing.aliyuncs.com/LeBook/files/.../3288477.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "WebMetaSpace.git - Gitblit",
+          "htmlTitle": "WebMetaSpace.git - Gitblit",
+          "link": "http://183.162.254.44:3692/blob/WebMetaSpace.git/358e8569be52958626a6244c70a0390cc1e9156c/WebMetaSpace%2FAssets%2FResPack%2FFont%2F3500.txt",
+          "displayLink": "183.162.254.44",
+          "snippet": "... 娘酿鸟尿捏您宁凝牛扭纽农浓弄奴努怒女暖挪诺哦欧偶爬帕怕拍排牌派攀盘判叛盼庞旁 ... 药要耀爷也冶野业叶页夜液一伊衣医依仪夷宜姨移遗疑乙已以矣蚁椅义亿忆艺议 ...",
+          "htmlSnippet": "... 娘酿鸟尿捏您宁凝牛扭纽农浓弄奴努怒女暖挪诺哦欧偶爬帕怕拍排牌派攀盘判叛盼庞旁 ... 药要耀爷也冶野业叶页夜液一伊衣医依仪夷宜姨移遗疑乙已以矣蚁椅义亿忆艺议&nbsp;...",
+          "formattedUrl": "http://183.162.254.44:3692/.../WebMetaSpace%2FAssets%2FResPack%2FF...",
+          "htmlFormattedUrl": "http://183.162.254.44:3692/.../WebMetaSpace%2FAssets%2FResPack%2FF...",
+          "pagemap": {
+            "metatags": [
+              {
+                "viewport": "width=device-width, initial-scale=1.0"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://lefeetest.oss-cn-beijing.aliyuncs.com/LeBook/files/article/txt/9231/2993354.txt",
+          "displayLink": "lefeetest.oss-cn-beijing.aliyuncs.com",
+          "snippet": "杨禾对苗玉珠的坦白，就让他付出相当的代价又过了几日，趁着苗玉珠何修禅上山采药 ... 管他娘的惹出什么后果。 这么一来他也不想再连累苗家，尤其是苗玉珠。近几日，苗 ...",
+          "htmlSnippet": "杨禾对苗玉珠的坦白，就让他付出相当的代价又过了几日，趁着苗玉珠何修禅上山采药 ... 管他娘的惹出什么后果。 这么一来他也不想再连累苗家，尤其是苗玉珠。近几日，苗&nbsp;...",
+          "formattedUrl": "https://lefeetest.oss-cn-beijing.aliyuncs.com/LeBook/files/.../2993354.txt",
+          "htmlFormattedUrl": "https://lefeetest.oss-cn-beijing.aliyuncs.com/LeBook/files/.../2993354.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://wq1282.com/tools/%E4%B8%A4%E5%AD%97%E8%AF%8D%E5%BA%93.txt",
+          "displayLink": "wq1282.com",
+          "snippet": "... 药欺蒙菲菲欺世藏区期限苦了基隆欺骗苦难若能苦劝戎马苦参基础若有藏在基石茂盛 ... 娘石女三刀三个硬件感人古代三位三人感化威信三代感伤硬仗硬化三八古堡研修 ...",
+          "htmlSnippet": "... 药欺蒙菲菲欺世藏区期限苦了基隆欺骗苦难若能苦劝戎马苦参基础若有藏在基石茂盛 ... 娘石女三刀三个硬件感人古代三位三人感化威信三代感伤硬仗硬化三八古堡研修&nbsp;...",
+          "formattedUrl": "http://wq1282.com/tools/两字词库.txt",
+          "htmlFormattedUrl": "http://wq1282.com/tools/两字词库.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://bj.bcebos.com/paddlenlp/models/transformers/ernie_tiny/vocab.txt",
+          "displayLink": "bj.bcebos.com",
+          "snippet": "... 药·近年·论·环·熟悉·改善·罗马·文字·消费·东方·秦·日常·项·有时候 ... 娘·落实·颜·文物·放心·遇见·太子·钻脂·危机·一篇·出战·尺寸·延续 ...",
+          "htmlSnippet": "... 药·近年·论·环·熟悉·改善·罗马·文字·消费·东方·秦·日常·项·有时候 ... 娘·落实·颜·文物·放心·遇见·太子·钻脂·危机·一篇·出战·尺寸·延续&nbsp;...",
+          "formattedUrl": "https://bj.bcebos.com/paddlenlp/models/transformers/ernie_tiny/vocab.txt",
+          "htmlFormattedUrl": "https://bj.bcebos.com/paddlenlp/models/transformers/ernie_tiny/vocab.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "度翼里3盘都有.共3TB音乐资源yun.hei521.cn.txt | AList",
+          "htmlTitle": "度翼里3盘都有.共3TB音乐资源yun.hei521.cn.txt | AList",
+          "link": "https://al.lqbby.com:1443/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E6%88%91%E7%9A%84%E9%9F%B3%E4%B9%90/32987[3.314GB]230511.100/%E5%BA%A6%E7%BF%BC%E9%87%8C3%E7%9B%98%E9%83%BD%E6%9C%89.%E5%85%B13TB%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90yun.hei521.cn.txt",
+          "displayLink": "al.lqbby.com:1443",
+          "snippet": "... 娘_230221 https://cloud.189.cn/t/zMF3ueIN7vua - 230303已发_32853[3.32GB] ... 药神.2018.FGT https://cloud.189.cn/t/NBJrA3VRVZN3 https://cloud.189.cn/t ...",
+          "htmlSnippet": "... 娘_230221 https://cloud.189.cn/t/zMF3ueIN7vua - 230303已发_32853[3.32GB] ... 药神.2018.FGT https://cloud.189.cn/t/NBJrA3VRVZN3 https://cloud.189.cn/t&nbsp;...",
+          "formattedUrl": "https://al.lqbby.com:1443/.../度翼里3盘都有.共3TB音乐资源yun.hei521.cn...",
+          "htmlFormattedUrl": "https://al.lqbby.com:1443/.../度翼里3盘都有.共3TB音乐资源yun.hei521.cn...",
+          "pagemap": {
+            "metatags": [
+              {
+                "referrer": "same-origin",
+                "theme-color": "#000000",
+                "viewport": "width=device-width, initial-scale=1",
+                "apple-mobile-web-app-capable": "yes",
+                "apple-mobile-web-app-title": "AList",
+                "google": "notranslate"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:08"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "药娘 filetype:txt",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "1230",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "1230",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "1230",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.168921,
+        "formattedSearchTime": "0.17",
+        "totalResults": "1230",
+        "formattedTotalResults": "1,230"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.agrj.com/fldq%5Cwinwb86.txt",
+          "displayLink": "www.agrj.com",
+          "snippet": "... 药ax axqy 荭axa axaf 蕴藏axad 荭axaf 芎axb 荮axf axfu 苏维埃axfc 荮axfu 莼 ... 娘fdvy 老大爷fdwq 垅fdx fdxn 教研组fdxe 垅fdxn 城乡fdxt 城市fdym 圾fe ...",
+          "htmlSnippet": "... 药ax axqy 荭axa axaf 蕴藏axad 荭axaf 芎axb 荮axf axfu 苏维埃axfc 荮axfu 莼 ... 娘fdvy 老大爷fdwq 垅fdx fdxn 教研组fdxe 垅fdxn 城乡fdxt 城市fdym 圾fe&nbsp;...",
+          "formattedUrl": "http://www.agrj.com/fldq%5Cwinwb86.txt",
+          "htmlFormattedUrl": "http://www.agrj.com/fldq%5Cwinwb86.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.coderjie.com/static/corpus/names/male.txt",
+          "displayLink": "www.coderjie.com",
+          "snippet": "... 药的人陈阿呡丶私人音乐厅幽默搞笑大王星座扒皮大叔黄渤孙红雷汤店关明贺沐阳咯 ... 娘郭柯35mm 王于京王栎鑫陈哲远- 游本昌ZERO-G文祺Wiz 小米王川唐山交警魏来 ...",
+          "htmlSnippet": "... 药的人陈阿呡丶私人音乐厅幽默搞笑大王星座扒皮大叔黄渤孙红雷汤店关明贺沐阳咯 ... 娘郭柯35mm 王于京王栎鑫陈哲远- 游本昌ZERO-G文祺Wiz 小米王川唐山交警魏来&nbsp;...",
+          "formattedUrl": "http://www.coderjie.com/static/corpus/names/male.txt",
+          "htmlFormattedUrl": "http://www.coderjie.com/static/corpus/names/male.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.laotapo.com/tools/elasticsearch/NLPIR/NLPIR%20SDK/Classify/Data/ChnSenti-76005.txt",
+          "displayLink": "www.laotapo.com",
+          "snippet": "... 药 6 避孕针 6 避重就轻 6 避重就轻 6 陛下 6 鞭 6 鞭策 6 鞭策 6 鞭长莫及 6 ... 娘 0 碟 0 碟片 0 碟子 0 蝶 0 蝶泳 0 迭 0 迭出 0 迭起 0 谍 0 谍报 0 叠 0 ...",
+          "htmlSnippet": "... 药 6 避孕针 6 避重就轻 6 避重就轻 6 陛下 6 鞭 6 鞭策 6 鞭策 6 鞭长莫及 6 ... 娘 0 碟 0 碟片 0 碟子 0 蝶 0 蝶泳 0 迭 0 迭出 0 迭起 0 谍 0 谍报 0 叠 0&nbsp;...",
+          "formattedUrl": "https://www.laotapo.com/tools/elasticsearch/NLPIR/.../ChnSenti-76005.txt",
+          "htmlFormattedUrl": "https://www.laotapo.com/tools/elasticsearch/NLPIR/.../ChnSenti-76005.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://xxkemall.oss-cn-hangzhou.aliyuncs.com/cookbooks/2024/3/4/20243401827240269171.txt",
+          "displayLink": "xxkemall.oss-cn-hangzhou.aliyuncs.com",
+          "snippet": "Mar 4, 2024 ... ... 药，才变成人形。 <br/> <br/> 无论如何，他都要去会一会这只九尾狐 ... 娘的大，光是脊背就有三室两厅大小，双翅展开足足有上百米长，坐在上面 ...",
+          "htmlSnippet": "Mar 4, 2024 <b>...</b> ... 药，才变成人形。 &lt;br/&gt; &lt;br/&gt; 无论如何，他都要去会一会这只九尾狐 ... 娘的大，光是脊背就有三室两厅大小，双翅展开足足有上百米长，坐在上面&nbsp;...",
+          "formattedUrl": "https://xxkemall.oss-cn-hangzhou.aliyuncs.com/.../2024340182724026917...",
+          "htmlFormattedUrl": "https://xxkemall.oss-cn-hangzhou.aliyuncs.com/.../2024340182724026917...",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://manu44.magtech.com.cn/Jwk_infotech_wk3/fileup/2096-3467/SUPPL/20160428145750.txt",
+          "displayLink": "manu44.magtech.com.cn",
+          "snippet": "Apr 27, 2016 ... ... 药业 5523062 攻势 5522645 ADJ, 许久 5521655 ADJ, 阿根廷 5521062 N ... 娘 1415166 外屏 1415139 我若 1415121 中介服务 1415006 破空 ...",
+          "htmlSnippet": "Apr 27, 2016 <b>...</b> ... 药业 5523062 攻势 5522645 ADJ, 许久 5521655 ADJ, 阿根廷 5521062 N ... 娘 1415166 外屏 1415139 我若 1415121 中介服务 1415006 破空&nbsp;...",
+          "formattedUrl": "https://manu44.magtech.com.cn/Jwk_infotech.../20160428145750.txt",
+          "htmlFormattedUrl": "https://manu44.magtech.com.cn/Jwk_infotech.../20160428145750.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://paddle-serving.bj.bcebos.com/reader/senta/vocab.txt",
+          "displayLink": "paddle-serving.bj.bcebos.com",
+          "snippet": "... 娘 419 syd 420 康沈医院 421 酱五花一般五花肉 422 413号 423 上顶 424 公交样 ... 药妆店 2109 186cm 2110 肉呼呼 2111 菜黄焖 2112 奥斯卡最佳外语片实至名归 ...",
+          "htmlSnippet": "... 娘 419 syd 420 康沈医院 421 酱五花一般五花肉 422 413号 423 上顶 424 公交样 ... 药妆店 2109 186cm 2110 肉呼呼 2111 菜黄焖 2112 奥斯卡最佳外语片实至名归&nbsp;...",
+          "formattedUrl": "https://paddle-serving.bj.bcebos.com/reader/senta/vocab.txt",
+          "htmlFormattedUrl": "https://paddle-serving.bj.bcebos.com/reader/senta/vocab.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "UIE/uie-char-small/vocab.txt at $main",
+          "htmlTitle": "UIE/uie-char-small/vocab.txt at $main",
+          "link": "https://swanhub.co/13227758627/UIE/blob/main/uie-char-small/vocab.txt",
+          "displayLink": "swanhub.co",
+          "snippet": "... 药 548培 549血 550亩 551龙 552越 553值 554几 555边 556读 557未 558曾 559测 ... 娘 1510肿 1511徒 1512伏 1513磁 1514杯 1515丛 1516旨 1517琴 151819 1519炮 ...",
+          "htmlSnippet": "... 药 548培 549血 550亩 551龙 552越 553值 554几 555边 556读 557未 558曾 559测 ... 娘 1510肿 1511徒 1512伏 1513磁 1514杯 1515丛 1516旨 1517琴 151819 1519炮&nbsp;...",
+          "formattedUrl": "https://swanhub.co/13227758627/UIE/blob/main/uie-char.../vocab.txt",
+          "htmlFormattedUrl": "https://swanhub.co/13227758627/UIE/blob/main/uie-char.../vocab.txt",
+          "pagemap": {
+            "metatags": [
+              {
+                "viewport": "width=device-width, initial-scale=1.0"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/file-manage-files/en-US/20221207/gbjd/main.dic.txt",
+          "displayLink": "static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com",
+          "snippet": "Dec 6, 2022 ... ... 药一营一落千丈一落泻势一薰一莸一虎不河一虎势单一虎难敌众犬一蛇两头一 ... 娘乳山乳山县乳山市乳峰乳房乳房状乳晕乳根乳母乳比重计乳汁乳汁状 ...",
+          "htmlSnippet": "Dec 6, 2022 <b>...</b> ... 药一营一落千丈一落泻势一薰一莸一虎不河一虎势单一虎难敌众犬一蛇两头一 ... 娘乳山乳山县乳山市乳峰乳房乳房状乳晕乳根乳母乳比重计乳汁乳汁状&nbsp;...",
+          "formattedUrl": "https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/file.../main.dic.txt",
+          "htmlFormattedUrl": "https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/file.../main.dic.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.beijing2008.cn/uploads/20150616/bianliang2.txt",
+          "displayLink": "www.beijing2008.cn",
+          "snippet": "... 药落出租车上司机发现及时送还浙江高潮村15年公布59期财务公告实现公务零招待深圳 ... 娘割肉费无力满足诉离婚宁夏部分地区推广高效节水灌溉“叫好难叫座” 发改委 ...",
+          "htmlSnippet": "... 药落出租车上司机发现及时送还浙江高潮村15年公布59期财务公告实现公务零招待深圳 ... 娘割肉费无力满足诉离婚宁夏部分地区推广高效节水灌溉“叫好难叫座” 发改委&nbsp;...",
+          "formattedUrl": "https://www.beijing2008.cn/uploads/20150616/bianliang2.txt",
+          "htmlFormattedUrl": "https://www.beijing2008.cn/uploads/20150616/bianliang2.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://jamesqi.com/sites/jamesqi.com/files/min_jian_mi_shu_da_quan_.txt",
+          "displayLink": "jamesqi.com",
+          "snippet": "... 药，惟莲心食之，令人烦杂。”据我所知，此二味都是现今医家所常用的药，而以上两 ... 娘，曾验此方，取良效果。自然脱法妇女无故坠胎，其罪与杀人同，以是禁令其 ...",
+          "htmlSnippet": "... 药，惟莲心食之，令人烦杂。”据我所知，此二味都是现今医家所常用的药，而以上两 ... 娘，曾验此方，取良效果。自然脱法妇女无故坠胎，其罪与杀人同，以是禁令其&nbsp;...",
+          "formattedUrl": "https://jamesqi.com/sites/jamesqi.com/files/min_jian_mi_shu_da_quan_.txt",
+          "htmlFormattedUrl": "https://jamesqi.com/sites/jamesqi.com/files/min_jian_mi_shu_da_quan_.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:10"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "药娘 filetype:txt",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "22",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 2,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:txt",
+            "totalResults": "22",
+            "searchTerms": "药娘 filetype:txt",
+            "count": 2,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.100332,
+        "formattedSearchTime": "0.10",
+        "totalResults": "22",
+        "formattedTotalResults": "22"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://rocket049.cn/zgzhsj/content.txt",
+          "displayLink": "rocket049.cn",
+          "snippet": "... 药。刘伯承清楚地数出了七十四刀。 刘伯承的总部设在邯郸附近，从北平前往那里要 ... 娘一手往灶里加柴禾，一手拉风箱，锅台上发出烧焦小米的酸味儿。我同老大娘 ...",
+          "htmlSnippet": "... 药。刘伯承清楚地数出了七十四刀。 刘伯承的总部设在邯郸附近，从北平前往那里要 ... 娘一手往灶里加柴禾，一手拉风箱，锅台上发出烧焦小米的酸味儿。我同老大娘&nbsp;...",
+          "formattedUrl": "https://rocket049.cn/zgzhsj/content.txt",
+          "htmlFormattedUrl": "https://rocket049.cn/zgzhsj/content.txt",
+          "mime": "text/plain",
+          "fileFormat": "text/plain"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "大秦皇陵_大秦皇陵TXT免费下载",
+          "htmlTitle": "大秦皇陵_大秦皇陵TXT免费下载",
+          "link": "http://www.waytonlawyer.com/O4AL/Izi/zh_cn=txt1900994124.txt",
+          "displayLink": "www.waytonlawyer.com",
+          "snippet": "Oct 14, 2024 ... 鸠十娘. 猜你喜欢. 中国农业银行签署联合国《负责任银行原则》. 据报 ... 降糖药获批“减肥” 哪些胖人适用. 在加(jia)拿大，蒙(meng)特利尔各主(zhu) ...",
+          "htmlSnippet": "Oct 14, 2024 <b>...</b> 鸠十娘. 猜你喜欢. 中国农业银行签署联合国《负责任银行原则》. 据报 ... 降糖药获批“减肥” 哪些胖人适用. 在加(jia)拿大，蒙(meng)特利尔各主(zhu)&nbsp;...",
+          "formattedUrl": "http://www.waytonlawyer.com/O4AL/Izi/zh_cn=txt1900994124.txt",
+          "htmlFormattedUrl": "http://www.waytonlawyer.com/O4AL/Izi/zh_cn=txt1900994124.txt",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:type": "article",
+                "viewport": "width=device-width, initial-scale=1, user-scalable=0",
+                "applicable-device": "pc,mobile",
+                "og:release_date": "2024-10-14"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:13"
+  }
+]

@@ -1,0 +1,1470 @@
+{
+  "query": "变性 新闻",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 5,
+  "endpoint": "/search",
+  "date": "2024-10-31T04:13:43.006164",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "变性- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/topics/c4vmr082rv1t",
+          "snippet": "林郁婷和凯莉芙夺金之后：奥运和体育界未来如何面对男女定义的难题？ 2024年8月13日. 遗传变异如此众多和多样态，许多专家强调仅根据是否有Y ...",
+          "position": 1
+        },
+        {
+          "title": "变性新闻-新闻频道 - 搜狐",
+          "link": "http://news.sohu.com/1/0204/54/subject218885496.shtml",
+          "snippet": "成都首例变性人婚后生活日子清苦感情融洽(图)(09/06 10:12) ; 男子欲寻赞助圆女人梦手术后愿当模特还债(图)(08/04 03:18) ; 成都某公司欲打造变性人将其包装成代言人(图)(05/ ...",
+          "position": 2
+        },
+        {
+          "title": "变性人陈莉莉参加环球小姐选美_新闻中心_新浪网",
+          "link": "http://news.sina.com.cn/z/schelilixuanmei/",
+          "snippet": "陈莉莉参加环姐初赛成最受欢迎“女主角”. 在环球小姐四川赛区的初赛中，变性人陈莉莉容光焕发，与37名佳丽出现在环姐的大舞台上，成为昨日最受欢迎的“女主角”...[评论].",
+          "position": 3
+        },
+        {
+          "title": "香港罕有跨性别武术家许玮枫专访：“我男变女，喜欢女生，一点不柔弱”",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-54553312",
+          "snippet": "40岁的许玮枫（Terry Hui，原名许伟峰）是香港一名跨性别女性（跨女），她在四年前完成变性手术，从男生变成女生，身份证明文件也顺利改成女性，现职室内设计师 ...",
+          "date": "2020年11月13日",
+          "position": 4
+        },
+        {
+          "title": "中国变性人-新闻频道 - 搜狐",
+          "link": "http://news.sohu.com/1/0504/63/subject220016329.shtml",
+          "snippet": "川变性人婚礼成变性人峰会(03/18 10:38); 变性人陈莉莉被劫后首次露面表示对将来很迷惘(03/18 06:07); 一个变性人的内心世界：性别模糊是我最深的痛(03/18 01:22); 变性人 ...",
+          "position": 5
+        },
+        {
+          "title": "“最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00",
+          "snippet": "有“最美变性人”之称的韩国女星河莉秀，虽然已经很少在幕前演出，但仍活跃在社交平台。近日，河莉秀晒出近照，只见年近半百的她少女感满满，但目前外表已进化到 ...",
+          "date": "2024年10月1日",
+          "position": 6
+        },
+        {
+          "title": "巴黎奥运，对变性运动员说不-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20240724A097XO00",
+          "snippet": "01美国跨性别游泳运动员莉亚·托马斯因国际泳联禁止曾经历过男性青春期的跨性别女性参加最高级别游泳比赛而败诉，无法参加巴黎奥运会。",
+          "date": "2024年7月24日",
+          "position": 7
+        },
+        {
+          "title": "“最美变性人”河莉秀49岁近照曝光网：面目全非 - 联合早报",
+          "link": "https://www.zaobao.com.sg/entertainment/story20241002-4905086",
+          "snippet": "曾有“韩国最美变性女星”称号的河莉秀（Harisu）1999年出道，当时坦承自己是变性人，在相当保守的韩国社会掀起一阵轰动，知名度暴升让她财源滚滚。",
+          "date": "2024年10月2日",
+          "position": 8
+        },
+        {
+          "title": "圣座教义部覆函：变性人能领受圣洗 - Vatican News",
+          "link": "https://www.vaticannews.va/zh/vatican-city/news/2023-11/doctrine-faith-baptisms-transsexuals.html",
+          "snippet": "（梵蒂冈新闻网）变性人，即使接受了荷尔蒙治疗或变性手术，“如果不存在在信众中造成公开的恶表或迷失方向的危险”，能接受圣洗。同性伴侣的孩子即使是由代孕 ...",
+          "date": "2023年11月9日",
+          "position": 9
+        },
+        {
+          "title": "美国前海豹突击队成员后悔变性：我被CNN利用了-观察者网",
+          "link": "https://www.guancha.cn/internation/2022_12_12_670942.shtml",
+          "snippet": "然而，这名美国第一位公开变性的海豹突击队成员，却在近日宣布自己正在“去性别转换”，改回出生性别，并抨击美国现在的“变性热潮”。 据福克斯新闻网12月11日 ...",
+          "date": "2022年12月12日",
+          "position": 10
+        },
+        {
+          "title": "联合国人权专家：匈牙利新立法将危及变性人和性别多样化人群的权利",
+          "link": "https://news.un.org/zh/story/2020/04/1056282",
+          "snippet": "有关联合国新闻的每日更新报道，请单击此处。 此外，这项立法可能会使已经颁发给跨性别者和性别多样化人群的现有政府文件失效。 由于 ...",
+          "date": "2020年4月29日",
+          "position": 11
+        },
+        {
+          "title": "反对仇视同性恋、双性恋、间性恋与变性者国际日- 美国驻华大使馆和 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/on-the-international-day-against-homophobia-biphobia-interphobia-and-transphobia-2/",
+          "snippet": "新闻声明. 安东尼·布林肯国务卿 2024年5月17日. 每年的5月17日，我们都会纪念“反对仇视同性恋、双性恋、间性恋与变性者国际日”。在这一天，我们反思全 ...",
+          "date": "2024年5月20日",
+          "position": 12
+        },
+        {
+          "title": "特朗普签署备忘录禁止变性人参军-新华网",
+          "link": "http://news.xinhuanet.com/world/2017-08/26/c_1121546995.htm",
+          "snippet": "当地时间2017年7月26日，美国华盛顿，美国众议院议员和全国跨性别平等中心执行主任Mara Keisling举行新闻发布会，谴责特朗普发布禁止变性人以任何形式服 ...",
+          "date": "2017年8月26日",
+          "position": 13
+        },
+        {
+          "title": "跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员",
+          "link": "https://m.thepaper.cn/newsDetail_forward_13850994",
+          "snippet": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与 ...",
+          "date": "2021年8月2日",
+          "position": 14
+        },
+        {
+          "title": "教廷宣言批变性、代孕威胁人性尊严 - 维基新闻:首页- Wikinews",
+          "link": "https://zh.wikinews.org/zh-cn/%E6%95%99%E5%BB%B7%E5%AE%A3%E8%A8%80%E6%89%B9%E8%AE%8A%E6%80%A7%E3%80%81%E4%BB%A3%E5%AD%95%E5%A8%81%E8%84%85%E4%BA%BA%E6%80%A7%E5%B0%8A%E5%9A%B4",
+          "snippet": "梵蒂冈教义部筹备五年，本月10日发表长达20页的《尊严无尽》（Infinite Dignity）宣言，阐述天主教会视为威胁人性尊严的行为，包括代孕、性别肯定手术、性别 ...",
+          "date": "2024年5月28日",
+          "position": 15
+        },
+        {
+          "title": "关于公民实施变性手术后变更户口登记性别项目有关问题的通知-河南 ...",
+          "link": "https://hnga.henan.gov.cn/2021/11-19/2350238.html",
+          "snippet": "... ：为做好公民实施变性手术后性别变更登记工作，现就执行《公安部关于公民实施变性 ... 新闻 · 办事大厅 · 河南政务服务网 · 互联网+便民服务平台 · 政务服务 ...",
+          "date": "2021年11月19日",
+          "position": 16
+        },
+        {
+          "title": "皇后区男子因变性女友拒绝继续卖淫而试图杀死她而认罪，谋杀未遂",
+          "link": "https://queensda.org/%E7%9A%87%E5%90%8E%E5%8C%BA%E7%94%B7%E5%AD%90%E5%9B%A0%E5%8F%98%E6%80%A7%E5%A5%B3%E5%8F%8B%E6%8B%92%E7%BB%9D%E7%BB%A7%E7%BB%AD%E5%8D%96%E6%B7%AB%E8%80%8C%E8%AF%95%E5%9B%BE%E6%9D%80%E6%AD%BB%E5%A5%B9/?lang=zh-hans",
+          "snippet": "**刑事投诉和起诉书是指控。 在证明有罪之前，被告被推定为无罪。 发布在新闻发布, 法院 ...",
+          "position": 17
+        },
+        {
+          "title": "丹麦修改疾病指南：“想变性”不再是精神疾病 - 新闻频道- 央视网",
+          "link": "http://news.cctv.com/2016/06/03/ARTIeWzi08JtHIXY5oYwQl0o160603.shtml",
+          "snippet": "丹麦议会的卫生委员会5月31日决定，从明年1月1日起，“想变性”或“跨性别”这种精神状态将不再是丹麦卫生部《临床疾病指南》所列的精神疾病。",
+          "date": "2016年6月3日",
+          "position": 18
+        },
+        {
+          "title": "杨柳回应对手争议 - 新浪新闻",
+          "link": "https://news.sina.cn/gn/2024-08-10/detail-incicfvq5020336.d.html",
+          "snippet": "更多新闻. 打不过才是正常！中国女拳手杨柳不敌疑似“变性人”哈利夫，获66公斤级亚军（上观新闻）. 当地时间9日晚，巴黎奥运会拳击项目女子66公斤级决赛 ...",
+          "date": "2024年8月10日",
+          "position": 19
+        },
+        {
+          "title": "香港终院称婚姻性质已变化变性人有权结婚 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n/2013/0514/c70731-21475682.html",
+          "snippet": "香港终院称婚姻性质已变化 变性人有权结婚. 2013年05月14日10:42 来源：中国新闻网 手机看新闻. 打印网摘纠错商城分享推荐 ...",
+          "position": 20
+        },
+        {
+          "title": "特朗普变性人服役禁令遭“夹击” 美议员：十分“丑陋” - 新华网",
+          "link": "http://www.xinhuanet.com/world/2017-07/28/c_129665792.htm",
+          "snippet": "该消息在美国政界和民间引发广泛争议，美民权组织和LGBT(同性恋、双性恋及变性人)群体对此深表不满。 美国有线电视新闻网(CNN)27日报道称，特朗普于26 ...",
+          "date": "2017年7月28日",
+          "position": 21
+        },
+        {
+          "title": "皮莱欢迎澳大利亚做出在护照中承认变性人性别取向的决定 - UN News",
+          "link": "https://news.un.org/zh/story/2011/09/158712",
+          "snippet": "联合国人权高专办发言人科尔维尔（Rupert Colville）9月16日在日内瓦举行的记者会上指出，人权高专对澳大利亚政府日前决定，让变性者、双性人和性别未定者 ...",
+          "date": "2011年9月16日",
+          "position": 22
+        },
+        {
+          "title": "世卫组织重​新归类“变性”不再被视为精神病 - 中国网新闻中心",
+          "link": "http://news.china.com.cn/2019-05/31/content_74840251.htm",
+          "snippet": "世卫组织重​新归类“变性”不再被视为精神病 ... 据美国“侨报网”5月29日报道，世界卫生组织的立法机构要将跨性别者这个术语——“性别不一致”（gender inence），从该 ...",
+          "date": "2019年5月31日",
+          "position": 23
+        },
+        {
+          "title": "反对仇视同性恋、双性恋、间性恋与变性者国际日",
+          "link": "https://china.usembassy-china.org.cn/zh/on-the-international-day-against-homophobia-transphobia-and-biphobia-zh/",
+          "snippet": "... 性人群体的贡献时，美国重申这一共同价值：每个人都理应有尊严地生活。 LGBTQI+, 国务卿安东尼·布林肯, 新闻简报 · 新闻 · 美国驻华大使馆和领事馆 · 白宫 ...",
+          "date": "2021年5月17日",
+          "position": 24
+        },
+        {
+          "title": "加拿大一变性人获准选美14岁开始变性(图) - 新闻频道- 央视网",
+          "link": "http://news.cntv.cn/world/20120406/105424.shtml",
+          "snippet": "塔拉茨科娃现年23岁。 塔拉茨科娃出生时为男性，19岁时接受变性手术. “环球小姐组织”美国东部时间3日改变先前决定，准许詹娜塔拉茨科娃参加今年“环球 ...",
+          "date": "2012年4月6日",
+          "position": 25
+        },
+        {
+          "title": "[新闻开讲]惠州：72岁老汉要做变性手术获全家支持",
+          "link": "http://news.cctv.com/2017/02/18/VIDEpc69AMKO7DS55W34Ki5z170218.shtml",
+          "snippet": "... 变性手术. 视频简介. 惠州：72岁老汉要做变性手术，获全家支持。 [新闻开讲]惠州：72岁老汉要做变性手术获全家支持. 简介. 央视网更新时间：2017年02月18 ...",
+          "date": "2017年2月18日",
+          "position": 26
+        },
+        {
+          "title": "博雷利代表欧洲联盟在2020年5月17日反对仇视同性恋、变性者和双 ...",
+          "link": "https://www.eeas.europa.eu/delegations/china/%E5%A4%96%E4%BA%A4%E4%B8%8E%E5%AE%89%E5%85%A8%E6%94%BF%E7%AD%96%E9%AB%98%E7%BA%A7%E4%BB%A3%E8%A1%A8%E8%8B%A5%E4%BD%95%E5%A1%9E%C2%B7%E5%8D%9A%E9%9B%B7%E5%88%A9%E4%BB%A3%E8%A1%A8%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F%E5%9C%A82020%E5%B9%B45%E6%9C%8817%E6%97%A5%E5%8F%8D%E5%AF%B9%E4%BB%87%E8%A7%86%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E8%80%85%E5%92%8C%E5%8F%8C%E6%80%A7%E6%81%8B%E5%9B%BD%E9%99%85%E6%97%A5%E4%B9%8B%E9%99%85%E5%8F%91%E8%A1%A8%E7%9A%84%E5%A3%B0%E6%98%8E_zh-hans",
+          "snippet": "新闻中心及资源 · 赠款 · 招标 · 拍卖销售. 新闻中心及资源. microphones with a ... 将性取向定为犯罪，不承认变性者和双性人的身份，导致LGBTI人士的污 ...",
+          "date": "2020年5月17日",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 公众对变性人士权利的看法: 中国 - Williams Institute",
+          "link": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-China-Chinese-Jun-2021.pdf",
+          "snippet": "中国对女同性恋、男同性恋、双性恋、变性人士和间性. （LGBTI）人士的社会态度 ... 威廉姆斯学院、益普索和Buzzfeed 新闻设计了该调查，以收集有关变. 性人士的公众 ...",
+          "position": 28
+        },
+        {
+          "title": "奥巴马勒令学校允许变性学生根据认同性别如厕 - 新闻",
+          "link": "https://news.66wz.com/system/2016/05/13/104827933.shtml",
+          "snippet": "奥巴马勒令学校允许变性学生根据认同性别如厕,温网,新闻,体育,娱乐,交友,旅游,文化,论坛,短信,数码,汽车,手机,财经,科技,温州地区门户网站.",
+          "date": "2016年5月13日",
+          "position": 29
+        },
+        {
+          "title": "意大利选出首位变性人市长，创造历史 - 新闻- 中国网",
+          "link": "http://news.china.com.cn/2019-05/30/content_74836514.htm",
+          "snippet": "据了解，内格里此前从未涉足政治，但在法律界小有名气。5年前他的名字还是玛丽亚，经历多次变性手术后，他变性成功，改名为内格里。此后他成为了变性人权益的 ...",
+          "date": "2019年5月30日",
+          "position": 30
+        },
+        {
+          "title": "美“环球小姐”改规则允许变性人报名参加 - 新闻频道",
+          "link": "http://news.cntv.cn/20120414/104135.shtml",
+          "snippet": "美“环球小姐”改规则允许变性人报名参加,“环球小姐组织”10日发表声明，改变参赛规则，自2013选美季开始，允许变性人报名参加所有“环姐”赛事。",
+          "date": "2012年4月14日",
+          "position": 31
+        },
+        {
+          "title": "性别变更业务办理流程（实施变性手术后） - 泾县人民政府",
+          "link": "https://www.ahjx.gov.cn/Jczwgk/show/1981243.html",
+          "snippet": "性别变更业务办理流程（实施变性手术后）, 文号：, 无. 发布日期：, 2024 ... 新闻出版版权 · 广播电视 · 交通运输 · 水利 · 郎溪县 · 自然资源 · 重大建设 ...",
+          "date": "2024年6月3日",
+          "position": 32
+        },
+        {
+          "title": "卫生部办公厅关于印发《变性手术技术管理规范（试行）》的通知",
+          "link": "http://www.nhc.gov.cn/zwgk/wtwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml",
+          "snippet": "新闻中心 · 政务公开 · 政务服务 · 交流互动 · 专题专栏. 委厅文件. 您现在所在位置 ... 为贯彻落实《医疗技术临床应用管理办法》，做好变性手术技术审核和 ...",
+          "date": "2009年11月20日",
+          "position": 33
+        },
+        {
+          "title": "民政部：变性人的结婚登记合法有效 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2003/01/id/32951.shtml",
+          "snippet": "中国法院网首页 · 新闻 · 审判 · 执行 · 评论 · 时讯 · 法学 · 地方法院 · 论坛 ...",
+          "date": "2003年1月16日",
+          "position": 34
+        },
+        {
+          "title": "变性人新闻资料 - 星洲日报",
+          "link": "https://www.sinchew.com.my/tag/%E5%8F%98%E6%80%A7%E4%BA%BA",
+          "snippet": "泰国人妖十年间骗70多名日本人金额达330万| 视频| 泰菲变性人当街打架！场面失控连警察都受伤| 狮城小印度店屋成变性人淫窟执法员破门逮人14“艳女”被捕| 日本最高 ...",
+          "position": 35
+        },
+        {
+          "title": "卫生部办公厅关于印发《变性手术技术管理规范（试行）》的通知",
+          "link": "http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml",
+          "snippet": "新闻 · 信息 · 服务 · 互动 · 专题 · 首页 > 信息 > 政策法规 > 委厅文件. 委厅文件 ... 为贯彻落实《医疗技术临床应用管理办法》，做好变性手术技术审核和 ...",
+          "date": "2009年11月20日",
+          "position": 36
+        },
+        {
+          "title": "学术讲座-视网膜变性疾病的机制和干预 - 厦门大学眼科研究所",
+          "link": "https://eye.xmu.edu.cn/info/1003/2911.htm",
+          "snippet": "所在位置： 首页 新闻动态 正文. 新闻动态. 学术讲座-视网膜变性疾病的机制和干预. 访问量：186 发布时间：2023年11月20日. 上一篇：真诚相待，共创美好团队——眼科研究所班 ...",
+          "position": 37
+        },
+        {
+          "title": "刘庆淮、陈雪团队揭示年龄相关性黄斑变性发病新机制",
+          "link": "https://kjc.njmu.edu.cn/2022/1118/c18615a228823/page.htm",
+          "snippet": "刘庆淮、陈雪团队揭示年龄相关性黄斑变性发病新机制. 发布者：校网新闻管理员发布时间：2022-11-18浏览次数：4307. 11月15日，国际学术期刊《细胞报告》（Cell Reports）在线 ...",
+          "position": 38
+        },
+        {
+          "title": "變性| 搜尋標籤| 聯合新聞網",
+          "link": "https://udn.com/search/tagging/2/%E8%AE%8A%E6%80%A7",
+          "snippet": "搜尋｛變性｝共找到37篇新聞。udn.com 提供即時新聞以及豐富的政治、社會、地方、兩岸、國際、財經、數位、運動、NBA、娛樂、生活、健康、旅遊新聞，以最即時、多元的內容 ...",
+          "position": 39
+        },
+        {
+          "title": "黄斑变性门诊 - 北京协和医院",
+          "link": "https://www.pumch.cn/detail/13344.html",
+          "snippet": "... 变性包括年龄相关性黄斑变性 ... 重大新闻医院动态医学前沿媒体聚焦人文关怀视频新闻 · 健康科普 · 百年院庆 · 西单院区+.",
+          "position": 40
+        },
+        {
+          "title": "关于反对仇视同性恋、双性恋、间性恋与变性者国际日",
+          "link": "https://www.state.gov/translations/chinese/on-the-international-day-against-homophobia-biphobia-interphobia-and-transphobia-zh/",
+          "snippet": "新闻声明. 安东尼·布林肯国务卿 2024年5月17日. 每年的5月17日，我们都会纪念“反对仇视同性恋、双性恋、间性恋与变性者国际日”。",
+          "date": "2024年5月17日",
+          "position": 41
+        },
+        {
+          "title": "变性人为爱来华陪伴男友失去爱情生活窘迫非法居留",
+          "link": "https://gaj.sh.gov.cn/shga/wzXxfbGj/detail?pa=110ef360e4374a4148919931244dda86032e6025e79f8ab042d18e69f09b9c7a",
+          "snippet": "... 新闻详情. 变性人为爱来华陪伴男友失去爱情生活窘迫非法居留. 时间：2009-06-16 字体： 大 中 小. 东南亚人简（化名）所持护照的性别项登记为男性，但曾在日本接受过变性 ...",
+          "position": 42
+        },
+        {
+          "title": "变性人图片 - GQ男士网",
+          "link": "https://www.gq.com.cn/tag/14774/",
+          "snippet": "GQ男士网，提供与变性人有关的时尚资讯和关于变性人的图片，让你轻松掌握关于变性人的海量资讯。",
+          "position": 43
+        },
+        {
+          "title": "变性人_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%8F%98%E6%80%A7%E4%BA%BA/1520555",
+          "snippet": "主要特征 · 专家评论 · 主要案例 · 社会关注 · 新闻事件 ...",
+          "position": 44
+        },
+        {
+          "title": "我国科学家发现全新的视网膜色素变性机制",
+          "link": "https://www.gov.cn/xinwen/2014-04/24/content_2666207.htm",
+          "snippet": "首页> 新闻> 部门新闻. 我国科学家发现全新的视网膜色素变性机制. 中央政府 ... 近日，973计划“近视发病机理及干预的基础研究”项目研究团队原创性发现了常 ...",
+          "date": "2014年4月24日",
+          "position": 45
+        },
+        {
+          "title": "独生男孩有想变性的想法怎么办 - 福建省福州神经精神病防治院",
+          "link": "http://fzsdsyy.com/yydt/show/1512.html",
+          "snippet": "可是现在，我开始感到他的不对劲了，他开始有意无意在我面前提到变性，还给我看泰国变性人的照片。 ... 医院简介 | 医院新闻 | 门诊时间表 | 就医指南.",
+          "date": "2016年4月19日",
+          "position": 46
+        },
+        {
+          "title": "关于埃及、突尼斯、缅甸、和启动开展全球男女同性恋、双性恋和 ...",
+          "link": "https://www.ohchr.org/zh/press-briefing-notes/2013/07/press-briefing-notes-egypt-tunisia-myanmar-and-launch-global-lgbt",
+          "snippet": "新闻简报 人权事务高级专员办事处. 关于埃及、突尼斯、缅甸、和启动开展全球男女同性恋、双性恋和变性者运动的新闻简报说明. 2013年7月26日. 分享. 相关. 新闻简报.",
+          "position": 47
+        },
+        {
+          "title": "韩国将对首例变性军官作出决定：强制退伍-新闻中心",
+          "link": "http://news.cnnb.com.cn/system/2020/01/23/030120215.shtml",
+          "snippet": "【环球网军事报道】据韩联社1月22日报道，韩国陆军当天召开转业审查委员会会议，对接受变性手术的陆军副士官边某做出强制转业（退伍）决定。韩国军方表示， ...",
+          "date": "2020年1月23日",
+          "position": 48
+        },
+        {
+          "title": "特朗普签署备忘录禁止变性人参军称其扰乱队伍 - 中国新闻网",
+          "link": "https://wap.chinanews.com/wap/detail/chs/zw/8314564.shtml",
+          "snippet": "新华社华盛顿8月25日电(记者刘阳孙丁)美国总统唐纳德·特朗普25日签署总统备忘录，要求国防部禁止变性人服役，但未对已经入伍的变性人去留做出明确要求。",
+          "position": 49
+        },
+        {
+          "title": "为变性人和非二元工人提供的新工具箱",
+          "link": "https://legalaidatwork.org/zh/new-toolkit-for-transgender-and-nonbinary-workers/",
+          "snippet": "今天，在变性人可见性日和塞萨尔-查韦斯日，工作中的法律援助组织 ... 如果想收到有关我们组织和工作的新闻，请订阅我们的邮寄列表。 \"*\"表示必 ...",
+          "date": "2022年3月31日",
+          "position": 50
+        },
+        {
+          "title": "变性手术_标签_网易出品",
+          "link": "https://news.163.com/keywords/5/d/53d86027624b672f/1.html",
+          "snippet": "... 变性手术 · 网易号. 屋里悄悄话2024-07-09. 炸裂！印度男子被朋友骗去做变性手术后，又遭其逼婚，评论区沦陷 · 网易号. 有趣的火烈鸟2024-07-08. 没有更多内容了. 热点新闻.",
+          "position": 51
+        },
+        {
+          "title": "美国史上首次出现当选参议员的变性政客 - 俄罗斯卫星通讯社",
+          "link": "https://sputniknews.cn/20201104/1032453127.html",
+          "snippet": "据美国沃克斯传媒旗下新闻评论网站“Vox”报道，民主党人萨拉•麦克布莱德成为美国史上首个当选州参议员的、公开的变性政客。 2020年11月4日, 俄罗斯卫星 ...",
+          "date": "2020年11月4日",
+          "position": 52
+        },
+        {
+          "title": "斯坦福大学变性教授本·巴里斯挑战性别歧视-新闻中心 - 南海网",
+          "link": "http://www.hinews.cn/news/system/2006/07/20/010003256.shtml",
+          "snippet": "... 新闻,海南门户,海南新闻 ... 但在这个问题上，巴里斯应该比任何人都有发言权，因为他本来是一个叫芭芭拉的女人，却在1997年施行了变性 ...",
+          "date": "2006年7月20日",
+          "position": 53
+        },
+        {
+          "title": "巴西：变性家庭 - YouTube",
+          "link": "https://www.youtube.com/watch?v=PZKXQYL_KvY",
+          "snippet": "... 年無法翻身？66歲「空亡命」最慘的還沒到來？柯爸罹癌10年前受訪「一句話」一語成讖！【新聞挖 ...\n时长： 2:31\n发布时间： 2014年10月31日",
+          "date": "2014年10月31日",
+          "position": 54
+        },
+        {
+          "title": "美泄密军人曼宁一案引发对变性人关注 - 美国之音",
+          "link": "https://www.voachinese.com/a/manning-case-brings-new-attention-to-transgender-people-20130826/1736859.html",
+          "snippet": "分类新闻. 经济·金融·贸易 人权·法律·宗教 科教·文娱·体健 军事 劳工 环境 ... 曼宁公开宣布变性引发了人们对“变性”这个字的关注。性别专家及理疗 ...",
+          "date": "2013年8月26日",
+          "position": 55
+        },
+        {
+          "title": "小伙变性后身份证改性别遇难题鉴定证明成关键 - 央广网",
+          "link": "http://news.cnr.cn/native/gd/20150723/t20150723_519293987.shtml",
+          "snippet": "小林告诉四川新闻网记者，就在身边，他的一位双流的朋友和他一样进行了性别重塑手术，而今年3月份，他已经在双流县成功更改了自己户籍性别登记，那么他又是如何 ...",
+          "date": "2015年7月23日",
+          "position": 56
+        },
+        {
+          "title": "变性后，他们后悔了...... - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_18645344",
+          "snippet": "现年23岁的海伦娜·克施纳（Helena Kerschner）的经历佐证了利特曼的观点。克施纳来自美国俄亥俄州，是一名变性人。克施纳出生时是女性，在14岁时，她第一次感到 ...",
+          "date": "2022年6月19日",
+          "position": 57
+        },
+        {
+          "title": "做男人还是做女人好?他们所经历的变性故事(组图) - 国际新闻",
+          "link": "https://world.huanqiu.com/article/9CaKrnJUqPU",
+          "snippet": "尊重和包容力也许正在日渐增加。在一些国家，有人勇敢面对内心，通过手术等方式改造自己的性别，其中不乏一些知名度较高者。3月9日，一则《黑客帝国》导演兄弟变性为姐妹的新闻 ...",
+          "position": 58
+        },
+        {
+          "title": "24岁男子变性后如愿当上新娘(图) - 北方网",
+          "link": "http://news.enorth.com.cn/system/2006/05/21/001309582.shtml",
+          "snippet": "新闻 | 天津 | 民生 | 广电 | 津抖云 | 微视 | 读图 | 文娱 | 体育 | 图事 | 理论 | 志愿 | 专题 | 工作室 | 不良信息举报 · 教育| 健康| 财经 | 地产 ...",
+          "date": "2006年5月21日",
+          "position": 59
+        },
+        {
+          "title": "【假】巴黎奥运会变性人打哭女拳击手 - 辟谣吧",
+          "link": "https://www.piyaoba.org/olympics-sports-trans-boxer/",
+          "snippet": "中英文媒体自媒体都出现巴黎奥运会女子拳击赛中，变性人46秒打哭意大利女拳击手的爆炸性新闻。Musk，JK Rowlings等国外著名反“变性”人士也宣称男人不能 ...",
+          "date": "2024年8月7日",
+          "position": 60
+        },
+        {
+          "title": "新闻标记变性人 - OB体育",
+          "link": "https://www.puressens.com/tags/transgender/",
+          "snippet": "新闻标记变性人 ; 研究人员的目标是修改支离破碎的医疗保健系统，以减少变性妇女中的艾滋病毒发病率 · 2021年5月21日 · 7 ; 性别确认激素治疗可能不会增加变性青少年的心血管 ...",
+          "position": 61
+        },
+        {
+          "title": "特朗普宣布禁止变性人服兵役美众议院议员谴责（组图）-时政新闻",
+          "link": "https://china.zjol.com.cn/gjxw/201707/t20170727_4650568.shtml",
+          "snippet": "当地时间2017年7月26日，美国华盛顿，美国众议院议员和全国跨性别平等中心执行主任Mara Keisling举行新闻发布会，谴责特朗普发布禁止变性人以任何形式服 ...",
+          "date": "2017年7月27日",
+          "position": 62
+        },
+        {
+          "title": "新闻囧播031：模范小伙变性他妈是他妈咋证明 - 新京报",
+          "link": "https://m.bjnews.com.cn/detail/155149010114527.html",
+          "snippet": "我是就算变了形也不会变性的风叔。下面请看本期囧新闻。 最近，来自浙江湖州的刘姓小伙，在经过为期6个月的变性手术后，顺利变为女儿身。值得一提的是，这位刘姓小伙 ...",
+          "position": 63
+        },
+        {
+          "title": "贝派地酸不依赖于ATP-柠檬酸裂解酶抑制饮食诱导的肝脏脂肪变性",
+          "link": "https://paper.sciencenet.cn/htmlpaper/2024/10/20241030154539459122920.shtm",
+          "snippet": "首页 | 新闻 | 博客 | 院士 | 人才 | 会议 | 基金·项目 | 论文 | 视频·直播 | 小柯机器人 | 医学科普. 当前位置：科学网首页 > 小柯机器人 >详情. 贝派 ...",
+          "date": "20小时前",
+          "position": 64
+        },
+        {
+          "title": "四川小伙泰国变性归国身份证“男变女”有点难",
+          "link": "https://news.beiww.com/scxw1761/201507/t20150723_408122.html",
+          "snippet": "四川新闻网内江7月23日讯(记者龙艳)根据公开的资料显示，中国内地近年来有强烈变性要求的人员越来越多，有很多人也实现了他们变性的心愿。然而变性之后 ...",
+          "date": "2015年7月23日",
+          "position": 65
+        },
+        {
+          "title": "变性为女性的人群前列腺癌发病并非以往报道般罕见 - 北京大学肿瘤医院",
+          "link": "https://www.bjcancer.org/Html/News/Articles/16804.html",
+          "snippet": "新闻动态 · 科学研究; 医学教育; 科普园地 · 招聘动态; 院务公开; 院刊杂志 · 登录用户注册|加入收藏. 首页|; 电子版阅读|; 本刊关注|; 会议特别报道| ...",
+          "date": "2023年5月29日",
+          "position": 66
+        },
+        {
+          "title": "84岁佛山离休干部欲变性性别写“男变女过程中” - 海口网",
+          "link": "http://m.hkwb.net/content/2012-06/13/content_784643_2.htm",
+          "snippet": "... 新闻网站,汇集海口新闻,生活资讯,汽车,体育,娱乐,视频,人文,健康,教育,旅游,彩票,婚庆,美食等为一体的海口权威新闻门户网站，看新闻就上海口网。",
+          "date": "2012年6月13日",
+          "position": 67
+        },
+        {
+          "title": "中国为变性手术设“标准红线”-政策法规",
+          "link": "http://www.chinazxymr.com/132.html",
+          "snippet": "学会新闻 · 政策法规 · 联系我们 · 联系方式 · 下载中心 · 首页 · 政策法规; 政策法规 ... 新华网北京6月16日电(记者周婷玉)什么样的医院能实施变性手术?",
+          "date": "2017年8月15日",
+          "position": 68
+        },
+        {
+          "title": "美国传奇神经科学家，43岁那年，选择变性 - 人民日报",
+          "link": "https://www.peopleapp.com/rmharticle/30024224803",
+          "snippet": "People's Daily English language App - Homepage - Breaking News, China News, World News ... 她表示，自己将在近期接受变性手术，切除卵巢、开始激素替代 ...",
+          "date": "2021年9月16日",
+          "position": 69
+        },
+        {
+          "title": "利菁变性过程被医生揭底爆细节 - 内蒙古新闻网",
+          "link": "https://inews.nmgnews.com.cn/system/2010/01/28/010376432.shtml",
+          "snippet": "利菁在公开场合及书中，都只说自己是“双性人”，家中五个小孩有三个小孩夭折，自小被当成“男生养”，国中后了解自己是女儿身，才想变性。利菁昨录像不受访，她的 ...",
+          "date": "2010年1月28日",
+          "position": 70
+        },
+        {
+          "title": "[视频][图片新闻]变性“男子”生下第三胎 - 央视网",
+          "link": "https://tv.cctv.com/v/v1/VIDEWDT7dG4YxZD2gO6368h7110112.html",
+          "snippet": "[视频][图片新闻]变性“男子”生下第三胎. 更新时间：2011-01-16 00:11. 来源：央视网. 栏目名 ...\n时长： 0:40\n发布时间： 2011年1月16日",
+          "date": "2011年1月16日",
+          "position": 71
+        },
+        {
+          "title": "美国1对男女同时变性后成情侣 - 新闻- 鲁网",
+          "link": "http://news.sdnews.com.cn/gj/201211/t20121110_1001199.html",
+          "snippet": "... 变性手术，手术后两人坠入爱河。综合. 责任编辑：宋莉. 分享到：. 新闻关键词：变性 · 尼泊尔将签发“第三性别”身份证维护变性人权利2013-01-23; 加拿大11岁 ...",
+          "date": "2012年11月10日",
+          "position": 72
+        },
+        {
+          "title": "變性人 - 香港01",
+          "link": "https://www.hk01.com/tag/4001",
+          "snippet": "... 白宮對方當場裸露捱轟：讓LGBTQ蒙羞. 28. 影片. 00:49. 影片. 00:49. 社會新聞. 2023-04-19. 精選☆. 倒斃醫院殘廁婦原是男兒身性別障礙受歧視鄰居：做女人開心咗 · 播放影片.",
+          "position": 73
+        },
+        {
+          "title": "29岁小伙在泰国做完变性手术，回到湖北想变更户口性别 - 新浪",
+          "link": "http://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fvideo.sina.com.cn%2Fp%2Fnews%2F2024-05-09%2Fdetail-inauqwnr6480007.d.html",
+          "snippet": "国乒回应近期比赛成绩起伏：国乒称面对问题会严肃对待及时总结. 长江云新闻. 1.6万次播放. 航天员王浩泽说我爱这条人迹罕至的路. 新浪军事. 9936次播放 ...",
+          "date": "2024年5月9日",
+          "position": 74
+        },
+        {
+          "title": "日本最美变性人走红盘点全球变性人的坎坷故事-新闻中心-杭州网",
+          "link": "https://news.hangzhou.com.cn/ttgz/content/2015-03/18/content_5693630.htm",
+          "snippet": "日本最美变性人名叫さつき，接受变性手术后还去泰国参加了当年度的国际变性人选美大赛，最后得到了2013年的第4名。 已经手术完成的变性人身份也让日本民众 ...",
+          "date": "2015年3月18日",
+          "position": 75
+        },
+        {
+          "title": "道德模范做变性手术成女人：望社会能包容我 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2014/08/id/1366484.shtml",
+          "snippet": "京华时报：你要接受手术变成女人的消息铺天盖地，感觉很高调？ 刘霆：我从不看新闻，我就是要做真正的自己。为了母亲，为了做榜样，我一直坚持了 ...",
+          "date": "2014年8月18日",
+          "position": 76
+        },
+        {
+          "title": "金星因变性身份被下课，成中共权力交接牺牲品 - 美国之音",
+          "link": "https://www.voachinese.com/a/2038809.html",
+          "snippet": "新闻. 金星因变性身份被下课，成中共权力交接牺牲品. 2011年9月23日08:00 ... 金星因变性身份被下课，成中共权力交接牺牲品 · 参阅电视节目 参阅广播 ...",
+          "date": "2011年9月23日",
+          "position": 77
+        },
+        {
+          "title": "印度电视台启用首位变性人新闻主播(图) - 中文国际- 中国日报网",
+          "link": "http://world.chinadaily.com.cn/2014-09/23/content_18646891.htm",
+          "snippet": "... 性之后，31岁女子帕德米尼·普拉克什（Padmini Prakash）成为印度首位变性人新闻主播。 据其朋友称，普拉克什不是太监，15岁被家人抛弃后，变性为女人。",
+          "date": "2014年9月23日",
+          "position": 78
+        },
+        {
+          "title": "摄影师镜头下的印度变性群体-新闻中心 - 南海网",
+          "link": "http://www.hinews.cn/news/system/2015/04/01/017447396.shtml",
+          "snippet": "摄影师镜头下的印度变性群体 · 4月1日消息，在印度和巴基斯坦，变性人通常被成为海吉拉斯(Hijras)，她们是印度一个特殊的群体，即第三性人，或叫阉人，也包含 ...",
+          "date": "2015年4月1日",
+          "position": 79
+        },
+        {
+          "title": "巴西：变性家庭 - YouTube",
+          "link": "https://www.youtube.com/watch?v=cTufjrI8U8Y",
+          "snippet": "United Nations 一项史无前例的联合国公共教育运动“自由与平等”在巴西展开，来支持同性恋 ...\n时长： 5:03\n发布时间： 2014年9月21日",
+          "date": "2014年9月21日",
+          "position": 80
+        },
+        {
+          "title": "实习医生为15岁少年做变性摘除睾丸致二级重伤 - 中国新闻网",
+          "link": "https://www.chinanews.com/sh/2016/02-05/7748982.shtml",
+          "snippet": "15岁的少年小楠（化名）瞒着父母，去年5月独自乘火车从河南来到成都做变性手术。田某当庭认罪，并已赔偿受害人65万元获得受害人家属谅解。",
+          "date": "2016年2月5日",
+          "position": 81
+        },
+        {
+          "title": "全球最美男模宣布已变性-首页 - 青海新闻网",
+          "link": "http://www.qhnews.com/index/system/2014/07/28/011466040.shtml",
+          "snippet": "据台湾媒体报道安德烈皮吉斯(Andrej Pejic)。走中性路线，安德烈一头长发、精致五官和女模般纤细的身段，一直是T台上众人注目的焦点。",
+          "date": "2014年7月28日",
+          "position": 82
+        },
+        {
+          "title": "变性人\"莉莉\"被取消环球小姐参赛资格(图) - 中国宁波网",
+          "link": "http://news.cnnb.com.cn/system/2004/02/27/000760706.shtml",
+          "snippet": "... 新闻发布会，宣布不允许陈莉莉参加环球小姐的比赛。他们也表示环球小姐的选拔应该是挑选天生丽质的女孩参加，陈莉莉做过变性手术，面部和胸部等部位又 ...",
+          "date": "2004年2月27日",
+          "position": 83
+        },
+        {
+          "title": "“你试图消灭变性人！”《纽约时报》记者被吐口水 - 观察者",
+          "link": "https://www.guancha.cn/internation/2023_03_04_682566.shtml",
+          "snippet": "（观察者网讯）据美媒福克斯新闻当地时间3月3日报道，美国《纽约时报》记者因为报道了关于跨性别者的相关文章而遭.",
+          "date": "2023年3月4日",
+          "position": 84
+        },
+        {
+          "title": "说出他们的名字：2020年变性人纪念日",
+          "link": "https://legalaidatwork.org/zh/say-their-names-transgender-day-of-remembrance-2020/",
+          "snippet": "98%的被谋杀者被认定为变性妇女或变性女性。他们的完整名单可在此 ... 如果想收到有关我们组织和工作的新闻，请订阅我们的邮寄列表。 \"*\"表示必 ...",
+          "date": "2020年11月20日",
+          "position": 85
+        },
+        {
+          "title": "韩一陆军副士官假期做变性手术：希望继续作为女兵服役 - 环球网",
+          "link": "https://m.huanqiu.com/article/9CaKrnKoUIG",
+          "snippet": "【环球网报道记者丁洁芸】韩国《京乡新闻》16日发布了一则独家新闻：韩国一名正在陆军服兵役的副士官利用休假期间接受变性手术，并拒绝国防部的提前退伍 ...",
+          "date": "2020年1月15日",
+          "position": 86
+        },
+        {
+          "title": "男子在女儿陪同下做变性手术完成夙愿(图) - 北方网",
+          "link": "http://news.enorth.com.cn/system/2006/11/09/001456759.shtml",
+          "snippet": "... 变性手术 因为自己是男儿身，一个已为人父人夫的大男人竟痛不欲生，并三次为此轻生；变 ... 新闻 | 天津 | 民生 | 广电 | 津抖云 | 微视 | 读图 | 文娱 | 体育 ...",
+          "date": "2006年11月9日",
+          "position": 87
+        },
+        {
+          "title": "【美国大选】以变性人广告打击对手特朗普或适得其反 - 亚洲电视新闻",
+          "link": "https://atvnewsonline.com/world/%E3%80%90%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E3%80%91%E4%BB%A5%E5%8F%98%E6%80%A7%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%89%93%E5%87%BB%E5%AF%B9%E6%89%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E9%80%82%E5%BE%97/",
+          "snippet": "“这些广告主要关注变性囚犯的医疗保健需求，旨在引发选民的深深恐惧。” 大笔资金投放反变性群体广告. 据美国有线电视新闻网（CNN）援引媒体追踪机构AdImpact ...",
+          "date": "17小时前",
+          "position": 88
+        },
+        {
+          "title": "美国少男少女变性人成情侣 - 人民网",
+          "link": "http://www.people.com.cn/24hour/n/2012/1112/c25408-19554280.html",
+          "snippet": "美国少男少女变性人成情侣. 2012年11月12日15:40 来源：新民晚报 手机看新闻. 打印网摘纠错商城分享推荐 ...",
+          "position": 89
+        },
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%AE%8A%E6%80%A7%E5%88%A5",
+          "snippet": "卫生专业人员手册、专业新闻风格指南和LGBT拥护组织建议其他人采用跨性别者自我 ... LGBT人物列表#变性、第三性或异装名人 · 变性 · 第三性别. 注释. 编辑. ^ * In April ...",
+          "position": 90
+        },
+        {
+          "title": "美军变性人宣誓就任四星上将成美国最高跨性别官员 - 中国青年网",
+          "link": "http://news.youth.cn/js/202110/t20211021_13271941.htm",
+          "snippet": "据美国有线电视新闻网（CNN）10月20日报道，美国卫生部助理部长、现年63岁的雷切尔·莱文（Rachel Levine）宣誓成为美国公共卫生服务军官团（U.S.Public health ...",
+          "date": "2021年10月21日",
+          "position": 91
+        },
+        {
+          "title": "中央气象台继续发布台风橙色预警 - 地方经济",
+          "link": "http://district.ce.cn/newarea/roll/202410/31/t20241031_39187687.shtml",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 大风预报：10月31日8时至11月1日8时，受冷空气和“康妮”的共同 ...",
+          "date": "3小时前",
+          "position": 92
+        },
+        {
+          "title": "罕见病基因治疗药物获美国FDA孤儿药资格认定 - 医药魔方ByDrug",
+          "link": "https://bydrug.pharmcube.com/news/detail/d39b21dfcd01ce2963a5391ac329a694",
+          "snippet": "结晶样视网膜色素变性（Bietti crystalline corneoretinal dystrophy，BCD）是一种常染色体隐性遗传的进展性视网膜变性疾病，1937年由Bietti医生首次描述。 故亟需一种 ...",
+          "position": 93
+        },
+        {
+          "title": "为反对仇视同性恋与变性者国际日发布的震撼人心的新视频 - ohchr",
+          "link": "https://www.ohchr.org/zh/stories/2014/05/powerful-new-video-international-day-against-homophobia-transphobia",
+          "snippet": "... ，鼓励人们值此反对仇视同性恋与变性 ... 新闻、报告、活动和其他信息。 查看所有话题. 话题快速检索. 搜索表. 国家.",
+          "date": "2014年5月16日",
+          "position": 94
+        },
+        {
+          "title": "四川小伙泰国变性归国身份证“男变女”有点难 - 央广网",
+          "link": "http://news.cnr.cn/native/gd/20150723/t20150723_519291110.shtml",
+          "snippet": "四川新闻网内江7月23日讯(记者龙艳). 根据公开的资料显示，中国内地近年来有强烈变性要求的人员越来越多，有很多人也实现了他们变性的心愿。",
+          "date": "2015年7月23日",
+          "position": 95
+        },
+        {
+          "title": "《龙腾4》能创建变性人角色：而且还独享额外对话！ - 游民星空",
+          "link": "https://www.gamersky.com/news/202410/1836702.shtml",
+          "snippet": "《龙腾世纪4：影障守护者》将在10月31日正式发售，尽管玩家还没能亲身体验，但本作已经确定是一款政治正确大作：上到变了性的游戏总监，下到能添加变性手术 ...",
+          "date": "2天前",
+          "position": 96
+        },
+        {
+          "title": "特朗普禁止变性人入伍真相竟然是这个 - 时政",
+          "link": "https://china.zjol.com.cn/ktx/201707/t20170728_4666677.shtml",
+          "snippet": "据法新社报道，自华盛顿方面传来消息，美国总统特朗普在7月26日表示，他将禁止变性人在美国以任何形式服兵役。 特朗普的这一决定并没有通过白宫的新闻部门或 ...",
+          "date": "2017年7月28日",
+          "position": 97
+        },
+        {
+          "title": "“变性人”河莉秀：结婚10年后，老公跑了，身体垮了，后来怎样？ - 网易",
+          "link": "https://www.163.com/dy/article/JFOS89T505419N70.html",
+          "snippet": "中学时期，李景叶留起长发，穿上好看的衣服，完全不顾父母的反对和指责。 打开网易新闻查看精彩图片. 他每天都生活在嘲笑和指责中，虽然告诉自己不要在意 ...",
+          "date": "20小时前",
+          "position": 98
+        },
+        {
+          "title": "视网膜色素变性是如何发生的？ - 吉林恒达眼科医院",
+          "link": "https://www.hdyanke.com/newsdetails/61.html",
+          "snippet": "新闻资讯. 医院动态 · 学术交流 · 科普知识 · 相关视频. 营销与服务. 项目案例 ... 视网膜色素变性，作为一种遗传性眼病，其发病机制复杂且多样，通常涉及多个 ...",
+          "date": "3天前",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "印度伴侣暂停变性备孕变性人顺利诞下宝宝【2023.02.09 八度空间华语 ...",
+          "imageUrl": "https://i.ytimg.com/vi/1O2KJEoxDrs/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=1O2KJEoxDrs"
+        },
+        {
+          "title": "最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OOSrOMN7lFkbx1TVVG67sM8T-7K8FfJhG4w-niq5O13D8AA/641",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00"
+        },
+        {
+          "title": "最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OkNp7eOMcw8iXoIQWNabkmvI7it_3QxZobRkVNR6W1XG4AA/641",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00"
+        },
+        {
+          "title": "中国最年长变性人：不愿隐忍一生- BBC News 中文",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2012/07/12/120712082555_yi_ling__304x171_reuters_nocredit.jpg.webp",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese_news/2012/07/120712_china_transexual"
+        },
+        {
+          "title": "误区中的重灾区】跨性别就一定要做变性手术吗？ - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/UT-EhQet3_4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCNBQhfy-7Rs1Jbs3NmLHgSEWWafg",
+          "link": "https://www.youtube.com/watch?v=UT-EhQet3_4"
+        },
+        {
+          "title": "变性人加冕“葡萄牙小姐”-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OsnHCUZI0kHO5zmUGH5fCN_ghoPGACmOtKCKFDUykFI2kAA/641",
+          "link": "https://news.qq.com/rain/a/20231010A04BV100"
+        },
+        {
+          "title": "美国前海豹突击队成员后悔变性：我被CNN利用了-观察者网",
+          "imageUrl": "https://i.guancha.cn/news/social/2022/12/12/20221212100548741.jpg!wap.jpg",
+          "link": "https://www.guancha.cn/internation/2022_12_12_670942.shtml"
+        },
+        {
+          "title": "越南通过法律将承认变性人及其相关权利- BBC News 中文",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2015/11/24/151124095558_lgbt_march_640x360_getty_nocredit.jpg.webp",
+          "link": "https://www.bbc.com/zhongwen/simp/world/2015/11/151124_vietnam_recognizes_transgender"
+        },
+        {
+          "title": "变性人新闻资料",
+          "imageUrl": "https://www.sinchew.com.my/wp-content/uploads/2024/08/e6b3b0e59bbde4babae5a696e58d81e5b9b4e997b4e9aa9770e5a49ae5908de697a5e69cace4baba-e98791e9a29de8bebe330e4b887-aspect-ratio-1600-900.jpg",
+          "link": "https://www.sinchew.com.my/tag/%E5%8F%98%E6%80%A7%E4%BA%BA"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "srs手术费用"
+        },
+        {
+          "query": "LGBT组织"
+        },
+        {
+          "query": "中国 LGBT"
+        },
+        {
+          "query": "上海 LGBT"
+        },
+        {
+          "query": "LGBT群体"
+        },
+        {
+          "query": "LGBT运动"
+        },
+        {
+          "query": "LGBT 活动"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "变性 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "天气预报和台风警报 - 桐乡市人民政府",
+          "link": "https://www.tx.gov.cn/art/2024/10/31/art_1229414161_5391155.html",
+          "snippet": "桐乡新闻网. 友情链接. 收起. 浙江政府服务网|INVEST|无障碍|. 长辈版 ... 变性为温带气旋。受\"康妮\"台风和冷空气共同影响，今天下午到明天我市有 ...",
+          "date": "2小时前",
+          "position": 1
+        },
+        {
+          "title": "三预警齐发台风“康妮”将登陆这些地区注意防范 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/31/content_250679.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 互联网新闻信息服务许可证 · 信息网络传播视听节目许可证 · 举报平台 ...",
+          "date": "2小时前",
+          "position": 2
+        },
+        {
+          "title": "变性 - 亚洲电视新闻",
+          "link": "https://atvnewsonline.com/tag/%E5%8F%98%E6%80%A7/",
+          "snippet": "印度北方邦桑贾克村（Sanjak）一名20岁男子穆贾希德（Mujahid）近日被曝在毫不知情的情况下接受了变性手术。该事件引发了当地居民的愤怒和抗议，要求对所有涉案人员采取司法 ...",
+          "position": 3
+        },
+        {
+          "title": "我国科学家揭示过敏反应关键机制 - 论文- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/532513.shtm",
+          "snippet": "首页 | 新闻 | 博客 | 院士 | 人才 | 会议 | 基金·项目 | 论文 | 视频 ... 宿强介绍，为了探究FcεRI的存在形式，研究人员通过分析型超速离心和非变性 ...",
+          "date": "7天前",
+          "position": 4
+        },
+        {
+          "title": "Cell：迎接新时代！解释免疫和血管系统在神经变性中的重要作用",
+          "link": "https://www.ebiotrade.com/newsf/2024-10/20241018032456859.htm",
+          "snippet": "“为了迎接这个新时代，我们必须利用新技术，采用跨学科的方法来解释免疫和血管系统在神经变性中的重要作用。 ... 相关新闻. 热点排行. 1物理学院格点QCD团队用 ...",
+          "date": "2024年10月22日",
+          "position": 5
+        },
+        {
+          "title": "三预警齐发！台风“康妮”将登陆，这些地区注意防范 - 珠海网",
+          "link": "https://pub-zhtb.hizh.cn/a/202410/31/AP6722fdf2e4b080be7be5f7cc.html",
+          "snippet": "TV新闻. 三预警齐发！台风“康妮”将登陆，这些地区注意防范. 中国天气网 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ...",
+          "date": "26分钟前",
+          "position": 6
+        },
+        {
+          "title": "视频：日本首例不做变性手术也能更改性别",
+          "link": "http://www.livejapan.cn/static/content/video/DYSD/2024-07-11/1260995593162473472.html",
+          "snippet": "新闻聚焦 · 新报专题 · 新报时评 · 文华TV · 日中飞鸿 · 玩转日本 · 东瀛生活 ...\n时长： 0:26\n发布时间： 2024年7月11日",
+          "date": "2024年7月11日",
+          "position": 7
+        },
+        {
+          "title": "跨性別- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/wiki/%E5%8F%98%E6%80%A7%E4%BA%BA",
+          "snippet": "衛生專業人員手冊、專業新聞風格指南和LGBT擁護組織建議其他人採用跨性別者 ... 「变性」重定向至此。关于动漫画、小说等作品里的性转换，请见「TSF」。关于与 ...",
+          "position": 8
+        },
+        {
+          "title": "未来三天凉飕飕还有“康妮”在路上 - 泉州网",
+          "link": "https://www.qzwb.com/gb/content/2024-10/29/content_9080025.htm",
+          "snippet": "... 变性过程中也会产生较强的风雨。因此，一提起秋台风，往往会令大家“瑟瑟 ... 泉州新闻. 受台风“康妮”和冷空气影响29日起福建沿海和渔场有大风.",
+          "date": "2天前",
+          "position": 9
+        },
+        {
+          "title": "變性人相關報導 - 鏡週刊",
+          "link": "https://www.mirrormedia.mg/tag/5935004a48d63b0d00516c89",
+          "snippet": "直到昨（21日）網友發現，易建聯疑似在X平台寫下「fake news」，看似在為嫖娼醜聞澄清，但該帳號隨即被停權，身分真實性受到質疑。 「性感奶球女」吃海底撈大戰男律師網喻武松打.",
+          "position": 10
+        },
+        {
+          "title": "“你试图消灭变性人！”《纽约时报》记者被吐口水 - 凤凰网",
+          "link": "https://news.ifeng.com/c/8Nt68btRKBp",
+          "snippet": "（观察者网讯）据美媒福克斯新闻当地时间3月3日报道，美国《纽约时报》记者因为报道了关于跨性别者的相关文章而遭到攻击，愤怒的袭击者向她吐口水，并且还指责 ...",
+          "date": "2023年3月4日",
+          "position": 11
+        },
+        {
+          "title": "视网膜色素变性是如何发生的？ - 吉林恒达眼科医院",
+          "link": "https://www.hdyanke.com/newsdetails/62.html",
+          "snippet": "设备展示. 营销与服务. 项目案例 留言咨询 联系我们. 业务咨询电话：. 400-6560-518. 就医指南 · 新闻资讯. 新闻资讯. 医院动态 · 学术交流 · 科普知识.",
+          "date": "3天前",
+          "position": 12
+        },
+        {
+          "title": "中央气象台：“康妮”即将登陆台湾岛台浙闽沪苏需警惕强风雨影响",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202410/31/t20241031_39187630.shtml",
+          "snippet": "... 变性为温带气旋。 预计，今天白天至夜间，台湾海峡、台湾以东洋面和 ... 首页 > 新闻 > 国内时政更多新闻 > 正文. 中经搜索. 中央气象台：“康妮 ...",
+          "date": "3小时前",
+          "position": 13
+        },
+        {
+          "title": "《龙腾4》能创建变性人角色：而且还独享额外对话！ - 网易",
+          "link": "https://www.163.com/dy/article/JFMG9J7G0526K1KN.html",
+          "snippet": "... 变了性的游戏总监，下到能添加变性手术疤痕的角色编辑器，都说明本作是一款没那么纯粹的游戏。 打开网易新闻查看精彩图片. 近日，博主Mangalawyer更是 ...",
+          "date": "2天前",
+          "position": 14
+        },
+        {
+          "title": "賀錦麗被抹陪睡還當變性人？ 川普宣布若當選讓美國獨裁 ... - YouTube",
+          "link": "https://www.youtube.com/watch?v=abaq-9Y8EmA",
+          "snippet": "賀錦麗被抹陪睡還當變性人？ 川普宣布若當選讓美國獨裁？ 新聞大白話20240728. 10K views ...\n时长： 18:30\n发布时间： 2024年7月28日",
+          "date": "2024年7月28日",
+          "position": 15
+        },
+        {
+          "title": "围攻眼科药王 - 中国医药创新促进会",
+          "link": "http://www.phirda.com/artilce_36877.html?module=trackingCodeGenerator",
+          "snippet": "新闻聚焦. 产业资讯 政策法规 研发追踪 医改专题. 协会动态. 通知公告 ... 年龄相关性黄斑变性（AMD）是一种广泛分布的眼科疾病，主要影响老年人的 ...",
+          "date": "2小时前",
+          "position": 16
+        },
+        {
+          "title": "血液肿瘤科普公益活动落地江城武汉：下一个十年，向功能性治愈迈进",
+          "link": "https://sd.news.163.com/24/1031/10/JFQR5LIL04379D5O.html",
+          "snippet": "活动现场，一位患者代表梁先生今年57岁，因消瘦、气喘、多处口腔溃疡等症状就医，被确诊为原发性系统性淀粉样变性IIIA期，累及心脏。 ... 女子看新闻发现老公和 ...",
+          "date": "2小时前",
+          "position": 17
+        },
+        {
+          "title": "橙色预警！台风“康妮”将于今日中午前后在台湾岛东部沿海登陆",
+          "link": "https://www.jfdaily.com/news/detail?id=813102",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 打开上观新闻APP，发表评论.",
+          "date": "5小时前",
+          "position": 18
+        },
+        {
+          "title": "关于向社会公开征求《数据领域名词解释》意见的公告",
+          "link": "http://zfsg.gd.gov.cn/xxfb/sjyw/content/post_4515888.html",
+          "snippet": "... ，南方新闻 ... 变性的数据。 27.结构化数据。一种数据表示形式，按此种 ...",
+          "date": "2024年10月21日",
+          "position": 19
+        },
+        {
+          "title": "科技助力构建信息无障碍新生态_桐庐新闻网",
+          "link": "https://www.tlnews.com.cn/xwpd/tlxw/content/2024-10/31/content_9740453.html",
+          "snippet": "“叮铃铃……”早上9点，袁先良手持盲杖，在十字路口熟练地按下视障人士辅助设备“过街音响”。当绿灯亮起时，清脆的铃声便随即响起，在视网膜色素变性导致 ...",
+          "date": "3小时前",
+          "position": 20
+        },
+        {
+          "title": "變性人相關新聞報導第1頁- TVBS新聞網",
+          "link": "https://news.tvbs.com.tw/news/searchresult/%E8%AE%8A%E6%80%A7%E4%BA%BA/news",
+          "snippet": "最新變性人新聞報導，泰國「偽娘」瘋湧日本非法賣淫她曝內幕：2週賺近20萬、按摩店色色服務！粉專標明「大小」 泰警扮客逮17歲鮮肉技師，TVBS新聞網提供政治、社會、娛樂、 ...",
+          "position": 21
+        },
+        {
+          "title": "變性人相關新聞報導 - ETtoday",
+          "link": "https://www.ettoday.net/news/tag/%E8%AE%8A%E6%80%A7%E4%BA%BA/",
+          "snippet": "變性人相關新聞報導、懶人包.",
+          "position": 22
+        },
+        {
+          "title": "三预警齐发台风“康妮”将登陆这些地区注意防范",
+          "link": "http://m.cyol.com/gb/articles/2024-10/31/content_99PAbxCa3M.html",
+          "snippet": "新闻 · 热点 · 锐评 · 冰点 · 教育 · 共青团 · 法治 · 体育 · 国际 · 综合. 三预警齐发 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建 ...",
+          "date": "2小时前",
+          "position": 23
+        },
+        {
+          "title": "台风来袭！中央气象台发布台风和暴雨预警",
+          "link": "https://m.mp.oeeee.com/a/BAAFRD0000202410311019606.html",
+          "snippet": "中央气象台发布台风和暴雨预警. 南方都市报APP • 新闻快线. 转载2024 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ...",
+          "date": "4小时前",
+          "position": 24
+        },
+        {
+          "title": "临海市气象台2024年10月31日9时发布台风消息",
+          "link": "https://www.linhai.gov.cn/art/2024/10/31/art_1229396022_4005079.html",
+          "snippet": "新闻资讯 · 政务公开 · 政务服务 · 政民互动 · 数据开放 · 专题专栏. 无障碍浏览 ... 变性为温带气旋，不排除“康妮”在闽浙近海东北行过程中可能登陆闽浙沿海 ...",
+          "date": "3小时前",
+          "position": 25
+        },
+        {
+          "title": "變性手術相關報導- Yahoo奇摩新聞",
+          "link": "https://hk.news.yahoo.com/tag/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93",
+          "snippet": "最新最豐富的變性手術相關新聞就在雅虎香港新聞，讓你快速掌握世界大事、財經動態、體育賽事結果、影劇圈內幕、社會萬象、香港在地訊息。",
+          "position": 26
+        },
+        {
+          "title": "我国科学家揭示过敏反应关键机制 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/24/content_247865.html",
+          "snippet": "宿强介绍，为了探究FcεRI的存在形式，研究人员通过分析型超速离心和非变性 ... 互联网新闻信息服务许可证 · 信息网络传播视听节目许可证 · 举报平台 · 版权 ...",
+          "date": "7天前",
+          "position": 27
+        },
+        {
+          "title": "泰国最美变性人甜嫁富商男友 - 联合早报",
+          "link": "https://www.zaobao.com.sg/entertainment/story20230205-1359893",
+          "snippet": "（综合讯）曾出演港片《扫毒》的36岁“泰国最美变性人”女星Poyd（Poyd ... 即时新闻 · 新加坡 7分钟前. 汽车疑在加油站旁打滑24岁男子受轻伤拒送院.",
+          "date": "2023年2月5日",
+          "position": 28
+        },
+        {
+          "title": "台风橙警：上海江苏等地将有暴雨，福建浙江等地局地大暴雨 - 封面新闻",
+          "link": "https://www.thecover.cn/news/YhBoUbRHqsKH90qSdq8Jkw==",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 大风预报：10月31日08时至11月1日08时，受冷空气和“康妮”的共同 ...",
+          "date": "20小时前",
+          "position": 29
+        },
+        {
+          "title": "台风“康妮”将影响东南沿海河北山东等地有大雾天气 - 紫牛新闻",
+          "link": "https://www.yzwb.net/content/1938153.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。受台风“康妮”和冷空气的共同影响，预计，10月31日8时至11月1日8 ...",
+          "date": "3小时前",
+          "position": 30
+        },
+        {
+          "title": "易建联嫖跨性别者?︱男主沉默6日突留言「Fake News」 似反击丑闻",
+          "link": "https://std.stheadline.com/sc/realtime/article/2030790/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E6%98%93%E5%BB%BA%E8%81%AF%E5%AB%96%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-%EF%B8%B1%E7%94%B7%E4%B8%BB%E6%B2%89%E9%BB%986%E6%97%A5%E7%AA%81%E7%95%99%E8%A8%80-Fake-News-%E4%BC%BC%E5%8F%8D%E6%93%8A%E9%86%9C%E8%81%9E",
+          "snippet": "中国篮球界代表人物之一的易建联，上周四（17日）被爆疑嫖变性人，以及流出似是易本人在酒店的裸照和身份证。易建联沉默6日后，约在社交平台.",
+          "date": "2024年10月21日",
+          "position": 31
+        },
+        {
+          "title": "變性相關報導- 鏡週刊Mirror Media",
+          "link": "https://www.mirrormedia.mg/tag/5853985624c3ea0d004d686a",
+          "snippet": "【新聞傳真】美容外科醫學會遭控黑箱李進良診所捲跨性別. 時事. 【新聞傳真】美容外科醫學會遭控黑箱李進良診所捲跨性別爭議. 2024.10.16 05:28. 在多元性平觀念已日漸進步 ...",
+          "position": 32
+        },
+        {
+          "title": "三预警齐发台风“康妮”将登陆这些地区注意防范",
+          "link": "http://news.e23.cn/guonei/2024-10-31/2024A3100089.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 三预警齐发台风“康妮”将登陆这些地区注意防范. 大风预报：10月31 ...",
+          "date": "3小时前",
+          "position": 33
+        },
+        {
+          "title": "中央气象台10月31日06时继续发布台风橙色预警 - 极目新闻",
+          "link": "https://www.ctdsb.net/c1716_202410/2293066.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 大风预报：10月31日08时至11月1日08时，受冷空气和“康妮”的共同 ...",
+          "date": "4小时前",
+          "position": 34
+        },
+        {
+          "title": "印度伴侣暂停变性备孕变性人顺利诞下宝宝【2023.02.09 八度空间 ...",
+          "link": "https://m.facebook.com/8TV.NEWS/videos/5573350176124713/?locale=hi_IN",
+          "snippet": "印度伴侣暂停变性备孕变性人顺利诞下宝宝】 印度跨性伴侣喜迎新生儿！ 【今日主播】 陈薇 ...\n时长： 1:30\n发布时间： 2023年2月9日",
+          "date": "2023年2月9日",
+          "position": 35
+        },
+        {
+          "title": "台风预警发出！下班时段雨更大，明日风雨一整天",
+          "link": "https://www.kankanews.com/detail/qMyEALJo5y8",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 打开看看新闻参与讨论.",
+          "date": "16小时前",
+          "position": 36
+        },
+        {
+          "title": "“康妮”或成10月登陆台湾最强台风浙闽等5省市将遭强风雨 - 新华网",
+          "link": "http://www.news.cn/local/20241031/b4d60cfd65874fc78c20f94a8a9de045/c.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。如果“康妮”后期登陆福建或浙江，将创造台风登陆福建、浙江的最晚 ...",
+          "date": "3小时前",
+          "position": 37
+        },
+        {
+          "title": "台风“康妮”将于今天中午在台湾登陆！福建最新预警！",
+          "link": "https://www.fjtv.net/yw/2024-10-31/6237263.html",
+          "snippet": "... 新闻资讯、深度报道、互动应用等服务，是福建省内最大的本土新闻 ... 并逐渐变性为温带气旋. 仍不排除“康妮”在闽浙近海东北行过程中. 登陆 ...",
+          "date": "3小时前",
+          "position": 38
+        },
+        {
+          "title": "三预警齐发台风“康妮”将登陆这些地区注意防范",
+          "link": "https://www.gzstv.com/a/f5c5b9aa82a64a53a1772a8a13053ca7",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 中国新闻网 · 中国网 · 国际在线 · 中国日报 · 中青在线 · 中国青年网 · 中国 ...",
+          "date": "18小时前",
+          "position": 39
+        },
+        {
+          "title": "中央气象台10月31日06时继续发布台风橙色预警 - 东方财富",
+          "link": "https://wap.eastmoney.com/a/202410313223690291.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 （文章来源：每日经济新闻）. 文章来源：每日经济新闻. 原标题 ...",
+          "date": "5小时前",
+          "position": 40
+        },
+        {
+          "title": "台风“康妮”将影响东南沿海河北山东等地有大雾天气 - 深圳新闻网",
+          "link": "https://www.sznews.com/news/content/mb/2024-10/31/content_31307275.htm",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。受台风“康妮”和冷空气的共同影响，预计，10月31日8时至11月1日8 ...",
+          "date": "3小时前",
+          "position": 41
+        },
+        {
+          "title": "获奖数再创新高！华东师大8项成果荣获2023年度上海市科技奖",
+          "link": "https://www.ecnu.edu.cn/info/1094/67771.htm",
+          "snippet": "当前位置: 首页 / 新闻栏目 / 新闻热点 / 正文. 获奖数再创新高！华东师大 ... 变性；发现新型长程可控热传输新机制与费米多体量子热机，抑制量子 ...",
+          "date": "8天前",
+          "position": 42
+        },
+        {
+          "title": "川普藉反跨性别广告攻击贺锦丽拉拢未表态选民 - RFI",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20241030-%E5%B7%9D%E6%99%AE%E8%97%89%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%AB%E5%B9%BF%E5%91%8A%E6%94%BB%E5%87%BB%E8%B4%BA%E9%94%A6%E4%B8%BD-%E6%8B%89%E6%8B%A2%E6%9C%AA%E8%A1%A8%E6%80%81%E9%80%89%E6%B0%91",
+          "snippet": "在其中一则广告中，一个女性旁白说道：「贺锦丽（Kamala Harris）支持用纳税人的钱，为囚犯进行变性手术… ... 电邮新闻 · 如何收听法广 · 应用. 应用. 应用.",
+          "date": "20小时前",
+          "position": 43
+        },
+        {
+          "title": "“康妮”或成10月登陆台湾最强台风江苏等5省市将遭强风雨 - 新华日报",
+          "link": "https://www.xhby.net/content/s6722e5f4e4b00cab55ab189d.html",
+          "snippet": "登陆后，“康妮”将穿过台湾岛，于今天夜间进入台湾海峡，以后在闽浙近海逐渐转向东北方向移动，并逐渐变性为温带气旋。 ... 交汇点新闻 08/02 09:32. 扫码 ...",
+          "date": "2小时前",
+          "position": 44
+        },
+        {
+          "title": "中央气象台继续发布台风橙色预警- 民生- 中工网",
+          "link": "https://www.workercn.cn/c/2024-10-31/8381866.shtml",
+          "snippet": "中央气象台继续发布台风橙色预警. 来源：中国新闻网客户端. 2024-10-31 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ...",
+          "date": "4小时前",
+          "position": 45
+        },
+        {
+          "title": "台风橙色预警！已进入24小时警戒线！苏州将有暴雨",
+          "link": "https://news.2500sz.com/doc/2024/10/31/1114876.shtml",
+          "snippet": "... 新闻. 超强台风“康妮”已进入24小时警戒线！ 据中央气象台消息，仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 中央气象台10月31 ...",
+          "date": "3小时前",
+          "position": 46
+        },
+        {
+          "title": "印度伴侣暂停变性备孕变性人顺利诞下宝宝【2023.02.09 八度空间 ...",
+          "link": "https://www.youtube.com/watch?v=1O2KJEoxDrs",
+          "snippet": "... 性人，两人为了备孕都暂停了变性治疗。 【今日主播】陈薇薇& 刘湘灵每日三个时段Facebook ...\n时长： 1:42\n发布时间： 2023年2月9日",
+          "date": "2023年2月9日",
+          "position": 47
+        },
+        {
+          "title": "滚动｜浙江发布山洪灾害预警温州苍南发生山洪灾害可能性较大 - 新蓝网",
+          "link": "https://www.cztv.com/newsDetail/705463",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的 ... 新闻信息服务许可证号：3312011001. 地址：浙江省杭州市莫干山路111号邮政编码 ...",
+          "position": 48
+        },
+        {
+          "title": "表彰有重大发现还未获国际大奖的科学家世界顶尖科学家协会奖在沪 ...",
+          "link": "https://www.shanghai.gov.cn/nw4411/20241026/9d0681f42cfd476b9f46b3802f41a3e9.html",
+          "snippet": "在与詹姆斯·卢普斯基的合作中，内森斯确定了斯塔加特病的致病基因，这种疾病是最常见的早发遗传性黄斑变性。 ... 国家新闻出版署（国家版权局） · 国务院 ...",
+          "date": "5天前",
+          "position": 49
+        },
+        {
+          "title": "今明两天，长三角多条铁路列车临时停运",
+          "link": "http://www.newsxc.com/news/folder1923/2024-10-31/594653.html",
+          "snippet": "... 性、多媒体的宣城第一新闻 ... 变性为温带气旋。仍不排除“康妮”在 ...",
+          "date": "3小时前",
+          "position": 50
+        },
+        {
+          "title": "三预警齐发台风“康妮”将登陆这些地区注意防范",
+          "link": "https://www.ctdsb.net/c1716_202410/2293103.html",
+          "snippet": "... ，湖北日报传媒集团倾力打造的新型主流媒体品牌。脱胎于楚天都市报，是一个以原创新闻为主的全媒体新闻 ... 变性为温带气旋。仍不排除“康妮”在 ...",
+          "date": "3小时前",
+          "position": 51
+        },
+        {
+          "title": "受“康妮”影响今天厦门及海上有强风",
+          "link": "https://www.xmtv.cn/xmtv/2024-10-31/0e43af7442f271af.html",
+          "snippet": "... 变性为温带气旋。不排除“康妮”在向东北方向移动过程中登陆福建和浙江沿海 ... 新闻信息服务许可证35120190006 中国互联网视听节目服务自律公约.",
+          "date": "53分钟前",
+          "position": 52
+        },
+        {
+          "title": "广州拒批变性舞蹈家金星登台因她在台上展示「彩虹旗」？ - 星島日報",
+          "link": "https://std.stheadline.com/sc/realtime/article/2031184/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E5%BB%A3%E5%B7%9E%E6%8B%92%E6%89%B9%E8%AE%8A%E6%80%A7%E8%88%9E%E8%B9%88%E5%AE%B6%E9%87%91%E6%98%9F%E7%99%BB%E5%8F%B0-%E5%9B%A0%E5%A5%B9%E5%9C%A8%E5%8F%B0%E4%B8%8A%E5%B1%95%E7%A4%BA-%E5%BD%A9%E8%99%B9%E6%97%97",
+          "snippet": "不过金星则对当时的行为有不同的解释。 相关新闻： 「变性女星」金星离婚18年又嫁前夫！ 证实「分手」理由：都是为孩子.",
+          "date": "8天前",
+          "position": 53
+        },
+        {
+          "title": "中央气象台继续发布台风橙色预警 - 荆楚网",
+          "link": "http://news.cnhubei.com/content/2024-10/31/content_18579684.html",
+          "snippet": "中央气象台继续发布台风橙色预警. 中国新闻网 2024-10-31 07:52. 中新网10月31日电据中央气象台网站消息，中央气象台10月31日6时继续发布台风橙色预警： ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行 ...",
+          "position": 54
+        },
+        {
+          "title": "廣州拒變性藝人演出？金星：我只做自己與性別無關！ - 聯合報",
+          "link": "https://udn.com/news/story/7332/8312425",
+          "snippet": "... 新聞. 0:00 / 0:00. Your browser does not support HTML5 Audio!. 廣州 ... 當時，《日出》演出結束後，有觀眾衝上舞台並展示代表性少數群體 ...",
+          "date": "7天前",
+          "position": 55
+        },
+        {
+          "title": "这道家常菜，有延缓大脑衰老的好处 - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1449653",
+          "snippet": "其减轻了老年小鼠的神经元变性、线粒体功能障碍和突触损伤等。 摄入番茄红素还有这些好处. 番茄红素是一种属于类胡萝卜素家族的天然色素，它赋予了成熟 ...",
+          "date": "4天前",
+          "position": 56
+        },
+        {
+          "title": "停运！停课！休市！超强台风来了 - 证券之星",
+          "link": "https://wap.stockstar.com/detail/IG2024103100015988",
+          "snippet": "【导读】超强台风“康妮”来了！ 中国基金报综合中国应急管理报、中央气象台、潮新闻等 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和 ...",
+          "date": "2小时前",
+          "position": 57
+        },
+        {
+          "title": "台风“康妮”将影响东南沿海河北山东等地有大雾天气",
+          "link": "https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xzytq/202410/t20241031_6666665.html",
+          "snippet": "... 新闻 视频新闻 图解 数读 · 政府信息公开 规章库 政策文件 政策解读 财政 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和 ...",
+          "date": "4小时前",
+          "position": 58
+        },
+        {
+          "title": "台风“康妮”将于今天中午在台湾登陆！福建东北部地区有大暴雨",
+          "link": "https://www.fjtv.net/yw/2024-10-31/6237088.html",
+          "snippet": "... 新闻资讯、深度报道、互动应用等服务，是福建省内最大的本土新闻 ... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和 ...",
+          "date": "5小时前",
+          "position": 59
+        },
+        {
+          "title": "天泽云泰自主研发的VGR-R01获得美国FDA孤儿药资格认定",
+          "link": "https://bydrug.pharmcube.com/news/detail/33ea3d07aea0f4a7defd6860596d81f7",
+          "snippet": "... 变性（ BCD ）的基因治疗药物VGR-R01 获得美国食品药品监督管理局（以下简称“ FDA ... 新闻列表> 医药新闻详情页>. 天泽云泰自主研发的VGR-R01获得美国FDA孤儿药 ...",
+          "position": 60
+        },
+        {
+          "title": "“康妮”或成10月登陆台湾最强台风浙闽等5省市将遭强风雨 - 忻州日报",
+          "link": "http://www.xzrbw.com/info/1284/390805.htm",
+          "snippet": "当前位置： 首页>>新闻频道>>国际国内>>正文 ... 登陆后，“康妮”将穿过台湾岛，于今天夜间进入台湾海峡，以后在闽浙近海逐渐转向东北方向移动，并逐渐变性为温带 ...",
+          "date": "2小时前",
+          "position": 61
+        },
+        {
+          "title": "台风+大雾+暴雨，中央气象台三预警齐发！山东有强浓雾 - 济南新闻",
+          "link": "http://news.e23.cn/shandong/2024-10-31/2024A3100090.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 大风预报：10月31日08时至11月1日08时，受冷空气和“康妮”的共同 ...",
+          "date": "3小时前",
+          "position": 62
+        },
+        {
+          "title": "變性手術相關報導 - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/tag/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93",
+          "snippet": "最新最豐富的變性手術相關新聞就在Yahoo奇摩新聞，讓你快速掌握世界大事、財經動態、體育賽事結果、影劇圈內幕、社會萬象、台灣在地訊息。",
+          "position": 63
+        },
+        {
+          "title": "吃禁藥？被惡意中傷的林郁婷如何渡過性別認同這一關？｜公視P ...",
+          "link": "https://www.youtube.com/watch?v=46Vxa4RxQTs",
+          "snippet": "人妖、變性、吃禁藥？被惡意中傷的林郁婷如何渡過性別認同這一關？｜公視P# 新聞實驗室 ...\n时长： 8:16\n发布时间： 2023年11月29日",
+          "date": "2023年11月29日",
+          "position": 64
+        },
+        {
+          "title": "超强台风“康妮”预计今日登陆台湾或创多项历史纪录",
+          "link": "https://www.cztv.com/newsDetail/705451",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 新闻信息服务许可证号：3312011001. 地址：浙江省杭州市莫干山路111号 ...",
+          "date": "5小时前",
+          "position": 65
+        },
+        {
+          "title": "易建聯被爆嫖變性人疑似本尊社交網突發文：Fake News！",
+          "link": "https://hk.on.cc/hk/bkn/cnt/entertainment/20241022/bkn-20241022200138954-1022_00862_001.html",
+          "snippet": "繽FUN星網. 搜尋. 易建聯被爆嫖變性人疑似本尊社交網突發文：Fake News！ 香港時間. 10月22日(二) 20:01. 新聞觀看次數：2.6k. 曾打過NBA的中國籃球巨星易建聯，早前被爆 ...",
+          "position": 66
+        },
+        {
+          "title": "遭川普暗批變性人林郁婷包容:允許不同聲音 - YouTube",
+          "link": "https://www.youtube.com/watch?v=1Uw_VKcalqY",
+          "snippet": "遭川普暗批變性人林郁婷包容:允許不同聲音｜TVBS新聞‪@TVBSNEWS01‬. 9.7K views · 2 ...\n时长： 2:03\n发布时间： 2024年8月18日",
+          "date": "2024年8月18日",
+          "position": 67
+        },
+        {
+          "title": "變性人- 相關新聞- 自由時報電子報",
+          "link": "https://news.ltn.com.tw/topic/%E8%AE%8A%E6%80%A7%E4%BA%BA",
+          "snippet": "變性人中國球星易建聯傳嫖妓變性人昔追劉亦菲狂吃閉門羹戶政所搬內政部令釋拒絕他改性別行政法院判決打臉最美變性人走鐘49歲河莉秀高冷風變網紅臉奧運拳擊》面對川普 ...",
+          "position": 68
+        },
+        {
+          "title": "跨性别人物列表- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8",
+          "snippet": "欢迎您参考可靠来源来查漏补缺。 这是一份跨性别人物列表清单，包括变性、第三性或变装名人，以现代人物为主，历史 ...",
+          "position": 69
+        },
+        {
+          "title": "手術改善生活.然後? 德紀錄片揭跨性別困境｜方念華 - YouTube",
+          "link": "https://www.youtube.com/watch?v=dPz3p8TRMWM",
+          "snippet": "跨性別#手術#我變性故我在#TVBS新聞#TVBS直播#TVBS新聞網面對變動的世局 ...\n时长： 5:24\n发布时间： 2023年10月26日",
+          "date": "2023年10月26日",
+          "position": 70
+        },
+        {
+          "title": "變性手術- 相關新聞- 自由時報電子報",
+          "link": "https://news.ltn.com.tw/topic/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93",
+          "snippet": "變性手術跨性別黃明真獲師鐸獎感謝師生支持兒童變性手術爭議延燒！ 天主教團體廣告猛攻賀錦麗小A辣慈母撐腰甜喊女兒最漂亮05/31 各報重點新聞一覽（影音）變性後遭譏「泡 ...",
+          "position": 71
+        },
+        {
+          "title": "继金星后,又一个公众人物变性!妈妈含泪支持……没想到她美成这样",
+          "link": "https://www.youtube.com/watch?v=9GgcsdS7gkA",
+          "snippet": "以弘扬中华民族传统文化----“孝道和亲情”为宗旨的电视栏目。\n时长： 46:54\n发布时间： 2023年12月27日",
+          "date": "2023年12月27日",
+          "position": 72
+        },
+        {
+          "title": "變性手術失敗3次！跨性別者親訴慘痛經驗－民視新聞 - YouTube",
+          "link": "https://www.youtube.com/watch?v=X6GOAEbjD3Q",
+          "snippet": "民視快新聞】影音中心／邱雯馨報導2019年5月24日，台灣成為亞洲第一個同性婚姻合法化的 ...\n时长： 11:26\n发布时间： 2021年6月24日",
+          "date": "2021年6月24日",
+          "position": 73
+        },
+        {
+          "title": "變性人面臨死亡威脅他們被迫移民尋找自由－ BBC News 中文",
+          "link": "https://www.youtube.com/watch?v=KNctkMKWLfo",
+          "snippet": "全球禁止同性關係的國家中，近一半是非洲國家。當地同性戀者面對來自家人和社會的人身攻擊，甚至死 ...\n时长： 6:06\n发布时间： 2020年10月27日",
+          "date": "2020年10月27日",
+          "position": 74
+        },
+        {
+          "title": "【误区中的重灾区】跨性别就一定要做变性手术吗？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=UT-EhQet3_4",
+          "snippet": "Comments · 成大跨性別學生住宿爭議，你能接受性別友善宿舍嗎？｜公視P# 新聞實驗室 ...\n时长： 5:15\n发布时间： 2023年5月5日",
+          "date": "2023年5月5日",
+          "position": 75
+        },
+        {
+          "title": "【女跨男超Man外表帥翻網！Dcup→平胸大談變性過程】｜@s_ala",
+          "link": "https://www.youtube.com/watch?v=sXkG56elQDY",
+          "snippet": "... ！ (小啾編) #創作授權【@s_ala】 https://youtu.be/qQ3jsv7_7ho #女跨男#變性 ...\n时长： 10:43\n发布时间： 2022年4月4日",
+          "date": "2022年4月4日",
+          "position": 76
+        },
+        {
+          "title": "美国17岁女孩后悔变性了：被社交媒体影响了 - 抖音",
+          "link": "https://www.douyin.com/video/7119317748278250759",
+          "snippet": "美国17岁女孩后悔变性了：被社交媒体影响了，不明白变性的后果#美国17岁女孩变性后后悔 ...\n时长： 1:21\n发布时间： 2024年8月2日",
+          "date": "2024年8月2日",
+          "position": 77
+        },
+        {
+          "title": "變性後最困擾的事   - YouTube",
+          "link": "https://www.youtube.com/watch?v=znQZfkU26v0",
+          "snippet": "變性後最困擾的事 . 198K views · 1 month ago #變性 #愛里 #LGBT ...more ...\n时长： 0:41\n发布时间： 2024年9月7日",
+          "date": "2024年9月7日",
+          "position": 78
+        },
+        {
+          "title": "港聞｜跨性別｜謝浩霖｜變性手術- 入境處｜身份證 - YouTube",
+          "link": "https://m.youtube.com/watch?v=fO6Z7Hji_Jc",
+          "snippet": "跨性別人士謝浩霖歷經七年終獲批男性身份證臉帶笑容展示新證｜星島頭條新聞｜港聞｜跨性別 ...\n时长： 1:05\n发布时间： 2024年4月29日",
+          "date": "2024年4月29日",
+          "position": 79
+        },
+        {
+          "title": "Transgender | Star Ob - YouTube",
+          "link": "https://www.youtube.com/watch?v=yWAFVlnvN0E",
+          "snippet": "... 變盤日本自民黨大崩潰新聞大白話20241028 (字幕版). 新聞大白話 New 99K ...\n时长： 1:14:16\n发布时间： 2024年6月28日",
+          "date": "2024年6月28日",
+          "position": 80
+        },
+        {
+          "title": "變性正妹的28道私人問答!跨性別族群的地雷竟是這句! - YouTube",
+          "link": "https://www.youtube.com/watch?v=_meUX6INDk8",
+          "snippet": "VSMEDIA #原創授權✓愛里ALLIE https://youtu.be/_EaI7KSMYlY #變性 ...\n时长： 36:27\n发布时间： 2024年3月5日",
+          "date": "2024年3月5日",
+          "position": 81
+        },
+        {
+          "title": "我到底要不要做变性手术？男变女的内心纠结 - YouTube",
+          "link": "https://www.youtube.com/watch?v=XTfQwf8m_4M",
+          "snippet": "｜公視P# 新聞實驗室. 公視P#新聞實驗室•465K views · 2:14. Go to channel ...\n时长： 5:52\n发布时间： 2020年3月27日",
+          "date": "2020年3月27日",
+          "position": 82
+        },
+        {
+          "title": "34歲卻哭著要變回男人，最後慘死出租屋！｜變性人｜人妖｜跨性別",
+          "link": "https://www.youtube.com/watch?v=r5cVXpPklbA",
+          "snippet": "男子17歲為「性福」變性，34歲卻哭著要變回男人，最後慘死出租屋！｜變性 ... 【投錯胎】割掉睪丸 ...\n时长： 9:34\n发布时间： 2024年6月17日",
+          "date": "2024年6月17日",
+          "position": 83
+        },
+        {
+          "title": "把醫生告上法庭：為什麼不阻止我？！｜變性｜跨性別｜明星觀察員",
+          "link": "https://www.youtube.com/watch?v=jENas0ITerQ",
+          "snippet": "公視主題之夜SHOW•22K views · 11:46 · Go to channel · 【他變她孩子 ...\n时长： 9:17\n发布时间： 2022年7月20日",
+          "date": "2022年7月20日",
+          "position": 84
+        },
+        {
+          "title": "變性不可逆！跨性別辣模科普過來人吐心聲：有一點後悔@maze0517",
+          "link": "https://www.youtube.com/watch?v=zVIeylSjxao",
+          "snippet": "原影片連結：https://youtu.be/I579uHUZ3i0?si=0y5mMm6Ltp9FH_75 ...\n时长： 9:53\n发布时间： 2024年7月20日",
+          "date": "2024年7月20日",
+          "position": 85
+        },
+        {
+          "title": "香港一大步！未完成「變性手術」遭禁止更改「身份證性別」終審 ...",
+          "link": "https://www.youtube.com/watch?v=ASShfH1iy1E",
+          "snippet": "南韓指控北韓派逾萬士兵侵烏！朝鮮半島關係劍拔弩張！在俄羅斯宣傳不育將成刑事罪行！《蕭若 ...\n时长： 15:37\n发布时间： 2023年2月7日",
+          "date": "2023年2月7日",
+          "position": 86
+        },
+        {
+          "title": "奇闻异事：女生变帅哥，变性人的完美蜕变！ - YouTube",
+          "link": "https://www.youtube.com/watch?v=W8kicLDFW8E",
+          "snippet": "... ：女生变帅哥，变性人的完美蜕变！ ... 57東森財經新聞•28K views · 23:24 · Go to ...\n时长： 1:29\n发布时间： 2022年8月18日",
+          "date": "2022年8月18日",
+          "position": 87
+        },
+        {
+          "title": "好好的人，为什么要选择变性？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=EPBfQJN0Hyw",
+          "snippet": "... 变性者）社区的暴力、迫害和歧视的认识。Justice For Sister为服务群体争取平等的机会 ...\n时长： 8:23\n发布时间： 2021年9月25日",
+          "date": "2021年9月25日",
+          "position": 88
+        },
+        {
+          "title": "【男跨女變性手術費用曝光動刀花百萬網喊：好勇敢】@AllieAllie",
+          "link": "https://www.youtube.com/watch?v=yzb-UycU1eo",
+          "snippet": "真的是天使在人間!! (橘子編) #創作授權【愛里ALLIE】 https://youtu.be/VApMSbuyuCY 其他 ...\n时长： 24:20\n发布时间： 2024年7月8日",
+          "date": "2024年7月8日",
+          "position": 89
+        }
+      ],
+      "images": [
+        {
+          "title": "印度伴侣暂停变性备孕变性人顺利诞下宝宝【2023.02.09 八度空间华语 ...",
+          "imageUrl": "https://i.ytimg.com/vi/1O2KJEoxDrs/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=1O2KJEoxDrs"
+        },
+        {
+          "title": "最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OOSrOMN7lFkbx1TVVG67sM8T-7K8FfJhG4w-niq5O13D8AA/641",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00"
+        },
+        {
+          "title": "最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OkNp7eOMcw8iXoIQWNabkmvI7it_3QxZobRkVNR6W1XG4AA/641",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00"
+        },
+        {
+          "title": "中国最年长变性人：不愿隐忍一生- BBC News 中文",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2012/07/12/120712082555_yi_ling__304x171_reuters_nocredit.jpg.webp",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese_news/2012/07/120712_china_transexual"
+        },
+        {
+          "title": "误区中的重灾区】跨性别就一定要做变性手术吗？ - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/UT-EhQet3_4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCNBQhfy-7Rs1Jbs3NmLHgSEWWafg",
+          "link": "https://www.youtube.com/watch?v=UT-EhQet3_4"
+        },
+        {
+          "title": "变性人加冕“葡萄牙小姐”-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OsnHCUZI0kHO5zmUGH5fCN_ghoPGACmOtKCKFDUykFI2kAA/641",
+          "link": "https://news.qq.com/rain/a/20231010A04BV100"
+        },
+        {
+          "title": "美国前海豹突击队成员后悔变性：我被CNN利用了-观察者网",
+          "imageUrl": "https://i.guancha.cn/news/social/2022/12/12/20221212100548741.jpg!wap.jpg",
+          "link": "https://www.guancha.cn/internation/2022_12_12_670942.shtml"
+        },
+        {
+          "title": "越南通过法律将承认变性人及其相关权利- BBC News 中文",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2015/11/24/151124095558_lgbt_march_640x360_getty_nocredit.jpg.webp",
+          "link": "https://www.bbc.com/zhongwen/simp/world/2015/11/151124_vietnam_recognizes_transgender"
+        },
+        {
+          "title": "变性人新闻资料",
+          "imageUrl": "https://www.sinchew.com.my/wp-content/uploads/2024/08/e6b3b0e59bbde4babae5a696e58d81e5b9b4e997b4e9aa9770e5a49ae5908de697a5e69cace4baba-e98791e9a29de8bebe330e4b887-aspect-ratio-1600-900.jpg",
+          "link": "https://www.sinchew.com.my/tag/%E5%8F%98%E6%80%A7%E4%BA%BA"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "变性 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "变性 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 4,
+        "engine": "google"
+      },
+      "organic": [],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "变性 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 5,
+        "engine": "google"
+      },
+      "organic": [],
+      "credits": 2
+    }
+  ]
+}

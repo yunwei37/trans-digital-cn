@@ -1,0 +1,338 @@
+{
+  "query": "变性 新浪新闻",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 1,
+  "endpoint": "/search",
+  "date": "2024-10-31T04:15:46.699041",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性 新浪新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "变性性工作者在中国被边缘化 - 新浪新闻",
+          "link": "http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap",
+          "snippet": "亚洲促进会于星期五发布了一份详尽的报告。报告称，在当今中国，变性性工作者是最边缘化、最脆弱的群体之一。 报告名为《我的生活黑暗得看不到阳光：北京 ...",
+          "date": "2015年1月20日",
+          "position": 1
+        },
+        {
+          "title": "变性人陈莉莉参加环球小姐选美_新闻中心_新浪网",
+          "link": "http://news.sina.com.cn/z/schelilixuanmei/",
+          "snippet": "陈莉莉参加环姐初赛成最受欢迎“女主角”. 在环球小姐四川赛区的初赛中，变性人陈莉莉容光焕发，与37名佳丽出现在环姐的大舞台上，成为昨日最受欢迎的“女主角”...[评论].",
+          "position": 2
+        },
+        {
+          "title": "一觉醒来变性了怎么办？这些大学生也太敢想了 - 新浪",
+          "link": "http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html",
+          "snippet": "一觉醒来变性了怎么办？这些大学生也太敢想了. 新浪新闻客户端 +关注 免流量看视频 ...\n发布时间： 2017年10月30日",
+          "date": "2017年10月30日",
+          "position": 3
+        },
+        {
+          "title": "29岁小伙在泰国做完变性手术，回到湖北想变更户口性别 - 新浪",
+          "link": "http://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fvideo.sina.com.cn%2Fp%2Fnews%2F2024-05-09%2Fdetail-inauqwnr6480007.d.html",
+          "snippet": "29岁小伙在泰国做完变性手术，回到湖北想变更户口性别。该视频获得5600人点赞，发生了什么事，快来看看吧！|sina.cn.",
+          "date": "2024年5月9日",
+          "position": 4
+        },
+        {
+          "title": "“康妮”或成10月登陆台湾最强台风浙闽等5省市将遭强风雨 - 新闻频道",
+          "link": "https://news.cctv.com/2024/10/31/ARTIhkknA9B0nk45QhXD7nnN241031.shtml",
+          "snippet": "登陆后，“康妮”将穿过台湾岛，于今天夜间进入台湾海峡，以后在闽浙近海逐渐转向东北方向移动，并逐渐变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中 ...",
+          "date": "4小时前",
+          "position": 5
+        },
+        {
+          "title": "中央气象台10月31日06时继续发布台风橙色预警 - 极目新闻",
+          "link": "https://www.ctdsb.net/c1716_202410/2293066.html",
+          "snippet": "中央气象台10月31日06时继续发布台风橙色预警：. 今年第21号台风“康妮”（超强台风级）的中心今天（31日）早晨5点钟位于台湾省台东市东南方向约215公里的 ...",
+          "date": "4小时前",
+          "position": 6
+        },
+        {
+          "title": "“康妮”或成10月登陆台湾最强台风浙闽等5省市将遭强风雨 - 新闻频道",
+          "link": "https://news.cctv.cn/2024/10/31/ARTIhkknA9B0nk45QhXD7nnN241031.shtml",
+          "snippet": "登陆后，“康妮”将穿过台湾岛，于今天夜间进入台湾海峡，以后在闽浙近海逐渐转向东北方向移动，并逐渐变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中 ...",
+          "date": "4小时前",
+          "position": 7
+        },
+        {
+          "title": "马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件 - 新浪视频",
+          "link": "https://video.sina.cn/finance/2024-07-23/detail-incfcpey8086817.d.html?vt=4&pos=108&his=0",
+          "snippet": "马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件，美国“觉醒精神病毒”害了他. 打开新闻 ...\n发布时间： 2024年7月23日",
+          "date": "2024年7月23日",
+          "position": 8
+        },
+        {
+          "title": "三预警齐发台风“康妮”将登陆这些地区注意防范",
+          "link": "https://www.ctdsb.net/c1716_202410/2293103.html",
+          "snippet": "预计，“康妮”将以每小时25-30公里的速度向西北方向移动，即将于31日中午前后在台湾岛东部沿海登陆（48-52米/秒，15-16级，强台风级或超强台风级），尔后穿过台湾 ...",
+          "date": "3小时前",
+          "position": 9
+        },
+        {
+          "title": "聚焦央视镜头下的免疫细胞，第一生命力掀起医学新浪潮 - ByDrug",
+          "link": "https://bydrug.pharmcube.com/news/detail/0f8565aababee58da3a5c995010fa7bd",
+          "snippet": "在生死抉择，艰险异常的时刻，免疫细胞治疗CAR-T 带来了新希望。在接受了5个月的治疗后，邹教授体内的癌细胞开始变性坏死，肝脏原有的三个癌灶已经液化 ...",
+          "date": "1天前",
+          "position": 10
+        },
+        {
+          "title": "变性歌手男面女身满脸胡须盘点匪夷所思的变性人【27】",
+          "link": "http://world.people.com.cn/n/2014/0527/c1002-25071424-27.html",
+          "snippet": "发言请遵守新闻跟帖服务协议. 善意回帖，理性发言! 使用其他账号登录: 新浪微博帐号登录 · QQ帐号登录 · 人人帐号登录 · 百度帐号登录 · 豆瓣帐号登录 ...",
+          "date": "2014年5月27日",
+          "position": 11
+        },
+        {
+          "title": "台风橙色预警！已进入24小时警戒线！苏州将有暴雨",
+          "link": "https://news.2500sz.com/doc/2024/10/31/1114876.shtml",
+          "snippet": "名城新闻网是苏州第一门户网站名城苏州网站的新闻子网，国家一类重点新闻网站，提供及发布苏州地区最及时、最权威、最丰富、最精彩的新闻报道。",
+          "date": "3小时前",
+          "position": 12
+        },
+        {
+          "title": "世界顶尖科学家协会奖得主：大脑如何处理视觉信息仍待探索 - 环科",
+          "link": "https://science.caixin.com/2024-10-28/102250349.html",
+          "snippet": "许多眼部疾病困扰着人类，如视网膜病变、白内障、黄斑变性等。通过视觉 ... 新浪微博. 取消. 发送. 登录. （评论前请先登录）. 注册. 财新网. 只给你最 ...",
+          "date": "3天前",
+          "position": 13
+        },
+        {
+          "title": "创新药对外BD模式正在升级迭代 - 中国医药创新促进会",
+          "link": "http://www.phirda.com/artilce_36862.html?module=trackingCodeGenerator",
+          "snippet": "在Lisaftoclax联合泊马度胺及地塞米松用于复发/难治性（R/R）多发性骨髓瘤（MM）或免疫球蛋白轻链（AL）淀粉样变性 ... 新浪财经，2024-09-30. 您可能感兴趣.",
+          "date": "1天前",
+          "position": 14
+        },
+        {
+          "title": "变性手术是如何进行的？最新动画揭示整个变性手术过程 - 新浪视频",
+          "link": "http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html",
+          "snippet": "变性手术是如何进行的？最新动画揭示整个变性手术过程. 新浪新闻 +关注 免流量看视频 ...\n时长： 5:12\n发布时间： 2015年12月8日",
+          "date": "2015年12月8日",
+          "position": 15
+        },
+        {
+          "title": "Cell：迎接新时代！解释免疫和血管系统在神经变性中的重要作用",
+          "link": "https://www.ebiotrade.com/newsf/2024-10/20241018032456859.htm",
+          "snippet": "相关新闻. 热点排行. 1物理学院格点QCD团队用格点量子色动力学研究核子电极化率; 2Journal of ... 新浪微博. 我要投稿. 返回顶部. 生物通版权所有. ×",
+          "date": "2024年10月22日",
+          "position": 16
+        },
+        {
+          "title": "泰国一变性人当选省议员成首位变性人议员(图) - 新闻- 搜狐",
+          "link": "https://news.sohu.com/20120530/n344406694.shtml",
+          "snippet": "她还担任泰国变性人协会主席。尤兰达视自己为政坛中的“新浪潮”。她认为，议员身份将帮她更好地参与推动女性权利和变性人权利相关事务。她将得到更多 ...",
+          "date": "2012年5月30日",
+          "position": 17
+        },
+        {
+          "title": "桃色- 标签_网易出品",
+          "link": "https://money.163.com/keywords/6/4/68438272/1.html",
+          "snippet": "最美变性人”二十多年，49岁外貌变化到认不出！ 网易号. 顽皮bb猪2024-10-04. “最美 ... 上观新闻2024-08-22. 车上频现“桃色”小卡片，警惕网络诈骗陷阱 · 网易号. 东方网 ...",
+          "position": 18
+        },
+        {
+          "title": "比亚迪季营收首次超特斯拉；苹果新M4 MacBook Pro曝光 - 极客公园",
+          "link": "https://www.geekpark.net/news/342517",
+          "snippet": "新闻稿提到，搭载M4 芯片的MacBook Pro 是创业者、学生、创作者等的理想 ... 变性女儿薇薇安。马斯克在一次采访中称，薇薇安「已经死了，被觉醒 ...",
+          "date": "4小时前",
+          "position": 19
+        },
+        {
+          "title": "美国变性网红袭警被捕后哀求法官：不要把我关进男子监狱！ - 新浪视频",
+          "link": "https://video.sina.cn/news/2022-11-15/detail-imqqsmrp6239930.d.html?vt=4&wm=woo?vt1",
+          "snippet": "据福克斯新闻报道，近日，美国26岁跨性别网红博主NikitaDragun因袭警被捕。Dragun当时裸 ...\n发布时间： 2022年11月15日",
+          "date": "2022年11月15日",
+          "position": 20
+        },
+        {
+          "title": "微博热搜榜今日热榜官网",
+          "link": "https://tophub.today/n/KqndgxeLl9",
+          "snippet": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
+          "position": 21
+        },
+        {
+          "title": "演员_标签_网易出品",
+          "link": "https://bj.house.163.com/keywords/6/1/6f145458/1.html?spssid=f8a205294f65aab04c13b7dc30410823&spsw=1&spss=other",
+          "snippet": "新浪微博. 易信. 长按以下内容复制并发送给好友吧：. 演员_标签_网易出品https://bj ... 兰州新闻网2024-10-31. 黄志忠离婚那天儿子的一句话刺痛他内心，至今仍感觉最 ...",
+          "position": 22
+        },
+        {
+          "title": "“康妮”或成10月登陆台湾最强台风，浙闽等5省市将遭强风雨 - 网易",
+          "link": "https://www.163.com/dy/article/JFQPJGAJ0514R9KQ.html",
+          "snippet": "登陆后，“康妮”将穿过台湾岛，于今天夜间进入台湾海峡，以后在闽浙近海逐渐转向东北方向移动，并逐渐变性为温带气旋。 ... 女子看新闻发现老公和杀人犯撞 ...",
+          "date": "2小时前",
+          "position": 23
+        },
+        {
+          "title": "廣州拒變性藝人演出？金星：我只做自己與性別無關！ - 聯合報",
+          "link": "https://udn.com/news/story/7332/8312425",
+          "snippet": "... 新聞. 0:00 / 0:00. Your browser does not support HTML5 Audio ... 報導稱，金星前天在個人新浪微博發文質問宋書琴，稱自己的話劇即將在廣州 ...",
+          "date": "7天前",
+          "position": 24
+        },
+        {
+          "title": "研究发现开心果可能有助于预防视力丧失 - 生物通",
+          "link": "https://www.ebiotrade.com/newsf/2024-10/20241029065057900.htm",
+          "snippet": "较高水平的MP可以防止因年龄相关性黄斑变性（AMD）而导致的视力丧失，并增强视觉功能。 ... 新浪微博. 我要投稿. 返回顶部. 生物通版权所有. ×",
+          "date": "2天前",
+          "position": 25
+        },
+        {
+          "title": "廣州拒變性舞者金星演出稱合規會批- 20241024 - 中國 - 明報新聞網",
+          "link": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20241024/s00013/1729701685209/%E5%BB%A3%E5%B7%9E%E6%8B%92%E8%AE%8A%E6%80%A7%E8%88%9E%E8%80%85%E9%87%91%E6%98%9F%E6%BC%94%E5%87%BA-%E7%A8%B1%E5%90%88%E8%A6%8F%E6%9C%83%E6%89%B9",
+          "snippet": "金星前天在個人新浪微博發文質問宋書琴，稱自己的話劇即將在廣州大劇院上演，但卻因宋的個人原因，演出申請被拒絕審批通過；金星要求公開拒絕審批理由 ...",
+          "date": "7天前",
+          "position": 26
+        },
+        {
+          "title": "大暴雨！强降水集中时段出现在今天半夜到明天白天，最大阵风8~9级",
+          "link": "https://m.163.com/news/article/JFQUASN30514A0P8.html?clickfrom=subscribe",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 女子看新闻发现老公和杀人犯撞脸，次日却撞见丈夫提一包碎肉出门. ¥4 ...",
+          "date": "46分钟前",
+          "position": 27
+        },
+        {
+          "title": "洗完头后自然风干好还是吹干好 - 快科技",
+          "link": "https://news.mydrivers.com/1/1011/1011244.htm",
+          "snippet": "同时，高温还会破坏头发角质蛋白中的二硫键，使得角质蛋白变性，这也是 ... 新闻客户端，展示小尾巴\" class=\"span_from dev ${c.Cfrom}\">${c ...",
+          "date": "1小时前",
+          "position": 28
+        },
+        {
+          "title": "90%准确率! 预言家公布2024年大选终极预测结果 - 文学城",
+          "link": "https://www.wenxuecity.com/news/2024/10/25/125837061.html",
+          "snippet": "文章来源: 新浪新闻 于 2024-10-25 00:41:59 - 新闻取自各大新闻媒体， ... 哈哈姐一上台，电视里头都是男男的床戏，医院里都是变性的小孩。谁来救救美国？ goldeyeball1 ...",
+          "position": 29
+        },
+        {
+          "title": "【现场】2024年医保国谈首日：默沙东、信达等开谈，代表称“谈判很 ...",
+          "link": "https://m.sohu.com/a/820840204_313745?edtsign=3260F9B67B43E077174E32A1B041187C6FE44A1E&edtcode=zXiNVNvXHhH4mGR7923P6Q%3D%3D&scm=thor.283_14-200000.0.10006",
+          "snippet": "... 新闻记者| 唐卓雅. 界面新闻编辑| 谢欣. 10月27日，依然在北京的冷风中，又 ... 今年至少有40种针对罕见病的创新药物通过初审，包括盐酸曲恩汀片（肝豆状核变性 ...",
+          "date": "4天前",
+          "position": 30
+        },
+        {
+          "title": "嗜酸性实性和囊性肾细胞癌的分子特征，治疗和预后 - 新闻- 搜狐",
+          "link": "https://news.sohu.com/a/821605028_120597840",
+          "snippet": "间变性淋巴瘤激酶重排相关性肾细胞癌（ALK-RCC）的大体特征（实性和囊性 ... 新浪微博; 狐友. 取消. 长按复制以下链接，粘贴给好友吧！ https://m ...",
+          "date": "19小时前",
+          "position": 31
+        },
+        {
+          "title": "广州拒变性艺人演出？金星：我只做自己与性别无关 - 加拿大家园",
+          "link": "https://www.iask.ca/news/1023470",
+          "snippet": "报导称，金星前天在个人新浪微博发文质问宋书琴，称自己的话剧即将在广州大剧院上演，但却因宋的个人原因，演出申请被拒绝审批通过；金星要求公开拒绝审批理由 ...",
+          "date": "8天前",
+          "position": 32
+        },
+        {
+          "title": "广东逆袭四川，背后的故事与关键球员的亮点分析！ - 体育- 搜狐",
+          "link": "https://sports.sohu.com/a/822129062_121798711",
+          "snippet": "他的全能发挥彰显了现代篮球对球员多样化能力的需求，正好契合了当前CBA对战术多变性的追求。 ... 为您推荐中 暂时没有更多内容了…… 网站地图. 新闻 ...",
+          "date": "15小时前",
+          "position": 33
+        },
+        {
+          "title": "台风“康妮”将影响东南沿海河北山东等地有大雾天气 - 网易",
+          "link": "https://www.163.com/dy/article/JFQLFPV30514R9KQ.html",
+          "snippet": "... 变性为温带气旋。仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江 ... 女子看新闻发现老公和杀人犯撞脸，次日却撞见丈夫提一包碎肉出门. ¥4 ...",
+          "date": "3小时前",
+          "position": 34
+        },
+        {
+          "title": "原创天津女排输球揭示问题，教练组需关注重点！ - 搜狐",
+          "link": "https://www.sohu.com/a/822223619_121159140?scm=10001.1526_13-1526_13-8002_8002.0-0.10021.0&spm=smpc.channel_259.block22_285_sKyo64_1_fd.5.1730343600010DA5oXoZ_1082",
+          "snippet": "... 新浪微博; 狐友. 取消. 长按复制以下链接，粘贴给好友吧！ https://m ... 网站地图. 新闻 · 财经 · 娱乐 · 军事 · 体育 · 图库 · 汽车 · 房产 · 科技 · 时尚 ...",
+          "date": "4小时前",
+          "position": 35
+        },
+        {
+          "title": "威尔逊_标签_网易出品",
+          "link": "https://money.163.com/keywords/5/0/5a015c14900a/1.html",
+          "snippet": "新浪财经2024-10-29. CBA常规赛第8轮| 上海久事93-106浙江稠州金租 · 网易号. 室内 ... 界面新闻2024-10-28. 人类的前途应该光辉灿烂，无可限量| 一周新书推荐 · 网易号.",
+          "position": 36
+        },
+        {
+          "title": "下午察：知名主持人金星倒在“彩虹旗”下？ - 联合早报",
+          "link": "https://www.kzaobao.com/shiju/20241024/172149.html",
+          "snippet": "今年57岁的金星曾是一名舞蹈男演员，她在自己28岁那年完成了变性手术，成为中国跨性别传奇人物之一。 ... 2018年4月，新浪微博发布公告，将展开为期三 ...",
+          "date": "7天前",
+          "position": 37
+        },
+        {
+          "title": "接受变性手术之后的六年 - 搜狐",
+          "link": "https://www.sohu.com/a/629933347_121124777",
+          "snippet": "撰文| 星期十 · 来源| 十点人物志 · （ID：sdrenwu） · MTF群体（Male-to-Female），指的是其出生时被指派的生理性别为男性，但自我认同为女性的跨性别者。 · 根据十 ...",
+          "date": "2023年1月14日",
+          "position": 38
+        },
+        {
+          "title": "庫克訪京推「蘋果智能」在華落地- 20241024 - 中國 - 明報",
+          "link": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20241024/s00013/1729706977387/%E5%BA%AB%E5%85%8B%E8%A8%AA%E4%BA%AC-%E6%8E%A8%E3%80%8C%E8%98%8B%E6%9E%9C%E6%99%BA%E8%83%BD%E3%80%8D%E5%9C%A8%E8%8F%AF%E8%90%BD%E5%9C%B0",
+          "snippet": "明報網站 · 新聞 · 即時新聞. 財經置業. 財經網 · 置業網 · 卓越 ... 據庫克的新浪微博帖文，他此行到訪了北京順義的農場、王府井的蘋果門店，以及新浪微博 ...",
+          "date": "7天前",
+          "position": 39
+        }
+      ],
+      "images": [
+        {
+          "title": "美国变性网红袭警被捕后哀求法官：不要把我关进男子监狱！_手机新浪网",
+          "imageUrl": "https://n.sinaimg.cn/front20221115ac/200/w640h360/20221115/c39a-f42312a628e493d2180ac31ad7f662db.jpg",
+          "link": "https://video.sina.cn/news/2022-11-15/detail-imqqsmrp6239930.d.html?vt=4&wm=woo?vt1"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655429_808383.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655424_704992.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655442_273361.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655447_893570.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655432_112710.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655428_725319.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        },
+        {
+          "title": "变性之后_新浪图片",
+          "imageUrl": "https://k.sinaimg.cn/www/dy/slidenews/1_img/2016_03/33131_656738_534816.jpg/w640slw.jpg",
+          "link": "https://photo.sina.cn/album_1_33131_94566.htm?ch=1"
+        },
+        {
+          "title": "看见",
+          "imageUrl": "http://storage.slide.news.sina.com.cn/slidenews/1_t5000/2016_03/64237_655430_845106.jpg",
+          "link": "http://slide.news.sina.com.cn/x/slide_1_64237_94383.html"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

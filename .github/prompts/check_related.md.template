@@ -1,0 +1,16 @@
+这里是跨性别中文数字档案馆，我们执行了一些搜索引擎的查询，需要你帮忙检查每个
+查询结果是否与跨性别(mtf、ftm 等)、酷儿、Trans、变性相关，如果相关，请给出 True，
+否则请给出 False。如果不确定，请给出 NotSure。
+
+## Query Result
+
+- title: {title}
+- link: {link}
+- snippet: {snippet}
+
+## Instructions
+
+请检查查询结果是否与跨性别相关，如果相关，请给出 True，否则请给出 False。
+如果不确定，请给出 NotSure。由于搜索引擎中可能有大量的垃圾数据，只有在明确相关，
+例如全文或者文中的一部分明确涉及跨性别相关的议题时，请给出 True，否则请给出 False 或者
+NotSure。有很多文本可能是大量的无关信息的堆砌，需要排除。

@@ -1,0 +1,3840 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.217189,
+        "formattedSearchTime": "0.22",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别女性人群心理特征及相关行为分析*",
+          "htmlTitle": "<b>跨性别</b>女性人群心理特征及相关行为分析*",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "displayLink": "www.zgggws.com",
+          "snippet": "Nov 1, 2018 ... 其中，跨. 性别女性是指生理性别为男性而心理性别认为不. 是男性的人群，MTF 与男性同性恋人群、男男性行. 为者不同[2]，MTF 人群的性取向可以为异性恋,也可.",
+          "htmlSnippet": "Nov 1, 2018 <b>...</b> 其中，跨. <b>性别</b>女性是指生理<b>性别</b>为男性而心理<b>性别</b>认为不. 是男性的人群，MTF 与男性同性恋人群、男男性行. 为者不同[2]，MTF 人群的性取向可以为异性恋,也可.",
+          "formattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1118684.pdf",
+          "htmlFormattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1118684.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Y1YvvK4DgMfHiVJmqRInpEswlKcx3c4KorJbgX5piST7SPdPi3naJqI&s",
+                "width": "213",
+                "height": "213"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181213150446+08'00'",
+                "creationdate": "D:20181213150446+08'00'",
+                "producer": "rhhz"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///49b1bd0a731a434092146fb64f41280cf8b9dba54062f21075377cfd913a6c09"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别证件修改手册",
+          "htmlTitle": "<b>跨性别</b>证件修改手册",
+          "link": "https://docs.transonline.org.cn/files/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%AF%81%E4%BB%B6%E4%BF%AE%E6%94%B9%E6%89%8B%E5%86%8C.pdf",
+          "displayLink": "docs.transonline.org.cn",
+          "snippet": "Sep 28, 2019 ... 目前尚未有裁判文书记载，公安部门拒绝为已完成性别重置手术的跨性. 别者变更身份证和户口本中的性别信息，在实践中部分跨性别者之所以会遭. 遇到阻碍，大多 ...",
+          "htmlSnippet": "Sep 28, 2019 <b>...</b> 目前尚未有裁判文书记载，公安部门拒绝为已完成性别重置手术的跨性. 别者变更身份证和户口本中的性别信息，在实践中部分<b>跨性别</b>者之所以会遭. 遇到阻碍，大多&nbsp;...",
+          "formattedUrl": "https://docs.transonline.org.cn/files/跨性别证件修改手册.pdf",
+          "htmlFormattedUrl": "https://docs.transonline.org.cn/files/<b>跨性别</b>证件修改手册.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqH2TmU4rr5ZwrjZGPcavEWOdMjH8p-JPqfv8pf9gyUmJvE-npMt6QrD0&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190928042405Z00'00'",
+                "creator": "Word",
+                "creationdate": "D:20190928042405Z00'00'",
+                "producer": "macOS 版本 10.14.6（版号 18G95） Quartz PDFContext",
+                "title": "Microsoft Word - 跨性别证件修改手册-彩虹律师团.docx"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///429882083cf28269a96d6ed6d21871f044f0dbe83596b27739359c85f144942c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别者自杀意念的影响因素探析Analysis of Influencing Factors of ...",
+          "htmlTitle": "<b>跨性别</b>者自杀意念的影响因素探析Analysis of Influencing Factors of ...",
+          "link": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "displayLink": "pdf.hanspub.org",
+          "snippet": "Jan 22, 2023 ... 跨性别人群作为社会边缘群体，其特有的心理和行为问题亟需重视。 同时，与正常人群相比，跨性别者的高自杀意念背后的原因目前须进行清晰的解释。因此，本文 ...",
+          "htmlSnippet": "Jan 22, 2023 <b>...</b> <b>跨性别</b>人群作为社会边缘群体，其特有的心理和行为问题亟需重视。 同时，与正常人群相比，<b>跨性别</b>者的高自杀意念背后的原因目前须进行清晰的解释。因此，本文&nbsp;...",
+          "formattedUrl": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "htmlFormattedUrl": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gDPcW0AdYVu06pI9Z8R7o_3v9pmTEhxyYkdVcN4CK2fXEpBb1RJtZA&s",
+                "width": "253",
+                "height": "89"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230129142931+08'00'",
+                "creationdate": "D:20230129142930+08'00'",
+                "creator": "Acrobat PDFMaker 11 Word 版",
+                "sourcemodified": "D:20230129062851",
+                "author": "李记勇",
+                "subject": "近年，跨性别者开始受到社会关注。跨性别人群作为社会边缘群体，其特有的心理和行为问题亟需重视。同时，与正常人群相比，跨性别者的高自杀意念背后的原因目前须进行清晰的解释。因此，本文通过探讨跨性别者所特有经历的压力源，对其高自杀意念的影响因素进行梳理，以期为跨性别人群的心理干预提供一定帮助。",
+                "producer": "Adobe PDF Library 11.0",
+                "title": "跨性别者自杀意念的影响因素探析"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9508e17c83c0077acb88ec4c35bf31fd4ddae43219665c0a95fe8a46c8d85865"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别：",
+          "htmlTitle": "<b>跨性别</b>：",
+          "link": "https://docs.transonline.org.cn/files/guidebook_for_musle_injections.pdf",
+          "displayLink": "docs.transonline.org.cn",
+          "snippet": "** 虽然WHO 认为肌肉注射前的酒精消毒是否有作用有待确认，本手册仍遵循常规操作惯例，推荐注射前进行酒精消毒。 Page 3. 跨性别的激素替代疗法中，正确的进行激素注射与跨性.",
+          "htmlSnippet": "** 虽然WHO 认为肌肉注射前的酒精消毒是否有作用有待确认，本手册仍遵循常规操作惯例，推荐注射前进行酒精消毒。 Page 3. <b>跨性别</b>的激素替代疗法中，正确的进行激素注射与跨性.",
+          "formattedUrl": "https://docs.transonline.org.cn/files/guidebook_for_musle_injections.pdf",
+          "htmlFormattedUrl": "https://docs.transonline.org.cn/files/guidebook_for_musle_injections.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20130625091845+08'00'",
+                "creationdate": "D:20130625090635+08'00'",
+                "creator": "Acrobat PDFMaker 10.1 Word 版",
+                "sourcemodified": "D:20130625010631",
+                "author": "pippipe",
+                "producer": "Acrobat Distiller 10.1.4 (Windows)",
+                "company": "WWW.YlmF.CoM"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别群体抑郁、焦虑与防御机制研究",
+          "htmlTitle": "<b>跨性别</b>群体抑郁、焦虑与防御机制研究",
+          "link": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2630",
+          "displayLink": "www.zjyfyxzz.com",
+          "snippet": "摘要：目的了解跨性别群体抑郁和焦虑状况及其与防御机制的关系，为改善跨性别群体心理健康提供依据。方法. 选择2020 年12 月—2021 年12 月首次就诊于北京回龙观医院性 ...",
+          "htmlSnippet": "摘要：目的了解<b>跨性别</b>群体抑郁和焦虑状况及其与防御机制的关系，为改善<b>跨性别</b>群体心理健康提供依据。方法. 选择2020 年12 月—2021 年12 月首次就诊于北京回龙观医院性&nbsp;...",
+          "formattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230515143322+08'00'",
+                "creationdate": "D:20230515143320+08'00'",
+                "creator": "方正飞翔7.0 专业版",
+                "author": "Administrator",
+                "subject": "无命题1",
+                "producer": "Founder",
+                "title": "预防医学2023-5期（定稿）"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "艾滋病与跨性别者及其它多元性别群体",
+          "htmlTitle": "艾滋病与<b>跨性别</b>者及其它多元性别群体",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/16gh.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "Jan 26, 2021 ... 2019年,跨性别者与其它多元性别群体感染艾滋病病毒的风险是其他成. 年人的3倍。跨性别者获得艾滋病相关服务的机会低于其他人群(1)。 •. 跨性别者和 ...",
+          "htmlSnippet": "Jan 26, 2021 <b>...</b> 2019年,<b>跨性别</b>者与其它多元性别群体感染艾滋病病毒的风险是其他成. 年人的3倍。<b>跨性别</b>者获得艾滋病相关服务的机会低于其他人群(1)。 •. <b>跨性别</b>者和&nbsp;...",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/16gh.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/16gh.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlE6PlEmgesNzIaVR-UnaXFiJ3S4E9MykHbjlYRkTyXMqcQlolU0DL0da&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Mar 31 04:52:15 2022",
+                "creator": "Adobe Illustrator 25.0 (Macintosh)",
+                "creationdate": "Thu Mar 31 04:52:15 2022",
+                "author": "UNAIDS",
+                "producer": "Adobe PDF library 15.00"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ab3ad28e8b742181758b07ac8757ff46d52f28b6bcae255626ad218eda038868"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别女性的特征及艾滋病相关知识行为调查",
+          "htmlTitle": "<b>跨性别</b>女性的特征及艾滋病相关知识行为调查",
+          "link": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?journal_id=zhlxbx&file_name=8101D5DAB1C08948E75602FF36EC0DAE997B349F20780245349618035C29863401CC68A39FF5E763DD5ABCA5C3495EC981BFAEEA5D0BD8C0D4B94448DB18C3C0&open_type=self&file_no=20160116",
+          "displayLink": "chinaepi.icdc.cn",
+          "snippet": "Jan 16, 2016 ... 群[1]，包括跨性别女性(male1to1female，MTF)和跨性. 别男性(female1to1male，FTM)，跨性别人群基于自. 身的性别认同来定义，其中MTF是指生理性别为男.",
+          "htmlSnippet": "Jan 16, 2016 <b>...</b> 群[1]，包括<b>跨性别</b>女性(male1to1female，MTF)和跨性. 别男性(female1to1male，FTM)，<b>跨性别</b>人群基于自. 身的性别认同来定义，其中MTF是指生理性别为男.",
+          "formattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160111140252+08'00'",
+                "creationdate": "D:20160111140240+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性",
+          "htmlTitle": "论西方当代性别与<b>跨性别</b>理论的缘起、内涵与特性",
+          "link": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=32814",
+          "displayLink": "www.zjujournals.com",
+          "snippet": "Sep 5, 2021 ... 首先，它是一种融政治学、社会学、心理学、文化学、历史学、文学等多学科. 于一体的综合性理论，聚焦社会性别（gender）、跨社会性别（transgender）这两个核心 ...",
+          "htmlSnippet": "Sep 5, 2021 <b>...</b> 首先，它是一种融政治学、社会学、心理学、文化学、历史学、文学等多学科. 于一体的综合性理论，聚焦社会<b>性别</b>（gender）、跨社会<b>性别</b>（transgender）这两个核心&nbsp;...",
+          "formattedUrl": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUZ62_9r7ASjr3-P8P4SaONPpKnsnxLkmqGN3b2BpD8x_K18SqM_pkoIP&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211028125333+08'00'",
+                "creationdate": "D:20211028125333+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1668",
+                "subject": "浙大学报社科版",
+                "author": "Microsoft fmx",
+                "producer": "Founder",
+                "title": "03aa71f6-feaa-4c21-bb70-666e3fe6b634"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///50a5a6e70b08375ac407142dbaf5b09b043f8bdd9893f8fc877cd69b46c45c35"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基于性倾向和性别身份的校园欺凌在线问卷调查报告",
+          "htmlTitle": "基于性倾向和<b>性别</b>身份的校园欺凌在线问卷调查报告",
+          "link": "https://www.chinaaids.cn/qsnazbfk/xzzx/201705/P020170510598625075708.pdf",
+          "displayLink": "www.chinaaids.cn",
+          "snippet": "May 6, 2012 ... 感谢荷兰驻华大使馆对本报告以及相关活动的资金支持。感谢UNESCO中国办公. 室、跨性别代表、大学生代表以及中学生代表为问卷设计提供的意见；感谢广州“ ...",
+          "htmlSnippet": "May 6, 2012 <b>...</b> 感谢荷兰驻华大使馆对本报告以及相关活动的资金支持。感谢UNESCO中国办公. 室、<b>跨性别</b>代表、大学生代表以及中学生代表为问卷设计提供的意见；感谢广州“&nbsp;...",
+          "formattedUrl": "https://www.chinaaids.cn/qsnazbfk/xzzx/.../P020170510598625075708.pdf",
+          "htmlFormattedUrl": "https://www.chinaaids.cn/qsnazbfk/xzzx/.../P020170510598625075708.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9d9B6tkvAph-eQ2sdkZqbbfGC_tFUOUaXksXJ5Xx2YIBbCq4Uwt3fGblW&s",
+                "width": "223",
+                "height": "226"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20120618074239+08'00'",
+                "creationdate": "D:20120615213919+08'00'",
+                "creator": "Adobe InDesign CS5.5 (7.5)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///68e96497d1594242ae65a94ed4ac32ef6fb91f091c649544b9ba5dd63f669cae"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "酷儿理论视角下档案与性别身份认同的冲突与和解",
+          "htmlTitle": "酷儿理论视角下档案与<b>性别</b>身份认同的冲突与和解",
+          "link": "https://journal12.magtechjournal.com/Jwk_dax/CN/article/downloadArticleFile.do?attachType=PDF&id=4314",
+          "displayLink": "journal12.magtechjournal.com",
+          "snippet": "[12]现实对跨性别. 者与双性别者等性少数群体的定义也凸显了性别的. 社会属性，所谓“性少数”是在特定的规范之下，才变. 得“特殊”和“怪异”。 由此可见，性别是社会构建的结果， ...",
+          "htmlSnippet": "[12]现实对<b>跨性别</b>. 者与双性别者等性少数群体的定义也凸显了性别的. 社会属性，所谓“性少数”是在特定的规范之下，才变. 得“特殊”和“怪异”。 由此可见，性别是社会构建的结果，&nbsp;...",
+          "formattedUrl": "https://journal12.magtechjournal.com/Jwk.../downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://journal12.magtechjournal.com/Jwk.../downloadArticleFile.do?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211216085958+08'00'",
+                "creationdate": "D:20211216085954+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0.2)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 19:08:47"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.174219,
+        "formattedSearchTime": "0.17",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Acta Psychologica Sinica",
+          "htmlTitle": "Acta Psychologica Sinica",
+          "link": "https://chinaxiv.org/user/download.htm?uuid=fe6d44ee13904417b67b4735c8737812",
+          "displayLink": "chinaxiv.org",
+          "snippet": "1.2 跨性别代言和产品评价. 跨性别代言指的是代言人性别角色与产品性. 别属性相反的广告代言模式。随着社会风气的日益. 开放, 男女性别角色发生了根本性的转变, 传统对.",
+          "htmlSnippet": "1.2 <b>跨性别</b>代言和产品评价. <b>跨性别</b>代言指的是代言人性别角色与产品性. 别属性相反的广告代言模式。随着社会风气的日益. 开放, 男女性别角色发生了根本性的转变, 传统对.",
+          "formattedUrl": "https://chinaxiv.org/user/download.htm?uuid...",
+          "htmlFormattedUrl": "https://chinaxiv.org/user/download.htm?uuid...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-UaYyFQDKO9jxxUveqAXcetQuiKfBkhi39vULKbBtTwi3TR8IEyMMEs&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230327155448+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "creationdate": "D:20220116113706+08'00'",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows); modified using iText® 5.5.8 ©2000-2015 iText Group NV (AGPL-version)",
+                "title": "Microsoft Word - 7王丽丽董梦璐xb21-095_new_.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///207f275f1aa192de9201140486092c7e190c2342b5ee0c94df8392d1f00ee690"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别运动员参加高水平体育比赛的科学思考",
+          "htmlTitle": "<b>跨性别</b>运动员参加高水平体育比赛的科学思考",
+          "link": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "displayLink": "cmstykx.cisszgty.com",
+          "snippet": "变性男性（transgender man）：指出生时认定为女性，通. 过性别重整手术或激素治疗变为男性的个体。 非变性人（cisgender，CISEXT）：指性别认同与出生时. 性别相同的个体。 2 ...",
+          "htmlSnippet": "变性男性（transgender man）：指出生时认定为女性，通. 过<b>性别</b>重整手术或激素治疗变为男性的个体。 非变性人（cisgender，CISEXT）：指<b>性别</b>认同与出生时. <b>性别</b>相同的个体。 2&nbsp;...",
+          "formattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "htmlFormattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxl4aWfdzLDIlw2zrK92qnPAMs_qv4UISilv4GE2ZLyTfZySb1CGvcQSWU&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220124153512+08'00'",
+                "creationdate": "D:20220124153512+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1671",
+                "author": "Microsoft xionghp",
+                "producer": "Founder",
+                "title": "faf42564-2f4c-44f2-af9c-fcf401824a14"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f4a19c6bd9b93654a3a9d4245bebf3bf59aedc3a1f57409740e132f981976d30"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国医患社会心态分问卷的跨性别测量等值性",
+          "htmlTitle": "中国医患社会心态分问卷的<b>跨性别</b>测量等值性",
+          "link": "http://www.xljsyyy.com/CN/article/downloadArticleFile.do?attachType=PDF&id=440",
+          "displayLink": "www.xljsyyy.com",
+          "snippet": "摘要为进一步验证中国医患社会心态分问卷的因子结构ꎬ 并检验其在不同性别的医患方之间的测. 量等值性ꎬ 以1658名医方被试和2720名患方被试为样本ꎬ 对其进行单组验证性 ...",
+          "htmlSnippet": "摘要为进一步验证中国医患社会心态分问卷的因子结构ꎬ 并检验其在不同<b>性别</b>的医患方之间的测. 量等值性ꎬ 以1658名医方被试和2720名患方被试为样本ꎬ 对其进行单组验证性&nbsp;...",
+          "formattedUrl": "http://www.xljsyyy.com/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://www.xljsyyy.com/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwqamaLdYB51SWsd5U1RJXRhlO5GqL9oZcSNf51nxGb9nkB_ThYIucuk&s",
+                "width": "193",
+                "height": "261"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200702034132Z",
+                "producer": "www.ilovepdf.com"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2ffaa0b5b1dd341b7c75a45a18e654a3b906d2a9ad36ecde85aac5ef9a80d734"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2023 年外研社“教学之星”大赛教学设计方案",
+          "htmlTitle": "2023 年外研社“教学之星”大赛教学设计方案",
+          "link": "https://heep.fltrp.com/star_teacher/previewPdf/1369",
+          "displayLink": "heep.fltrp.com",
+          "snippet": "(2) 课中：. 引入各类数字资源，利用线上平台增加教材内容的直观展示性，提升课堂师生沟通效率，同时增. 加对话、讨论、角色扮演、口头报告等口语操练活动，帮助学生克服跨性别 ...",
+          "htmlSnippet": "(2) 课中：. 引入各类数字资源，利用线上平台增加教材内容的直观展示性，提升课堂师生沟通效率，同时增. 加对话、讨论、角色扮演、口头报告等口语操练活动，帮助学生克服<b>跨性别</b>&nbsp;...",
+          "formattedUrl": "https://heep.fltrp.com/star_teacher/previewPdf/1369",
+          "htmlFormattedUrl": "https://heep.fltrp.com/star_teacher/previewPdf/1369",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4No9_9VmXj9izFqzI4bkJB5Yn66pLwrZ4IOO4sHa09YtN_0Z6oraKaXs&s",
+                "width": "244",
+                "height": "207"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230518193044+08'00'",
+                "creator": "Microsoft® Word 2021",
+                "creationdate": "D:20230518193044+08'00'",
+                "author": "卢妍",
+                "producer": "Microsoft® Word 2021"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///feab229576b76006d60a51c376334d9465af99e8b7895f35e2776ef7c20488c3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《心理学报》审稿意见与作者回应",
+          "htmlTitle": "《心理学报》审稿意见与作者回应",
+          "link": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PSFJ&id=5151",
+          "displayLink": "journal.psych.ac.cn",
+          "snippet": "1 建议作者对于跨性别代言的研究做更为细致和精准的梳理，说明国内外学者在跨性别. 代言，尤其是男性代言人代言女性产品方面的研究是什么样的；. 2 作者是基于性别认同一致性 ...",
+          "htmlSnippet": "1 建议作者对于<b>跨性别</b>代言的研究做更为细致和精准的梳理，说明国内外学者在<b>跨性别</b>. 代言，尤其是男性代言人代言女性产品方面的研究是什么样的；. 2 作者是基于性别认同一致性&nbsp;...",
+          "formattedUrl": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?...id...",
+          "htmlFormattedUrl": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?...id...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211221110359+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20211221110359+08'00'",
+                "author": "lenovo",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人类社会行为的双重属性及其双重判断",
+          "htmlTitle": "人类社会行为的双重属性及其双重判断",
+          "link": "https://lifescience.sinh.ac.cn/webadmin/upload/20221206151607_3451_8129.pdf",
+          "displayLink": "lifescience.sinh.ac.cn",
+          "snippet": "Jul 7, 2022 ... 显然，这种情况下生物学属性还占. 有重要的位置。性别属性的进一步演化则出现了“跨. 性别者”(Transgender, T) 和“性别酷儿”(Queer, Q) ...",
+          "htmlSnippet": "Jul 7, 2022 <b>...</b> 显然，这种情况下生物学属性还占. 有重要的位置。<b>性别</b>属性的进一步演化则出现了“跨. <b>性别</b>者”(Transgender, T) 和“<b>性别</b>酷儿”(Queer, Q)&nbsp;...",
+          "formattedUrl": "https://lifescience.sinh.ac.cn/webadmin/.../20221206151607_3451_8129.p...",
+          "htmlFormattedUrl": "https://lifescience.sinh.ac.cn/webadmin/.../20221206151607_3451_8129.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1q7BnDqDbk_qwZ_-MQOWSQckcO8yB1Y8RUCYkD7iKbEQoHKAxn_LsWw&s",
+                "width": "339",
+                "height": "118"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220809171407+08'00'",
+                "creationdate": "D:20220809171405+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0281297c211b5a9624167674cf4d8667f5440c70f52be54eb49a57313fef0321"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Standards of Care for the Health of Transgender and Gender ...",
+          "htmlTitle": "Standards of Care for the Health of Transgender and Gender ...",
+          "link": "https://docs-cdn.transonline.org.cn/files/SOC-V8-CN.pdf",
+          "displayLink": "docs-cdn.transonline.org.cn",
+          "snippet": "Sep 15, 2022 ... 世界跨性别健康专业协会（World Profes- sional Association for Transgender Health, WPATH）是一个国际性的、多学科的专业组织，. 其使命是推动跨性别 ...",
+          "htmlSnippet": "Sep 15, 2022 <b>...</b> 世界<b>跨性别</b>健康专业协会（World Profes- sional Association for Transgender Health, WPATH）是一个国际性的、多学科的专业组织，. 其使命是推动<b>跨性别</b>&nbsp;...",
+          "formattedUrl": "https://docs-cdn.transonline.org.cn/files/SOC-V8-CN.pdf",
+          "htmlFormattedUrl": "https://docs-cdn.transonline.org.cn/files/SOC-V8-CN.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8y5G7aEmgDYqbOF1xM6n6zL-T_30GZ_6oIoCLR4iaBe_3Ej_LeWdz2o&s",
+                "width": "194",
+                "height": "260"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231127003018+09'00'",
+                "creationdate": "D:20231127002630+09'00'",
+                "creator": "Acrobat PDFMaker 23 Word 版",
+                "sourcemodified": "D:20231126152252",
+                "author": "Ryosetsu",
+                "producer": "Adobe PDF Library 23.6.156",
+                "company": "WPATH",
+                "title": "跨性别和多元性别人群健康照护指南（第八版）"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f8f97f72e5f0d4a48b57622bb1df83ec1e9b34e22ee2d451b22b315c8c46d672"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人工智能时代性别伦理的多维思考与前瞻性治理*",
+          "htmlTitle": "人工智能时代<b>性别</b>伦理的多维思考与前瞻性治理*",
+          "link": "http://www.szass.com/attachment/0/52/52065/826459.pdf",
+          "displayLink": "www.szass.com",
+          "snippet": "Jul 4, 2022 ... 体的跨学科话语体系”[1]，性别角色、性别规范. 与 ... 事实上，医. 学与生命科学的发展证明多元化的性别与性. 别取向存在的合理性，跨界性别实践也凸显性.",
+          "htmlSnippet": "Jul 4, 2022 <b>...</b> 体的跨学科话语体系”[1]，<b>性别</b>角色、<b>性别</b>规范. 与 ... 事实上，医. 学与生命科学的发展证明多元化的<b>性别</b>与性. 别取向存在的合理性，跨界<b>性别</b>实践也凸显性.",
+          "formattedUrl": "http://www.szass.com/attachment/0/52/52065/826459.pdf",
+          "htmlFormattedUrl": "http://www.szass.com/attachment/0/52/52065/826459.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnfSGx9c5mkHyyh2aqeXnQn4tHMHExChiwjCYgZWm2LBVIRKgjqbBcEg&s",
+                "width": "193",
+                "height": "262"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220707153358+08'00'",
+                "creationdate": "D:20220707153357+08'00'",
+                "creator": "Adobe InDesign CC 14.0 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///889813740647cdec8e13c3bcc503aed8a4b9e58cbef1b0802f5136f3817d3e33"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2022 世界艾滋病大会强调“科学创新与合作”，吉利德为终结HIV 全球 ...",
+          "htmlTitle": "2022 世界艾滋病大会强调“科学创新与合作”，吉利德为终结HIV 全球 ...",
+          "link": "https://www.gileadchina.cn/-/media/gilead-china/pdfs/news-and-press/press-releases/20220722-cn.pdf",
+          "displayLink": "www.gileadchina.cn",
+          "snippet": "Jul 21, 2022 ... 间的一致性. 美国顺性别和跨性别个体对HIV 暴露前预防药物(PrEP)的真实世界使用情况. HIV 治愈研究. 使用vesatolimod 治疗的病毒血症控制者HIV 反弹时间 ...",
+          "htmlSnippet": "Jul 21, 2022 <b>...</b> 间的一致性. 美国顺性别和<b>跨性别</b>个体对HIV 暴露前预防药物(PrEP)的真实世界使用情况. HIV 治愈研究. 使用vesatolimod 治疗的病毒血症控制者HIV 反弹时间&nbsp;...",
+          "formattedUrl": "https://www.gileadchina.cn/-/media/gilead-china/.../20220722-cn.pdf",
+          "htmlFormattedUrl": "https://www.gileadchina.cn/-/media/gilead-china/.../20220722-cn.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa122sLSEtUqG2_zhzH69iH-g9SKO1rECYMquxGSUgHfAYT6M504kk2Vo&s",
+                "width": "393",
+                "height": "128"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230119140213+06'02'",
+                "creationdate": "D:20230119140213+06'02'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20230119140214+06'02'",
+                "author": "Nicole Rodriguez",
+                "producer": "macOS 版本12.2.1（版号21D62） Quartz PDFContext"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3b70cfbe13ace15c743efa3d44529f6c21dd8547b930f9b2c160a7f54e2685d2"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "我国性少数群体传染病防控",
+          "htmlTitle": "我国性少数群体传染病防控",
+          "link": "http://www.sjpm.org.cn/cn/article/pdf/preview/10.19428/j.cnki.sjpm.2023.22348.pdf",
+          "displayLink": "www.sjpm.org.cn",
+          "snippet": "性少数群体具有聚集性、流动性、排他性和隐匿性等社会行为特征，这些特征 ... 者（bisexual）和跨性别者（transgender）组成，共同简称. 为“LGBT”；也有学者将酷 ...",
+          "htmlSnippet": "性少数群体具有聚集性、流动性、排他性和隐匿性等社会行为特征，这些特征 ... 者（bisexual）和<b>跨性别</b>者（transgender）组成，共同简称. 为“LGBT”；也有学者将酷&nbsp;...",
+          "formattedUrl": "http://www.sjpm.org.cn/cn/article/pdf/.../10.../j.cnki.sjpm.2023.22348.pdf",
+          "htmlFormattedUrl": "http://www.sjpm.org.cn/cn/article/pdf/.../10.../j.cnki.sjpm.2023.22348.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPWjxVI1N7qwiun6MTk3XRoHemMKm_nY6JDyS79ZJ0Nh7gKd3kCuNA6YU&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230530114225+08'00'",
+                "creationdate": "D:20230530114225+08'00'",
+                "creator": "方正飞翔8.2 XML版 8.2.0.1730",
+                "subject": "张雨欣,姜晨彦,王继伟.我国性少数群体传染病防控[J].上海预防医学,2023,35(2):187-190.",
+                "author": "张雨欣1, 姜晨彦2, 王继伟1",
+                "producer": "Founder",
+                "title": "我国性少数群体传染病防控"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ed0e9013a6bfa354e089eae84f542a749fc2ecaac370ab83da941ed8c3dd348f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:43:36"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.22774,
+        "formattedSearchTime": "0.23",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "幽默广告对品牌性别的影响研究",
+          "htmlTitle": "幽默广告对品牌<b>性别</b>的影响研究",
+          "link": "https://qks.sufe.edu.cn/J/PDFFull/A0c31d4843-272c-441d-9733-0919194d4d91.pdf",
+          "displayLink": "qks.sufe.edu.cn",
+          "snippet": "随后，Kazarian和Martin（2004）在跨文化情境（加拿大、比利时、黎巴嫩）中重复了该. 实验，同样发现男性对冒犯型幽默的使用显著高于女性，验证了该结论在不同文化情境下的适. 用 ...",
+          "htmlSnippet": "随后，Kazarian和Martin（2004）在跨文化情境（加拿大、比利时、黎巴嫩）中重复了该. 实验，同样发现男性对冒犯型幽默的使用显著高于女性，验证了该结论在不同文化情境下的适. 用&nbsp;...",
+          "formattedUrl": "https://qks.sufe.edu.cn/J/.../A0c31d4843-272c-441d-9733-0919194d4d91....",
+          "htmlFormattedUrl": "https://qks.sufe.edu.cn/J/.../A0c31d4843-272c-441d-9733-0919194d4d91....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMQsKPag-k9RTjpu2cWCTquX26nkweZH1alAFAj_egwloK4EZhneX_Kg&s",
+                "width": "273",
+                "height": "184"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231207174246+08'00'",
+                "creationdate": "D:20231207174246+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///79626a1931c70d5b1f2dc741511690af2543548e61083db1f99746cc95fb9237"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.qidong.gov.cn/qdswjw/upload/22492ed5-e70d-4395-be84-da6395bfd014.pdf",
+          "displayLink": "www.qidong.gov.cn",
+          "snippet": "跨性别女性. 3. 未治疗或治疗后未达到病毒抑制的. 感染者的阴性性伴. 4. 静脉注射吸毒者. 5. 其他有高感染风险的异性性行为者. PrEP的使用效果. 美国iPrEX研究针对男男性 ...",
+          "htmlSnippet": "<b>跨性别</b>女性. 3. 未治疗或治疗后未达到病毒抑制的. 感染者的阴性性伴. 4. 静脉注射吸毒者. 5. 其他有高感染风险的异性性行为者. PrEP的使用效果. 美国iPrEX研究针对男男性&nbsp;...",
+          "formattedUrl": "http://www.qidong.gov.cn/.../22492ed5-e70d-4395-be84-da6395bfd014.p...",
+          "htmlFormattedUrl": "http://www.qidong.gov.cn/.../22492ed5-e70d-4395-be84-da6395bfd014.p...",
+          "pagemap": {
+            "metatags": [
+              {
+                "subject": "附件（HIV暴露前后预防知识手册）",
+                "author": "CamScanner",
+                "producer": "intsig.com pdf producer"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "大学生生活事件焦虑量表（LEAS）编制及信效度检验Development ...",
+          "htmlTitle": "大学生生活事件焦虑量表（LEAS）编制及信效度检验Development ...",
+          "link": "https://psych.chinaxiv.org/user/download.htm?uuid=b817d8e63ed64966b923b150fa10196c",
+          "displayLink": "psych.chinaxiv.org",
+          "snippet": "0.001）良好，具有较稳定的跨性别不变性。 [结论]该量表各项指标均达到心理 ... 跨性别不变性检验。结果显示：七因子模型在. 这两个群体中数据拟合指数都符合标准 ...",
+          "htmlSnippet": "0.001）良好，具有较稳定的<b>跨性别</b>不变性。 [结论]该量表各项指标均达到心理 ... <b>跨性别</b>不变性检验。结果显示：七因子模型在. 这两个群体中数据拟合指数都符合标准&nbsp;...",
+          "formattedUrl": "https://psych.chinaxiv.org/user/download.htm?uuid...",
+          "htmlFormattedUrl": "https://psych.chinaxiv.org/user/download.htm?uuid...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmg8L385LLsGpSYn5aUqFFHTlTfLLgFunX2bRrQjLr1xiyhHVhWQYDaQ&s",
+                "width": "240",
+                "height": "210"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220706211349+08'00'",
+                "creator": "WPS 文字",
+                "creationdate": "D:20220706175434+09'54'",
+                "sourcemodified": "D:20220706175434+09'54'",
+                "author": "AHNU张正",
+                "producer": "; modified using iText 2.1.6 by 1T3XT"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ce38d6e0490141930dfc78ba58653d70096f8c2ff861d531db778c016dcc03da"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国生物多样性保护战略与行动计划（2023—2030 年）",
+          "htmlTitle": "中国生物多样性保护战略与行动计划（2023—2030 年）",
+          "link": "https://www.mee.gov.cn/ywdt/hjywnews/202401/W020240118377427497957.pdf",
+          "displayLink": "www.mee.gov.cn",
+          "snippet": "... 性保护跨区域工作，拟定工作计划或方案，增强沟通协. 作，健全工作机制，研究确定重要区域生物多样性保护的重大政策、制度和工作方向，. 共同推进重要战略区域生物多样性保护 ...",
+          "htmlSnippet": "... 性保护跨区域工作，拟定工作计划或方案，增强沟通协. 作，健全工作机制，研究确定重要区域生物多样性保护的重大政策、制度和工作方向，. 共同推进重要战略区域生物多样性保护&nbsp;...",
+          "formattedUrl": "https://www.mee.gov.cn/ywdt/hjywnews/.../W020240118377427497957.p...",
+          "htmlFormattedUrl": "https://www.mee.gov.cn/ywdt/hjywnews/.../W020240118377427497957.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vBvy3G9SFgK7-KAQnAyoArTrLg9LTjXhxb_wmuBDsjF_h9XC1DA_d4s&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240118102754+08'00'",
+                "creationdate": "D:20240118085817+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "producer": "Microsoft® Word 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e9617428d374131641ba33b1c7cc1a5a8824d26e7300ddde2762933305887a7d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "试论社会性别定型的多维表征",
+          "htmlTitle": "试论社会<b>性别</b>定型的多维表征",
+          "link": "https://www.sinoss.net/upload/resources/file/2023/10/18/34693.pdf",
+          "displayLink": "www.sinoss.net",
+          "snippet": "Oct 18, 2023 ... 具有对他群体的适应性，才会具有一定的跨性别文化交际能力，进而确保交际目的的达成。 3.2 非言语交际中的社会性别定型及其动态表征. 作为人类社会最 ...",
+          "htmlSnippet": "Oct 18, 2023 <b>...</b> 具有对他群体的适应性，才会具有一定的<b>跨性别</b>文化交际能力，进而确保交际目的的达成。 3.2 非言语交际中的社会性别定型及其动态表征. 作为人类社会最&nbsp;...",
+          "formattedUrl": "https://www.sinoss.net/upload/resources/file/2023/10/18/34693.pdf",
+          "htmlFormattedUrl": "https://www.sinoss.net/upload/resources/file/2023/10/18/34693.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPDnMC4HbZ621GzcMDwhOOA_cQSKLrmqLgSD8WbISyT4s_y9yde4GhBHfa&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231018094749+08'00'",
+                "creator": "Microsoft® Word 2019",
+                "creationdate": "D:20231018094749+08'00'",
+                "author": "hyo31",
+                "producer": "Microsoft® Word 2019"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fb0482cfb90feb091307ea494c2f6087bc2d7782f3d09513c72bca9ab216106d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "文化差异性对跨文化交流的影响",
+          "htmlTitle": "文化差异性对跨文化交流的影响",
+          "link": "http://gjaqyj.cnjournals.com/ch/reader/create_pdf.aspx?file_no=200805014&year_id=2008&quarter_id=5&falg=1",
+          "displayLink": "gjaqyj.cnjournals.com",
+          "snippet": "由于种族、民族、语言、信仰、性别、. 性取向和年龄等在每一个人身上的交叉而产生了不. 同的文化识别,这些因素相互影响,为人们理解个体. 如何与他们所属的许多群体相关联 ...",
+          "htmlSnippet": "由于种族、民族、语言、信仰、<b>性别</b>、. 性取向和年龄等在每一个人身上的交叉而产生了不. 同的文化识别,这些因素相互影响,为人们理解个体. 如何与他们所属的许多群体相关联&nbsp;...",
+          "formattedUrl": "http://gjaqyj.cnjournals.com/ch/reader/create_pdf.aspx?file...",
+          "htmlFormattedUrl": "http://gjaqyj.cnjournals.com/ch/reader/create_pdf.aspx?file...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20160531063616",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3925",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3925)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "htmlTitle": "<b>性别</b>苦恼的临床研究新进展（DSM-5 新标准）",
+          "link": "http://www.medline.com.cn/lzj2013-dengmingyu/20150501xingbiekunaodelinchuang.pdf",
+          "displayLink": "www.medline.com.cn",
+          "snippet": "通常在心理治疗的协助下，有些人统合了跨性别的感觉，. 并且融入于他们出生时所指定的性别角色之中，而不认为有将身体变成女性或男性的需要。对于其它人. 而言，性别角色和展现 ...",
+          "htmlSnippet": "通常在心理治疗的协助下，有些人统合了<b>跨性别</b>的感觉，. 并且融入于他们出生时所指定的性别角色之中，而不认为有将身体变成女性或男性的需要。对于其它人. 而言，性别角色和展现&nbsp;...",
+          "formattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "htmlFormattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150501081335+08'00'",
+                "creationdate": "D:20150424113620-04'00'",
+                "creator": "Acrobat PDFMaker 9.0 Word 版",
+                "sourcemodified": "D:20150424153613",
+                "author": "User",
+                "producer": "Adobe PDF Library 9.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "力量对比与价值取向： 当代美国最高法院中的保守主义与自由主义博弈",
+          "htmlTitle": "力量对比与价值取向： 当代美国最高法院中的保守主义与自由主义博弈",
+          "link": "http://ias.cass.cn/lncgyj/xkfl/mgzz/201908/P020190806381215041612.pdf",
+          "displayLink": "ias.cass.cn",
+          "snippet": "三是阻断异性、同性和跨性人享有平等权利的. 进程。实现跨性别者与异性恋、同性恋者享有平等. 权利是自由主义势力争取的目标。奥贝格费尔诉霍.",
+          "htmlSnippet": "三是阻断异性、同性和跨性人享有平等权利的. 进程。实现<b>跨性别</b>者与异性恋、同性恋者享有平等. 权利是自由主义势力争取的目标。奥贝格费尔诉霍.",
+          "formattedUrl": "http://ias.cass.cn/lncgyj/xkfl/mgzz/.../P020190806381215041612.pdf",
+          "htmlFormattedUrl": "http://ias.cass.cn/lncgyj/xkfl/mgzz/.../P020190806381215041612.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20190626175246-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3966",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "从“刻板印象”到“关系型歧视”",
+          "htmlTitle": "从“刻板印象”到“关系型歧视”",
+          "link": "http://journal.pkulaw.cn/PDFFiles/%E4%BB%8E%E2%80%9C%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E2%80%9D%E5%88%B0%E2%80%9C%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%AD%A7%E8%A7%86%E2%80%9D.pdf",
+          "displayLink": "journal.pkulaw.cn",
+          "snippet": "Jan 1, 2020 ... 性少数群体是指性取向或性别认同与多数人不同的群体,如同性恋者、双性恋者、跨性别. 者及间性人等,英文中经常缩写为LGBTI或LGBTIQ。 〔1〕 联合国目前官方 ...",
+          "htmlSnippet": "Jan 1, 2020 <b>...</b> 性少数群体是指性取向或性别认同与多数人不同的群体,如同性恋者、双性恋者、<b>跨性别</b>. 者及间性人等,英文中经常缩写为LGBTI或LGBTIQ。 〔1〕 联合国目前官方&nbsp;...",
+          "formattedUrl": "http://journal.pkulaw.cn/PDFFiles/从“刻板印象”到“关系型歧视”.pdf",
+          "htmlFormattedUrl": "http://journal.pkulaw.cn/PDFFiles/从“刻板印象”到“关系型歧视”.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUIb0n0VSn6SQPEG0flDtbpDjc5qqfJcWct2Rs6kjNRlURX0AvADS4BY&s",
+                "width": "229",
+                "height": "220"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191218125200+08'00'",
+                "creationdate": "D:20191218125200+08'00'",
+                "creator": "创建者",
+                "producer": "生产者"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8bb5c9f5b8f43589b652da16cc7a76d66dd79f2e8987f1b894a6844bbaa21a56"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "南非大学生眼中的“习近平新时代中国特色社会主义思想”征文大赛获奖 ...",
+          "htmlTitle": "南非大学生眼中的“习近平新时代中国特色社会主义思想”征文大赛获奖 ...",
+          "link": "http://za.china-embassy.gov.cn/dshdxwfb/202210/P020221101758164659243.pdf",
+          "displayLink": "za.china-embassy.gov.cn",
+          "snippet": "... Gender Reconfirmation. Resources, Transgender Education and Healthcare Between China and SA. （构建命运共同体：通过中南性别再确认资源、跨性别教育和医疗保健的整合 ...",
+          "htmlSnippet": "... Gender Reconfirmation. Resources, Transgender Education and Healthcare Between China and SA. （构建命运共同体：通过中南性别再确认资源、<b>跨性别</b>教育和医疗保健的整合&nbsp;...",
+          "formattedUrl": "http://za.china-embassy.gov.cn/dshdxwfb/.../P020221101758164659243.p...",
+          "htmlFormattedUrl": "http://za.china-embassy.gov.cn/dshdxwfb/.../P020221101758164659243.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL03585Zu8jFiRPhlcJzhhsKNVWGKRD6e216oJGDQm1qzdZYWDwOW9OrA&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221101144553+12'45'",
+                "creationdate": "D:20221101144553+12'45'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20221101144553+12'45'",
+                "author": "ShiYongRen"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///651e3a69411344e3ae24e834305ca8c96cba7b8a23bf89b858047aad2ae1887a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:43:39"
+  },
+  {
+    "page": 4,
+    "start_index": 31,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.296009,
+        "formattedSearchTime": "0.30",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "简式大学生心理素质问卷的测量不变性 *",
+          "htmlTitle": "简式大学生心理素质问卷的测量不变性 *",
+          "link": "https://psybeh.tjnu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2415",
+          "displayLink": "psybeh.tjnu.edu.cn",
+          "snippet": "0.23)，在个性品质和适应性上的潜均值不存在性. 别差异(d个性=0.04, p=0.514; d适应性=0.04, p=0.444)。 表 2 CSPSz-SV 跨性别的测量不变性. 模型. WLSMV χ2 df.",
+          "htmlSnippet": "0.23)，在个性品质和适应性上的潜均值不存在性. 别差异(d个性=0.04, p=0.514; d适应性=0.04, p=0.444)。 表 2 CSPSz-SV <b>跨性别</b>的测量不变性. 模型. WLSMV χ2 df.",
+          "formattedUrl": "https://psybeh.tjnu.edu.cn/CN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "https://psybeh.tjnu.edu.cn/CN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDzue5sM7hV9YBX5AzvOq56c0CThMnsGd-8rlyYhKDBVdBUkxMEuL2fTM&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230714150030+08'00'",
+                "creationdate": "D:20230714150030+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f28d76aa87fd36f66d0f4f2985e5b2dc7f2e19eaec9b737cda19561996199076"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基于技术扩散视角的世界女子足球成绩提升研究",
+          "htmlTitle": "基于技术扩散视角的世界女子足球成绩提升研究",
+          "link": "http://xhimg.sports.cn/Image/soft/220107/55-22010G51011W8.pdf",
+          "displayLink": "xhimg.sports.cn",
+          "snippet": "... 跨. 国技术扩散途径实现技术进步，缩小各国/地区女足成绩. 差距，是需要实证检验的命题。 其次，分析跨性别扩散途径。由于男子足球比赛和女. 子足球比赛的场地大小、参赛 ...",
+          "htmlSnippet": "... 跨. 国技术扩散途径实现技术进步，缩小各国/地区女足成绩. 差距，是需要实证检验的命题。 其次，分析<b>跨性别</b>扩散途径。由于男子足球比赛和女. 子足球比赛的场地大小、参赛&nbsp;...",
+          "formattedUrl": "http://xhimg.sports.cn/Image/soft/220107/55-22010G51011W8.pdf",
+          "htmlFormattedUrl": "http://xhimg.sports.cn/Image/soft/220107/55-22010G51011W8.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxl4aWfdzLDIlw2zrK92qnPAMs_qv4UISilv4GE2ZLyTfZySb1CGvcQSWU&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211231143354+08'00'",
+                "creationdate": "D:20211230151545+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1671",
+                "author": "Microsoft xionghp",
+                "producer": "Founder",
+                "title": "00774228-8190-4738-8d32-b883a772c87c"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f4a19c6bd9b93654a3a9d4245bebf3bf59aedc3a1f57409740e132f981976d30"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国外品牌性别研究进展探析",
+          "htmlTitle": "国外品牌<b>性别</b>研究进展探析",
+          "link": "http://shglkx.com/uploadfiles/2019/08/20190813101509159.pdf",
+          "displayLink": "shglkx.com",
+          "snippet": "Jung和Lee（2006）［9］也在品牌性别特征的基础上进. 行了跨性别品牌延伸的研究。 由此可见，品牌性别这一概念其实很早就受到. 学者们的注意，但并没有将品牌性别概念化 ...",
+          "htmlSnippet": "Jung和Lee（2006）［9］也在品牌性别特征的基础上进. 行了<b>跨性别</b>品牌延伸的研究。 由此可见，品牌性别这一概念其实很早就受到. 学者们的注意，但并没有将品牌性别概念化&nbsp;...",
+          "formattedUrl": "http://shglkx.com/uploadfiles/2019/08/20190813101509159.pdf",
+          "htmlFormattedUrl": "http://shglkx.com/uploadfiles/2019/08/20190813101509159.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_RhDCfql4EE1Yxu1cQroTPWbQcsZP75kurPKUcRuIUlM8W4FUzyOaUA&s",
+                "width": "182",
+                "height": "277"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190809184857+08'00'",
+                "creationdate": "D:20190809184851+08'00'",
+                "creator": "Adobe Acrobat Pro DC 19.8.20074",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a42932765b612fc0afa72e84bfac644df66b39f7562ad5c8cef6dc27ae607258"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国调查报告性别失衡背景下中越跨境婚姻研究：",
+          "htmlTitle": "中国调查报告<b>性别</b>失衡背景下中越跨境婚姻研究：",
+          "link": "https://china.unfpa.org/sites/default/files/pub-pdf/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%A1%A1%E8%83%8C%E6%99%AF%E4%B8%8B%E4%B8%AD%E8%B6%8A%E8%B7%A8%E5%A2%83%E5%A9%9A%E5%A7%BB%E7%A0%94%E7%A9%B6-%E4%B8%AD%E5%9B%BD%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A_0.pdf",
+          "displayLink": "china.unfpa.org",
+          "snippet": "《性别失衡背景下中越跨境婚姻研究：中国调查报告》. 北京：. 联合国人口基金驻华代表处。 英文. UNFPA (2018). Sino-Vietnamese Cross-Border Marriage in ...",
+          "htmlSnippet": "《<b>性别</b>失衡背景下中越跨境婚姻研究：中国调查报告》. 北京：. 联合国人口基金驻华代表处。 英文. UNFPA (2018). Sino-Vietnamese Cross-Border Marriage in&nbsp;...",
+          "formattedUrl": "https://china.unfpa.org/.../性别失衡背景下中越跨境婚姻研究-中国调查报...",
+          "htmlFormattedUrl": "https://china.unfpa.org/.../性别失衡背景下中越跨境婚姻研究-中国调查报...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR2p_hlkq3NU07DY9uEdtwGJ3t2Wk9Tj5FMSBBgELi0Qp0jvh5nMlYbv6&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190218103857+08'00'",
+                "creationdate": "D:20190218103849+08'00'",
+                "creator": "Adobe InDesign CC 2015 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5233dac76ae839386e36920a424e0034cfaa4594027146e367f60638a2416c15"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://ncaids.chinacdc.cn/zlk/clly/guizhs/202408/P020240806532592769753.pdf",
+          "displayLink": "ncaids.chinacdc.cn",
+          "snippet": "HIV 暴露后预防(PEP)适用人群包. 括男男性行为者及跨性别女性、HIV 感染. 者的阴性性伴、静脉注射吸毒者、其他有. 高风险的异性性行为者、性侵受害者等。 PEP 使用的纳入 ...",
+          "htmlSnippet": "HIV 暴露后预防(PEP)适用人群包. 括男男性行为者及<b>跨性别</b>女性、HIV 感染. 者的阴性性伴、静脉注射吸毒者、其他有. 高风险的异性性行为者、性侵受害者等。 PEP 使用的纳入&nbsp;...",
+          "formattedUrl": "https://ncaids.chinacdc.cn/zlk/clly/guizhs/.../P020240806532592769753.pd...",
+          "htmlFormattedUrl": "https://ncaids.chinacdc.cn/zlk/clly/guizhs/.../P020240806532592769753.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Fri Jul 28 23:42:26 2023",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "creationdate": "Fri Jul 28 23:42:20 2023",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "南京大学公共体育课程学习须知（2024 年9 月）",
+          "htmlTitle": "南京大学公共体育课程学习须知（2024 年9 月）",
+          "link": "https://jw.nju.edu.cn/_upload/article/files/ab/ae/da63e14b4a7393ae969f92833f95/a1db2752-abf0-4008-94aa-95381acc15e8.pdf",
+          "displayLink": "jw.nju.edu.cn",
+          "snippet": "3.学生参加体育课教学，必须遵守《体育课程安全管理制度》，教师会在上课时. 给同学们具体讲解。 4.选课时凡标注男、女性别的课程，不允许跨性别选课；无标注的课程，男女生.",
+          "htmlSnippet": "3.学生参加体育课教学，必须遵守《体育课程安全管理制度》，教师会在上课时. 给同学们具体讲解。 4.选课时凡标注男、女性别的课程，不允许<b>跨性别</b>选课；无标注的课程，男女生.",
+          "formattedUrl": "https://jw.nju.edu.cn/_.../a1db2752-abf0-4008-94aa-95381acc15e8.pdf",
+          "htmlFormattedUrl": "https://jw.nju.edu.cn/_.../a1db2752-abf0-4008-94aa-95381acc15e8.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrD8JyJTxEy3ScBE2K_u9marJ7hFoqNXo3WSbQJJJkAnbinkGSousKvVA&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240824143910+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20240824143910+08'00'",
+                "author": "使者",
+                "producer": "Microsoft® Word 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///43814ba578cdac2c5009100d51ee12be2106f0d52e373d7ddb5f45fcffebad97"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新探索与内卷化： 2015-2017年西方跨文化传播研究述评",
+          "htmlTitle": "新探索与内卷化： 2015-2017年西方跨文化传播研究述评",
+          "link": "http://journal.whu.edu.cn/uploadfiles/jcr2018no1/201804176hla3_6833.pdf",
+          "displayLink": "journal.whu.edu.cn",
+          "snippet": "Apr 1, 2018 ... 不过，研究. 者大多局限于跨性别者身份认同、家庭（伴侣间）暴力、社交媒体的自我呈现等问题，未能向性别权益的社. 会性差异与对话转向。 第四是互联网时代的 ...",
+          "htmlSnippet": "Apr 1, 2018 <b>...</b> 不过，研究. 者大多局限于<b>跨性别</b>者身份认同、家庭（伴侣间）暴力、社交媒体的自我呈现等问题，未能向性别权益的社. 会性差异与对话转向。 第四是互联网时代的&nbsp;...",
+          "formattedUrl": "http://journal.whu.edu.cn/uploadfiles/jcr2018no1/201804176hla3_6833.pdf",
+          "htmlFormattedUrl": "http://journal.whu.edu.cn/uploadfiles/jcr2018no1/201804176hla3_6833.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSA1SE6cfPI0gJQwscAcvnmkRec11Da0oOipwkKwefpMpvJp1dnn2J4Bj&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180411092623+08'00'",
+                "creationdate": "D:20180411092623+08'00'",
+                "creator": "方正飞翔2011 网络服务版",
+                "subject": "无命题1",
+                "author": "微软中国 Administrator",
+                "producer": "pdflib",
+                "title": "1-改"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fa6cb13dd4206345cae0a9e17963827fdba6b3ad49f1e0ebcb2b37ab24f6f8f6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "目次CHINESE JOURNAL OF OTORHINOLARYNGOLOGY HEAD ...",
+          "htmlTitle": "目次CHINESE JOURNAL OF OTORHINOLARYNGOLOGY HEAD ...",
+          "link": "https://www.yiigle.com/apiVue/file/coverPdfAttachment/61133/2",
+          "displayLink": "www.yiigle.com",
+          "snippet": "Feb 7, 2023 ... 声带截短术用于跨性别女性音调提升的疗效分析………………… 139. 张驰侯倩郭婷婷 ... 尿酸与阻塞性睡眠呼吸暂停相关性研究进展…",
+          "htmlSnippet": "Feb 7, 2023 <b>...</b> 声带截短术用于<b>跨性别</b>女性音调提升的疗效分析………………… 139. 张驰侯倩郭婷婷 ... 尿酸与阻塞性睡眠呼吸暂停相关性研究进展…",
+          "formattedUrl": "https://www.yiigle.com/apiVue/file/coverPdfAttachment/61133/2",
+          "htmlFormattedUrl": "https://www.yiigle.com/apiVue/file/coverPdfAttachment/61133/2",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyL6GOZx4ldbvt7rC0rENgD4hnY0FU3ns6TzTL4riRdfkCdeD2Se3xqvE&s",
+                "width": "193",
+                "height": "261"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230207120250+08'00'",
+                "creationdate": "D:20230204131740+08'00'",
+                "creator": "方正飞翔8.2 XML版 8.2.0.1730",
+                "author": "中华耳鼻咽喉头颈外科杂志",
+                "subject": "中华耳鼻咽喉头颈外科杂志，58卷，02期",
+                "producer": "Founder;",
+                "title": "目录表"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///297a0ffaf04fb4ccf9b4732cf5925e96e94dd0026d578003963202b15f33db95"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "CFPS",
+          "htmlTitle": "CFPS",
+          "link": "https://www.isss.pku.edu.cn/cfps/docs/20210416110205277261.pdf",
+          "displayLink": "www.isss.pku.edu.cn",
+          "snippet": "Apr 16, 2021 ... 跨年库中的变量可以分成三类，一类是个人基线基本信息变量（譬如pid、出生年、性. 别、民族、基线抽样信息等），在CFPS 的问卷设计中，它们被认为是恒定不变的， ...",
+          "htmlSnippet": "Apr 16, 2021 <b>...</b> 跨年库中的变量可以分成三类，一类是个人基线基本信息变量（譬如pid、出生年、性. 别、民族、基线抽样信息等），在CFPS 的问卷设计中，它们被认为是恒定不变的，&nbsp;...",
+          "formattedUrl": "https://www.isss.pku.edu.cn/cfps/docs/20210416110205277261.pdf",
+          "htmlFormattedUrl": "https://www.isss.pku.edu.cn/cfps/docs/20210416110205277261.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210416105806+08'00'",
+                "creator": "Microsoft® Word 2019",
+                "creationdate": "D:20210416105806+08'00'",
+                "author": "admin",
+                "producer": "Microsoft® Word 2019"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "义务教育课程方案（2022年版）",
+          "htmlTitle": "义务教育课程方案（2022年版）",
+          "link": "http://www.moe.gov.cn/srcsite/A26/s8001/202204/W020220420582343217634.pdf",
+          "displayLink": "www.moe.gov.cn",
+          "snippet": "设立跨学科主题学习活动,加强学科间相互关联,带动课程综合. 化实施,强化实践性要求。 三是研制了学业质量标准。各课程标准根据核心素养发展水平,. 结合课程内容,整体 ...",
+          "htmlSnippet": "设立跨学科主题学习活动,加强学科间相互关联,带动课程综合. 化实施,强化实践性要求。 三是研制了学业质量标准。各课程标准根据核心素养发展水平,. 结合课程内容,整体&nbsp;...",
+          "formattedUrl": "http://www.moe.gov.cn/srcsite/A26/.../W020220420582343217634.pdf",
+          "htmlFormattedUrl": "http://www.moe.gov.cn/srcsite/A26/.../W020220420582343217634.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Wed Apr 20 20:45:36 2022",
+                "creator": "Adobe Acrobat 18.11",
+                "creationdate": "Tue Apr 19 04:58:17 2022",
+                "author": "中华人民共和国教育部",
+                "producer": "Adobe Acrobat 18.11 Image Conversion Plug-in"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:43:41"
+  },
+  {
+    "page": 5,
+    "start_index": 41,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.1915,
+        "formattedSearchTime": "0.19",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "他们在家门口书写生命终章",
+          "htmlTitle": "他们在家门口书写生命终章",
+          "link": "http://paper.people.com.cn/jksb/pc/attachement/202410/08/ff7a36aa-e57b-4788-bec4-fdcab347980b.pdf",
+          "displayLink": "paper.people.com.cn",
+          "snippet": "Oct 8, 2024 ... 局限性。借助科技手段，. 可以更及时地发现老年人. 的需求和潜在风险，提供. 更加个性化、专业化 ... 开了跨性别门诊. 10版. 50岁后. 要重视腿部肌肉. 12版.",
+          "htmlSnippet": "Oct 8, 2024 <b>...</b> 局限性。借助科技手段，. 可以更及时地发现老年人. 的需求和潜在风险，提供. 更加个性化、专业化 ... 开了<b>跨性别</b>门诊. 10版. 50岁后. 要重视腿部肌肉. 12版.",
+          "formattedUrl": "http://paper.people.com.cn/.../ff7a36aa-e57b-4788-bec4-fdcab347980b.pd...",
+          "htmlFormattedUrl": "http://paper.people.com.cn/.../ff7a36aa-e57b-4788-bec4-fdcab347980b.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUN38HuPJHA5J4dL2ka3DtFdr00SBLm29rsq5z4VK7QwHl3udtiv3D4Ig&s",
+                "width": "279",
+                "height": "181"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///eb9524754e15ae1520686709ab8c36d97993a3aab6f30bbbef416dc446c1c9c6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2020-2021 年专题政策研究性别主流化报告",
+          "htmlTitle": "2020-2021 年专题政策研究<b>性别</b>主流化报告",
+          "link": "http://www.cciced.net/zcyj/yjbg/zcyjbg/2021/202109/P020210930333694482776.pdf",
+          "displayLink": "www.cciced.net",
+          "snippet": "Sep 2, 2021 ... 2018 年，中国环境与发展国际合作委员会（国合会）将性别平等确定为跨领域主题. 和研究重点。为支持将性别纳入2020-2021 年专题政策研究，国合会秘书处国际 ...",
+          "htmlSnippet": "Sep 2, 2021 <b>...</b> 2018 年，中国环境与发展国际合作委员会（国合会）将<b>性别</b>平等确定为跨领域主题. 和研究重点。为支持将<b>性别</b>纳入2020-2021 年专题政策研究，国合会秘书处国际&nbsp;...",
+          "formattedUrl": "http://www.cciced.net/zcyj/yjbg/zcyjbg/.../P020210930333694482776.pdf",
+          "htmlFormattedUrl": "http://www.cciced.net/zcyj/yjbg/zcyjbg/.../P020210930333694482776.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210929164644+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20210929164644+08'00'",
+                "author": "Kristine St-Pierre",
+                "producer": "Microsoft® Word 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "高校毕业生跨省流动的性别比较",
+          "htmlTitle": "高校毕业生跨省流动的<b>性别</b>比较",
+          "link": "http://iee.gse.pku.edu.cn/__local/4/08/BE/4E9111462C8BAC31C538038F85F_674147DE_B4A82.pdf",
+          "displayLink": "iee.gse.pku.edu.cn",
+          "snippet": "高校毕业生跨省流动的性别比较. 岳昌君1. （北京大学教育学院/教育经济研究所，北京100871）. 摘要：本文基于2013年全国高校毕业生就业状况调查数据，利用统计描述和计量 ...",
+          "htmlSnippet": "高校毕业生跨省流动的<b>性别</b>比较. 岳昌君1. （北京大学教育学院/教育经济研究所，北京100871）. 摘要：本文基于2013年全国高校毕业生就业状况调查数据，利用统计描述和计量&nbsp;...",
+          "formattedUrl": "http://iee.gse.pku.edu.cn/__.../4E9111462C8BAC31C538038F85F_674147...",
+          "htmlFormattedUrl": "http://iee.gse.pku.edu.cn/__.../4E9111462C8BAC31C538038F85F_674147...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VvrWhwL1HcIa1savqhM1pLOka_9Qm99fry1yEyi8hKK7zBOXzuiDWLk&s",
+                "width": "203",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140218090159+08'00'",
+                "creator": "Microsoft® Word 2013",
+                "creationdate": "D:20140218090159+08'00'",
+                "author": "aiaifan",
+                "producer": "Microsoft® Word 2013",
+                "title": "摘要："
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///35f801beabd83ae28b54827ef469119f91d417400511a5b9a0f0c5e1194434af"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "将性别带入家庭社会学研究",
+          "htmlTitle": "将<b>性别</b>带入家庭社会学研究",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20220309/20220309142610_7843.pdf",
+          "displayLink": "www.shehui.pku.edu.cn",
+          "snippet": "Mar 9, 2022 ... 皆关注性别不平等和性别公正，但也有其 ... 在过去. 的十年中，交叉性理论视角下的家庭研究主要关. 注种族和阶级不平等、少数群体家庭和跨国家. 庭［33］。",
+          "htmlSnippet": "Mar 9, 2022 <b>...</b> 皆关注<b>性别</b>不平等和<b>性别</b>公正，但也有其 ... 在过去. 的十年中，交叉性理论视角下的家庭研究主要关. 注种族和阶级不平等、少数群体家庭和跨国家. 庭［33］。",
+          "formattedUrl": "http://www.shehui.pku.edu.cn/upload/editor/.../20220309142610_7843.pd...",
+          "htmlFormattedUrl": "http://www.shehui.pku.edu.cn/upload/editor/.../20220309142610_7843.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220309134143+08'00'",
+                "creationdate": "D:20220211190424-08'00'",
+                "creator": "ReaderEx_DIS 2.3.0 Build 3983",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肾移植基础研究2017年盘点",
+          "htmlTitle": "肾移植基础研究2017年盘点",
+          "link": "https://www.organtranspl.com/cn/article/pdf/preview/10.3969/j.issn.1674-7445.2018.01.005.pdf",
+          "displayLink": "www.organtranspl.com",
+          "snippet": "Jan 1, 2018 ... 通过小鼠模. 型，发现跨性别移植的小鼠白细胞介素（IL）-6 和趋. 化因子基因KC 的信使核糖核酸（mRNA）水平是对照. 组的5～20 倍，提示跨性别移植可能会因为改变 ...",
+          "htmlSnippet": "Jan 1, 2018 <b>...</b> 通过小鼠模. 型，发现<b>跨性别</b>移植的小鼠白细胞介素（IL）-6 和趋. 化因子基因KC 的信使核糖核酸（mRNA）水平是对照. 组的5～20 倍，提示<b>跨性别</b>移植可能会因为改变&nbsp;...",
+          "formattedUrl": "https://www.organtranspl.com/cn/.../10.../j.issn.1674-7445.2018.01.005.pd...",
+          "htmlFormattedUrl": "https://www.organtranspl.com/cn/.../10.../j.issn.1674-7445.2018.01.005.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIRnOEGbuOSQlxZZEkf8aF2wgfYW3ic7Bgz2f3ElzSpxARxZPgLRqN6U&s",
+                "width": "191",
+                "height": "264"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20210420085919-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3968",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8872587e391ff26f967d1d04dfc8be1c9447bab957451b44e97079996745b0ad"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人工智能与性别伦理：一个新时代",
+          "htmlTitle": "人工智能与<b>性别</b>伦理：一个新时代",
+          "link": "http://www.pkujccs.cn/uploads/attachments/20200708/73ce1982e7a9fe5dbcb87dccb6e410ad.pdf",
+          "displayLink": "www.pkujccs.cn",
+          "snippet": "Jul 8, 2020 ... 这就迫使我们不得不思考，传统伦理关于男人、女人、. 情感、责任、价值、道德的认知，在这个正在到来的——强化性别、. 无性别、跨性别的，越来越智能的机器人 ...",
+          "htmlSnippet": "Jul 8, 2020 <b>...</b> 这就迫使我们不得不思考，传统伦理关于男人、女人、. 情感、责任、价值、道德的认知，在这个正在到来的——强化性别、. 无性别、<b>跨性别</b>的，越来越智能的机器人&nbsp;...",
+          "formattedUrl": "http://www.pkujccs.cn/uploads/.../73ce1982e7a9fe5dbcb87dccb6e410ad.p...",
+          "htmlFormattedUrl": "http://www.pkujccs.cn/uploads/.../73ce1982e7a9fe5dbcb87dccb6e410ad.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVlFvGhANVrsNPbNGLcQ7vYGqGbZo61t5PQWIQhBpdixkS_jSEIJkZxW1P&s",
+                "width": "285",
+                "height": "177"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200708162101+08'00'",
+                "creationdate": "D:20200708162045+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///50aecc22a86257a322b9572837a8e87361df007a244f61ff3a3496d2553cad12"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《小号》中的叙事认同与爵士乐身份",
+          "htmlTitle": "《小号》中的叙事认同与爵士乐身份",
+          "link": "https://skxb.hnust.edu.cn/hnkjdxxbsk/article/pdf/202005007?file_name=55455A4859C3AA36F4A4D355050451DBBEA0D2D07942409325CF498C9B33998D106E9881BC1DF74EC58D2947CA52C30D3D763C2EB53544AF70297F14E2C99E18&open_type=self",
+          "displayLink": "skxb.hnust.edu.cn",
+          "snippet": "Sep 5, 2020 ... 摘要：从身份构建的视角看杰琪·凯的小说《小号》，其主人公乔斯·穆迪是一位多种族和跨性别的爵士音乐家。 穆迪女性的身体和男性的身份成为公众关注的 ...",
+          "htmlSnippet": "Sep 5, 2020 <b>...</b> 摘要：从身份构建的视角看杰琪·凯的小说《小号》，其主人公乔斯·穆迪是一位多种族和<b>跨性别</b>的爵士音乐家。 穆迪女性的身体和男性的身份成为公众关注的&nbsp;...",
+          "formattedUrl": "https://skxb.hnust.edu.cn/hnkjdxxbsk/article/pdf/202005007?file...",
+          "htmlFormattedUrl": "https://skxb.hnust.edu.cn/hnkjdxxbsk/article/pdf/202005007?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqJtVulAoA3YiRV7UPapudh1TNILq8h988XOm61wzxK1fYoNC-O0a6jw4&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200929172349+08'00'",
+                "creationdate": "D:20200929172337+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9449496d560a43234edf072581ca94bf2529865c22e0cef97d642af9a88d5a67"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "从２０１９年纽约左翼论坛看西方左翼思想发展动态",
+          "htmlTitle": "从２０１９年纽约左翼论坛看西方左翼思想发展动态",
+          "link": "https://mkszyyj.ajcass.com/UploadFile/Issue/lhotypk2.pdf",
+          "displayLink": "mkszyyj.ajcass.com",
+          "snippet": "(女同性恋者、 男同性恋者、 双性恋者和跨性别群体) 等弱势群体努力争取自身权益的社会现实与. 美国国内反对新帝国主义、 新法西斯主义、 父权主义、 白人至上主义的 ...",
+          "htmlSnippet": "(女同性恋者、 男同性恋者、 双性恋者和<b>跨性别</b>群体) 等弱势群体努力争取自身权益的社会现实与. 美国国内反对新帝国主义、 新法西斯主义、 父权主义、 白人至上主义的&nbsp;...",
+          "formattedUrl": "https://mkszyyj.ajcass.com/UploadFile/Issue/lhotypk2.pdf",
+          "htmlFormattedUrl": "https://mkszyyj.ajcass.com/UploadFile/Issue/lhotypk2.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200518005507+08'00'",
+                "creationdate": "D:20200518005441+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2023年可持续发展报告",
+          "htmlTitle": "2023年可持续发展报告",
+          "link": "https://www.dupont.cn/content/dam/dupont/apac/cn/zh/news/corporate/Files/2023%20Sustainability%20Report%20Executive%20Summary%20PPT%20Final_SimpChi.pdf",
+          "displayLink": "www.dupont.cn",
+          "snippet": "凭借杰出的专业性和独创性，. 我们的团队与客户密切合作，设计贯穿整条价值链的尖 ... Health和跨性别者福利等健康与福利资源. 携手. 31个国家. 的300多家非营利机构 ...",
+          "htmlSnippet": "凭借杰出的专业性和独创性，. 我们的团队与客户密切合作，设计贯穿整条价值链的尖 ... Health和<b>跨性别</b>者福利等健康与福利资源. 携手. 31个国家. 的300多家非营利机构&nbsp;...",
+          "formattedUrl": "https://www.dupont.cn/.../2023%20Sustainability%20Report%20Executive...",
+          "htmlFormattedUrl": "https://www.dupont.cn/.../2023%20Sustainability%20Report%20Executive...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bpI7Jf9C_JtQ7UzItPpJwXaVy1OrIhbdA_866CjbUm10l8BPsZzanEHt&s",
+                "width": "229",
+                "height": "220"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230525150224+08'00'",
+                "creationdate": "D:20230525150224+08'00'",
+                "creator": "Microsoft® PowerPoint® for Microsoft 365",
+                "author": "Price, Amanda",
+                "producer": "Microsoft® PowerPoint® for Microsoft 365",
+                "title": "PowerPoint Presentation"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///cdd2b9925f1f5c8f2d8d062180ebe8515c5add2d41b255af93f2d34da6299ff6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "消费者人际影响易感性量表中文版在大学生群体中的信度和效度 ...",
+          "htmlTitle": "消费者人际影响易感性量表中文版在大学生群体中的信度和效度 ...",
+          "link": "https://xuebao.bbmu.edu.cn/cn/article/pdf/preview/10.13898/j.cnki.issn.1000-2200.2024.04.021.pdf",
+          "displayLink": "xuebao.bbmu.edu.cn",
+          "snippet": "样本2(用于验证性因子分析和跨性别测量等. 值性检验):采用方便取样法选取安徽省3 所高校4. 个班级。 在课前,由2 名心理学专业本科生以班级. 为单位发放问卷,填写完毕后 ...",
+          "htmlSnippet": "样本2(用于验证性因子分析和<b>跨性别</b>测量等. 值性检验):采用方便取样法选取安徽省3 所高校4. 个班级。 在课前,由2 名心理学专业本科生以班级. 为单位发放问卷,填写完毕后&nbsp;...",
+          "formattedUrl": "https://xuebao.bbmu.edu.cn/cn/.../j.cnki.issn.1000-2200.2024.04.021.pdf",
+          "htmlFormattedUrl": "https://xuebao.bbmu.edu.cn/cn/.../j.cnki.issn.1000-2200.2024.04.021.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240529142039+08'00'",
+                "creationdate": "D:20240529142039+08'00'",
+                "producer": "iText® 5.5.11 ©2000-2017 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:43:44"
+  },
+  {
+    "page": 6,
+    "start_index": 51,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.321449,
+        "formattedSearchTime": "0.32",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "艾滋病防治社会组织大有作为",
+          "htmlTitle": "艾滋病防治社会组织大有作为",
+          "link": "http://cdcp.gd.gov.cn/attachment/0/495/495039/3442088.pdf",
+          "displayLink": "cdcp.gd.gov.cn",
+          "snippet": "性工作者 sex workers. 5. 跨性别人群 transgender people. 重点人群（有需要的人群）. 有特殊的高危行为, 有法律和社会相关问题使脆弱性增加,. 无法获得充分的预防、检测 ...",
+          "htmlSnippet": "性工作者 sex workers. 5. <b>跨性别</b>人群 transgender people. 重点人群（有需要的人群）. 有特殊的高危行为, 有法律和社会相关问题使脆弱性增加,. 无法获得充分的预防、检测&nbsp;...",
+          "formattedUrl": "http://cdcp.gd.gov.cn/attachment/0/495/495039/3442088.pdf",
+          "htmlFormattedUrl": "http://cdcp.gd.gov.cn/attachment/0/495/495039/3442088.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-O0iHf2GiQj7gof1VBd8ILtgNwJUZwH-QILh8n3OfuI-ksUO5v0i3sAf&s",
+                "width": "270",
+                "height": "186"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141126111656+08'00'",
+                "creationdate": "D:20141126075542+08'00'",
+                "creator": "Acrobat PDFMaker 9.0 PowerPoint 版",
+                "producer": "Adobe PDF Library 10.0",
+                "title": "PowerPoint Presentation",
+                "version": "1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///dfcbb0326088b0d985df289aba6ca83f9d4ab14dcf34f8e0b2028a850b28b885"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "-最新的HIV 临床研发数据驱动新一轮针对治疗、预防和治愈的创新 ...",
+          "htmlTitle": "-最新的HIV 临床研发数据驱动新一轮针对治疗、预防和治愈的创新 ...",
+          "link": "https://gileadchina.cn/-/media/gilead-china/pdfs/news-and-press/press-releases/20200722-cn-adis-2022.pdf",
+          "displayLink": "gileadchina.cn",
+          "snippet": "... 性. 美国顺性别和跨性别个体对HIV 暴露前预防药物（PrEP）的真实世界使用情况. Page 3. HIV 治愈研究. 使用vesatolimod 治疗的病毒血症控制者HIV 反弹时间的代谢组学和脂质 ...",
+          "htmlSnippet": "... 性. 美国顺性别和<b>跨性别</b>个体对HIV 暴露前预防药物（PrEP）的真实世界使用情况. Page 3. HIV 治愈研究. 使用vesatolimod 治疗的病毒血症控制者HIV 反弹时间的代谢组学和脂质&nbsp;...",
+          "formattedUrl": "https://gileadchina.cn/-/media/gilead...and.../20200722-cn-adis-2022.pdf",
+          "htmlFormattedUrl": "https://gileadchina.cn/-/media/gilead...and.../20200722-cn-adis-2022.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqFx2BcDle4iOJXPnic4Heq318si8fEROOPZhoubXtqM7AZMLaPBW-Cc&s",
+                "width": "390",
+                "height": "126"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Skia/PDF m82"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b2a06e2e426d0b60a34367b8838496f130a4631e59359477a2d2f0518583f5b1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "芒市傣族的“咋尬”仪式及其年龄群体与社会生活＊",
+          "htmlTitle": "芒市傣族的“咋尬”仪式及其年龄群体与社会生活＊",
+          "link": "https://sociology.nju.edu.cn/_upload/article/files/2d/0e/683c2be24f8eb9d5592c1d18709e/1e2b78a6-967e-417a-b2c0-eefc25be63ec.pdf",
+          "displayLink": "sociology.nju.edu.cn",
+          "snippet": "这里，界. 定地位高低的因素或标准很多，主要涉及以下几个. 方面：年龄、性别、学识、宗教神圣性以及在凡俗社会 ... 六、仪式的持续性、连接性和. 年龄群体的兼跨性. 根据芒市 ...",
+          "htmlSnippet": "这里，界. 定地位高低的因素或标准很多，主要涉及以下几个. 方面：年龄、<b>性别</b>、学识、宗教神圣性以及在凡俗社会 ... 六、仪式的持续性、连接性和. 年龄群体的兼跨性. 根据芒市&nbsp;...",
+          "formattedUrl": "https://sociology.nju.edu.cn/_.../1e2b78a6-967e-417a-b2c0-eefc25be63ec....",
+          "htmlFormattedUrl": "https://sociology.nju.edu.cn/_.../1e2b78a6-967e-417a-b2c0-eefc25be63ec....",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20140328143325-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3905",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "流行歌曲中意象符号的性别使用差异",
+          "htmlTitle": "流行歌曲中意象符号的<b>性别</b>使用差异",
+          "link": "http://www.semiotics.net.cn/userfiles/images/76f3e533255d6cb11f227bde1046aa52.pdf",
+          "displayLink": "www.semiotics.net.cn",
+          "snippet": "性别。固然，流行歌曲中存在着“跨性别歌”与“无. 性别歌”，但是它们不占多数。［1］. 因此，在歌曲中“你”是“我”的他者，而这个. “他者”，也会像一面镜子一样，反照出言说 ...",
+          "htmlSnippet": "性别。固然，流行歌曲中存在着“<b>跨性别</b>歌”与“无. 性别歌”，但是它们不占多数。［1］. 因此，在歌曲中“你”是“我”的他者，而这个. “他者”，也会像一面镜子一样，反照出言说&nbsp;...",
+          "formattedUrl": "http://www.semiotics.net.cn/.../76f3e533255d6cb11f227bde1046aa52.pdf",
+          "htmlFormattedUrl": "http://www.semiotics.net.cn/.../76f3e533255d6cb11f227bde1046aa52.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyePTAw78uWjMYFb_NQXYblRpFiLkTqEKduGLZyRZqmdxVz5BTrf4PwA&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20150312170739-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///56db3ff4b8a36b6579e6b50e350c4ccfa3905e32ce5f8909d7babdea08726c46"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "罕见病诊疗指南（2019 年版）",
+          "htmlTitle": "罕见病诊疗指南（2019 年版）",
+          "link": "http://www.nhc.gov.cn/yzygj/s7659/201902/61d06b4916c348e0810ce1fceb844333/files/e2113203d0bf45d181168d855426ca7c.pdf",
+          "displayLink": "www.nhc.gov.cn",
+          "snippet": "... 性别和年龄如果妊娠期或产后女性出现垂体增大、垂体功能减退，结合. 影像学的特征 ... 跨膜离子流的紊乱，表现为心肌细胞动作电位. 和有效不应期缩短。在内、外各种 ...",
+          "htmlSnippet": "... <b>性别</b>和年龄如果妊娠期或产后女性出现垂体增大、垂体功能减退，结合. 影像学的特征 ... 跨膜离子流的紊乱，表现为心肌细胞动作电位. 和有效不应期缩短。在内、外各种&nbsp;...",
+          "formattedUrl": "http://www.nhc.gov.cn/yzygj/.../e2113203d0bf45d181168d855426ca7c.pd...",
+          "htmlFormattedUrl": "http://www.nhc.gov.cn/yzygj/.../e2113203d0bf45d181168d855426ca7c.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190301204439+12'44'",
+                "creationdate": "D:20190301204439+12'44'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20190301204439+12'44'",
+                "author": "w y"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨省稳定就业一次性交通、劳务补助申请表",
+          "htmlTitle": "跨省稳定就业一次性交通、劳务补助申请表",
+          "link": "http://www.xunhua.gov.cn/images/202109101450145214.pdf",
+          "displayLink": "www.xunhua.gov.cn",
+          "snippet": "跨省稳定就业一次性交通、劳务补助申请表. 申请人姓名. 性别. 出生年月. 照片. 户主姓名. 民族. 政治面貌. 身体状况. 文化. 程度. 联系方式. 家庭住址. 外出地点. 外出时间.",
+          "htmlSnippet": "跨省稳定就业一次性交通、劳务补助申请表. 申请人姓名. <b>性别</b>. 出生年月. 照片. 户主姓名. 民族. 政治面貌. 身体状况. 文化. 程度. 联系方式. 家庭住址. 外出地点. 外出时间.",
+          "formattedUrl": "http://www.xunhua.gov.cn/images/202109101450145214.pdf",
+          "htmlFormattedUrl": "http://www.xunhua.gov.cn/images/202109101450145214.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVH1yU8moqH-QRnbpb4m5G2YRY-ifN_11Rw8LlXPgOmTKBYkZ4N8iRGF-s&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211105144948+06'49'",
+                "creationdate": "D:20211105144948+06'49'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20211105144948+06'49'",
+                "author": "lenovo"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///31fd26b392bb81de9d8ef5ae2bfc343a94ad9bb8c80f455cd1c37bc2858a3827"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "郭庆民:话语研究的跨学科性及其新动向与挑战",
+          "htmlTitle": "郭庆民:话语研究的跨学科性及其新动向与挑战",
+          "link": "http://www.discourse-studies.com/upload/file/2018/cda100/12.pdf",
+          "displayLink": "www.discourse-studies.com",
+          "snippet": "461. Page 2. 中国人民大学学报2018年第3期. 的理论和方法的多样性，使它成为一个名副其实的跨学科研究领域。谈到其源头，有人把它与功能. 语言学相联系，有人则认为它借助后 ...",
+          "htmlSnippet": "461. Page 2. 中国人民大学学报2018年第3期. 的理论和方法的多样性，使它成为一个名副其实的跨学科研究领域。谈到其源头，有人把它与功能. 语言学相联系，有人则认为它借助后&nbsp;...",
+          "formattedUrl": "http://www.discourse-studies.com/upload/file/2018/cda100/12.pdf",
+          "htmlFormattedUrl": "http://www.discourse-studies.com/upload/file/2018/cda100/12.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "none",
+                "creationdate": "none",
+                "creator": "none",
+                "author": "iData",
+                "subject": "none",
+                "producer": "none",
+                "title": "open_access_document"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "超 规模集成电路(VLSI) 的共同开发者林恩·康威(Lynn Conway ) 于6 9 ...",
+          "htmlTitle": "超  规模集成电路(VLSI) 的共同开发者林恩·康威(Lynn Conway ) 于6 9 ...",
+          "link": "https://reportify-1252068037.cos.ap-beijing.myqcloud.com/media/production/n_gjbd1gccsbz70ciy30e5oq_36d44b77579091d5d32c5434b5195229_20240622112609.pdf",
+          "displayLink": "reportify-1252068037.cos.ap-beijing.myqcloud.com",
+          "snippet": "Jun 21, 2024 ... 康威是⼀位IEEE 院⼠，也是⼀名跨性别⼥性，也是⼀名跨性别权利活动家，她在更新IEEE ⾏为准则以禁⽌基于性取向、. 性别认同和性别表达的歧视⽅⾯发挥了关键作⽤。",
+          "htmlSnippet": "Jun 21, 2024 <b>...</b> 康威是⼀位IEEE 院⼠，也是⼀名<b>跨性别</b>⼥性，也是⼀名<b>跨性别</b>权利活动家，她在更新IEEE ⾏为准则以禁⽌基于性取向、. 性别认同和性别表达的歧视⽅⾯发挥了关键作⽤。",
+          "formattedUrl": "https://reportify-1252068037.cos.ap-beijing.myqcloud.com/.../n_gjbd1gccs...",
+          "htmlFormattedUrl": "https://reportify-1252068037.cos.ap-beijing.myqcloud.com/.../n_gjbd1gccs...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa8xaeYA9EhoLmBKZWS1EEUOkdUG6lilG6C7NsW9aZosjSk4H0_v7XpJI&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240622032608+00'00'",
+                "creator": "Chromium",
+                "creationdate": "D:20240622032608+00'00'",
+                "producer": "Skia/PDF m91"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b158d11be405c3d6aee9ec889808233afc22ca2cf027761f21d028a476d9121a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "我骄傲，我奉献，真色彩",
+          "htmlTitle": "我骄傲，我奉献，真色彩",
+          "link": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021-12/1_33975.pdf",
+          "displayLink": "www.yunbaogao.cn",
+          "snippet": "Jun 13, 2018 ... ... 性少数员工组织，还为跨性别员工提. Page 3. - 3 -. 供切实的支持。在麦肯锡推动各项政策，以及创造和支持性少数群体的社. 区文化方面，[鲍达民]发挥了 ...",
+          "htmlSnippet": "Jun 13, 2018 <b>...</b> ... 性少数员工组织，还为<b>跨性别</b>员工提. Page 3. - 3 -. 供切实的支持。在麦肯锡推动各项政策，以及创造和支持性少数群体的社. 区文化方面，[鲍达民]发挥了&nbsp;...",
+          "formattedUrl": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021.../1_33975.pdf",
+          "htmlFormattedUrl": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021.../1_33975.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtb_bG16n8PkmKx1Wql5WNvI256CANsH54pyWe6Ex6hm8FKQd_y_CA0uW&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "PyPDF2"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b7dedc808496a580ae908c419aed11cfd56d3f675b527fc13b74fd0d61324e8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "序号课题名称姓名工作单位项目类别所在学科1 习近平总书记关于中华 ...",
+          "htmlTitle": "序号课题名称姓名工作单位项目类别所在学科1 习近平总书记关于中华 ...",
+          "link": "http://download.people.com.cn/yunying2/twentyfive16938166181.pdf",
+          "displayLink": "download.people.com.cn",
+          "snippet": "2812 影响跨性别女性普通话性别感知的语音声学特征研究. 陈臻. 华东师范大学. 一般项目. 语言学. 2813. 基于语料库的反讽与中国古代史官话语权建构的社会认. 知研究.",
+          "htmlSnippet": "2812 影响<b>跨性别</b>女性普通话性别感知的语音声学特征研究. 陈臻. 华东师范大学. 一般项目. 语言学. 2813. 基于语料库的反讽与中国古代史官话语权建构的社会认. 知研究.",
+          "formattedUrl": "http://download.people.com.cn/yunying2/twentyfive16938166181.pdf",
+          "htmlFormattedUrl": "http://download.people.com.cn/yunying2/twentyfive16938166181.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0DSkzbikmHrJpcz1HSPAMOUaaSKjvcXnJm5-ptkcwX-glBknowr45sc&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230904163100+08'31'",
+                "creationdate": "D:20230904163100+08'31'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20230904163100+08'31'",
+                "author": "benchou007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///83bbf34fcc856ba4c0e95f9ffaff109ded8bb52836fc732b6487653a0d8d7a6c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:43:46"
+  },
+  {
+    "page": 7,
+    "start_index": 61,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.344729,
+        "formattedSearchTime": "0.34",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "中缅跨境婚姻移民人口阶段性剧增现象研究",
+          "htmlTitle": "中缅跨境婚姻移民人口阶段性剧增现象研究",
+          "link": "http://www.ims.sdu.edu.cn/__local/F/4F/75/51BAAF2684EA3C2C6CCB550B6A9_A3BC872D_847D4.pdf",
+          "displayLink": "www.ims.sdu.edu.cn",
+          "snippet": "基金项目：本文是2015 年云南省教育厅研究生项目“社会性别视角下跨境媳妇在云南的健康状况研究”（项目号： 2015J071）. 和教育部国家公派联合培养博士生项目的阶段性成果。",
+          "htmlSnippet": "基金项目：本文是2015 年云南省教育厅研究生项目“社会<b>性别</b>视角下跨境媳妇在云南的健康状况研究”（项目号： 2015J071）. 和教育部国家公派联合培养博士生项目的阶段性成果。",
+          "formattedUrl": "http://www.ims.sdu.edu.cn/__.../51BAAF2684EA3C2C6CCB550B6A9_A3...",
+          "htmlFormattedUrl": "http://www.ims.sdu.edu.cn/__.../51BAAF2684EA3C2C6CCB550B6A9_A3...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPFwK28rypEOAuEZ9tOz9bZAyRY3ey-62aiMcx4PA9ZJYKuJAXzsmppE&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20160629222329-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0db627f862a2ca187da76b0189106b77804b9dad38a67d3a3ab5e774efa24da0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基于跨理论模型的肺康复锻炼干预对慢性阻塞性肺疾病患者生活质量 ...",
+          "htmlTitle": "基于跨理论模型的肺康复锻炼干预对慢性阻塞性肺疾病患者生活质量 ...",
+          "link": "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType=PDF&id=3264",
+          "displayLink": "www.chinagp.net",
+          "snippet": "... 性；呼吸锻炼；跨理论模型；病人依从；生活质量. 【中图分类号】 R 563.9 【文献标识码】 A DOI：10.3969/j.issn.1007-9572.2018.00.254. 陈旭，杨晓芸，刘淑敏. 基于跨 ...",
+          "htmlSnippet": "... 性；呼吸锻炼；跨理论模型；病人依从；生活质量. 【中图分类号】 R 563.9 【文献标识码】 A DOI：10.3969/j.issn.1007-9572.2018.00.254. 陈旭，杨晓芸，刘淑敏. 基于跨&nbsp;...",
+          "formattedUrl": "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnIAm7qbyROl5QB-yKXev9a0cajdUSILkQ14kXCHjb8IEf9RYuYT4VYMv&s",
+                "width": "252",
+                "height": "200"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180907171132+08'00'",
+                "creationdate": "D:20180907171130+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0df45ba8aed3399e6181ca7508dc97b672966094e9763bdce318904e2887d677"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2020 年中国儿童人口状况事实与数据",
+          "htmlTitle": "2020 年中国儿童人口状况事实与数据",
+          "link": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/202304/P020230419425666818737.pdf",
+          "displayLink": "www.stats.gov.cn",
+          "snippet": "19 折页中使用的留守儿童定义为“父母双方或一方跨乡镇街道外出流动半年及以上 ... 性别差异。性别平等指数等于1 说明相. 应指标没有性别差异；一般情况下，小于1 ...",
+          "htmlSnippet": "19 折页中使用的留守儿童定义为“父母双方或一方跨乡镇街道外出流动半年及以上 ... <b>性别</b>差异。<b>性别</b>平等指数等于1 说明相. 应指标没有<b>性别</b>差异；一般情况下，小于1&nbsp;...",
+          "formattedUrl": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/.../P020230419425666818737.pd...",
+          "htmlFormattedUrl": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/.../P020230419425666818737.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFq8LlReTEI5zKh521a_MuILBzT0byJn3FnDGwubHkCvCSyTzAu8AOEh9&s",
+                "width": "245",
+                "height": "206"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230419104505+08'00'",
+                "creationdate": "D:20230406174104+08'00'",
+                "creator": "Acrobat PDFMaker 22 for Word",
+                "author": "UNICEF China",
+                "producer": "Adobe PDF Library 22.3.86",
+                "company": "UNICEF"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ac3a6fe8860e84990eb7462d504b08073bdadee29f42a3bd93db2867870619b3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "社会语言学视阈下的英语性别语言差异研究",
+          "htmlTitle": "社会语言学视阈下的英语<b>性别</b>语言差异研究",
+          "link": "https://xbsk.xcc.edu.cn/xcxyxbsk/article/pdf/201501042?file_name=88D0BB702E5C17073B328E5E10ED951A6A7533E02340340AD7139CC808F3CEB6A9BDD17E0EC35B991C2B448B58ACD52BED6315804559D005112AC9DAA119B53D&open_type=self",
+          "displayLink": "xbsk.xcc.edu.cn",
+          "snippet": "在跨性别谈话中，男性往往是. 话题主导方，女性则附和男性进行谈话。 （二 ... 交际中的性别语言差异与跨性别交际失误[J].文教资料,2012(8):67-68. [4]杨璐.言语 ...",
+          "htmlSnippet": "在<b>跨性别</b>谈话中，男性往往是. 话题主导方，女性则附和男性进行谈话。 （二 ... 交际中的性别语言差异与<b>跨性别</b>交际失误[J].文教资料,2012(8):67-68. [4]杨璐.言语&nbsp;...",
+          "formattedUrl": "https://xbsk.xcc.edu.cn/xcxyxbsk/article/pdf/201501042?file_name...",
+          "htmlFormattedUrl": "https://xbsk.xcc.edu.cn/xcxyxbsk/article/pdf/201501042?file_name...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5oQcjtY7X_BSCoQkOhiFcu12KzNuA7f66Lhzqr6Z7Xz_moVd2m7tfVRaz&s",
+                "width": "188",
+                "height": "268"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20161005192241-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b5513d9fde149fea25605df404afb80170e874af8e872a8c739ef96e8dc699eb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "功能性腹%患者健康促进行为量表的汉化及信效度检验",
+          "htmlTitle": "功能性腹%患者健康促进行为量表的汉化及信效度检验",
+          "link": "http://manu68.magtech.com.cn/Jwk3_hlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=6117",
+          "displayLink": "manu68.magtech.com.cn",
+          "snippet": "结论中文版功能性腹胀患者健康促进行为量表具有良好的信效度和跨性别的测量等值性,可作为我国功能. 性腹胀患者健康促进行为的评估工具。 [关键词] 功能性腹胀; 健康促进 ...",
+          "htmlSnippet": "结论中文版功能性腹胀患者健康促进行为量表具有良好的信效度和<b>跨性别</b>的测量等值性,可作为我国功能. 性腹胀患者健康促进行为的评估工具。 [关键词] 功能性腹胀; 健康促进&nbsp;...",
+          "formattedUrl": "http://manu68.magtech.com.cn/Jwk3_hlxb/.../downloadArticleFile.do?...",
+          "htmlFormattedUrl": "http://manu68.magtech.com.cn/Jwk3_hlxb/.../downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5rs6pGojaeGpwi33141tYaS9yG3I2IEATew3ILD42XbtgMkgQEBa2Zg&s",
+                "width": "260",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230314085115+08'00'",
+                "creationdate": "D:20230314085113+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2a6dfa434bed25a9dfa5b46ea474b84c002946dd29b36352d97b6e50f40f4d85"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "经济与法律学院",
+          "htmlTitle": "经济与法律学院",
+          "link": "https://www.ustl.edu.cn/__local/E/C9/3F/3C177E89A217219DC47C0340BEA_3371D018_86E226.pdf",
+          "displayLink": "www.ustl.edu.cn",
+          "snippet": "赫宇彤：跨性别劳动者的平等就业权. 冯家诚：明知故犯：论帮信罪的主观认知程度. 王永峰：农村集体经济组织法对促进乡村振兴的意义. 李顥：论旅游合同精神损害赔偿. 王琦惠 ...",
+          "htmlSnippet": "赫宇彤：<b>跨性别</b>劳动者的平等就业权. 冯家诚：明知故犯：论帮信罪的主观认知程度. 王永峰：农村集体经济组织法对促进乡村振兴的意义. 李顥：论旅游合同精神损害赔偿. 王琦惠&nbsp;...",
+          "formattedUrl": "https://www.ustl.edu.cn/__.../3C177E89A217219DC47C0340BEA_3371D...",
+          "htmlFormattedUrl": "https://www.ustl.edu.cn/__.../3C177E89A217219DC47C0340BEA_3371D...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20241022144556+08'00'",
+                "creationdate": "D:20241022142856+08'00'",
+                "creator": "WPS PDF",
+                "sourcemodified": "D:20241022142856+08'00'",
+                "producer": "WPS PDF"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://graduate.shisu.edu.cn/_upload/article/files/ea/c0/52b71adb444093fb54d120bedac0/a6a066a6-a230-417a-9867-f0bf7cab7826.pdf",
+          "displayLink": "graduate.shisu.edu.cn",
+          "snippet": "上升趋势，讲究跨文化跨学科研究，拓宽了. 我们的视野。但也出现了不伦不类的 ... 著有《性别政治与国家》、《女人的理想国》、《持不同性见者》、《不. 咬人的女权 ...",
+          "htmlSnippet": "上升趋势，讲究跨文化跨学科研究，拓宽了. 我们的视野。但也出现了不伦不类的 ... 著有《<b>性别</b>政治与国家》、《女人的理想国》、《持不同性见者》、《不. 咬人的女权&nbsp;...",
+          "formattedUrl": "https://graduate.shisu.edu.cn/_.../a6a066a6-a230-417a-9867-f0bf7cab7826...",
+          "htmlFormattedUrl": "https://graduate.shisu.edu.cn/_.../a6a066a6-a230-417a-9867-f0bf7cab7826...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20151201222037+08'00'",
+                "creator": "Microsoft® Word 2010 订阅",
+                "creationdate": "D:20151201222037+08'00'",
+                "author": "微软用户",
+                "producer": "Microsoft® Word 2010 订阅"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "“一带一路” 生物多样性保护案例报告",
+          "htmlTitle": "“一带一路” 生物多样性保护案例报告",
+          "link": "http://www.brigc.net/zcyj/bgxz/2021/202110/P020211025594625270491.pdf",
+          "displayLink": "www.brigc.net",
+          "snippet": "本报告收集了中国的生态红线、大湄公河次区域的跨境生态廊道、非洲的. 泛非洲绿色长城生态修复、菲律宾等沿海国家的海洋蓝色碳汇、生态补偿、非. 洲热带雨林区加蓬的零毁林 ...",
+          "htmlSnippet": "本报告收集了中国的生态红线、大湄公河次区域的跨境生态廊道、非洲的. 泛非洲绿色长城生态修复、菲律宾等沿海国家的海洋蓝色碳汇、生态补偿、非. 洲热带雨林区加蓬的零毁林&nbsp;...",
+          "formattedUrl": "http://www.brigc.net/zcyj/bgxz/2021/.../P020211025594625270491.pdf",
+          "htmlFormattedUrl": "http://www.brigc.net/zcyj/bgxz/2021/.../P020211025594625270491.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy45Mwnu4qqlBVyz_Q9BfG1sFZlnbAQtTytplpS2YiRoMK4rXf-9piHdo&s",
+                "width": "228",
+                "height": "221"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211024113201+08'00'",
+                "creationdate": "D:20211024113201+08'00'",
+                "creator": "Adobe Acrobat Pro 9.1.2",
+                "producer": "Adobe PDF library 15.00",
+                "title": "中文封面"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a246a989ec445b9052e0cdba5900feef4f05dd07af753b9c2b688ade8a7c3a61"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2019 年外研社“教学之星”大赛教学设计方案",
+          "htmlTitle": "2019 年外研社“教学之星”大赛教学设计方案",
+          "link": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/gykejianNews/files/%E8%A5%BF%E5%AE%89%E5%A4%96%E4%BA%8B%E5%AD%A6%E9%99%A2%281%29.pdf",
+          "displayLink": "fltrp-gy.oss-cn-shanghai.aliyuncs.com",
+          "snippet": "... 跨文化交际中的重要作用及应用规则。 ⑤ 跨性别文化交际，介绍中外男女性别意识的差异所导致的文化差异，如谈. Page 5. 话风格、行为习惯、思维方式的不同以及如何跨越 ...",
+          "htmlSnippet": "... 跨文化交际中的重要作用及应用规则。 ⑤ <b>跨性别</b>文化交际，介绍中外男女性别意识的差异所导致的文化差异，如谈. Page 5. 话风格、行为习惯、思维方式的不同以及如何跨越&nbsp;...",
+          "formattedUrl": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/.../西安外事学院%281%29.p...",
+          "htmlFormattedUrl": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/.../西安外事学院%281%29.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgriSFK6UdxMKMS7PAJE9KJMCe18capRJ6C-Bfoxl18HNevRPjSxl1vZE&s",
+                "width": "224",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190724125826+08'00'",
+                "creationdate": "D:20190709234323+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "author": "卢妍",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///371ad303cde913d7d5f88673d3e3e121c8d386c38ea48ea418f362178d597afc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "世界银行营商环境评估体系变化要点、指标分析与启示",
+          "htmlTitle": "世界银行营商环境评估体系变化要点、指标分析与启示",
+          "link": "http://59.175.169.166/cms/web/file/20240530/1717057966840095281.pdf",
+          "displayLink": "59.175.169.166",
+          "snippet": "May 1, 2023 ... 以及数字技术应用、环境可持续性、性别3个跨领. 域主题，其要义在于降低制度性交易成本，准确把. 握和处理好公共部门与市场主体之间的关系[ 1 ]。 本文 ...",
+          "htmlSnippet": "May 1, 2023 <b>...</b> 以及数字技术应用、环境可持续性、<b>性别</b>3个跨领. 域主题，其要义在于降低制度性交易成本，准确把. 握和处理好公共部门与市场主体之间的关系[ 1 ]。 本文&nbsp;...",
+          "formattedUrl": "http://59.175.169.166/cms/web/file/.../1717057966840095281.pdf",
+          "htmlFormattedUrl": "http://59.175.169.166/cms/web/file/.../1717057966840095281.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20231003120250-08'00'",
+                "creator": "ReaderEx_DIS 2.4.0 Build 4053",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:45:34"
+  },
+  {
+    "page": 8,
+    "start_index": 71,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.22583,
+        "formattedSearchTime": "0.23",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "中国和新加坡四所大学本科生跨文化敏感度比较研究",
+          "htmlTitle": "中国和新加坡四所大学本科生跨文化敏感度比较研究",
+          "link": "https://g-city.sass.org.cn/_upload/article/files/a7/e2/cea4238646d59b354b4509aec7ad/e5a15a11-3983-47f7-ad81-26a85e71d0bf.pdf",
+          "displayLink": "g-city.sass.org.cn",
+          "snippet": "... 性别本科生在跨文化敏感度及其子维度上的. 差异，结果如表4所示，不同性别在中国和新加坡本科生总体跨文化敏感度上的P值分别为0．709和. 0．420，全部大于0 ...",
+          "htmlSnippet": "... <b>性别</b>本科生在跨文化敏感度及其子维度上的. 差异，结果如表4所示，不同<b>性别</b>在中国和新加坡本科生总体跨文化敏感度上的P值分别为0．709和. 0．420，全部大于0&nbsp;...",
+          "formattedUrl": "https://g-city.sass.org.cn/_.../e5a15a11-3983-47f7-ad81-26a85e71d0bf.pdf",
+          "htmlFormattedUrl": "https://g-city.sass.org.cn/_.../e5a15a11-3983-47f7-ad81-26a85e71d0bf.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20221118175100-08'00'",
+                "creator": "ReaderEx_DIS 2.3.0 Build 4002",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨学科学习对博士生培养的影响因素及形成机理",
+          "htmlTitle": "跨学科学习对博士生培养的影响因素及形成机理",
+          "link": "https://www.csadge.edu.cn/upload_files/file/20240416/1713232347095084921.pdf",
+          "displayLink": "www.csadge.edu.cn",
+          "snippet": "Apr 2, 2024 ... 采用质性研究方法,从. 博士生自身的主观角度,对跨学科博士生培养的影. 响因素进行实证调查的文献仍相对不足。因此,本. 研究依托对博士生的实际调查与访谈, ...",
+          "htmlSnippet": "Apr 2, 2024 <b>...</b> 采用质性研究方法,从. 博士生自身的主观角度,对跨学科博士生培养的影. 响因素进行实证调查的文献仍相对不足。因此,本. 研究依托对博士生的实际调查与访谈,&nbsp;...",
+          "formattedUrl": "https://www.csadge.edu.cn/upload_files/file/.../1713232347095084921.pdf",
+          "htmlFormattedUrl": "https://www.csadge.edu.cn/upload_files/file/.../1713232347095084921.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM5-0ePmQ5IF2VbgrrY_bsE9F1zjxKnz7t1t2zQ6NwdiyQOiIWg09cCpjj&s",
+                "width": "293",
+                "height": "172"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240402110413+08'00'",
+                "creationdate": "D:20240402110403+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///594a6c3d577d356e5648a27bd98c0babc896177a76d25b992d2fcb66e8bc2ab8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国际高等教育",
+          "htmlTitle": "国际高等教育",
+          "link": "https://soe.sjtu.edu.cn/SJTU/JDEducation/kindeditor/Upload/file/20210128/202101281849028380000.pdf",
+          "displayLink": "soe.sjtu.edu.cn",
+          "snippet": "Jan 28, 2021 ... 女性在肤色、. 种族、性取向、跨性别、年龄、文化信仰和/. 或社会经济地位等方面有很多不同。此外，. 这些因素相交的身份标记使一些女性比其他. 女性更容易 ...",
+          "htmlSnippet": "Jan 28, 2021 <b>...</b> 女性在肤色、. 种族、性取向、<b>跨性别</b>、年龄、文化信仰和/. 或社会经济地位等方面有很多不同。此外，. 这些因素相交的身份标记使一些女性比其他. 女性更容易&nbsp;...",
+          "formattedUrl": "https://soe.sjtu.edu.cn/SJTU/JDEducation/.../202101281849028380000.pdf",
+          "htmlFormattedUrl": "https://soe.sjtu.edu.cn/SJTU/JDEducation/.../202101281849028380000.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190417104551+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20190417104551+08'00'",
+                "author": "Administrator",
+                "producer": "Microsoft® Word 2016",
+                "title": "“次贷”市场和国际高等教育"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "社区矫正监督管理规范",
+          "htmlTitle": "社区矫正监督管理规范",
+          "link": "https://sc.12348.gov.cn/file/ngxdown.shtml?filename=2023_08_18_9_6_54_112_1_e.pdf",
+          "displayLink": "sc.12348.gov.cn",
+          "snippet": "Aug 1, 2023 ... ... 性跨市、县活动）证明书........................ 18. 附录D（规范性） 暂 ... 7.1.1 执行地县级社区矫正机构或受委托的司法所应及时根据社区矫正对象性别、 ...",
+          "htmlSnippet": "Aug 1, 2023 <b>...</b> ... 性跨市、县活动）证明书........................ 18. 附录D（规范性） 暂 ... 7.1.1 执行地县级社区矫正机构或受委托的司法所应及时根据社区矫正对象<b>性别</b>、&nbsp;...",
+          "formattedUrl": "https://sc.12348.gov.cn/file/ngxdown.shtml?filename=2023_08...",
+          "htmlFormattedUrl": "https://sc.12348.gov.cn/file/ngxdown.shtml?filename=2023_08...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbUJM65FbFm1aLbx1NZ6v3NwrqeYzIhoWMoe1Yo4JjcMadexSGYvOAxWI&s",
+                "width": "200",
+                "height": "252"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230714102722+08'00'",
+                "creationdate": "D:20230627102027+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "author": "hp",
+                "producer": "Microsoft® Word 2010; modified using iText® 5.5.12 ©2000-2017 iText Group NV (AGPL-version)",
+                "title": "地方标准"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///81d29b71d1e6ec668d946ce41c09b33f4c0e2d98e789c961fba400db6188cd99"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中华人民共和国国民经济和社会发展第十四个五年规划和2035 年远景 ...",
+          "htmlTitle": "中华人民共和国国民经济和社会发展第十四个五年规划和2035 年远景 ...",
+          "link": "https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/202103/P020210313315693279320.pdf",
+          "displayLink": "www.ndrc.gov.cn",
+          "snippet": "经营性建设用地入市、宅基地制度改革。改革土地计划管理方式，赋予. 省级政府更大用地自主权，探索建立全国性的建设用地、补充耕地指标. 跨区域交易机制。建立不同产业 ...",
+          "htmlSnippet": "经营性建设用地入市、宅基地制度改革。改革土地计划管理方式，赋予. 省级政府更大用地自主权，探索建立全国性的建设用地、补充耕地指标. 跨区域交易机制。建立不同产业&nbsp;...",
+          "formattedUrl": "https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/.../P020210313315693279320.p...",
+          "htmlFormattedUrl": "https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/.../P020210313315693279320.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnJuzspBlB7BkPBchyk5N5wSVY3lUYdeOXr4BwRzAzTJ3HsnWcNLQAy_1h&s",
+                "width": "270",
+                "height": "187"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210313084351+00'43'",
+                "creationdate": "D:20210313084351+00'43'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20210313084351+00'43'",
+                "author": "wangl"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2b7c8dcf1ed07c4d11eb28182b266568040095afd1409dca0f8a6a5be7f7050c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "PowerPoint 演示文稿",
+          "htmlTitle": "PowerPoint 演示文稿",
+          "link": "https://ict.sflep.com/uploadfile/2023/0414/20230414032538436.pdf",
+          "displayLink": "ict.sflep.com",
+          "snippet": "Apr 14, 2023 ... 极态度对跨文化交际的重要性。此外，Deardorff (2006) 的金字塔模型将 ... 性别等，后者包括日常生活. 方式、礼貌习俗等；吴卫平等(2013) 指出跨 ...",
+          "htmlSnippet": "Apr 14, 2023 <b>...</b> 极态度对跨文化交际的重要性。此外，Deardorff (2006) 的金字塔模型将 ... <b>性别</b>等，后者包括日常生活. 方式、礼貌习俗等；吴卫平等(2013) 指出跨&nbsp;...",
+          "formattedUrl": "https://ict.sflep.com/uploadfile/2023/0414/20230414032538436.pdf",
+          "htmlFormattedUrl": "https://ict.sflep.com/uploadfile/2023/0414/20230414032538436.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslzLSY8HikIDutn6wy9H0wdy6FOUiEVzndugWFX5oKRXuED9zVoRQl0g&s",
+                "width": "251",
+                "height": "201"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230410200702+08'00'",
+                "creationdate": "D:20230410200641+08'00'",
+                "creator": "Acrobat PDFMaker 21 PowerPoint 版",
+                "author": "Simon_阿文",
+                "producer": "Adobe PDF Library 21.1.177",
+                "theme": "99f79ceb-5639-429a-9c57-3bdd608e3b6e",
+                "title": "PowerPoint 演示文稿"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3c57bd5cb55f3012129e9494497ad7e334fc3fec1ab02a6df1baa63cc8ee879f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "对外投资合作国别(地区)指南",
+          "htmlTitle": "对外投资合作国别(地区)指南",
+          "link": "http://com.gd.gov.cn/zouchuqu/files/Argentina.pdf",
+          "displayLink": "com.gd.gov.cn",
+          "snippet": "严峻性、不确定性上升,政治、经济、法律、安全、舆情、经营风险叠加,对外投 ... 其中,女性占比为52.83%,男性占比为47.05%,跨性别群体. 0.12%。阿人口密度较低,约为 ...",
+          "htmlSnippet": "严峻性、不确定性上升,政治、经济、法律、安全、舆情、经营风险叠加,对外投 ... 其中,女性占比为52.83%,男性占比为47.05%,<b>跨性别</b>群体. 0.12%。阿人口密度较低,约为&nbsp;...",
+          "formattedUrl": "http://com.gd.gov.cn/zouchuqu/files/Argentina.pdf",
+          "htmlFormattedUrl": "http://com.gd.gov.cn/zouchuqu/files/Argentina.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Wed Aug  7 23:48:59 2024"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "何谓“跨文化”： 自我与他者的吊诡共生",
+          "htmlTitle": "何谓“跨文化”： 自我与他者的吊诡共生",
+          "link": "https://www.tsyzm.com/fileup/1004-2229/NEWS/20220720105228.pdf",
+          "displayLink": "www.tsyzm.com",
+          "snippet": "Jul 20, 2022 ... ... 性别. 认同上，transgender 就是跨越传统性别界线。用俗话来说，跨文化理念的主旨是“跳脱框架思考”. （thinking outside the silo），不受任何界线的 ...",
+          "htmlSnippet": "Jul 20, 2022 <b>...</b> ... <b>性别</b>. 认同上，transgender 就是跨越传统<b>性别</b>界线。用俗话来说，跨文化理念的主旨是“跳脱框架思考”. （thinking outside the silo），不受任何界线的&nbsp;...",
+          "formattedUrl": "https://www.tsyzm.com/fileup/1004-2229/NEWS/20220720105228.pdf",
+          "htmlFormattedUrl": "https://www.tsyzm.com/fileup/1004-2229/NEWS/20220720105228.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220626235923+08'00'",
+                "creationdate": "D:20220626235922+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国银行社会责任报告",
+          "htmlTitle": "中国银行社会责任报告",
+          "link": "https://pic.bankofchina.com/bocappd/report/202403/P020240328716166339882.pdf",
+          "displayLink": "pic.bankofchina.com",
+          "snippet": "进一步提升人民币跨. 境使用的便利性，集团跨境人民币结算业务量同比. 增长超过80%，跨境理财通签约客户增长62.71%，. 更好满足跨境贸易投资金融服务需求。 我们强化底线 ...",
+          "htmlSnippet": "进一步提升人民币跨. 境使用的便利性，集团跨境人民币结算业务量同比. 增长超过80%，跨境理财通签约客户增长62.71%，. 更好满足跨境贸易投资金融服务需求。 我们强化底线&nbsp;...",
+          "formattedUrl": "https://pic.bankofchina.com/bocappd/.../P020240328716166339882.pdf",
+          "htmlFormattedUrl": "https://pic.bankofchina.com/bocappd/.../P020240328716166339882.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiHy11OCXlLZIAC-20ATMHPGAW72uscN6JqeFamtBaZukuxjL3aaA5M6w&s",
+                "width": "244",
+                "height": "207"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240328164324+08'00'",
+                "creationdate": "D:20240328164223+08'00'",
+                "creator": "Adobe InDesign 19.2 (Macintosh)",
+                "producer": "Adobe PDF Library 17.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bba6dc569814911a511765a802ac0fa7ab5fdb8628ee7cf145781867692dabcb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "二十国集团深化结构性改革议程",
+          "htmlTitle": "二十国集团深化结构性改革议程",
+          "link": "http://www.g20chn.org/hywj/dncgwj/201609/t20160908_3407.html",
+          "displayLink": "www.g20chn.org",
+          "snippet": "Sep 8, 2016 ... G20 结构性改革. 优先领域. 结构性改革指标1. 政策指标2. 产出指标3. 促进贸易和投资开放. 贸易和投资隐性壁垒指. 标. 或*. 跨境贸易指标. 劳动生产. 率.",
+          "htmlSnippet": "Sep 8, 2016 <b>...</b> G20 结构性改革. 优先领域. 结构性改革指标1. 政策指标2. 产出指标3. 促进贸易和投资开放. 贸易和投资隐性壁垒指. 标. 或*. 跨境贸易指标. 劳动生产. 率.",
+          "formattedUrl": "http://www.g20chn.org/hywj/dncgwj/201609/t20160908_3407.html",
+          "htmlFormattedUrl": "http://www.g20chn.org/hywj/dncgwj/201609/t20160908_3407.html",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160908175934+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20160908175934+08'00'",
+                "author": "蔡凌晖",
+                "producer": "Microsoft® Office Word 2007",
+                "title": "二十国集团深化结构性改革议程"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:45:37"
+  },
+  {
+    "page": 9,
+    "start_index": 81,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.200193,
+        "formattedSearchTime": "0.20",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "金融数据跨境流动规制的核心问题和中国因应",
+          "htmlTitle": "金融数据跨境流动规制的核心问题和中国因应",
+          "link": "https://guojifayanjiu.ajcass.com/Admin/UploadFile/Issue/dtkdlge3.pdf",
+          "displayLink": "guojifayanjiu.ajcass.com",
+          "snippet": "以上国家安全层面和经济社会层面规制的必要性也决定了金融数据跨境流动规制的三个目. 标\" 即维护国家安全! 维持金融稳定和安全! 保护金融消费者合法权益# 此外\" 考虑到数字 ...",
+          "htmlSnippet": "以上国家安全层面和经济社会层面规制的必要性也决定了金融数据跨境流动规制的三个目. 标&quot; 即维护国家安全! 维持金融稳定和安全! 保护金融消费者合法权益# 此外&quot; 考虑到数字&nbsp;...",
+          "formattedUrl": "https://guojifayanjiu.ajcass.com/Admin/UploadFile/Issue/dtkdlge3.pdf",
+          "htmlFormattedUrl": "https://guojifayanjiu.ajcass.com/Admin/UploadFile/Issue/dtkdlge3.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "全国心理援助热线、机构联系信息心理服务与援助机构：",
+          "htmlTitle": "全国心理援助热线、机构联系信息心理服务与援助机构：",
+          "link": "https://xinli.buct.edu.cn/_upload/article/files/d1/86/58119f32496fb1e0e7b64d368a1e/b6b8a434-274d-41fd-b88e-e0bbdf430944.pdf",
+          "displayLink": "xinli.buct.edu.cn",
+          "snippet": "性少数群体机构：. 机构名：北京同志中心跨性别热线. 所在地：北京. 机构性质：NGO. 费用：免费.",
+          "htmlSnippet": "性少数群体机构：. 机构名：北京同志中心<b>跨性别</b>热线. 所在地：北京. 机构性质：NGO. 费用：免费.",
+          "formattedUrl": "https://xinli.buct.edu.cn/_.../b6b8a434-274d-41fd-b88e-e0bbdf430944.pdf",
+          "htmlFormattedUrl": "https://xinli.buct.edu.cn/_.../b6b8a434-274d-41fd-b88e-e0bbdf430944.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200113115005+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20200113115005+08'00'",
+                "author": "Lily Li",
+                "producer": "Microsoft® Word 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "联大预防和控制非传染性疾病问题第三次高级别会议政治宣言的后续 ...",
+          "htmlTitle": "联大预防和控制非传染性疾病问题第三次高级别会议政治宣言的后续 ...",
+          "link": "https://www.caae.org.cn/ueditor/php/upload/file/20220903/1662184059172599.pdf",
+          "displayLink": "www.caae.org.cn",
+          "snippet": "Apr 27, 2022 ... 1. 2020 年11 月，第七十三届世界卫生大会通过了WHA73.10 号决议，除其他外，决. 议要求世卫组织总干事与会员国协商，制定一项十年期癫痫和其他神经系统疾病跨 ...",
+          "htmlSnippet": "Apr 27, 2022 <b>...</b> 1. 2020 年11 月，第七十三届世界卫生大会通过了WHA73.10 号决议，除其他外，决. 议要求世卫组织总干事与会员国协商，制定一项十年期癫痫和其他神经系统疾病跨&nbsp;...",
+          "formattedUrl": "https://www.caae.org.cn/ueditor/php/upload/file/.../1662184059172599.pdf",
+          "htmlFormattedUrl": "https://www.caae.org.cn/ueditor/php/upload/file/.../1662184059172599.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6d49O5wjHT0SzM2r6-aYrvbMZPGKCqNKf1lyXRq8zx0wTS_y_chxkAY&s",
+                "width": "435",
+                "height": "116"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220427110710+02'00'",
+                "creator": "Microsoft® Word 适用于 Microsoft 365",
+                "creationdate": "D:20220427110710+02'00'",
+                "author": "世界卫生组织",
+                "producer": "Microsoft® Word 适用于 Microsoft 365",
+                "title": "联大预防和控制非传染性疾病问题第三次高级别会议政治宣言的后续行动"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9fa22ae43c1d0da16c2d82d31359e31b5fc891cb8883574dfdabaca9e84a58c9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "酷儿理论等于同性恋研究吗？",
+          "htmlTitle": "酷儿理论等于同性恋研究吗？",
+          "link": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=529",
+          "displayLink": "tsla.ecnu.edu.cn",
+          "snippet": "例如，华中师范大学. 文艺学系列教材《女性主义文学批评导论》第六. 章将酷儿理论等同于LGBT 研究，即女同性恋、男. 同性恋、双性及跨性研究（ 魏天真梅兰116）。 “简析作为 ...",
+          "htmlSnippet": "例如，华中师范大学. 文艺学系列教材《女性主义文学批评导论》第六. 章将酷儿理论等同于LGBT 研究，即女同性恋、男. 同性恋、双性及跨性研究（ 魏天真梅兰116）。 “简析作为&nbsp;...",
+          "formattedUrl": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fjIovbR1_U7lyYyGGTYcIgu4kDIVCCdvK4MEoa5eMHnXBUVpd9hdRW9r&s",
+                "width": "192",
+                "height": "263"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210415150445+08'00'",
+                "creationdate": "D:20210408085731-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3965",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///cb7ea7336cf63b2c72493fea831491d39d2e326927879478d1be0003ff896358"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "职业病防治要做到主动出击",
+          "htmlTitle": "职业病防治要做到主动出击",
+          "link": "https://faxing.jkb.com.cn/home/index/download.html?goods=7&item=809740&page=1388301350&name=jkb",
+          "displayLink": "faxing.jkb.com.cn",
+          "snippet": "跨性别者感到困惑时. 得不到帮助，出现负面情绪甚至心理. 问题后得不到有效干预 ... 妈妈带她到跨性别. 多学科诊疗门诊，医生不仅帮助小林. 缓解了情绪问题，还引导 ...",
+          "htmlSnippet": "<b>跨性别</b>者感到困惑时. 得不到帮助，出现负面情绪甚至心理. 问题后得不到有效干预 ... 妈妈带她到<b>跨性别</b>. 多学科诊疗门诊，医生不仅帮助小林. 缓解了情绪问题，还引导&nbsp;...",
+          "formattedUrl": "https://faxing.jkb.com.cn/home/index/download.html?goods=7...",
+          "htmlFormattedUrl": "https://faxing.jkb.com.cn/home/index/download.html?goods=7...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1EULvh9dAC2qcf02jA1aE3xIBjr8Qf3rkxgfdMBs5U79QYVSjI63Cw&s",
+                "width": "286",
+                "height": "176"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211109213108+08'00'",
+                "creationdate": "D:20211109213108+08'00'",
+                "creator": "飞腾创艺5.4 网络版",
+                "subject": "无命题2",
+                "author": "Microsoft Administrator",
+                "producer": "Founder",
+                "title": "jkb02b20211110C"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///66ffb0611f04f5d45f715da7f393517f5f3804e164c386674380fbe35cb38867"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "认知诗学与跨学科文学理解研究",
+          "htmlTitle": "认知诗学与跨学科文学理解研究",
+          "link": "https://www.dfll.tsinghua.edu.cn/__local/D/F9/3C/AECD32D6973E8F5C8EE27CE5C7C_65F0F519_5C0E2.pdf?e=.pdf",
+          "displayLink": "www.dfll.tsinghua.edu.cn",
+          "snippet": "与认知科学相关联的认知诗学关注文本如何被理解以及语义如何产生，. 其广泛的跨学科性拓展了对文学理解研究的深度和广度。认知诗学运用认知语言学的范式，探究文本的. 风格对 ...",
+          "htmlSnippet": "与认知科学相关联的认知诗学关注文本如何被理解以及语义如何产生，. 其广泛的跨学科性拓展了对文学理解研究的深度和广度。认知诗学运用认知语言学的范式，探究文本的. 风格对&nbsp;...",
+          "formattedUrl": "https://www.dfll.tsinghua.edu.cn/__.../AECD32D6973E8F5C8EE27CE5C7...",
+          "htmlFormattedUrl": "https://www.dfll.tsinghua.edu.cn/__.../AECD32D6973E8F5C8EE27CE5C7...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20150420110337-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "福建省正荣公益基金会2021年第三季度收入明细",
+          "htmlTitle": "福建省正荣公益基金会2021年第三季度收入明细",
+          "link": "http://www.zhenrogy.org/upload/2021/16377170033855314.pdf",
+          "displayLink": "www.zhenrogy.org",
+          "snippet": "8.1 关注跨性别人群. 151,944.00. 公众媒介技能课. 9.1 提升公众媒介素养. 11,600.00. 10.1 荣光计划·南河小学. 6,800.00. 10.2 荣光计划·益起六一（天津区域）. 3,300.00.",
+          "htmlSnippet": "8.1 关注<b>跨性别</b>人群. 151,944.00. 公众媒介技能课. 9.1 提升公众媒介素养. 11,600.00. 10.1 荣光计划·南河小学. 6,800.00. 10.2 荣光计划·益起六一（天津区域）. 3,300.00.",
+          "formattedUrl": "http://www.zhenrogy.org/upload/2021/16377170033855314.pdf",
+          "htmlFormattedUrl": "http://www.zhenrogy.org/upload/2021/16377170033855314.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211124092142+08'00'",
+                "creationdate": "D:20211124092142+08'00'",
+                "creator": "Microsoft® Excel® 2019",
+                "author": "郭美娃",
+                "producer": "Microsoft® Excel® 2019"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨学科培养对博士生创新能力的促进效应研究",
+          "htmlTitle": "跨学科培养对博士生创新能力的促进效应研究",
+          "link": "https://eduwx.nju.edu.cn/_upload/article/files/61/45/12aa14c744f0b2878ad4a6e62e9c/b456ff1b-f154-45cd-9e38-49995200255a.pdf",
+          "displayLink": "eduwx.nju.edu.cn",
+          "snippet": "但是，我国. 高校博士生跨学科培养仍然处于探索阶段，从跨学. 科模式培养博士生的实际状况来看，目前对提升博. 士生创新能力的机制及效果仍然缺乏系统性、深入. 性的研究。 跨 ...",
+          "htmlSnippet": "但是，我国. 高校博士生跨学科培养仍然处于探索阶段，从跨学. 科模式培养博士生的实际状况来看，目前对提升博. 士生创新能力的机制及效果仍然缺乏系统性、深入. 性的研究。 跨&nbsp;...",
+          "formattedUrl": "https://eduwx.nju.edu.cn/_.../b456ff1b-f154-45cd-9e38-49995200255a.pd...",
+          "htmlFormattedUrl": "https://eduwx.nju.edu.cn/_.../b456ff1b-f154-45cd-9e38-49995200255a.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yX0dyoqAki3OpPXPxVhDqpbgGPFnG6sEJ1vfs9uJSPXiD50eImjzN3Wg&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20220120164710-08'00'",
+                "creator": "ReaderEx_DIS 2.3.0 Build 3983",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///54b1c724521bb8ad853db2d93dcbb552938d5c272871afbdaa4867acec6e0220"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "湖北大学公共体育课程“课内外一体化” 教学模式的构建与实践",
+          "htmlTitle": "湖北大学公共体育课程“课内外一体化” 教学模式的构建与实践",
+          "link": "http://www.chinatyxk.com/editer/doc/2010671534944798.pdf",
+          "displayLink": "www.chinatyxk.com",
+          "snippet": "性、差异性、自主性”、“基本健身知识、基本休闲健身技能、基本终身健身能力 ... 跨年级、跨性别、分层次. 五人制足球、. 舞龙舞狮、. 田径、. 篮球. 中心目标(基础水平 ...",
+          "htmlSnippet": "性、差异性、自主性”、“基本健身知识、基本休闲健身技能、基本终身健身能力 ... 跨年级、<b>跨性别</b>、分层次. 五人制足球、. 舞龙舞狮、. 田径、. 篮球. 中心目标(基础水平&nbsp;...",
+          "formattedUrl": "http://www.chinatyxk.com/editer/doc/2010671534944798.pdf",
+          "htmlFormattedUrl": "http://www.chinatyxk.com/editer/doc/2010671534944798.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20100607095831+08'00'",
+                "creationdate": "D:20100607095831+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<4D6963726F736F667420576F7264202D20CCE5D3FDD1A7BFAF32303130C4EAB5DA32C6DA2E646F63>"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "硕士学位论文",
+          "htmlTitle": "硕士学位论文",
+          "link": "http://202.195.136.150/openfile?dbid=72&objid=52_57_48_57_57_49&flag=free",
+          "displayLink": "202.195.136.150",
+          "snippet": "者和跨性别者之间的关系。这些材料强调了女性主义和反女性主义之间的斗争关系和. 特殊敏感性，这项研究的重要议题有《女性宪法》、女权地位、空间管理和人生自主。 她 ...",
+          "htmlSnippet": "者和<b>跨性别</b>者之间的关系。这些材料强调了女性主义和反女性主义之间的斗争关系和. 特殊敏感性，这项研究的重要议题有《女性宪法》、女权地位、空间管理和人生自主。 她&nbsp;...",
+          "formattedUrl": "http://202.195.136.150/openfile?dbid=72&objid=52_57_48...",
+          "htmlFormattedUrl": "http://202.195.136.150/openfile?dbid=72&amp;objid=52_57_48...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw1FrMNDz8pfnfDRDkPl7ijKAKiTOcwaOnh2hAww3rn1tNJqyOyW7wUM&s",
+                "width": "245",
+                "height": "206"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200611142339+08'00'",
+                "creationdate": "D:20200611142339+08'00'",
+                "producer": "iText® 5.1.0 ©2000-2011 1T3XT BVBA"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a5e9f4be76155336808abbdfd0b27368a7bc54a139e3dd33d3578ca523576582"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:45:39"
+  },
+  {
+    "page": 10,
+    "start_index": 91,
+    "query": "跨性别 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 跨性别 filetype:pdf",
+            "totalResults": "115000",
+            "searchTerms": "跨性别 filetype:pdf",
+            "count": 10,
+            "startIndex": 101,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.211867,
+        "formattedSearchTime": "0.21",
+        "totalResults": "115000",
+        "formattedTotalResults": "115,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "硕士学位论文",
+          "htmlTitle": "硕士学位论文",
+          "link": "http://202.195.136.150/openfile?dbid=72&objid=52_57_48_57_57_49&flag=free",
+          "displayLink": "202.195.136.150",
+          "snippet": "者和跨性别者之间的关系。这些材料强调了女性主义和反女性主义之间的斗争关系和. 特殊敏感性，这项研究的重要议题有《女性宪法》、女权地位、空间管理和人生自主。 她 ...",
+          "htmlSnippet": "者和<b>跨性别</b>者之间的关系。这些材料强调了女性主义和反女性主义之间的斗争关系和. 特殊敏感性，这项研究的重要议题有《女性宪法》、女权地位、空间管理和人生自主。 她&nbsp;...",
+          "formattedUrl": "http://202.195.136.150/openfile?dbid=72&objid=52_57_48...",
+          "htmlFormattedUrl": "http://202.195.136.150/openfile?dbid=72&amp;objid=52_57_48...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw1FrMNDz8pfnfDRDkPl7ijKAKiTOcwaOnh2hAww3rn1tNJqyOyW7wUM&s",
+                "width": "245",
+                "height": "206"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200611142339+08'00'",
+                "creationdate": "D:20200611142339+08'00'",
+                "producer": "iText® 5.1.0 ©2000-2011 1T3XT BVBA"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a5e9f4be76155336808abbdfd0b27368a7bc54a139e3dd33d3578ca523576582"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "对同性恋和性取向异源性的跨学科观",
+          "htmlTitle": "对同性恋和性取向异源性的跨学科观",
+          "link": "https://dds.sciengine.com/cfs/files/pdfs/0023-074X/7uNZpW3qqJa3xkhcx-mark.pdf",
+          "displayLink": "dds.sciengine.com",
+          "snippet": "性别转换(transgender). 和易性(transsex)的区别, 在于前者仅在性别身份认. 同或性别表达方面不同于其出生性别; 后者还会力. 图采用现代技术手段改变自身性器官的生理和 ...",
+          "htmlSnippet": "<b>性别</b>转换(transgender). 和易性(transsex)的区别, 在于前者仅在<b>性别</b>身份认. 同或<b>性别</b>表达方面不同于其出生<b>性别</b>; 后者还会力. 图采用现代技术手段改变自身性器官的生理和&nbsp;...",
+          "formattedUrl": "https://dds.sciengine.com/cfs/files/pdfs/.../7uNZpW3qqJa3xkhcx-mark.pdf",
+          "htmlFormattedUrl": "https://dds.sciengine.com/cfs/files/pdfs/.../7uNZpW3qqJa3xkhcx-mark.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20221122101415+08'00'",
+                "creationdate": "D:20150630154508+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "yxm_",
+                "producer": "Acrobat Distiller 9.3.2 (Windows); modified using iText® 5.5.10 ©2000-2015 iText Group NV (AGPL-version)",
+                "title": "Microsoft Word - N972015-0008-150116改"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "想象的政治： “耽美”迷群体的文本书写与性别实践",
+          "htmlTitle": "想象的政治： “耽美”迷群体的文本书写与<b>性别</b>实践",
+          "link": "https://www.js-skl.org.cn/uploads/Files/2016-05/20/1-1463726737-115.pdf",
+          "displayLink": "www.js-skl.org.cn",
+          "snippet": "索恩认为，“耽美”反映了一种女性对男性. 身体和性的窥探。作为一个跨文化研究的文化人类学者，索恩从“yaoi”迷和“斜线”粉的对比中感受. 到 ...",
+          "htmlSnippet": "索恩认为，“耽美”反映了一种女性对男性. 身体和性的窥探。作为一个跨文化研究的文化人类学者，索恩从“yaoi”迷和“斜线”粉的对比中感受. 到&nbsp;...",
+          "formattedUrl": "https://www.js-skl.org.cn/uploads/Files/2016-05/.../1-1463726737-115.pdf",
+          "htmlFormattedUrl": "https://www.js-skl.org.cn/uploads/Files/2016-05/.../1-1463726737-115.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20151112140459+08'00'",
+                "creationdate": "D:20151112140459+08'00'",
+                "creator": "方正飞翔6.0 专业版",
+                "subject": "无命题1",
+                "author": "微软中国 Administrator",
+                "producer": "Founder",
+                "title": "202L5朱丽丽赵婷婷"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "全球挑战研究基金",
+          "htmlTitle": "全球挑战研究基金",
+          "link": "http://www.bic.cas.cn/tzgg/201707/P020170731417103668998.pdf",
+          "displayLink": "www.bic.cas.cn",
+          "snippet": "共同基金的目标是使执行合作伙伴能够开展贯穿两个或多个联合国可持续发展目标的活动，同. 时采用综合方法来进行具有变革性的跨学科研究。 ... 性别暴力。（英国经济与 ...",
+          "htmlSnippet": "共同基金的目标是使执行合作伙伴能够开展贯穿两个或多个联合国可持续发展目标的活动，同. 时采用综合方法来进行具有变革性的跨学科研究。 ... <b>性别</b>暴力。（英国经济与&nbsp;...",
+          "formattedUrl": "http://www.bic.cas.cn/tzgg/201707/P020170731417103668998.pdf",
+          "htmlFormattedUrl": "http://www.bic.cas.cn/tzgg/201707/P020170731417103668998.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1d36mlcLt7yOFBmExrs99YlmgL59VZ-N54_Dhu8fH6Zg99uElK4ANyZ2&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20170727142025+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20170727142025+08'00'",
+                "author": "Administrator",
+                "producer": "Microsoft® Word 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c49f35e9f1958e5b03d5980b36ce2fc1ad18179911e472cd83cfb3c82dea194e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "友谊质量与青少年直觉进食： 链式中介模型及性别差异",
+          "htmlTitle": "友谊质量与青少年直觉进食： 链式中介模型及<b>性别</b>差异",
+          "link": "https://www.chinaxiv.org/user/download.htm?uuid=be5481dda66740299ac81a4c5ae70fe4",
+          "displayLink": "www.chinaxiv.org",
+          "snippet": "应具有跨性别的一致性。 在此基础上, 检验自我怜悯、积极身体意象在. 友谊质量与直觉进食间的中介作用及性别差异。中. 介效应检验表明, 对男生而言, 自我怜悯(95% CI ...",
+          "htmlSnippet": "应具有<b>跨性别</b>的一致性。 在此基础上, 检验自我怜悯、积极身体意象在. 友谊质量与直觉进食间的中介作用及性别差异。中. 介效应检验表明, 对男生而言, 自我怜悯(95% CI&nbsp;...",
+          "formattedUrl": "https://www.chinaxiv.org/user/download.htm?uuid...",
+          "htmlFormattedUrl": "https://www.chinaxiv.org/user/download.htm?uuid...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgS6YaFQh26IT8n6JJfhEA5GI5X-FKjgqGEBcJJaWzwBYsZK2S1B5NCn5o&s",
+                "width": "188",
+                "height": "269"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230327165631+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "creationdate": "D:20210623155916+08'00'",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows); modified using iText® 5.5.8 ©2000-2015 iText Group NV (AGPL-version)",
+                "title": "Microsoft Word - 7陈曦梅陈红xb19-153_new_.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1a985b49b536d4c4a91c289a5983543cd2f06420c90280761a50bcaa43520655"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "广西跨部门综合监管平台项目可行性研究报告",
+          "htmlTitle": "广西跨部门综合监管平台项目可行性研究报告",
+          "link": "http://dsjfzj.gxzf.gov.cn/IGI/upload/file/2023/11/18/202311180936403152XN.pdf",
+          "displayLink": "dsjfzj.gxzf.gov.cn",
+          "snippet": "Nov 18, 2023 ... 将原来清单管理功能进行升级，提供. 跨部门综合监管检查事项的维护功. 能。展示从自治区监管事项系统同步. 接入的事项清单，并根据实际需求进.",
+          "htmlSnippet": "Nov 18, 2023 <b>...</b> 将原来清单管理功能进行升级，提供. 跨部门综合监管检查事项的维护功. 能。展示从自治区监管事项系统同步. 接入的事项清单，并根据实际需求进.",
+          "formattedUrl": "http://dsjfzj.gxzf.gov.cn/IGI/upload/file/.../202311180936403152XN.pdf",
+          "htmlFormattedUrl": "http://dsjfzj.gxzf.gov.cn/IGI/upload/file/.../202311180936403152XN.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231117232435+08'00'",
+                "creationdate": "D:20231117095251+01'52'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20231117095251+01'52'",
+                "author": "Lenovo"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "项目名项目合作协议",
+          "htmlTitle": "项目名项目合作协议",
+          "link": "http://www.zrgy.org/upload/2021/16213232955420316.pdf",
+          "displayLink": "www.zrgy.org",
+          "snippet": "项目简介. 项目旨在建设和发展中国跨性别兄弟社群，提升兄弟的公众可见度，提升. 兄弟的性别意识和运动参与的积极性，争取兄弟平等权益。 Page 6. 6. 项目服务计划. 本项目 ...",
+          "htmlSnippet": "项目简介. 项目旨在建设和发展中国<b>跨性别</b>兄弟社群，提升兄弟的公众可见度，提升. 兄弟的性别意识和运动参与的积极性，争取兄弟平等权益。 Page 6. 6. 项目服务计划. 本项目&nbsp;...",
+          "formattedUrl": "http://www.zrgy.org/upload/2021/16213232955420316.pdf",
+          "htmlFormattedUrl": "http://www.zrgy.org/upload/2021/16213232955420316.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEuFLOdRnbMXr0gwiy5Rik0Y8zsfcg0-0HcJ4S56P75ufVm0dn4N4W0n1&s",
+                "width": "384",
+                "height": "131"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210518153423+08'00'",
+                "creator": "Microsoft® Word 2019",
+                "creationdate": "D:20210518153423+08'00'",
+                "author": "李盼",
+                "producer": "Microsoft® Word 2019",
+                "title": "项目名    项目合作协议"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6f58259c80ca46e0e57fcbb455f78395c213849fa9b0fdcf56f984e95953e621"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国人民银行关于印发《义务机构反洗钱交易监测标准建设工作指引 ...",
+          "htmlTitle": "中国人民银行关于印发《义务机构反洗钱交易监测标准建设工作指引 ...",
+          "link": "http://www.pbc.gov.cn/tiaofasi/144941/3581332/3589617/2018073011164126936.pdf",
+          "displayLink": "www.pbc.gov.cn",
+          "snippet": "具有典型可识别的特征包括资金来源、交易时. 间、交易流量、交易频率、交易流向,以及跨市场、跨机构的交. 叉性交易等特征。 三、特征指标化. 特征指标化,是指义务机构将所 ...",
+          "htmlSnippet": "具有典型可识别的特征包括资金来源、交易时. 间、交易流量、交易频率、交易流向,以及跨市场、跨机构的交. 叉性交易等特征。 三、特征指标化. 特征指标化,是指义务机构将所&nbsp;...",
+          "formattedUrl": "http://www.pbc.gov.cn/tiaofasi/144941/.../2018073011164126936.pdf",
+          "htmlFormattedUrl": "http://www.pbc.gov.cn/tiaofasi/144941/.../2018073011164126936.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTH-KqF2dB7XMNRdZSQncLOnbq13ny_GeIGoJw_iVWbNbdMbA54SBc8Cb&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "20170504095329+00'-8'",
+                "producer": "Panda 0.4 MS Windows Version"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9889c4200d864dd5e20bb63af51665542b472d2c9d28f810cac7fefe7b7d9e53"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "男男性服务群体的性、 性网络、艾滋风险",
+          "htmlTitle": "男男性服务群体的性、 性网络、艾滋风险",
+          "link": "https://rkyj.ruc.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=36",
+          "displayLink": "rkyj.ruc.edu.cn",
+          "snippet": "这从. 某种程度为同性恋、双性恋、异性恋、跨性别等多元取向的群体入行，并且一个帮带一个，成为愈演愈. 烈的社会现象，提供了价值层面的解释。 多元化的城市必然容纳城市生活 ...",
+          "htmlSnippet": "这从. 某种程度为同性恋、双性恋、异性恋、<b>跨性别</b>等多元取向的群体入行，并且一个帮带一个，成为愈演愈. 烈的社会现象，提供了价值层面的解释。 多元化的城市必然容纳城市生活&nbsp;...",
+          "formattedUrl": "https://rkyj.ruc.edu.cn/EN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://rkyj.ruc.edu.cn/EN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20121106181846-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3724",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "美国NIH、NSF等科研项目评审制度研究及对深圳的启示",
+          "htmlTitle": "美国NIH、NSF等科研项目评审制度研究及对深圳的启示",
+          "link": "http://stic.sz.gov.cn/bszn/201802.pdf",
+          "displayLink": "stic.sz.gov.cn",
+          "snippet": "由于STC 计划的综合性、跨领域性、复杂性，因此对STC 项目的有效管理. 显得尤为 ... 性别分布、国内/国外来源分布等，最大限度地打破“评审圈子”，增强评审独立. 性 ...",
+          "htmlSnippet": "由于STC 计划的综合性、跨领域性、复杂性，因此对STC 项目的有效管理. 显得尤为 ... <b>性别</b>分布、国内/国外来源分布等，最大限度地打破“评审圈子”，增强评审独立. 性&nbsp;...",
+          "formattedUrl": "http://stic.sz.gov.cn/bszn/201802.pdf",
+          "htmlFormattedUrl": "http://stic.sz.gov.cn/bszn/201802.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1pxFgRQj82jpi_zpp_wDg3VvWfZ7xnngd3274cLwfH-4xprTrYah3N4g&s",
+                "width": "271",
+                "height": "186"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200412121433+04'14'",
+                "creationdate": "D:20200412121433+04'14'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20200412121433+04'14'",
+                "author": "Windows 用户"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///45e782105cf253aa76e99b17f0fb1bca80eef978be082cef666d242b8357f5a3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:45:42"
+  }
+]

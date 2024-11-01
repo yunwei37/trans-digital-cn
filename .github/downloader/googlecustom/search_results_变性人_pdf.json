@@ -1,0 +1,3840 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.160043,
+        "formattedSearchTime": "0.16",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "大会",
+          "htmlTitle": "大会",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "Mar 31, 2021 ... ... 变性人、男同性恋者和其他男男性行为者提. 供安全套、暴露前预防用药和 ... 变性人、监狱和其他封闭环境中人群和所. 有艾滋病毒感染者的需求；. (c) ...",
+          "htmlSnippet": "Mar 31, 2021 <b>...</b> ... <b>变性人</b>、男同性恋者和其他男男性行为者提. 供安全套、暴露前预防用药和 ... <b>变性人</b>、监狱和其他封闭环境中人群和所. 有艾滋病毒感染者的需求；. (c)&nbsp;...",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsm-f12rfk21aumGpor4SZg-YE-WW0rh5J4BnsVaMJG4QCIfyjsaEJJXy&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210427103723-04'00'",
+                "creator": "Microsoft® Word 适用于 Microsoft 365",
+                "creationdate": "D:20210427103723-04'00'",
+                "author": "Qiping Jia",
+                "producer": "Microsoft® Word 适用于 Microsoft 365"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a163b87a570586d88ac9218ac4cca03683f0c3fa4ebcf2024f59266c69fd66f8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别选择权:性质界定与法权塑造",
+          "htmlTitle": "性别选择权:性质界定与法权塑造",
+          "link": "https://www.civillaw.com.cn/uploadfile/lmpic/20180315/20180315200557734.pdf",
+          "displayLink": "www.civillaw.com.cn",
+          "snippet": "Mar 15, 2018 ... 球已超过1万多人变性,全世界每10万人中有4. 个易性症患者,目前我国大约有40万人要求进行. 变性手术,已有1千余人做变性手术[18]8. 2.宪法基础———基本人权.",
+          "htmlSnippet": "Mar 15, 2018 <b>...</b> 球已超过1万多人<b>变性</b>,全世界每10万人中有4. 个易性症患者,目前我国大约有40万人要求进行. <b>变性</b>手术,已有1千余人做<b>变性</b>手术[18]8. 2.宪法基础———基本人权.",
+          "formattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "htmlFormattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20180314220626-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3948",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "术语英文术语及背景知识存在年龄差异的关系Age-disparate ...",
+          "htmlTitle": "术语英文术语及背景知识存在年龄差异的关系Age-disparate ...",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "同性恋女性、同性恋男性、双性. 恋、变性人和间性人（总称. LGBTI） lesbian, gay, bisexual, transgender and intersex people (LGBTI people). 虽然应尽可能避免使用缩 ...",
+          "htmlSnippet": "同性恋女性、同性恋男性、双性. 恋、<b>变性人</b>和间性人（总称. LGBTI） lesbian, gay, bisexual, transgender and intersex people (LGBTI people). 虽然应尽可能避免使用缩&nbsp;...",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20161116111803+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20161116111803+08'00'",
+                "author": "Jie Liu",
+                "producer": "Microsoft® Word 2010"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "关于“代孕爸爸”事件的生命伦理与法律问题思考",
+          "htmlTitle": "关于“代孕爸爸”事件的生命伦理与法律问题思考",
+          "link": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "displayLink": "yizhe.dmu.edu.cn",
+          "snippet": "变性人的婚姻、. 生育及代孕问题让我们不得不对变性手术、人工辅助生殖技术以及代孕技术这些新兴生命技术进行再思考。我们不仅要. 肯定新兴生命技术的合理性,也要防止其 ...",
+          "htmlSnippet": "<b>变性人</b>的婚姻、. 生育及代孕问题让我们不得不对变性手术、人工辅助生殖技术以及代孕技术这些新兴生命技术进行再思考。我们不仅要. 肯定新兴生命技术的合理性,也要防止其&nbsp;...",
+          "formattedUrl": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "htmlFormattedUrl": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20100712161251",
+                "author": "TTKN Co., Ltd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中华人民共和国安全生产行业标准车用5醇汽油储运安全规范",
+          "htmlTitle": "中华人民共和国安全生产行业标准车用5醇汽油储运安全规范",
+          "link": "http://yjglt.jiangsu.gov.cn/attach/0/9a36db0433ff409683dccf46b0cdbe29.pdf",
+          "displayLink": "yjglt.jiangsu.gov.cn",
+          "snippet": "... 人Ý定量变性燃料乙醇后用作点燃式内燃机的燃料# !'# 2345677N!6*31/7)(:(+0*)1/.1-81+1-9(0740(3'(;1+. 储存!调合!装卸变性燃料乙醇!车用乙醇汽油调合组分油以及车用 ...",
+          "htmlSnippet": "... 人Ý定量<b>变性</b>燃料乙醇后用作点燃式内燃机的燃料# !&#39;# 2345677N!6*31/7)(:(+0*)1/.1-81+1-9(0740(3&#39;(;1+. 储存!调合!装卸<b>变性</b>燃料乙醇!车用乙醇汽油调合组分油以及车用&nbsp;...",
+          "formattedUrl": "http://yjglt.jiangsu.gov.cn/attach/.../9a36db0433ff409683dccf46b0cdbe29....",
+          "htmlFormattedUrl": "http://yjglt.jiangsu.gov.cn/attach/.../9a36db0433ff409683dccf46b0cdbe29....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhLhTSn7Sg9QEfr2C_5-hz7bOnk0npjqFEldkHXUvMKNKggg2sL460r8&s",
+                "width": "179",
+                "height": "281"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140323194717+08'00'",
+                "creationdate": "D:20140323194717+08'00'",
+                "creator": "Adobe Acrobat 7.0",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///cf3ff2c73f3ace5a8e38eaa73c28d291707b171a28831fcfedf03b51a4fc5f84"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "补体因子H 基因在年龄相关性黄斑变性中的研究进展",
+          "htmlTitle": "补体因子H 基因在年龄相关性黄斑<b>变性</b>中的研究进展",
+          "link": "http://ies.ijo.cn/cn_publish/2015/1/201501016.pdf",
+          "displayLink": "ies.ijo.cn",
+          "snippet": "degeneration,AMD)也称老年性黄斑变性,不仅是发达国. 家老年人中心视力损害的主要原因之一,也是我国50 岁. 以上老年人致盲的主要眼病[1] 。 AMD 是发生在视网膜中. 央部 ...",
+          "htmlSnippet": "degeneration,AMD)也称老年性黄斑<b>变性</b>,不仅是发达国. 家老年人中心视力损害的主要原因之一,也是我国50 岁. 以上老年人致盲的主要眼病[1] 。 AMD 是发生在视网膜中. 央部&nbsp;...",
+          "formattedUrl": "http://ies.ijo.cn/cn_publish/2015/1/201501016.pdf",
+          "htmlFormattedUrl": "http://ies.ijo.cn/cn_publish/2015/1/201501016.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "(D:20141230105610+08'00')",
+                "creationdate": "(D:20141230105610+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "htmlTitle": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "link": "http://www.medline.com.cn/lzj2013-dengmingyu/20150501xingbiekunaodelinchuang.pdf",
+          "displayLink": "www.medline.com.cn",
+          "snippet": "性别苦恼（gender dysphoria）既往称为性别认同障碍（gender identity disorder），又称性别改变症. （transsexualism）、易性症、变性欲。是指一个人的性别自觉（性别认同）与其 ...",
+          "htmlSnippet": "性别苦恼（gender dysphoria）既往称为性别认同障碍（gender identity disorder），又称性别改变症. （transsexualism）、易性症、<b>变性</b>欲。是指一个人的性别自觉（性别认同）与其&nbsp;...",
+          "formattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "htmlFormattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150501081335+08'00'",
+                "creationdate": "D:20150424113620-04'00'",
+                "creator": "Acrobat PDFMaker 9.0 Word 版",
+                "sourcemodified": "D:20150424153613",
+                "author": "User",
+                "producer": "Adobe PDF Library 9.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Article 级联网络和金字塔光流的旋转不变人脸检测Rotating invariant ...",
+          "htmlTitle": "Article 级联网络和金字塔光流的旋转不变人脸检测Rotating invariant ...",
+          "link": "https://cn.oejournal.org/data/article/oee/preview/pdf/gdgc-47-1-190135-1.pdf",
+          "displayLink": "cn.oejournal.org",
+          "snippet": "但是本文方法针对旋转不变性的人脸检测，需要更精. 准的关键点定位和图像边缘信息的提取。为此，将面. 部检测任务与关键点定位任务进行分离，设计了三阶. 段级联渐进卷积 ...",
+          "htmlSnippet": "但是本文方法针对旋转不<b>变性</b>的人脸检测，需要更精. 准的关键点定位和图像边缘信息的提取。为此，将面. 部检测任务与关键点定位任务进行分离，设计了三阶. 段级联渐进卷积&nbsp;...",
+          "formattedUrl": "https://cn.oejournal.org/data/article/oee/preview/.../gdgc-47-1-190135-1.pd...",
+          "htmlFormattedUrl": "https://cn.oejournal.org/data/article/oee/preview/.../gdgc-47-1-190135-1.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFPRccdHqWiS8R4QPzFDxXJnulZLzfD4lvzpYMSldsV4rqlCt__tWqbmW&s",
+                "width": "276",
+                "height": "182"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200114161257+08'00'",
+                "creationdate": "D:20200114161257+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "xxp",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "Microsoft Word - 07-孙锐_oee190135_xyz.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c9e3842e94ef914e46f1977f1b47ba7f93ad26ab9dac9b302110003bf1c75828"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别女性人群心理特征及相关行为分析*",
+          "htmlTitle": "跨性别女性人群心理特征及相关行为分析*",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "displayLink": "www.zgggws.com",
+          "snippet": "Nov 1, 2018 ... 134 人未做过变性手术，但其中有61 人有做变性手. 术的打算，占45.5 %。有66 人为了获得女性性征而. 使用雌激素，占41.3 %。44 人使用过毒品，占27.5 %，.",
+          "htmlSnippet": "Nov 1, 2018 <b>...</b> 134 人未做过<b>变性</b>手术，但其中有61 人有做<b>变性</b>手. 术的打算，占45.5 %。有66 人为了获得女性性征而. 使用雌激素，占41.3 %。44 人使用过毒品，占27.5 %，.",
+          "formattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1118684.pdf",
+          "htmlFormattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1118684.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Y1YvvK4DgMfHiVJmqRInpEswlKcx3c4KorJbgX5piST7SPdPi3naJqI&s",
+                "width": "213",
+                "height": "213"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181213150446+08'00'",
+                "creationdate": "D:20181213150446+08'00'",
+                "producer": "rhhz"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///49b1bd0a731a434092146fb64f41280cf8b9dba54062f21075377cfd913a6c09"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "我骄傲，我奉献，真色彩",
+          "htmlTitle": "我骄傲，我奉献，真色彩",
+          "link": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021-12/1_33975.pdf",
+          "displayLink": "www.yunbaogao.cn",
+          "snippet": "Jun 13, 2018 ... 40%的变性人曾尝试自杀。在美国，. 每3 分钟就有一名男同性恋、女同性恋、双性恋、变性人或酷儿青年试图. 自杀。 麦肯锡和Trevor 计划的密切关系由来已 ...",
+          "htmlSnippet": "Jun 13, 2018 <b>...</b> 40%的<b>变性人</b>曾尝试自杀。在美国，. 每3 分钟就有一名男同性恋、女同性恋、双性恋、<b>变性人</b>或酷儿青年试图. 自杀。 麦肯锡和Trevor 计划的密切关系由来已&nbsp;...",
+          "formattedUrl": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021.../1_33975.pdf",
+          "htmlFormattedUrl": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021.../1_33975.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtb_bG16n8PkmKx1Wql5WNvI256CANsH54pyWe6Ex6hm8FKQd_y_CA0uW&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "PyPDF2"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b7dedc808496a580ae908c419aed11cfd56d3f675b527fc13b74fd0d61324e8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:26"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.264839,
+        "formattedSearchTime": "0.26",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "肝豆状核变性患者的人格特征及相关因素分析",
+          "htmlTitle": "肝豆状核<b>变性</b>患者的人格特征及相关因素分析",
+          "link": "http://www.wilson-disease.org/Editor/eWebeditor/uploadfile/20150113091741583.pdf",
+          "displayLink": "www.wilson-disease.org",
+          "snippet": "【摘要】 目的探讨肝豆状核变性（HLD）患者的人格特征及相关因素。方法对83 例住院HLD 患者采. 用艾森克个性问卷（EPQ）进行测查，并与60 名正常人进行对照。结果HLD ...",
+          "htmlSnippet": "【摘要】 目的探讨肝豆状核<b>变性</b>（HLD）患者的人格特征及相关因素。方法对83 例住院HLD 患者采. 用艾森克个性问卷（EPQ）进行测查，并与60 名正常人进行对照。结果HLD&nbsp;...",
+          "formattedUrl": "http://www.wilson-disease.org/Editor/.../20150113091741583.pdf",
+          "htmlFormattedUrl": "http://www.wilson-disease.org/Editor/.../20150113091741583.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20030830121455+08'00'",
+                "creationdate": "D:20030830121452+08'00'"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.rhinobio.com/uploadfiles/2020/04/202004081046594659.pdf",
+          "displayLink": "www.rhinobio.com",
+          "snippet": "... 变性RNase B释放≥95%N-连寡糖。 活性测试:在Glyco缓冲液体系下,20ul反应体系Iul PNGase F(Glycerol-free) 37℃酶切1小. 时,可使40ug变性人源化单抗释放≥95%N-连寡糖。",
+          "htmlSnippet": "... 变性RNase B释放≥95%N-连寡糖。 活性测试:在Glyco缓冲液体系下,20ul反应体系Iul PNGase F(Glycerol-free) 37℃酶切1小. 时,可使40ug<b>变性人</b>源化单抗释放≥95%N-连寡糖。",
+          "formattedUrl": "http://www.rhinobio.com/uploadfiles/2020/04/202004081046594659.pdf",
+          "htmlFormattedUrl": "http://www.rhinobio.com/uploadfiles/2020/04/202004081046594659.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Wed Apr  8 00:12:59 2020",
+                "creator": "Adobe Acrobat Pro 9.0.0",
+                "creationdate": "Wed Apr  8 00:12:59 2020",
+                "producer": "Adobe Acrobat Pro 9.0.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肝豆状核变性患者免疫功能状况的研究进展",
+          "htmlTitle": "肝豆状核<b>变性</b>患者免疫功能状况的研究进展",
+          "link": "http://www.wilson-disease.org/Editor/eWebeditor/uploadfile/20150113150228748.pdf",
+          "displayLink": "www.wilson-disease.org",
+          "snippet": "了了解中国人汉族人群肝豆状核变性患者的免疫功能状况的特. 点，对19例正常人和21 例肝豆状核变性患者进行了散射比浊. 法和流式细胞术分别测定血清免疫球蛋白、补体 ...",
+          "htmlSnippet": "了了解中国人汉族人群肝豆状核<b>变性</b>患者的免疫功能状况的特. 点，对19例正常人和21 例肝豆状核<b>变性</b>患者进行了散射比浊. 法和流式细胞术分别测定血清免疫球蛋白、补体&nbsp;...",
+          "formattedUrl": "http://www.wilson-disease.org/Editor/.../20150113150228748.pdf",
+          "htmlFormattedUrl": "http://www.wilson-disease.org/Editor/.../20150113150228748.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecTUtgAy5s1byVNIdpsZZzUfF3c4Gcssbw8UxIgSrWz4_eyZsTec_cgo&s",
+                "width": "191",
+                "height": "264"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20130913161551+08'00'",
+                "creationdate": "D:20130911143952+08'00'",
+                "creator": "Adobe Acrobat Pro 10.1.6",
+                "producer": "Nooog PDF Writer(www.nooog.com) (1.0)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c70f6f7cd79f7098e8cd865ccb43d767e1dcdc222517da5f0f247600187a714a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "蛋白质变性机理与变性时的热力学参数研究进展3",
+          "htmlTitle": "蛋白质<b>变性</b>机理与<b>变性</b>时的热力学参数研究进展3",
+          "link": "https://manu56.magtech.com.cn/progchem/EN/article/downloadArticleFile.do?attachType=PDF&id=9146",
+          "displayLink": "manu56.magtech.com.cn",
+          "snippet": "Sep 5, 2005 ... 的热变性.发现变体A 比B 有更大的热抵抗性,两. 个变体的变性焓和变性协同性没有明显的不同, van't Hoff 焓和HcalΠHvf 的值依赖于加热速率.Cobos. 等人[7] ...",
+          "htmlSnippet": "Sep 5, 2005 <b>...</b> 的热<b>变性</b>.发现变体A 比B 有更大的热抵抗性,两. 个变体的<b>变性</b>焓和<b>变性</b>协同性没有明显的不同, van&#39;t Hoff 焓和HcalΠHvf 的值依赖于加热速率.Cobos. 等人[7]&nbsp;...",
+          "formattedUrl": "https://manu56.magtech.com.cn/progchem/.../downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://manu56.magtech.com.cn/progchem/.../downloadArticleFile.do?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20060119140136",
+                "creator": "TTOD CAJ2PDF",
+                "author": "TTOD Co., Ltd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.rhinobio.com/uploadfiles/2022/07/202207271054255425.pdf",
+          "displayLink": "www.rhinobio.com",
+          "snippet": "... 变性Rase B释放>95%N-连寡糖。 活性测试:在Glyco缓冲液体系下,20ul反应体系,1ul PNGase F(Glycerol-free)37°C酶切1小时,可使40ug. 变性人源化单抗释放>95%N-连寡糖。",
+          "htmlSnippet": "... 变性Rase B释放&gt;95%N-连寡糖。 活性测试:在Glyco缓冲液体系下,20ul反应体系,1ul PNGase F(Glycerol-free)37°C酶切1小时,可使40ug. <b>变性人</b>源化单抗释放&gt;95%N-连寡糖。",
+          "formattedUrl": "http://www.rhinobio.com/uploadfiles/2022/07/202207271054255425.pdf",
+          "htmlFormattedUrl": "http://www.rhinobio.com/uploadfiles/2022/07/202207271054255425.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxfGLz7Q8qwFJktwjwuRN9V7kVARgQxbjRXtvaTV2yUqtyGLnHm6WLDY&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Feb 10 17:46:51 2022",
+                "creator": "TOSHIBA e-STUDIO400AC",
+                "creationdate": "Thu Feb 10 17:46:51 2022",
+                "producer": "SECnvtToPDF V1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///abe40cfade6068d66b15bc5b133a45375ceac42dab43de32f7ce3984b9987ac7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Physics Magazine",
+          "htmlTitle": "Physics Magazine",
+          "link": "https://wuli.iphy.ac.cn/cn/article/pdf/preview/4ee385ab-8622-47eb-b84e-deb48b1cb4c1.pdf",
+          "displayLink": "wuli.iphy.ac.cn",
+          "snippet": "第一集报道. 关于男、女同性恋者，双性恋者，. 变性人等物理学工作者(LGBTQ 物. 理学 ... 正待遇的人。 银河系黑洞进入视野. 2022 年5 月，科学家公布了第. 二张黑洞 ...",
+          "htmlSnippet": "第一集报道. 关于男、女同性恋者，双性恋者，. <b>变性人</b>等物理学工作者(LGBTQ 物. 理学 ... 正待遇的人。 银河系黑洞进入视野. 2022 年5 月，科学家公布了第. 二张黑洞&nbsp;...",
+          "formattedUrl": "https://wuli.iphy.ac.cn/cn/.../4ee385ab-8622-47eb-b84e-deb48b1cb4c1.pdf",
+          "htmlFormattedUrl": "https://wuli.iphy.ac.cn/cn/.../4ee385ab-8622-47eb-b84e-deb48b1cb4c1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUu-JFa9X3TK_MB_XP25-uQUaUMuaF4UEEVXs4WwD2Sjyr2w6qscxYDo&s",
+                "width": "253",
+                "height": "199"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230218102112+08'00'",
+                "creationdate": "D:20230218102112+08'00'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///abf3fddf04c76bd40b602b66da3876d95579fa0847fb8dcb8507f0c4c0d59b0a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别运动员参加高水平体育比赛的科学思考",
+          "htmlTitle": "跨性别运动员参加高水平体育比赛的科学思考",
+          "link": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "displayLink": "cmstykx.cisszgty.com",
+          "snippet": "变性人一般通过性别重整手术或激素治疗等方. 法改变出生时确认的性别。 变性女性（transgender woman）：指出生时认定为男性，. 通过性别重整手术或激素治疗变为女性的 ...",
+          "htmlSnippet": "<b>变性人</b>一般通过性别重整手术或激素治疗等方. 法改变出生时确认的性别。 变性女性（transgender woman）：指出生时认定为男性，. 通过性别重整手术或激素治疗变为女性的&nbsp;...",
+          "formattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "htmlFormattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxl4aWfdzLDIlw2zrK92qnPAMs_qv4UISilv4GE2ZLyTfZySb1CGvcQSWU&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220124153512+08'00'",
+                "creationdate": "D:20220124153512+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1671",
+                "author": "Microsoft xionghp",
+                "producer": "Founder",
+                "title": "faf42564-2f4c-44f2-af9c-fcf401824a14"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f4a19c6bd9b93654a3a9d4245bebf3bf59aedc3a1f57409740e132f981976d30"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "法治时空",
+          "htmlTitle": "法治时空",
+          "link": "http://zjfzb.zjol.com.cn/zjfz/resfile/2010-05-25/04/ZJFZ2010052504.pdf",
+          "displayLink": "zjfzb.zjol.com.cn",
+          "snippet": "May 25, 2010 ... “她”还真吸引住了一个叫王进的网. 友，王进对朱小琼的“熟女”身份信. 以为真，很快有了见面占有的冲动。 变性人设局“玩”抢劫. 朱小琼将此事告诉了何伟，何伟.",
+          "htmlSnippet": "May 25, 2010 <b>...</b> “她”还真吸引住了一个叫王进的网. 友，王进对朱小琼的“熟女”身份信. 以为真，很快有了见面占有的冲动。 <b>变性人</b>设局“玩”抢劫. 朱小琼将此事告诉了何伟，何伟.",
+          "formattedUrl": "http://zjfzb.zjol.com.cn/zjfz/resfile/2010-05-25/04/ZJFZ2010052504.pdf",
+          "htmlFormattedUrl": "http://zjfzb.zjol.com.cn/zjfz/resfile/2010-05-25/04/ZJFZ2010052504.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQULX806eqj-hyjIxYmaBzcEc8nOrksR9ir2FdTio9dz341kBQhO12YF9n&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d447a8440c9abe1cd8041856059ddb4b9df410c8cc6d0defecd1f4c0fb66f6f6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "英国反就业歧视法与我国立法之完善",
+          "htmlTitle": "英国反就业歧视法与我国立法之完善",
+          "link": "http://iolaw.cssn.cn/zzwx/201905/P020190522400944034955.pdf",
+          "displayLink": "iolaw.cssn.cn",
+          "snippet": "作者简介:谢增毅(1977 - ) ,男,汉族,福建人,中国社会科学院法学研究所副研究员。 ... 因此,除了未婚者没有受到性别歧视法的保护,女. 性、男性、已婚者、同居协议者、变性人、 ...",
+          "htmlSnippet": "作者简介:谢增毅(1977 - ) ,男,汉族,福建人,中国社会科学院法学研究所副研究员。 ... 因此,除了未婚者没有受到性别歧视法的保护,女. 性、男性、已婚者、同居协议者、<b>变性人</b>、&nbsp;...",
+          "formattedUrl": "http://iolaw.cssn.cn/zzwx/201905/P020190522400944034955.pdf",
+          "htmlFormattedUrl": "http://iolaw.cssn.cn/zzwx/201905/P020190522400944034955.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIQOpiIyrnR5Yu_vyzO_theG80ollFt4iOo-4-Gnd3EhsjI8srgQsx-sE&s",
+                "width": "187",
+                "height": "270"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20090317143219",
+                "author": "TTKN Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///60c13155546f88f1cdad413dc6dcef9afcf262d915bcde761c6af2263a31a146"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "年龄相关性黄斑变性治疗药物临床研究技术指导原则",
+          "htmlTitle": "年龄相关性黄斑<b>变性</b>治疗药物临床研究技术指导原则",
+          "link": "http://gcpunion.org/upload/cmsfile/1703404970415400.pdf",
+          "displayLink": "gcpunion.org",
+          "snippet": "各种给药途径的药物，尤其是玻璃体注射的药物，在开展首次人. 体试验时，应全面观察眼局部和全身安全性，包括不良事件、系统眼. 科检查等（详见3.7 部分）。局部不良反应需关注 ...",
+          "htmlSnippet": "各种给药途径的药物，尤其是玻璃体注射的药物，在开展首次人. 体试验时，应全面观察眼局部和全身安全性，包括不良事件、系统眼. 科检查等（详见3.7 部分）。局部不良反应需关注&nbsp;...",
+          "formattedUrl": "http://gcpunion.org/upload/cmsfile/1703404970415400.pdf",
+          "htmlFormattedUrl": "http://gcpunion.org/upload/cmsfile/1703404970415400.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZhTS6R1U0pPmvGfQR_zOrnxpK_kpqS7-azlg3_NzcVuNxjNYEZ0UaSV8&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181122145032+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20181122145032+08'00'",
+                "author": "谢松梅",
+                "producer": "Microsoft® Word 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fc873b87feefb8135201b189b9e258687e710c91d8dc7a88a1da8b8bf9cf2532"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:29"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.112913,
+        "formattedSearchTime": "0.11",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "中国老年性黄斑变性临床诊断治疗路径",
+          "htmlTitle": "中国老年性黄斑<b>变性</b>临床诊断治疗路径",
+          "link": "http://www.24hmb.com/voimages/web_image//upload/file/20140701/15221404205850427.pdf",
+          "displayLink": "www.24hmb.com",
+          "snippet": "没有明显年龄性变化和正常年龄变化. 患者要定期进行全面眼科检查。40～54岁老年人. 每2～4年检查1次；55～64岁老年人每1～3年检查1.",
+          "htmlSnippet": "没有明显年龄性变化和正常年龄变化. 患者要定期进行全面眼科检查。40～54岁老年人. 每2～4年检查1次；55～64岁老年人每1～3年检查1.",
+          "formattedUrl": "http://www.24hmb.com/voimages/web.../file/.../15221404205850427.pdf",
+          "htmlFormattedUrl": "http://www.24hmb.com/voimages/web.../file/.../15221404205850427.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20140514142059+08'00'",
+                "creationdate": "D:20140510235352+08'00'",
+                "ҽ  ָͨ ϵײ¿_new": "{9AB9988B-39E4-4829-BFD8-F3B2E848BF4A}",
+                "producer": "A-PDF Watermark 4.7.6",
+                "ҽ  ͨlogo   ½Ç_new": "{55BDEA33-9935-4CD0-A484-81E84761C2FC}"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "1981—2019年美国艾滋病病毒感染情况分析",
+          "htmlTitle": "1981—2019年美国艾滋病病毒感染情况分析",
+          "link": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2126",
+          "displayLink": "www.zjyfyxzz.com",
+          "snippet": "变性女性也面临. 着感染HIV 的巨大风险：美国CDC 最近一份报告发. 现，在美国7 个主要城市接受调查的变性女性，10. 人中就有4 人感染HIV。 在过去40 年里，注射吸毒人群 ...",
+          "htmlSnippet": "<b>变性</b>女性也面临. 着感染HIV 的巨大风险：美国CDC 最近一份报告发. 现，在美国7 个主要城市接受调查的<b>变性</b>女性，10. 人中就有4 人感染HIV。 在过去40 年里，注射吸毒人群&nbsp;...",
+          "formattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtz9Muq9wq6BVFfysn91c_mMIuOAaoUtd6yH_JjlDeuGLNnXwHEHwL8CY&s",
+                "width": "191",
+                "height": "264"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210810143101+08'00'",
+                "creationdate": "D:20210810143053+08'00'",
+                "creator": "方正飞翔7.0 专业版",
+                "author": "Microsoft Administrator",
+                "subject": "无命题1",
+                "producer": "Adobe Acrobat Pro 11.0.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///47efbe78b5c631300142f477ccb529962b426c84fe083fa163086d9a69627c7e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "年相关斑变性白内障患者超声乳化人工晶状体植入术后疗效分析",
+          "htmlTitle": "年相关斑<b>变性</b>白内障患者超声乳化人工晶状体植入术后疗效分析",
+          "link": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20110262?file_name=93B673825CB8464572DD4362DCF5B7082EA59E31757945DB308D2822B4D380C0D140FEB548B66F0D26C4D9420D7491A59E98508D6AD98D84&open_type=self",
+          "displayLink": "gjyk.ijournals.cn",
+          "snippet": "方法对例; 眼同时伴有2: 的白内障患者行超声. 乳化人工晶状体植人术术后随访< 分析其临床. 效果. 结S 术后所有患者的视力均有不同程度的提高其中指.",
+          "htmlSnippet": "方法对例; 眼同时伴有2: 的白内障患者行超声. 乳化人工晶状体植人术术后随访&lt; 分析其临床. 效果. 结S 术后所有患者的视力均有不同程度的提高其中指.",
+          "formattedUrl": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20110262?file_name...self",
+          "htmlFormattedUrl": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20110262?file_name...self",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6Y40M-_88V-4yKyEAFaaimJQzeOt6DrRoCVDb3j3v4dxxEDxyCYqfQg&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20110223141101+08'00'",
+                "creationdate": "D:20110223141101+08'00'",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "untitled"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///aca36634f34e1b98cfcde49339b4134aac975828abbb11af5e6ecf9741baf7b1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别者自杀意念的影响因素探析Analysis of Influencing Factors of ...",
+          "htmlTitle": "跨性别者自杀意念的影响因素探析Analysis of Influencing Factors of ...",
+          "link": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "displayLink": "pdf.hanspub.org",
+          "snippet": "Jan 22, 2023 ... 变性人的发展历史及其现状[J]. 中国性科学, 2006, 15(9): 5-8. [2] Rotondi, N.K., Bauer, G.R., Travers, R., et al. (2011) Depression in Male-to ...",
+          "htmlSnippet": "Jan 22, 2023 <b>...</b> <b>变性人</b>的发展历史及其现状[J]. 中国性科学, 2006, 15(9): 5-8. [2] Rotondi, N.K., Bauer, G.R., Travers, R., et al. (2011) Depression in Male-to&nbsp;...",
+          "formattedUrl": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "htmlFormattedUrl": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gDPcW0AdYVu06pI9Z8R7o_3v9pmTEhxyYkdVcN4CK2fXEpBb1RJtZA&s",
+                "width": "253",
+                "height": "89"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230129142931+08'00'",
+                "creationdate": "D:20230129142930+08'00'",
+                "creator": "Acrobat PDFMaker 11 Word 版",
+                "sourcemodified": "D:20230129062851",
+                "author": "李记勇",
+                "subject": "近年，跨性别者开始受到社会关注。跨性别人群作为社会边缘群体，其特有的心理和行为问题亟需重视。同时，与正常人群相比，跨性别者的高自杀意念背后的原因目前须进行清晰的解释。因此，本文通过探讨跨性别者所特有经历的压力源，对其高自杀意念的影响因素进行梳理，以期为跨性别人群的心理干预提供一定帮助。",
+                "producer": "Adobe PDF Library 11.0",
+                "title": "跨性别者自杀意念的影响因素探析"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9508e17c83c0077acb88ec4c35bf31fd4ddae43219665c0a95fe8a46c8d85865"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "笑气中毒致脊髓亚急性联合变性2例报告",
+          "htmlTitle": "笑气中毒致脊髓亚急性联合<b>变性</b>2例报告",
+          "link": "https://www.zfysjjbzz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=8868",
+          "displayLink": "www.zfysjjbzz.com",
+          "snippet": "维生素B12缺乏症的常见病因有长期. 严格素食饮食、长期大量饮酒后造成的营养不&、吸收不&. 综合征、先天性疾病、胃大部切除术或其他胃肠道疾病等。 然而，对健康年轻人而言， ...",
+          "htmlSnippet": "维生素B12缺乏症的常见病因有长期. 严格素食饮食、长期大量饮酒后造成的营养不&amp;、吸收不&amp;. 综合征、先天性疾病、胃大部切除术或其他胃肠道疾病等。 然而，对健康年轻人而言，&nbsp;...",
+          "formattedUrl": "https://www.zfysjjbzz.com/CN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "https://www.zfysjjbzz.com/CN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9dCzvVPzlOjHyOwRRTyDkBmVbkYsX9aI67MGplWXgJgQmS8K6pLLHUF4x&s",
+                "width": "355",
+                "height": "142"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191108083048+08'00'",
+                "creationdate": "D:20191108083040+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9accac0b0b8a927bf8ab743c7f2759da57029074ed332ce44830ff120bf5617a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "日本老妇“操控人心”致死十余人",
+          "htmlTitle": "日本老妇“操控人心”致死十余人",
+          "link": "http://epaper.xxcb.cn/xxcba/page/101/2012-11-12/A10/8901352664332765.PDF",
+          "displayLink": "epaper.xxcb.cn",
+          "snippet": "Nov 12, 2012 ... 据新华社电从表面上看，美国女孩. 凯蒂·希尔和她的男友阿伦·安德鲁斯与. 普通年轻情侣没什么两样。实际上，两人. 都是变性人。两人因不同于常人的成长. 经历 ...",
+          "htmlSnippet": "Nov 12, 2012 <b>...</b> 据新华社电从表面上看，美国女孩. 凯蒂·希尔和她的男友阿伦·安德鲁斯与. 普通年轻情侣没什么两样。实际上，两人. 都是<b>变性人</b>。两人因不同于常人的成长. 经历&nbsp;...",
+          "formattedUrl": "http://epaper.xxcb.cn/xxcba/page/101/2012-11.../8901352664332765.PDF",
+          "htmlFormattedUrl": "http://epaper.xxcb.cn/xxcba/page/101/2012-11.../8901352664332765.PDF",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmck2h8GfBDF2J_VsrThwEx0H2tU8dKPQ6qkyYAvtp2AIDY6LnNVGXTs4&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20121112012603+08'00'",
+                "creationdate": "D:20121112012603+08'00'",
+                "creator": "FantArt",
+                "subject": "Untitiled",
+                "author": "Founder",
+                "producer": "idle",
+                "title": "Untitiled"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b6622714da4735e896b55378607526765fae9cf9b009738a667742cf6794bfac"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "平安e 无忧惠民版医疗保险(互联网)产品提供医疗费用保障",
+          "htmlTitle": "平安e 无忧惠民版医疗保险(互联网)产品提供医疗费用保障",
+          "link": "https://life.pingan.com/ilife-home/product/getPlanClausePdf?planCode=4005&versionNo=4005-1&attachmentType=1",
+          "displayLink": "life.pingan.com",
+          "snippet": "本例中张先生为投保人、被保险人及一般医疗保险金受益人，平安人寿为保险人。 ... 又称新生血管性年龄相关性黄斑变性或渗出性年龄相关性黄斑变性，指发. 生脉络膜新生 ...",
+          "htmlSnippet": "本例中张先生为投保人、被保险人及一般医疗保险金受益人，平安人寿为保险人。 ... 又称新生血管性年龄相关性黄斑<b>变性</b>或渗出性年龄相关性黄斑<b>变性</b>，指发. 生脉络膜新生&nbsp;...",
+          "formattedUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf?...1...",
+          "htmlFormattedUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf?...1...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvfU8Anzto9XqWuNr7ytlwC1tohLCIplSnz_NS1Bh0Faw06RWFcA29PC7&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220913152816+08'00'",
+                "creationdate": "D:20220913150647+08'00'",
+                "creator": "Acrobat PDFMaker 11 Word 版",
+                "sourcemodified": "D:20220819084315",
+                "author": "韩松",
+                "producer": "Adobe PDF Library 11.0",
+                "company": "CLIC"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d3a0858962859b7a8fb47218d767bd0f36bb335c5eeb75275e6e80906d616c00"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.tiangen.com/upload/file/20240308/20240308151125_57195.pdf",
+          "displayLink": "www.tiangen.com",
+          "snippet": "... Melting/Dissociation Curve Stage T. 否. 变性. 三步法反应程序: GEN®. 阶段. 循环. 温度. 时间. 内容. 荧光信号采集. 1人颅变性. 1x. 95°C. 3 min. 预变性. 否. 95°C. 5 ...",
+          "htmlSnippet": "... Melting/Dissociation Curve Stage T. 否. <b>变性</b>. 三步法反应程序: GEN®. 阶段. 循环. 温度. 时间. 内容. 荧光信号采集. 1人颅<b>变性</b>. 1x. 95°C. 3 min. 预<b>变性</b>. 否. 95°C. 5&nbsp;...",
+          "formattedUrl": "https://www.tiangen.com/upload/file/.../20240308151125_57195.pdf",
+          "htmlFormattedUrl": "https://www.tiangen.com/upload/file/.../20240308151125_57195.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWy617eiSaT8u6TYJJ1AUbeRJZ7qm-94B7j5GqcWXaC9kpRnkeAF7GRc&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Fri Mar  8 19:15:41 2024"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7331d7394a59119ceae3eea6953b64e7328fd4e45e806f5a78610f09532bf490"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "年龄相关性黄斑变性的发病机制及治疗研究现状",
+          "htmlTitle": "年龄相关性黄斑<b>变性</b>的发病机制及治疗研究现状",
+          "link": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType=PDF&id=1224",
+          "displayLink": "www.chinagp.net",
+          "snippet": "【摘要】 年龄相关性黄斑变性（AmD）是老年人的首要致盲疾病。50岁以上人群中，随着年龄增长发病率增. 加。随着我国老龄化社会的到来，发病人数逐年增加。尽管最近几年 ...",
+          "htmlSnippet": "【摘要】 年龄相关性黄斑<b>变性</b>（AmD）是老年人的首要致盲疾病。50岁以上人群中，随着年龄增长发病率增. 加。随着我国老龄化社会的到来，发病人数逐年增加。尽管最近几年&nbsp;...",
+          "formattedUrl": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEh3YcYWqFmbj6ickTix4t3tMiWI4pXY2xPfs6WBSeotusgclIMKib2I0&s",
+                "width": "261",
+                "height": "193"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160203084603+08'00'",
+                "creationdate": "D:20160203084603+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///919962044c77cc7550c31192370c98af8339a4b34780c92af591662cab685aac"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "RNasin® Plus RNase Inhibitor-简明操作指导",
+          "htmlTitle": "RNasin® Plus RNase Inhibitor-简明操作指导",
+          "link": "https://wechat.promega.com.cn/Upload/File/202107/RNasin%C2%AE%20Plus%20RNase%20Inhibitor-%E7%AE%80%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E-%E6%A0%B8%E5%AF%B9%E6%96%87%E4%BB%B6-2020-12-10_20210728160707_1745.pdf",
+          "displayLink": "wechat.promega.com.cn",
+          "snippet": "该蛋白能够抑制真核. RNase( 如RNase A 和RNase B) 活性，与人胎盘RNase 抑制剂相似。 RNasin® Plus RNase Inhibitor 经过RT-PCR 检验，能与AMV、M-MLV 和ImProm-II™ Reverse ...",
+          "htmlSnippet": "该蛋白能够抑制真核. RNase( 如RNase A 和RNase B) 活性，与人胎盘RNase 抑制剂相似。 RNasin® Plus RNase Inhibitor 经过RT-PCR 检验，能与AMV、M-MLV 和ImProm-II™ Reverse&nbsp;...",
+          "formattedUrl": "https://wechat.promega.com.cn/.../RNasin®%20Plus%20RNase%20Inhibito...",
+          "htmlFormattedUrl": "https://wechat.promega.com.cn/.../RNasin®%20Plus%20RNase%20Inhibito...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20201210140823+08'00'",
+                "creationdate": "D:20201210140821+08'00'",
+                "creator": "Adobe InDesign CC 13.0 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:31"
+  },
+  {
+    "page": 4,
+    "start_index": 31,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.162155,
+        "formattedSearchTime": "0.16",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "印度E-VISA（电子签）个人申请表",
+          "htmlTitle": "印度E-VISA（电子签）个人申请表",
+          "link": "http://pages.ctrip.com/tour/visa/chengdu/pdf/vbk/323.pdf",
+          "displayLink": "pages.ctrip.com",
+          "snippet": "□ 变性人. 出生城市. 出生国. 身份证号码. 是否有明显可见的胎记？如有，注明部位 ... 申请人的祖父母是否持有巴基斯坦国籍或居住于巴基斯坦地区？ □ 否□ 是如是 ...",
+          "htmlSnippet": "□ <b>变性人</b>. 出生城市. 出生国. 身份证号码. 是否有明显可见的胎记？如有，注明部位 ... 申请人的祖父母是否持有巴基斯坦国籍或居住于巴基斯坦地区？ □ 否□ 是如是&nbsp;...",
+          "formattedUrl": "http://pages.ctrip.com/tour/visa/chengdu/pdf/vbk/323.pdf",
+          "htmlFormattedUrl": "http://pages.ctrip.com/tour/visa/chengdu/pdf/vbk/323.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20170314154800+07'48'",
+                "creationdate": "D:20170314154800+07'48'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20170314154800+07'48'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "功能主义担保立法语境下融资租赁出租人的物权性质与救济",
+          "htmlTitle": "功能主义担保立法语境下融资租赁出租人的物权性质与救济",
+          "link": "https://law.uibe.edu.cn/docs/2023-10/3c466eefda2f43b699b98393665c7c0e.pdf",
+          "displayLink": "law.uibe.edu.cn",
+          "snippet": "“变性论”与《民法典》规定的文义不符，也不能妥当解. 释不动产融资租赁、约定所有权期满归属于出租人的租赁物权属等问题。“消灭隐形担保”. 的立法目的通过明确租赁物的权属 ...",
+          "htmlSnippet": "“<b>变性</b>论”与《民法典》规定的文义不符，也不能妥当解. 释不动产融资租赁、约定所有权期满归属于出租人的租赁物权属等问题。“消灭隐形担保”. 的立法目的通过明确租赁物的权属&nbsp;...",
+          "formattedUrl": "https://law.uibe.edu.cn/docs/.../3c466eefda2f43b699b98393665c7c0e.pdf",
+          "htmlFormattedUrl": "https://law.uibe.edu.cn/docs/.../3c466eefda2f43b699b98393665c7c0e.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231017111448+08'00'",
+                "creationdate": "D:20231015153531+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 19.0 (Windows)",
+                "title": "<4D6963726F736F667420576F7264202D20BEADC3B3B7A8C2C9C6C0C2DB32303233C4EAB5DA35C6DA4120BFAD2E646F63>"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别烦躁的诊断和治疗",
+          "htmlTitle": "性别烦躁的诊断和治疗",
+          "link": "https://www.mhealthu.com/uploads/enclosure/201907/201907291641401353480122.pdf",
+          "displayLink": "www.mhealthu.com",
+          "snippet": "因为. 并非所有寻求激素治疗和变性手术的成年人都就诊. 于专科门诊，所以这些比例可能在一定程度上被低. 估了。由于生理性别与他们自我认同的性别并不匹. 配，患者的心理冲突 ...",
+          "htmlSnippet": "因为. 并非所有寻求激素治疗和<b>变性</b>手术的成年人都就诊. 于专科门诊，所以这些比例可能在一定程度上被低. 估了。由于生理性别与他们自我认同的性别并不匹. 配，患者的心理冲突&nbsp;...",
+          "formattedUrl": "https://www.mhealthu.com/uploads/.../201907291641401353480122.pdf",
+          "htmlFormattedUrl": "https://www.mhealthu.com/uploads/.../201907291641401353480122.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190611103809+08'00'",
+                "creationdate": "D:20190611103809+08'00'",
+                "creator": "Nooog PStoPDF v1.5",
+                "author": "http://www.nooog.com",
+                "subject": "010-80697296",
+                "producer": "Nooog Pdf Library"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "老太太买飞机改豪宅",
+          "htmlTitle": "老太太买飞机改豪宅",
+          "link": "http://epaper.632news.com/xst/page/51/2015-09/10/13/2015091013_pdf.pdf",
+          "displayLink": "epaper.632news.com",
+          "snippet": "Sep 10, 2015 ... 在变性人比例较高的泰国，中性厕所早就. 不是什么新鲜事物。泰国东北部一所高中的. 2600 多名学生当中，超过200 名男孩有变性倾. 向，他们不愿意使用男 ...",
+          "htmlSnippet": "Sep 10, 2015 <b>...</b> 在<b>变性人</b>比例较高的泰国，中性厕所早就. 不是什么新鲜事物。泰国东北部一所高中的. 2600 多名学生当中，超过200 名男孩有变性倾. 向，他们不愿意使用男&nbsp;...",
+          "formattedUrl": "http://epaper.632news.com/xst/page/51/2015-09/.../2015091013_pdf.pdf",
+          "htmlFormattedUrl": "http://epaper.632news.com/xst/page/51/2015-09/.../2015091013_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMPnOAik-0kYwH03uhEl5xEQfFuqvU3pyr4d56owW0LZwx-2gYn0Tcow&s",
+                "width": "272",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150909145858+08'00'",
+                "creationdate": "D:20150909145858+08'00'",
+                "creator": "网络版",
+                "author": "微软中国 Administrator",
+                "subject": "无命题1",
+                "producer": "pdflib",
+                "title": "XST13BXST13C150910"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///75981fb4496cfcf215557c3b1eef9e7ce8854cbed591958cc10f607486ff0bbf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "年龄相关性黄斑变性的动物模型",
+          "htmlTitle": "年龄相关性黄斑<b>变性</b>的动物模型",
+          "link": "https://xuebao.301hospital.com.cn/cn/article/pdf/preview/10.3969/j.issn.2095-5227.2015.03.026.pdf",
+          "displayLink": "xuebao.301hospital.com.cn",
+          "snippet": "Nov 27, 2014 ... 研究中发现，人与鼠存在差异，而与灵长类动物却具有一. 致性，这说明了AMD是一种复杂的人猴共患遗传疾病，可. 能存在着共同发病机制[5]。因而灵长类动物 ...",
+          "htmlSnippet": "Nov 27, 2014 <b>...</b> 研究中发现，人与鼠存在差异，而与灵长类动物却具有一. 致性，这说明了AMD是一种复杂的人猴共患遗传疾病，可. 能存在着共同发病机制[5]。因而灵长类动物&nbsp;...",
+          "formattedUrl": "https://xuebao.301hospital.com.cn/cn/.../j.issn.2095-5227.2015.03.026.pdf",
+          "htmlFormattedUrl": "https://xuebao.301hospital.com.cn/cn/.../j.issn.2095-5227.2015.03.026.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150330105953+08'00'",
+                "creationdate": "D:20150330105901+08'00'",
+                "creator": "Adobe InDesign CS3 (5.0)",
+                "producer": "Adobe PDF Library 8.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "第三册- 跨性别同盟手册A Handbook for Trans Ally",
+          "htmlTitle": "第三册- 跨性别同盟手册A Handbook for Trans Ally",
+          "link": "https://docs.transonline.org.cn/files/shi-fei-nan-nv-3.pdf",
+          "displayLink": "docs.transonline.org.cn",
+          "snippet": "前者被一般大众称为“变性人”或“换性人”，英文是\"Transsexual\"，. 简称TS，正确定义应为有强烈及持续改变性别欲望的人士，所以并不一定是指. 完成了性别重置手术的人士。坊间常 ...",
+          "htmlSnippet": "前者被一般大众称为“<b>变性人</b>”或“换性人”，英文是&quot;Transsexual&quot;，. 简称TS，正确定义应为有强烈及持续改变性别欲望的人士，所以并不一定是指. 完成了性别重置手术的人士。坊间常&nbsp;...",
+          "formattedUrl": "https://docs.transonline.org.cn/files/shi-fei-nan-nv-3.pdf",
+          "htmlFormattedUrl": "https://docs.transonline.org.cn/files/shi-fei-nan-nv-3.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCvXXF-lis9E38XQktHMvSwbebLgUe_W1rArW6ewlBr9XxlB4XJjKDbb6&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181125115955+08'00'",
+                "creator": "Microsoft® Word for Office 365",
+                "creationdate": "D:20181125115955+08'00'",
+                "author": "子尧 徐",
+                "producer": "Microsoft® Word for Office 365"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bfb2069783137d6b224d4fc8bc31b485f7ed9172e6cc8512fbfd3e84d568a7f3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "视网膜色素上皮细胞移植治疗年龄相关性黄斑变性的临床研究及相关 ...",
+          "htmlTitle": "视网膜色素上皮细胞移植治疗年龄相关性黄斑<b>变性</b>的临床研究及相关 ...",
+          "link": "https://pps.cpu.edu.cn/cn/article/pdf/preview/805ee048-4437-46ed-ba47-fc3731ff5dcd.pdf",
+          "displayLink": "pps.cpu.edu.cn",
+          "snippet": "Apr 9, 2019 ... 区别于传统药物，RPE 细胞药物作为活细胞其. 本身存在动态的变化，当其进入患者眼部后更是受. 多种因素的影响，加之人眼组织结构的复杂性以及. 与模型动物的 ...",
+          "htmlSnippet": "Apr 9, 2019 <b>...</b> 区别于传统药物，RPE 细胞药物作为活细胞其. 本身存在动态的变化，当其进入患者眼部后更是受. 多种因素的影响，加之人眼组织结构的复杂性以及. 与模型动物的&nbsp;...",
+          "formattedUrl": "https://pps.cpu.edu.cn/cn/.../805ee048-4437-46ed-ba47-fc3731ff5dcd.pdf",
+          "htmlFormattedUrl": "https://pps.cpu.edu.cn/cn/.../805ee048-4437-46ed-ba47-fc3731ff5dcd.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHZQM4dqSVnBdvp4Eeh3BtVGNmz6fVruFfxnYIFO6YL5Rm8cxD-xJVDI&s",
+                "width": "177",
+                "height": "209"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190801190125+08'00'",
+                "creationdate": "D:20190801190119+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ab192831bbf29efbf720ff9e5d58861d8fe00b140973f4e3c446d9d594c1c691"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "夫拉客妻卖淫",
+          "htmlTitle": "夫拉客妻卖淫",
+          "link": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "displayLink": "szb.sxworker.com",
+          "snippet": "院做了变性手术，成为中国. 大陆第一个变性人……2003. 年4月21日在成都一家酒. 店，张莎在接受记者采访时. 说，20年前的那场变性手术. 终于使她实现了多年来想要. 成为女人的 ...",
+          "htmlSnippet": "院做了变性手术，成为中国. 大陆第一个<b>变性人</b>……2003. 年4月21日在成都一家酒. 店，张莎在接受记者采访时. 说，20年前的那场变性手术. 终于使她实现了多年来想要. 成为女人的&nbsp;...",
+          "formattedUrl": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "htmlFormattedUrl": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231015131919+08'00'",
+                "creationdate": "D:20231015131919+08'00'",
+                "producer": "iTextSharp™ 5.5.6-SNAPSHOT ©2000-2014 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "多导睡眠图在常见神经变性疾病中的应用研究*",
+          "htmlTitle": "多导睡眠图在常见神经<b>变性</b>疾病中的应用研究*",
+          "link": "https://ykxb.scu.edu.cn/cn/article/pdf/preview/10.12182/20230960304.pdf",
+          "displayLink": "ykxb.scu.edu.cn",
+          "snippet": "风险是睡眠片段化程度低的人的1.5倍。研究发现睡眠障. 碍通过增加大脑内Aβ的 ... DLB发病率位居老年人神经变性性痴呆的第二位，. 仅次于AD，临床表现以波动性认障碍 ...",
+          "htmlSnippet": "风险是睡眠片段化程度低的人的1.5倍。研究发现睡眠障. 碍通过增加大脑内Aβ的 ... DLB发病率位居老年人神经<b>变性</b>性痴呆的第二位，. 仅次于AD，临床表现以波动性认障碍&nbsp;...",
+          "formattedUrl": "https://ykxb.scu.edu.cn/cn/article/pdf/preview/10.../20230960304.pdf",
+          "htmlFormattedUrl": "https://ykxb.scu.edu.cn/cn/article/pdf/preview/10.../20230960304.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNdRLWfADgOJSLMmRk7gJosoVTtSs7Ca9FAPqghcIHnqOTkDyxm0N3XSW&s",
+                "width": "145",
+                "height": "180"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231012143840+08'00'",
+                "creationdate": "D:20231012143840+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///33a88df7a424264923a8f3465247ec1c8a445c93d7b0242fa47b99d597e2c814"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Create By PageManager",
+          "htmlTitle": "Create By PageManager",
+          "link": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&showname=(2022)%E5%9B%BD%E7%9F%A5%E8%8D%AF%E8%A3%810005%E5%8F%B7.PDF&filename=5cde5cbff393495788d08e94d3c1539d.pdf",
+          "displayLink": "www.cnipa.gov.cn",
+          "snippet": "Aug 2, 2022 ... 治疗或预防纤维变性疾病的药物. 请求人: 贝林格尔·英格海姆国际有限公司. 被请求人: 四川科伦药物研究院有限公司. 药品专利纠纷行政裁决书. 根据专利法第 ...",
+          "htmlSnippet": "Aug 2, 2022 <b>...</b> 治疗或预防纤维<b>变性</b>疾病的药物. 请求人: 贝林格尔·英格海姆国际有限公司. 被请求人: 四川科伦药物研究院有限公司. 药品专利纠纷行政裁决书. 根据专利法第&nbsp;...",
+          "formattedUrl": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0...",
+          "htmlFormattedUrl": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQdg87YrfkKY2ttqjriECuYi7jVQqyMzORYuYnxbPBnNk6NdHdO6Itoase&s",
+                "width": "188",
+                "height": "268"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "MergerPdf.dll"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b620bb010652785971f65d7599a2753198c1b7edb6b4c791d365c353f97f892f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:33"
+  },
+  {
+    "page": 5,
+    "start_index": 41,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.146899,
+        "formattedSearchTime": "0.15",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性",
+          "htmlTitle": "论西方当代性别与跨性别理论的缘起、内涵与特性",
+          "link": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=32814",
+          "displayLink": "www.zjujournals.com",
+          "snippet": "Sep 5, 2021 ... 她鼓励变性人不要去追求所谓的合格与和谐，而是要. 去寻找“变性身体的互文可能性”，在社会性别类型的空隙和裂缝中构建他们自己的历史［17］。斯通. 的论文是对 ...",
+          "htmlSnippet": "Sep 5, 2021 <b>...</b> 她鼓励<b>变性人</b>不要去追求所谓的合格与和谐，而是要. 去寻找“变性身体的互文可能性”，在社会性别类型的空隙和裂缝中构建他们自己的历史［17］。斯通. 的论文是对&nbsp;...",
+          "formattedUrl": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUZ62_9r7ASjr3-P8P4SaONPpKnsnxLkmqGN3b2BpD8x_K18SqM_pkoIP&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211028125333+08'00'",
+                "creationdate": "D:20211028125333+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1668",
+                "subject": "浙大学报社科版",
+                "author": "Microsoft fmx",
+                "producer": "Founder",
+                "title": "03aa71f6-feaa-4c21-bb70-666e3fe6b634"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///50a5a6e70b08375ac407142dbaf5b09b043f8bdd9893f8fc877cd69b46c45c35"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "消费税及附加税费申报表",
+          "htmlTitle": "消费税及附加税费申报表",
+          "link": "https://shanghai.chinatax.gov.cn/zcfw/zcfgk/swzsgl/202104/P020210419524054489277.pdf",
+          "displayLink": "shanghai.chinatax.gov.cn",
+          "snippet": "一、本表由外购（含进口）或委托加工收回已税汽油、柴油、石脑油、润滑油、燃料油（以下简称. 应税油品）用于连续生产应税消费品的成品油消费税纳税人填写。 二、本表变性燃料 ...",
+          "htmlSnippet": "一、本表由外购（含进口）或委托加工收回已税汽油、柴油、石脑油、润滑油、燃料油（以下简称. 应税油品）用于连续生产应税消费品的成品油消费税纳税人填写。 二、本表<b>变性</b>燃料&nbsp;...",
+          "formattedUrl": "https://shanghai.chinatax.gov.cn/zcfw/.../P020210419524054489277.pdf",
+          "htmlFormattedUrl": "https://shanghai.chinatax.gov.cn/zcfw/.../P020210419524054489277.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210407142205+06'22'",
+                "creationdate": "D:20210407142205+06'22'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20210407142205+06'22'",
+                "author": "闫镜宇",
+                "title": "附件7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新型冠状病毒肺炎诊疗方案（试行第八版）",
+          "htmlTitle": "新型冠状病毒肺炎诊疗方案（试行第八版）",
+          "link": "http://www.nhc.gov.cn/cms-search/downFiles/a449a3e2e2c94d9a856d5faea2ff0f94.pdf",
+          "displayLink": "www.nhc.gov.cn",
+          "snippet": "肝细胞变性、灶性坏死伴中性粒细胞浸润；肝血窦充血，. 汇管区见淋巴细胞和单核 ... 出现人机不同步情况，在镇静和肌松剂使用的情况下，可. 用生大黄5～10g 和芒硝5 ...",
+          "htmlSnippet": "肝细胞<b>变性</b>、灶性坏死伴中性粒细胞浸润；肝血窦充血，. 汇管区见淋巴细胞和单核 ... 出现人机不同步情况，在镇静和肌松剂使用的情况下，可. 用生大黄5～10g 和芒硝5&nbsp;...",
+          "formattedUrl": "http://www.nhc.gov.cn/cms.../a449a3e2e2c94d9a856d5faea2ff0f94.pdf",
+          "htmlFormattedUrl": "http://www.nhc.gov.cn/cms.../a449a3e2e2c94d9a856d5faea2ff0f94.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200819080629+00'06'",
+                "creationdate": "D:20200819080629+00'06'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20200819080629+00'06'",
+                "author": "vv",
+                "title": "国家卫生健康委员会办公厅"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "皮肤多发性大细胞间变性淋巴瘤2 例报告",
+          "htmlTitle": "皮肤多发性大细胞间<b>变性</b>淋巴瘤2 例报告",
+          "link": "http://www.zlfzyj.com/cn/article/pdf/preview/10.3971/j.issn.1000-8578.1439.pdf",
+          "displayLink": "www.zlfzyj.com",
+          "snippet": "病. 人一般情况较好。双颈、双锁骨上、双. 腋下及腹股沟处均未及肿大淋巴结。 肝脾不大。外周血像、骨髓穿刺未见异. 常细胞成份。右手背见110 ×110cm 肿. 块,右前臂右肩及 ...",
+          "htmlSnippet": "病. 人一般情况较好。双颈、双锁骨上、双. 腋下及腹股沟处均未及肿大淋巴结。 肝脾不大。外周血像、骨髓穿刺未见异. 常细胞成份。右手背见110 ×110cm 肿. 块,右前臂右肩及&nbsp;...",
+          "formattedUrl": "http://www.zlfzyj.com/cn/article/pdf/preview/.../j.issn.1000-8578.1439.pdf",
+          "htmlFormattedUrl": "http://www.zlfzyj.com/cn/article/pdf/preview/.../j.issn.1000-8578.1439.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4AIS_tEBC9-Yr3xCgM0jfB9Jnmcv4nwnffLUqQL6KOIh0stkIvBgL5c&s",
+                "width": "184",
+                "height": "274"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20090107182718",
+                "author": "TTKN Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2350fd2e8c8605b6ca720a306ba1d4a701096b9d712a904fdad9b7ecb6d29c05"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "民用航空体检鉴定医学标准实施细则",
+          "htmlTitle": "民用航空体检鉴定医学标准实施细则",
+          "link": "http://www.caac.gov.cn/XXGK/XXGK/GFXWJ/202408/P020240807556981899083.pdf",
+          "displayLink": "www.caac.gov.cn",
+          "snippet": "Jul 24, 2024 ... Ⅰ级体检合格证申请人患有视网膜色素变性等遗传性视网膜. 营养不良9应鉴定为不合格。 Ⅱ级、Ⅲ级、Ⅳ级体检合格证申请人患有视网膜色素变性等. 遗传性 ...",
+          "htmlSnippet": "Jul 24, 2024 <b>...</b> Ⅰ级体检合格证申请人患有视网膜色素<b>变性</b>等遗传性视网膜. 营养不良9应鉴定为不合格。 Ⅱ级、Ⅲ级、Ⅳ级体检合格证申请人患有视网膜色素<b>变性</b>等. 遗传性&nbsp;...",
+          "formattedUrl": "http://www.caac.gov.cn/XXGK/XXGK/.../P020240807556981899083.pdf",
+          "htmlFormattedUrl": "http://www.caac.gov.cn/XXGK/XXGK/.../P020240807556981899083.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszgCNIpWlHwO59PtzZ2MHJuxu6hqR2owVr78S6EJeTUhP_jykCaJKt1Q&s",
+                "width": "430",
+                "height": "117"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240806163507+08'00'",
+                "creationdate": "D:20240806013250",
+                "creator": "Official Document Editor",
+                "author": "DocEditor 1.0",
+                "producer": "suwell pdf creator",
+                "title": "2351"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ed11fd0dd6f0b583636562a121bcb2d75fbee4eb29089521e4ca256ebd97b9e5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "信泰莫非尔丽重大疾病保险D 款条款阅读指引",
+          "htmlTitle": "信泰莫非尔丽重大疾病保险D 款条款阅读指引",
+          "link": "https://sinatay.com/cmspro/attachmentDir/file/202003/13104816nkye.pdf",
+          "displayLink": "sinatay.com",
+          "snippet": "（1）没有指定受益人，或者受益人指定不明无法确定的；. （2）受益人先于被保险人身故，没有其他受益人的； ... 经节变性同时存在。理赔须经本公司认可的专科医生确认并同时 ...",
+          "htmlSnippet": "（1）没有指定受益人，或者受益人指定不明无法确定的；. （2）受益人先于被保险人身故，没有其他受益人的； ... 经节<b>变性</b>同时存在。理赔须经本公司认可的专科医生确认并同时&nbsp;...",
+          "formattedUrl": "https://sinatay.com/cmspro/attachmentDir/file/202003/13104816nkye.pdf",
+          "htmlFormattedUrl": "https://sinatay.com/cmspro/attachmentDir/file/202003/13104816nkye.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLZG4B1X4bOOfvf3PIayn4qY_F96xMtiK8yA0tTC6bI6TMkSqNB3eLTk&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200311174534+08'00'",
+                "creationdate": "D:20170307154803+08'00'",
+                "creator": "Adobe Acrobat Pro DC 15.6.30280",
+                "author": "汪志国",
+                "producer": "Adobe Acrobat 7.0 ÖÐµÄ PDFScanLib 1.2.2"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e011973ab784f08c7e9d68f191ec622df2854a63b1fe46dcc59d0e69172b48e5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.zhld.com/zkwb/page/1/2014-08-18/02/96101408294625949.pdf",
+          "displayLink": "www.zhld.com",
+          "snippet": "Aug 18, 2014 ... 使他从孝子变性为&孝女$!依然可以. 做好&道德模范$!陪伴着母亲!照顾着. 母亲!践行着孝道!孝心不会打折, 虽. 然变性人存在不能生育后代的问题! 但现今早已 ...",
+          "htmlSnippet": "Aug 18, 2014 <b>...</b> 使他从孝子变性为&amp;孝女$!依然可以. 做好&amp;道德模范$!陪伴着母亲!照顾着. 母亲!践行着孝道!孝心不会打折, 虽. 然<b>变性人</b>存在不能生育后代的问题! 但现今早已&nbsp;...",
+          "formattedUrl": "http://www.zhld.com/zkwb/page/1/2014-08.../96101408294625949.pdf",
+          "htmlFormattedUrl": "http://www.zhld.com/zkwb/page/1/2014-08.../96101408294625949.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RIxvkYuKkqis9rpCMfeqWSYCsHoxJIlm--hIiIC0qvUExV1sLzrJ4AE&s",
+                "width": "276",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b8af8ef9fd4bdcefe9bb38f86045152dd7b10ddee827d48ea5f31fcd5125ee4e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "等效性检验——结构方程模型评价和测量不变性分析的新视角",
+          "htmlTitle": "等效性检验——结构方程模型评价和测量不<b>变性</b>分析的新视角",
+          "link": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=5229",
+          "displayLink": "journal.psych.ac.cn",
+          "snippet": "下面用一个例子演示如何利用等效性检验评. 价单个模型拟合及测量不变性。示例样本为856. 名大学生, 男487 人, 女369 人。统计软件采用. Mplus 8.3 和R 3.5.1 的 ...",
+          "htmlSnippet": "下面用一个例子演示如何利用等效性检验评. 价单个模型拟合及测量不<b>变性</b>。示例样本为856. 名大学生, 男487 人, 女369 人。统计软件采用. Mplus 8.3 和R 3.5.1 的&nbsp;...",
+          "formattedUrl": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqF_EnOfPk76szPO1KvmLukw7Z2AHBcsUOcsANBqlQZCWv8HOnZeOxa0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20201031155946+08'00'",
+                "creationdate": "D:20201031073825+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows)",
+                "title": "Microsoft Word - 14王阳温忠麟jz20-070-方法_new_.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///be15e2f8e5715a5c5b8d9b72957408cdfbbc90daecc76cc161aa309a527c5059"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "杨晓曦等/基于转录组的肝豆状核变性调控网络的构建和分析",
+          "htmlTitle": "杨晓曦等/基于转录组的肝豆状核<b>变性</b>调控网络的构建和分析",
+          "link": "https://cjb.ijournals.cn/cjbcn/article/pdf/gc22103844",
+          "displayLink": "cjb.ijournals.cn",
+          "snippet": "Oct 25, 2022 ... 核变性的总体发病率约为1/30 000，在亚洲人. 群中更为高发[17]。该病虽然不是常见疾病，但. 在亚裔人群中并不罕见。而且肝豆状核变性是. 为数不多的几种 ...",
+          "htmlSnippet": "Oct 25, 2022 <b>...</b> 核<b>变性</b>的总体发病率约为1/30 000，在亚洲人. 群中更为高发[17]。该病虽然不是常见疾病，但. 在亚裔人群中并不罕见。而且肝豆状核<b>变性</b>是. 为数不多的几种&nbsp;...",
+          "formattedUrl": "https://cjb.ijournals.cn/cjbcn/article/pdf/gc22103844",
+          "htmlFormattedUrl": "https://cjb.ijournals.cn/cjbcn/article/pdf/gc22103844",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrx3Fr5N4y63usj1FUL5bQ6adCTS8JwdfiuRR_h8pZdUAdm37a5aJShE&s",
+                "width": "267",
+                "height": "188"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221025205733+08'00'",
+                "creationdate": "D:20221021183258+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 15.0 (Windows)",
+                "title": "Microsoft Word - 3844-3858 gc220500 杨晓曦.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a4b0f9acbd4a312a0baf01a00f067ce412549510641aa463024c9c261e26d91c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "抗VEGF治疗湿性年龄相关性黄斑变性的回顾与展望",
+          "htmlTitle": "抗VEGF治疗湿性年龄相关性黄斑<b>变性</b>的回顾与展望",
+          "link": "https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=12990",
+          "displayLink": "xuebao.shsmu.edu.cn",
+          "snippet": "Apr 8, 2021 ... 该研究将AAV 载体注射. 至黄斑区，其抗血管疗效持续17 个月，且未造成视网膜. 的损伤及炎症。 鉴于用AAV-sFLT-1 于非人的灵长类动物的视网膜下. 注射并不会 ...",
+          "htmlSnippet": "Apr 8, 2021 <b>...</b> 该研究将AAV 载体注射. 至黄斑区，其抗血管疗效持续17 个月，且未造成视网膜. 的损伤及炎症。 鉴于用AAV-sFLT-1 于非人的灵长类动物的视网膜下. 注射并不会&nbsp;...",
+          "formattedUrl": "https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXiYoK0jQRCTdI-W2XkHX7NnfF0bKR4-sleZvS72cJH53kLZQQnP03B0&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210430161534+08'00'",
+                "creationdate": "D:20210430161534+08'00'",
+                "creator": "方正飞翔7.2 XML版 7.2.3.1608",
+                "subject": "交大（医学版）",
+                "author": "微软中国 Administrator",
+                "producer": "Founder",
+                "title": "3fb61351-7231-4092-b838-c56d75142d16"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8c1e0bd6360e132089a20be46fdd57031a5b950eccecfc2559c36874890476af"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:36"
+  },
+  {
+    "page": 6,
+    "start_index": 51,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.151937,
+        "formattedSearchTime": "0.15",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "早期漏诊的轻链型淀粉样变性1 例并文献复习",
+          "htmlTitle": "早期漏诊的轻链型淀粉样<b>变性</b>1 例并文献复习",
+          "link": "http://www.lcszb.com/cn/article/pdf/preview/10.3969/j.issn.1671-2390.2024.01.012.pdf",
+          "displayLink": "www.lcszb.com",
+          "snippet": "AL 型淀粉样变性多发生于40 岁以上的中老年人，是. 一种罕见病，欧美国家报道的年发病率为8～10 例/百万人，. 中国尚无确切的数据，根据肾活检资料，约占继发性肾脏疾. 病 ...",
+          "htmlSnippet": "AL 型淀粉样<b>变性</b>多发生于40 岁以上的中老年人，是. 一种罕见病，欧美国家报道的年发病率为8～10 例/百万人，. 中国尚无确切的数据，根据肾活检资料，约占继发性肾脏疾. 病&nbsp;...",
+          "formattedUrl": "http://www.lcszb.com/cn/article/pdf/.../j.issn.1671-2390.2024.01.012.pdf",
+          "htmlFormattedUrl": "http://www.lcszb.com/cn/article/pdf/.../j.issn.1671-2390.2024.01.012.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfKt2E2Dra0pPPRqhvAaFVdSFYBiwHc6379L1ztoHxgY_V5Y8OoljqnHy&s",
+                "width": "259",
+                "height": "195"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240118134215+08'00'",
+                "creationdate": "D:20240118134215+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d2cce98534261b04d612b6328e261da99024137930b2f0c56f34e29757b62c96"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "!\"# 2 $%&'()",
+          "htmlTitle": "!&quot;# 2 $%&amp;&#39;()",
+          "link": "https://lywb.lyd.com.cn/images/2010-01/29/1264706911109A15B129C.pdf",
+          "displayLink": "lywb.lyd.com.cn",
+          "snippet": "Jan 29, 2010 ... ... 变性人# 而他的配偶托马. 斯本来也是D个女性#却和他D样接受变性手术成为男人$ 同为变性. 人的斯科特夫妇非常渴望拥有D个属于他们的孩子#由于托马斯已切.",
+          "htmlSnippet": "Jan 29, 2010 <b>...</b> ... <b>变性人</b># 而他的配偶托马. 斯本来也是D个女性#却和他D样接受变性手术成为男人$ 同为变性. 人的斯科特夫妇非常渴望拥有D个属于他们的孩子#由于托马斯已切.",
+          "formattedUrl": "https://lywb.lyd.com.cn/images/2010-01/.../1264706911109A15B129C.pdf",
+          "htmlFormattedUrl": "https://lywb.lyd.com.cn/images/2010-01/.../1264706911109A15B129C.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2024年国家医保药品目录调整申报材料（公示版）",
+          "htmlTitle": "2024年国家医保药品目录调整申报材料（公示版）",
+          "link": "https://www.nhsa.gov.cn/attach/Ypsn2024/YPSN202400134/YPSN202400134.pdf",
+          "displayLink": "www.nhsa.gov.cn",
+          "snippet": "Jul 12, 2024 ... 现行医保目录的医保支付范围. 限以下CD30阳性淋巴瘤成人患者： 1.复发或难治性系统性间变性大细胞淋巴瘤(R/R sALCL )；2. ... 人/年， pcALCL或MF新发 ...",
+          "htmlSnippet": "Jul 12, 2024 <b>...</b> 现行医保目录的医保支付范围. 限以下CD30阳性淋巴瘤成人患者： 1.复发或难治性系统性间<b>变性</b>大细胞淋巴瘤(R/R sALCL )；2. ... 人/年， pcALCL或MF新发&nbsp;...",
+          "formattedUrl": "https://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSN202400134.pdf",
+          "htmlFormattedUrl": "https://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSN202400134.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4jkMQ8A1hf5Gih1qdiUG6uMtLFIP5hLt4o1YC-Wa3lXugKqNNnWxqqpg&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240805041228+00'00'",
+                "creator": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36",
+                "creationdate": "D:20240805041228+00'00'",
+                "producer": "Skia/PDF m89"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///02b4848db517c5afcb9b08e2042cdcda7f3352f9394593e1b23984376ab0fc4c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "儿童肝豆状核变性临床表型及ATP7B基因突变关联性分析",
+          "htmlTitle": "儿童肝豆状核<b>变性</b>临床表型及ATP7B基因突变关联性分析",
+          "link": "http://www.cjebp.net/fileup/PDF/2013183.pdf",
+          "displayLink": "www.cjebp.net",
+          "snippet": "摘要目的了解汉族儿童肝豆状核变性（WD）患儿的临床表型与ATP7B基因突变的 ... 有研究显示，韩国人WD的p.Arg778Leu突变占. 39.2%［11］，日本人为27%，中国台湾为 ...",
+          "htmlSnippet": "摘要目的了解汉族儿童肝豆状核<b>变性</b>（WD）患儿的临床表型与ATP7B基因突变的 ... 有研究显示，韩国人WD的p.Arg778Leu突变占. 39.2%［11］，日本人为27%，中国台湾为&nbsp;...",
+          "formattedUrl": "http://www.cjebp.net/fileup/PDF/2013183.pdf",
+          "htmlFormattedUrl": "http://www.cjebp.net/fileup/PDF/2013183.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3U0k0L6k41jakX7MHmesD_im3sNWbFAwZfh-uyfPee2Jzp0mxdXDAIg&s",
+                "width": "329",
+                "height": "153"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///db81f395b7bab46f5f4d6cab1f03d0aa7cca1f1f7304d3e3c779b884c4bb8a30"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "氯苯唑酸葡胺软胶囊",
+          "htmlTitle": "氯苯唑酸葡胺软胶囊",
+          "link": "https://www.nhsa.gov.cn/attach/Ypsn2024/YPSW202400076/YPSW202400076(ppt).pdf",
+          "displayLink": "www.nhsa.gov.cn",
+          "snippet": "2000人；中国ATTR-CM患者人数约12-16万人。 弥补未满足的治疗需求情况：. 1、国内 ... 拉丁美洲氯苯唑酸被批准用于治疗涉及神经系统ATTRv淀粉样变性治疗。",
+          "htmlSnippet": "2000人；中国ATTR-CM患者人数约12-16万人。 弥补未满足的治疗需求情况：. 1、国内 ... 拉丁美洲氯苯唑酸被批准用于治疗涉及神经系统ATTRv淀粉样<b>变性</b>治疗。",
+          "formattedUrl": "https://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSW202400076(ppt).pdf",
+          "htmlFormattedUrl": "https://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSW202400076(ppt).pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZcLbtWXOMgJdxoJZVBQOIMN6To5sH28ZBnGL-BgNU0KkbbpJHnmd-86o&s",
+                "width": "231",
+                "height": "218"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240710140430+08'00'",
+                "creationdate": "D:20240710140307+06'03'",
+                "creator": "WPS 演示",
+                "sourcemodified": "D:20240710140307+06'03'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///eae3a2b9dc4b22f8428a974b9cc95cdbdf6c6d28c3e3140e6a6a2ff90b79ae5a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "旅英手册2019",
+          "htmlTitle": "旅英手册2019",
+          "link": "https://www.britishcouncil.cn/sites/default/files/lu_ying_shou_ce_2019.pdf",
+          "displayLink": "www.britishcouncil.cn",
+          "snippet": "人理对个人残疾、 族、宗教、性取向. 或为的残疾、 族、宗教、性取向以及. 对变性人或作变性人出于恶意或偏. 成的犯事件。 仇恨犯现为多形式包括. ◇ 人攻击. ◇ 破坏产包括 ...",
+          "htmlSnippet": "人理对个人残疾、 族、宗教、性取向. 或为的残疾、 族、宗教、性取向以及. 对<b>变性人</b>或作<b>变性人</b>出于恶意或偏. 成的犯事件。 仇恨犯现为多形式包括. ◇ 人攻击. ◇ 破坏产包括&nbsp;...",
+          "formattedUrl": "https://www.britishcouncil.cn/sites/default/files/lu_ying_shou_ce_2019.pdf",
+          "htmlFormattedUrl": "https://www.britishcouncil.cn/sites/default/files/lu_ying_shou_ce_2019.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRko4nLP6VkHsOMMR9JmCsAQfO8igwq8DK9zFuUAMLMXg5oa3fj3i06UiY&s",
+                "width": "274",
+                "height": "184"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190619064446Z00'00'",
+                "creator": "预览",
+                "creationdate": "D:20190619064446Z00'00'",
+                "producer": "Mac OS X 10.12.3 Quartz PDFContext"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///78ba12929750b38d15da755dcde20d0876bc408f48efdfb4d4d8a9a75d0b1aa8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "医疗器械产品注册技术审评报告",
+          "htmlTitle": "医疗器械产品注册技术审评报告",
+          "link": "https://www.cmde.org.cn/directory/web/cmde/images/1720071901696089615.pdf",
+          "displayLink": "www.cmde.org.cn",
+          "snippet": "Jun 11, 2024 ... 一、申请人名称. ... 年龄相关性黄斑变性（干性）、黄斑裂孔、青光眼样视神经改变、. 年龄相关性黄斑变性（湿性）、中心性浆液性脉络膜视网膜病变 ...",
+          "htmlSnippet": "Jun 11, 2024 <b>...</b> 一、申请人名称. ... 年龄相关性黄斑<b>变性</b>（干性）、黄斑裂孔、青光眼样视神经改变、. 年龄相关性黄斑<b>变性</b>（湿性）、中心性浆液性脉络膜视网膜病变&nbsp;...",
+          "formattedUrl": "https://www.cmde.org.cn/directory/web/cmde/.../1720071901696089615.p...",
+          "htmlFormattedUrl": "https://www.cmde.org.cn/directory/web/cmde/.../1720071901696089615.p...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240618101146+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20240618101146+08'00'",
+                "author": "User",
+                "producer": "Microsoft® Word 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国人寿保险股份有限公司",
+          "htmlTitle": "中国人寿保险股份有限公司",
+          "link": "https://www.e-chinalife.com/jw/web/json/plugin/com.chinalife.cms.DocumentDownload/service?id=1c2bec28-1d97-4b5b-bddd-c201bfa550fd",
+          "displayLink": "www.e-chinalife.com",
+          "snippet": "凡基本医疗保险、公费医疗的参保人均可作为被保险人，由当地政府指定的部门作为投保人向中国人 ... 十四、被保险人的视力矫正手术或变性手术；. 十五、被保险人非因意外伤害 ...",
+          "htmlSnippet": "凡基本医疗保险、公费医疗的参保人均可作为被保险人，由当地政府指定的部门作为投保人向中国人 ... 十四、被保险人的视力矫正手术或<b>变性</b>手术；. 十五、被保险人非因意外伤害&nbsp;...",
+          "formattedUrl": "https://www.e-chinalife.com/jw/web/json/plugin/com...cms.../service?...",
+          "htmlFormattedUrl": "https://www.e-chinalife.com/jw/web/json/plugin/com...cms.../service?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUuiiT5-l7tBcNRig68HZFT72MLyO714BqRgMfLFW-rrJt8TqGUMii_Q&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230419111214+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20230419111214+08'00'",
+                "author": "杨佳楠",
+                "producer": "Microsoft® Word 2010",
+                "title": "中国人寿保险股份有限公司"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2c5fc22436094df3f1d95ea38a369c79f1d1538d577d528a4442167ba0d971ac"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "黄斑色素密度与眼部健康",
+          "htmlTitle": "黄斑色素密度与眼部健康",
+          "link": "https://upload-yyj.by-health.com/upload/files/%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%9C%BC%E9%83%A8%E5%81%A5%E5%BA%B7%E6%8A%A5%E5%91%8A[2019].pdf",
+          "displayLink": "upload-yyj.by-health.com",
+          "snippet": "AMD 包括干性和湿性两种，其发病机制尚不清晰。年龄相关性黄斑. 变性是目前老年人致盲的主要原因之一！ 正常者视野vs.年龄相关 ...",
+          "htmlSnippet": "AMD 包括干性和湿性两种，其发病机制尚不清晰。年龄相关性黄斑. <b>变性</b>是目前老年人致盲的主要原因之一！ 正常者视野vs.年龄相关&nbsp;...",
+          "formattedUrl": "https://upload-yyj.by-health.com/upload/.../汤臣倍健眼部健康报告[2019]....",
+          "htmlFormattedUrl": "https://upload-yyj.by-health.com/upload/.../汤臣倍健眼部健康报告[2019]....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-JJ4dPH6aL4TCAVRGzZbjPZTXha0IVqFxV6l5qDsNYzjECKhdt3HEpc&s",
+                "width": "269",
+                "height": "187"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191114163937+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20191114163937+08'00'",
+                "author": "杨明喆",
+                "producer": "Microsoft® Word 2010"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bff2a58eda7632b29e7cc05f31c77cb48340b4c466df7751ba349427a36b10ad"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "胶原蛋白降解物高效液相色谱质谱联用分析'",
+          "htmlTitle": "胶原蛋白降解物高效液相色谱质谱联用分析&#39;",
+          "link": "https://manu60.magtech.com.cn/biotech/CN/article/downloadArticleFile.do?attachType=PDF&id=3665",
+          "displayLink": "manu60.magtech.com.cn",
+          "snippet": "经变性和酶解处理后得到肤段之间的差异应与构. 成该胶原蛋白单链的氨基酸组成及 ... 原蛋白进行更为深人的实验验证。 参考文献. 【 」. ,. ,. 〕 ,. 且. ,. ,. 一.",
+          "htmlSnippet": "经<b>变性</b>和酶解处理后得到肤段之间的差异应与构. 成该胶原蛋白单链的氨基酸组成及 ... 原蛋白进行更为深人的实验验证。 参考文献. 【 」. ,. ,. 〕 ,. 且. ,. ,. 一.",
+          "formattedUrl": "https://manu60.magtech.com.cn/biotech/CN/.../downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://manu60.magtech.com.cn/biotech/CN/.../downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH9Vp0BDg5okUHwB0UyqcMwIVl8D_jpZn6VmKUL6Sm_kmCg5BEEpsSA&s",
+                "width": "200",
+                "height": "118"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20100713200331",
+                "author": "TTKN Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///53226b5bbc56d721ff6e75d4726afad79e3ad1c769853ed523e29ab70ed1b6d3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:48"
+  },
+  {
+    "page": 7,
+    "start_index": 61,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.174609,
+        "formattedSearchTime": "0.17",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "美共和党欲推“瘦身版”新医改法案",
+          "htmlTitle": "美共和党欲推“瘦身版”新医改法案",
+          "link": "http://www.chaozhoudaily.com/upload/czrb/page/1/2017-07-28/08/89371501204730406.pdf",
+          "displayLink": "www.chaozhoudaily.com",
+          "snippet": "Jul 28, 2017 ... 允许变性人以任何形式在军队服役。 此番言论在美国内引发争议。 特朗普说， 美军必须专注于胜. 利，变性人服役会造成军队医疗成本. 高昂，因而扰乱队伍 ...",
+          "htmlSnippet": "Jul 28, 2017 <b>...</b> 允许<b>变性人</b>以任何形式在军队服役。 此番言论在美国内引发争议。 特朗普说， 美军必须专注于胜. 利，<b>变性人</b>服役会造成军队医疗成本. 高昂，因而扰乱队伍&nbsp;...",
+          "formattedUrl": "http://www.chaozhoudaily.com/upload/czrb/.../89371501204730406.pdf",
+          "htmlFormattedUrl": "http://www.chaozhoudaily.com/upload/czrb/.../89371501204730406.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gEFix1CER3CaKH83z4ieCFknK-8K6ZWpaQ62rBt9jWN1g6Ktg5XGE8g&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator For EPD"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6fa7e85d78e073686f1d9631755dad5036bfe2c9a9a3a43e611b1187a8c76977"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "“内隐人格理论”与消费者决策研究述评",
+          "htmlTitle": "“内隐人格理论”与消费者决策研究述评",
+          "link": "https://qks.sufe.edu.cn/j/PDFFull/A170119000068.pdf",
+          "displayLink": "qks.sufe.edu.cn",
+          "snippet": "对人的基本特质及周围事物可变性的看法会影响人们的消费动机，. 从而影响人们的消费决策。实体论者更希望选择能凸显自我且简单易用的商品，同时更加注. 重消费结果；而渐变论 ...",
+          "htmlSnippet": "对人的基本特质及周围事物可<b>变性</b>的看法会影响人们的消费动机，. 从而影响人们的消费决策。实体论者更希望选择能凸显自我且简单易用的商品，同时更加注. 重消费结果；而渐变论&nbsp;...",
+          "formattedUrl": "https://qks.sufe.edu.cn/j/PDFFull/A170119000068.pdf",
+          "htmlFormattedUrl": "https://qks.sufe.edu.cn/j/PDFFull/A170119000068.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7d4QPNGxyvjMqJYq_AcZhNra4BM8Ay23FEflsNJR9n_BEoZ87An-L_9e&s",
+                "width": "193",
+                "height": "261"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160908144116+08'00'",
+                "creationdate": "D:20160908144116+08'00'",
+                "producer": "iText® 5.5.2-SNAPSHOT ©2000-2014 iText Group NV (AGPL-version)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///dcc8e43a0e4b6b613f9d75f9861764e8f4c8c8ce0b577be860b5dc2e5454816e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "应用改良Simpson 法评价肝豆状核变性患者胆囊收缩功能",
+          "htmlTitle": "应用改良Simpson 法评价肝豆状核<b>变性</b>患者胆囊收缩功能",
+          "link": "http://manu43.magtech.com.cn/Jwk_sygzb/CN/article/downloadArticleFile.do?attachType=PDF&id=360",
+          "displayLink": "manu43.magtech.com.cn",
+          "snippet": "在空腹状态下，HLD 患者与正常对照组胆囊容积. 无统计学差异（P≥0.05，图1、2）；在高脂餐后，两组人. 群胆囊容积均缩小，但正常对照组胆囊容积缩小明. 显，与患者组比，差异有统计 ...",
+          "htmlSnippet": "在空腹状态下，HLD 患者与正常对照组胆囊容积. 无统计学差异（P≥0.05，图1、2）；在高脂餐后，两组人. 群胆囊容积均缩小，但正常对照组胆囊容积缩小明. 显，与患者组比，差异有统计&nbsp;...",
+          "formattedUrl": "http://manu43.magtech.com.cn/Jwk_sygzb/.../downloadArticleFile.do?...",
+          "htmlFormattedUrl": "http://manu43.magtech.com.cn/Jwk_sygzb/.../downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatsGQmtW5fvnskG065J7JQE5vPMNIC-R2BN7Kt-4DCb9ODBzwSffmr0k&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160314151824+08'00'",
+                "creationdate": "D:20160314151819+08'00'",
+                "creator": "pdfFactory Pro www.fineprint.cn",
+                "author": "Administrator",
+                "producer": "pdfFactory Pro 3.21 (Windows XP Professional Chinese)",
+                "title": "2014年肝病第四期-完整-定稿.FIT)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///90c5aa87d1784e7d5220fee59b21791e62f1b3c1121b36042a101abade744d47"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.99jkm.com/Upload/2018-09-18/15372539522807.pdf",
+          "displayLink": "www.99jkm.com",
+          "snippet": "Sep 17, 2018 ... 四川省预防医学会神经变性疾病防治分会委员候选. 人,请务必参会,无故不到者,按照学会组织管理办法规定,. 取消委员候选人资格。确因有事不能参加选举成立 ...",
+          "htmlSnippet": "Sep 17, 2018 <b>...</b> 四川省预防医学会神经<b>变性</b>疾病防治分会委员候选. 人,请务必参会,无故不到者,按照学会组织管理办法规定,. 取消委员候选人资格。确因有事不能参加选举成立&nbsp;...",
+          "formattedUrl": "http://www.99jkm.com/Upload/2018-09-18/15372539522807.pdf",
+          "htmlFormattedUrl": "http://www.99jkm.com/Upload/2018-09-18/15372539522807.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Mon Sep 17 23:16:34 2018",
+                "creationdate": "Mon Sep 17 23:16:34 2018",
+                "producer": "Epson Scan 2"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "华泰财险个人人身意外伤害保险（互联网专属）条款华泰财险附加 ...",
+          "htmlTitle": "华泰财险个人人身意外伤害保险（互联网专属）条款华泰财险附加 ...",
+          "link": "https://image.ssish.com/core/material/20220304145232_%E8%B4%A3%E4%BB%BB%E5%85%8D%E9%99%A4.pdf",
+          "displayLink": "image.ssish.com",
+          "snippet": "... 变性手术、人体试验和人. 工生殖，及由此而引起的并发症；. 4. 被保险人未经保险人同意的转院治疗或在家自设病床治疗；. 5. 未经保险人同意，被保险人在非认可的医疗 ...",
+          "htmlSnippet": "... <b>变性</b>手术、人体试验和人. 工生殖，及由此而引起的并发症；. 4. 被保险人未经保险人同意的转院治疗或在家自设病床治疗；. 5. 未经保险人同意，被保险人在非认可的医疗&nbsp;...",
+          "formattedUrl": "https://image.ssish.com/core/material/20220304145232_责任免除.pdf",
+          "htmlFormattedUrl": "https://image.ssish.com/core/material/20220304145232_责任免除.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL0sfXQOprojmE6JHoWFl-j-_RYAxbKEhIzWTycZ3f6DwJ8LyNlollVxvY&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220124194910+11'49'",
+                "creationdate": "D:20220124194910+11'49'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220124194910+11'49'",
+                "author": "lenovo"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8ec542c1393a4a80829b6eb35ec395464575f9d4c35efd94d343d433781bb285"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "后路选择性减压融合术治疗老年退变性腰椎侧凸症",
+          "htmlTitle": "后路选择性减压融合术治疗老年退<b>变性</b>腰椎侧凸症",
+          "link": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20130115&flag=1&year_id=2013&quarter_id=1",
+          "displayLink": "tjyxxb.ijournals.cn",
+          "snippet": "退变性腰椎侧凸症是老年人的常见疾病,近年. 来越来越多保守治疗无效的患者需要外科手术的干. 预' 。本研究总结了. 例老年手术患者的治疗经. 验,为进一步提高手术疗效提供 ...",
+          "htmlSnippet": "退<b>变性</b>腰椎侧凸症是老年人的常见疾病,近年. 来越来越多保守治疗无效的患者需要外科手术的干. 预&#39; 。本研究总结了. 例老年手术患者的治疗经. 验,为进一步提高手术疗效提供&nbsp;...",
+          "formattedUrl": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no...",
+          "htmlFormattedUrl": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1z5W31FvbvmoVP2we_Ec8Xmw21S1UW5Xn6Neh6BIlTuK0k_oOf9TbOsc&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20150407132659",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3925",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3925)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///896698415dc7d16b0e8d2126ebed194f4d4ba6aa8ca120388236aeecf97f4b44"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "两种椎间融合手术治疗腰椎退变性疾病术后神经功能恢复的临床对照 ...",
+          "htmlTitle": "两种椎间融合手术治疗腰椎退<b>变性</b>疾病术后神经功能恢复的临床对照 ...",
+          "link": "http://www.spinejournal.net/ch/reader/download_pdf_file.aspx?journal_id=jss&file_name=A8D77C701D04C8818330CA0E26014BB24D8ACEAA8D067C42EB4B593F70640F9A0806E9B3517676EA1A696A313315989D&open_type=self&file_no=20120212",
+          "displayLink": "www.spinejournal.net",
+          "snippet": "... 变性疾病术后神经功能恢复情况遥方法摇回顾性分析圆园园猿年. 远月耀圆园员 ... 员远人一组袁利用新鲜尸体标本袁自己动手进行解剖操作并模拟重点手术袁包括全脊椎 ...",
+          "htmlSnippet": "... <b>变性</b>疾病术后神经功能恢复情况遥方法摇回顾性分析圆园园猿年. 远月耀圆园员 ... 员远人一组袁利用新鲜尸体标本袁自己动手进行解剖操作并模拟重点手术袁包括全脊椎&nbsp;...",
+          "formattedUrl": "http://www.spinejournal.net/ch/.../download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.spinejournal.net/ch/.../download_pdf_file.aspx?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCitVTNc1T74d2pLIGGMehOXPQQacLn_kAr0Mf0ZQ1hf5kJi-Cz3K8cHc&s",
+                "width": "254",
+                "height": "198"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140314132142+08'00'",
+                "creationdate": "D:20140314132140+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<D5FDCEC42E6D7073>"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///154f2cc9598869712ebc446d19abf49f0118057890a6c8a74a5fa4807a9becc4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "岩石本体变形过程中的孔隙度不变性原则!",
+          "htmlTitle": "岩石本体变形过程中的孔隙度不<b>变性</b>原则!",
+          "link": "https://www.zgxjpg.com/CN/article/downloadArticleFile.do?attachType=PDF&id=4425",
+          "displayLink": "www.zgxjpg.com",
+          "snippet": "Jun 1, 2005 ... 作者简介：李传亮（1962－），男，山东嘉祥人，教授，博士，油藏工程，（Tel）028－83033291（E－mail）cllipe＠163．com． 岩石本体变形过程中的孔隙度不变性原则. —— ...",
+          "htmlSnippet": "Jun 1, 2005 <b>...</b> 作者简介：李传亮（1962－），男，山东嘉祥人，教授，博士，油藏工程，（Tel）028－83033291（E－mail）cllipe＠163．com． 岩石本体变形过程中的孔隙度不<b>变性</b>原则. ——&nbsp;...",
+          "formattedUrl": "https://www.zgxjpg.com/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://www.zgxjpg.com/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5wms4YbJS90IstDd6ARLg0f-GlUJkwdMCpn6FGpoFgD5GEwEkNkFcSw&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20151126103536-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bacea28041b8bad9cc740e8229f9a2134d2e02b3c8dab09a18c0e71c3ec09370"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肝豆状核变性中西医结合诊疗指南",
+          "htmlTitle": "肝豆状核<b>变性</b>中西医结合诊疗指南",
+          "link": "http://www.cacm.org.cn/wp-content/uploads/2023/06/%E8%82%9D%E8%B1%86%E7%8A%B6%E6%A0%B8%E5%8F%98%E6%80%A7%E4%B8%AD%E8%A5%BF%E5%8C%BB%E7%BB%93%E5%90%88%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97.pdf",
+          "displayLink": "www.cacm.org.cn",
+          "snippet": "由于我国人. 口基数大，患病的绝对数多，造成的危害也大。 由于WD 的临床表现复杂多样，可覆盖大部分神经系统疾病的症状体征，并常以消化、泌尿、呼吸等.",
+          "htmlSnippet": "由于我国人. 口基数大，患病的绝对数多，造成的危害也大。 由于WD 的临床表现复杂多样，可覆盖大部分神经系统疾病的症状体征，并常以消化、泌尿、呼吸等.",
+          "formattedUrl": "http://www.cacm.org.cn/wp.../06/肝豆状核变性中西医结合诊疗指南.pdf",
+          "htmlFormattedUrl": "http://www.cacm.org.cn/wp.../06/肝豆状核变性中西医结合诊疗指南.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZK89Xi-xbXmmZRJFoKfxr1eC_V_kTC4EFVdiOOl8gPmtB_XpNLlSCieyz&s",
+                "width": "187",
+                "height": "270"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230531095118+01'51'",
+                "creationdate": "D:20230531095118+01'51'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20230531095118+01'51'",
+                "author": "jiang"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///28588d81318c89a65498a90a225f7e65bd8f2377d9d8fd9f50150e3afc3cf60e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "6CC0-.,#-'('2.+'33<0-(B-(1/&%+'*&C+'C&03#,+./-('&3#)+3,$.)",
+          "htmlTitle": "6CC0-.,#-&#39;(&#39;2.+&#39;33&lt;0-(B-(1/&amp;%+&#39;*&amp;C+&#39;C&amp;03#,+./-(&#39;&amp;3#)+3,$.)",
+          "link": "http://www.spgykj.com/cn/article/pdf/preview/SPKJ200908060.pdf",
+          "displayLink": "www.spgykj.com",
+          "snippet": "依次加人. 焦糖色素、黃原胶稳定剂溶液、淀粉*变性淀粉乳液，. 充分搅拌。 继续煮Q#\\$#-BE后，加人味精，搅拌，使. 之充分溶解。 冷却至+!0左右， ...",
+          "htmlSnippet": "依次加人. 焦糖色素、黃原胶稳定剂溶液、淀粉*<b>变性</b>淀粉乳液，. 充分搅拌。 继续煮Q#\\$#-BE后，加人味精，搅拌，使. 之充分溶解。 冷却至+!0左右，&nbsp;...",
+          "formattedUrl": "http://www.spgykj.com/cn/article/pdf/preview/SPKJ200908060.pdf",
+          "htmlFormattedUrl": "http://www.spgykj.com/cn/article/pdf/preview/SPKJ200908060.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20140304151142+08'00'",
+                "creationdate": "D:20140304151121+08'00'",
+                "creator": "Adobe Acrobat 7.0",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:50"
+  },
+  {
+    "page": 8,
+    "start_index": 71,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.171086,
+        "formattedSearchTime": "0.17",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "变性手术算病假， 整容手术算病假吗？",
+          "htmlTitle": "<b>变性</b>手术算病假， 整容手术算病假吗？",
+          "link": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "displayLink": "epaper.file.routeryun.com",
+          "snippet": "变性手术、 整容手术都屡见不. 鲜， 对职场中的人来说， 变性手. 术、 整容手术导致的缺勤是否属. 于病假， 是一个非常现实的法律. 问题。 争议：. 变性手术能否请病假. 我们 ...",
+          "htmlSnippet": "<b>变性</b>手术、 整容手术都屡见不. 鲜， 对职场中的人来说， <b>变性</b>手. 术、 整容手术导致的缺勤是否属. 于病假， 是一个非常现实的法律. 问题。 争议：. <b>变性</b>手术能否请病假. 我们&nbsp;...",
+          "formattedUrl": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "htmlFormattedUrl": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXGPXhNRvbhr--jwCkx_4gEihWiQA_Fqo2qoGGOyLjdFbEjk3vXDc-6q_&s",
+                "width": "279",
+                "height": "181"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20200707210530+08'00'",
+                "creator": "Founder PDF Library",
+                "author": "Founder Electronics Ltd",
+                "producer": "Founder PDF Library"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///93a4803afd4cbb7dd5edce241e052391b58c636c1fcad59d97eeea4dbccbd216"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "意大利肝病学会非酒精性脂肪性肝病诊疗指南（2010）",
+          "htmlTitle": "意大利肝病学会非酒精性脂肪性肝病诊疗指南（2010）",
+          "link": "https://www.lcgdbzz.org/fileLCGDBZZ/cms/news/info/zngs/6013.pdf",
+          "displayLink": "www.lcgdbzz.org",
+          "snippet": "... 人中有2 例新发病例。在普通人群中2%～. 3%的个体会患有非酒精性脂肪性肝炎。尽管非复合性的脂肪变性常常是一个良性的过程，. 但是非酒精性脂肪性肝炎患者的生存期会缩短 ...",
+          "htmlSnippet": "... 人中有2 例新发病例。在普通人群中2%～. 3%的个体会患有非酒精性脂肪性肝炎。尽管非复合性的脂肪<b>变性</b>常常是一个良性的过程，. 但是非酒精性脂肪性肝炎患者的生存期会缩短&nbsp;...",
+          "formattedUrl": "https://www.lcgdbzz.org/fileLCGDBZZ/cms/news/info/zngs/6013.pdf",
+          "htmlFormattedUrl": "https://www.lcgdbzz.org/fileLCGDBZZ/cms/news/info/zngs/6013.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150801114102+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20150801114102+08'00'",
+                "author": "USER",
+                "producer": "Microsoft® Word 2010",
+                "title": "意大利肝病学会非酒精性脂肪性肝病诊疗指南（2010）"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "伴鳞样成分的甲状腺间变性癌临床病理分析中国肿瘤临床",
+          "htmlTitle": "伴鳞样成分的甲状腺间<b>变性</b>癌临床病理分析中国肿瘤临床",
+          "link": "http://www.cjco.cn/cn/article/pdf/preview/10.3969/j.issn.1000-8179.2011.13.006.pdf",
+          "displayLink": "www.cjco.cn",
+          "snippet": "结论：ATC-SCC多见于老年人，女性较多见，生长迅. 速，常扩展至甲状腺外累犯颈部软组织，预后非常差，手术和放化疗相结合是治疗ATC-SCC的基本原则。 关键词ATC-SCC 临床 ...",
+          "htmlSnippet": "结论：ATC-SCC多见于老年人，女性较多见，生长迅. 速，常扩展至甲状腺外累犯颈部软组织，预后非常差，手术和放化疗相结合是治疗ATC-SCC的基本原则。 关键词ATC-SCC 临床&nbsp;...",
+          "formattedUrl": "http://www.cjco.cn/cn/article/pdf/.../10.../j.issn.1000-8179.2011.13.006.pdf",
+          "htmlFormattedUrl": "http://www.cjco.cn/cn/article/pdf/.../10.../j.issn.1000-8179.2011.13.006.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJIDXjVUwoxcdl5JIJlz47PcZwo8ZKk4YJV1vt6Bq_EeTKKqX4Rhz8LQy&s",
+                "width": "262",
+                "height": "192"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20110907140400+08'00'",
+                "creationdate": "D:20110907140400+08'00'",
+                "creator": "FantArt",
+                "subject": "Untitiled",
+                "author": "Founder",
+                "producer": "idle",
+                "title": "Untitiled"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a1d129b4eb0ce75b7d9ff3bd83e67623a3f32289560ead55540f8d74283ae537"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://oss.gxgyfy.com/20240820/104915168.pdf",
+          "displayLink": "oss.gxgyfy.com",
+          "snippet": "Aug 20, 2024 ... 参评单位收到质评切片后按要求进行操作,并填写室间质评流程. 表(附件2和/或附件3),流程表由科室负责人签字确认。 ... 三、样本变性. (一)方法: 手工变性杂交 ...",
+          "htmlSnippet": "Aug 20, 2024 <b>...</b> 参评单位收到质评切片后按要求进行操作,并填写室间质评流程. 表(附件2和/或附件3),流程表由科室负责人签字确认。 ... 三、样本<b>变性</b>. (一)方法: 手工<b>变性</b>杂交&nbsp;...",
+          "formattedUrl": "https://oss.gxgyfy.com/20240820/104915168.pdf",
+          "htmlFormattedUrl": "https://oss.gxgyfy.com/20240820/104915168.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "producer": "Skia/PDF m92"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "干细胞与视网膜变性微环境互作对干细胞命运决定的影响",
+          "htmlTitle": "干细胞与视网膜<b>变性</b>微环境互作对干细胞命运决定的影响",
+          "link": "https://dds.sciengine.com/cfs/files/pdfs/1674-7232/958F2BD17C254A479FE31D37A8FB3154-mark.pdf",
+          "displayLink": "dds.sciengine.com",
+          "snippet": "* 联系人, E-mail: zoutingcq@163.com; xuhaiwei@tmmu.edu.cn. 收稿日期: 2022-01-30; 接受日期: 2022-03-01; 网络版发表日期: 2022-05-27. 国家自然科学基金(批准号 ...",
+          "htmlSnippet": "* 联系人, E-mail: zoutingcq@163.com; xuhaiwei@tmmu.edu.cn. 收稿日期: 2022-01-30; 接受日期: 2022-03-01; 网络版发表日期: 2022-05-27. 国家自然科学基金(批准号&nbsp;...",
+          "formattedUrl": "https://dds.sciengine.com/.../958F2BD17C254A479FE31D37A8FB3154-m...",
+          "htmlFormattedUrl": "https://dds.sciengine.com/.../958F2BD17C254A479FE31D37A8FB3154-m...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMUonQSOuoByxw1KkbRbUO2z8YzfpX_PXgIXL1oFizZOfPe1rmzqqGmaJU&s",
+                "width": "298",
+                "height": "169"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221112163312+08'00'",
+                "creator": "PTC Arbortext Advanced Print Publisher 11.1.3936/W-x64",
+                "creationdate": "D:20220712144423+08'00'",
+                "producer": "PDFlib+PDI 9.0.3p4 (C++/Win64); modified using iText® 5.5.10 ©2000-2015 iText Group NV (AGPL-version)",
+                "epsprocessor": "PStill version 1.84.42",
+                "title": "SSV-2021-0075_XML 1..19"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///48794082872936376eacbf566ecb33d930bcc4cd1a4326d3821bda37113ffdcf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "ó癌患者围术期血液流变性变化的临床研究",
+          "htmlTitle": "ó癌患者围术期血液流<b>变性</b>变化的临床研究",
+          "link": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file_no=20110410&year_id=2011&quarter_id=4&falg=1",
+          "displayLink": "www.tougao120.com",
+          "snippet": "所有病人人室后建立静脉通道，以#! c#> D/[(U7.E)的速度输人晶体液(乳酸林格氏液)及胶. 体液(<W的烃乙基淀粉)，补充术前禁食禁饮和清洁灌肠. 丢失的体液和生理需要量，晶 ...",
+          "htmlSnippet": "所有病人人室后建立静脉通道，以#! c#&gt; D/[(U7.E)的速度输人晶体液(乳酸林格氏液)及胶. 体液(&lt;W的烃乙基淀粉)，补充术前禁食禁饮和清洁灌肠. 丢失的体液和生理需要量，晶&nbsp;...",
+          "formattedUrl": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file...",
+          "htmlFormattedUrl": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfBWjg2nczPxwwFOeJZNcDa0EkOqx1YPKbN8D0cj83cK3RuR8KC5vy_lb&s",
+                "width": "187",
+                "height": "269"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150427125108+08'00'",
+                "creationdate": "D:20150427125108+08'00'",
+                "producer": "iTextSharp 5.0.4 (c) 1T3XT BVBA"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bc72bd6fb68445beadefb922c6009927528f6f3cdbf46a50d48cd87fcec6b8c4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2024年国家医保药品目录调整申报材料（公示版）",
+          "htmlTitle": "2024年国家医保药品目录调整申报材料（公示版）",
+          "link": "http://www.nhsa.gov.cn/attach/Ypsn2024/YPSW202400076/YPSW202400076.pdf",
+          "displayLink": "www.nhsa.gov.cn",
+          "snippet": "Jul 11, 2024 ... 其他情况请说明：氯苯唑酸葡胺软胶囊用于治疗TTR淀粉样变性多发性神经病（ATTR-PN），中国患者数量约2000人；氯苯唑酸软胶囊用于. 治疗TTR淀粉样变性心肌病（ ...",
+          "htmlSnippet": "Jul 11, 2024 <b>...</b> 其他情况请说明：氯苯唑酸葡胺软胶囊用于治疗TTR淀粉样<b>变性</b>多发性神经病（ATTR-PN），中国患者数量约2000人；氯苯唑酸软胶囊用于. 治疗TTR淀粉样<b>变性</b>心肌病（&nbsp;...",
+          "formattedUrl": "http://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSW202400076.pdf",
+          "htmlFormattedUrl": "http://www.nhsa.gov.cn/attach/Ypsn2024/.../YPSW202400076.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4jkMQ8A1hf5Gih1qdiUG6uMtLFIP5hLt4o1YC-Wa3lXugKqNNnWxqqpg&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240806011836+00'00'",
+                "creator": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36",
+                "creationdate": "D:20240806011836+00'00'",
+                "producer": "Skia/PDF m89"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///02b4848db517c5afcb9b08e2042cdcda7f3352f9394593e1b23984376ab0fc4c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "chinaXiv:202303.09693v1",
+          "htmlTitle": "chinaXiv:202303.09693v1",
+          "link": "https://psych.chinaxiv.org/user/download.htm?uuid=a0cde062ebf641049f6dc70a36e12961",
+          "displayLink": "psych.chinaxiv.org",
+          "snippet": "... 变性的一种非认知性的人格特质。其通常采用经验取样法或日间. 重构法来对 ... 因此, 2007 年,. Kuppens 等人指出情绪个体内可变性应根据核心. 情绪空间的两维特性 ...",
+          "htmlSnippet": "... <b>变性</b>的一种非认知性的人格特质。其通常采用经验取样法或日间. 重构法来对 ... 因此, 2007 年,. Kuppens 等人指出情绪个体内可<b>变性</b>应根据核心. 情绪空间的两维特性&nbsp;...",
+          "formattedUrl": "https://psych.chinaxiv.org/user/download.htm?uuid...",
+          "htmlFormattedUrl": "https://psych.chinaxiv.org/user/download.htm?uuid...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX7DkT2f54l0tVfyw2zz1YcRISxxVyIvITgNNtK3QpcjkV2GijIsmGdGJ&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230328103101+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "creationdate": "D:20210624074337+08'00'",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows); modified using iText® 5.5.8 ©2000-2015 iText Group NV (AGPL-version)",
+                "title": "Microsoft Word - 10张珊珊jz20-327_new_.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///962e80f0027bbfd23a5ae21082a784f98b8025f561c7417aeb789c53c8fd5389"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "14 例心脏淀粉样变性的临床特点分析",
+          "htmlTitle": "14 例心脏淀粉样<b>变性</b>的临床特点分析",
+          "link": "https://www.cjrtponline.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2569",
+          "displayLink": "www.cjrtponline.com",
+          "snippet": "! 误诊∀心脏淀粉样变性多发生在中老年男性女性及. 青年人少见超声心动图及心电图表现常能提示本病. 存在的可能∀超声心动图检查该病主要表现为心房增. 大而心室大小早期 ...",
+          "htmlSnippet": "! 误诊∀心脏淀粉样<b>变性</b>多发生在中老年男性女性及. 青年人少见超声心动图及心电图表现常能提示本病. 存在的可能∀超声心动图检查该病主要表现为心房增. 大而心室大小早期&nbsp;...",
+          "formattedUrl": "https://www.cjrtponline.com/CN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "https://www.cjrtponline.com/CN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20091026142816+08'00'",
+                "creationdate": "D:20091026142813+08'00'",
+                "producer": "Acrobat Distiller 6.0 (Windows)",
+                "title": "untitled"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中银三星人寿保险有限公司",
+          "htmlTitle": "中银三星人寿保险有限公司",
+          "link": "https://pic.bankofchina.com/bocappd/bankcards/202307/P020230721655283098912.pdf",
+          "displayLink": "pic.bankofchina.com",
+          "snippet": "条款是保险合同的重要组成部分，请投保人、被保险人、受益人仔细阅读。 第一章 ... 变性，发生脉络膜新生血管（CNV）异常生长穿透玻璃膜进入视网膜，. 新生血管渗 ...",
+          "htmlSnippet": "条款是保险合同的重要组成部分，请投保人、被保险人、受益人仔细阅读。 第一章 ... <b>变性</b>，发生脉络膜新生血管（CNV）异常生长穿透玻璃膜进入视网膜，. 新生血管渗&nbsp;...",
+          "formattedUrl": "https://pic.bankofchina.com/bocappd/.../P020230721655283098912.pdf",
+          "htmlFormattedUrl": "https://pic.bankofchina.com/bocappd/.../P020230721655283098912.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-pl-0RJWLAxYqZryMTM7U32bdd-YCxsfrp28YxpXreFAL9phpkVsnfs&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210129144812+08'00'",
+                "creator": "Microsoft® Word 2013",
+                "creationdate": "D:20210129144812+08'00'",
+                "author": "WangYL",
+                "producer": "Microsoft® Word 2013",
+                "title": "中航三星人寿保险有限公司"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bc0a83791f3264640faa06ffc18a3cd4a5da5b23fb25114c760346cf603c38a8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:52"
+  },
+  {
+    "page": 9,
+    "start_index": 81,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.147612,
+        "formattedSearchTime": "0.15",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "关于将肝豆状核变性纳入职工基本医疗保险门诊慢特病保障范围的通知",
+          "htmlTitle": "关于将肝豆状核<b>变性</b>纳入职工基本医疗保险门诊慢特病保障范围的通知",
+          "link": "https://file.m12333.cn/upfile/download/b2a0082e-baad-2e77-4a6a-21e084feb927.pdf",
+          "displayLink": "file.m12333.cn",
+          "snippet": "May 1, 2024 ... ... 人. 民医院、长治医学院附属和平医院、临汾市人民医院为肝豆状核. 变性第一批定点救治医疗机构。各市符合条件且愿意承担相关诊. 治服务工作的二级及以上 ...",
+          "htmlSnippet": "May 1, 2024 <b>...</b> ... 人. 民医院、长治医学院附属和平医院、临汾市人民医院为肝豆状核. <b>变性</b>第一批定点救治医疗机构。各市符合条件且愿意承担相关诊. 治服务工作的二级及以上&nbsp;...",
+          "formattedUrl": "https://file.m12333.cn/upfile/.../b2a0082e-baad-2e77-4a6a-21e084feb927....",
+          "htmlFormattedUrl": "https://file.m12333.cn/upfile/.../b2a0082e-baad-2e77-4a6a-21e084feb927....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2iSzwXCCVeSyK84HpNYESSZKoAu7S4fA9_sW0KLZggrNf3nWgJ1H3PE8&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Sun Apr 28 18:32:13 2024",
+                "creator": "WPS 文字",
+                "creationdate": "Fri Apr 26 23:44:17 2024",
+                "sourcemodified": "Fri Apr 26 23:44:17 2024",
+                "author": "test"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ecdccea7a3f1cd37c900754055602b5620b9ad7736999f2b66a2295cf01fe1ee"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.ibp.cas.cn/sourcedb_ibp_cas/tsgzy/fmzl/202106/P020210601512453631960.pdf",
+          "displayLink": "www.ibp.cas.cn",
+          "snippet": "... 变性方法,使用变性剂6M盐. 酸胍或8M 尿素和过量的还原 ... 变性-复性过程,不需要添加剂,复. 性浓度高､收率 ... 人羊膜细胞(WISH) 被VSV 病毒进攻时,能保护. 一半的 ...",
+          "htmlSnippet": "... <b>变性</b>方法,使用<b>变性</b>剂6M盐. 酸胍或8M 尿素和过量的还原 ... <b>变性</b>-复性过程,不需要添加剂,复. 性浓度高､收率 ... 人羊膜细胞(WISH) 被VSV 病毒进攻时,能保护. 一半的&nbsp;...",
+          "formattedUrl": "http://www.ibp.cas.cn/sourcedb_ibp.../P020210601512453631960.pdf",
+          "htmlFormattedUrl": "http://www.ibp.cas.cn/sourcedb_ibp.../P020210601512453631960.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Sat Sep 26 05:18:38 2015",
+                "creationdate": "Sat Sep 26 05:18:38 2015",
+                "producer": "iText® 5.3.3 ©2000-2012 1T3XT BVBA (AGPL-version) (AGPL-version) (AGPL-version) (AGPL-version) (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "结晶样视网膜色素变性临床与基础研究的机遇与挑战",
+          "htmlTitle": "结晶样视网膜色素<b>变性</b>临床与基础研究的机遇与挑战",
+          "link": "http://www.j-bio.net/yk/CN/article/downloadArticleFile.do?attachType=PDF&id=1280",
+          "displayLink": "www.j-bio.net",
+          "snippet": "[摘要] 结晶样视网膜色素变性(Bietti crystalline dystrophy，BCD)是视网膜色素变性中的:种特殊类型，其在东亚人群特别. 是中国人和日本人中较为常见， BCD 的遗传方式 ...",
+          "htmlSnippet": "[摘要] 结晶样视网膜色素<b>变性</b>(Bietti crystalline dystrophy，BCD)是视网膜色素<b>变性</b>中的:种特殊类型，其在东亚人群特别. 是中国人和日本人中较为常见， BCD 的遗传方式&nbsp;...",
+          "formattedUrl": "http://www.j-bio.net/yk/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://www.j-bio.net/yk/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetCdvRMvw_7n5JkJj0vmbMB_rWZRvx8Jt9cKh_ZRgX9HsL1eaGZ9w61YY&s",
+                "width": "193",
+                "height": "262"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200322191648+08'00'",
+                "creationdate": "D:20200322191641+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a0a86279484446a11a9138a16881d4de1c882f4c765295bdf58bbadf9c553a3d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "ｉ ；",
+          "htmlTitle": "ｉ ；",
+          "link": "http://www.cjrmp.net/zhfsyx/ch/reader/create_pdf.aspx?file_no=20070119&year_id=2007&quarter_id=1&falg=1",
+          "displayLink": "www.cjrmp.net",
+          "snippet": "... 变性；甚至在脑、脊髓中的神. 经细胞可见空泡变性、尼氏体减少；肾上腺皮质类脂质减少. 等。在“10．21”事故中死者其双侧肾上腺皮质坏死，更是引. 人注目的病变。 出血 ...",
+          "htmlSnippet": "... <b>变性</b>；甚至在脑、脊髓中的神. 经细胞可见空泡<b>变性</b>、尼氏体减少；肾上腺皮质类脂质减少. 等。在“10．21”事故中死者其双侧肾上腺皮质坏死，更是引. 人注目的病变。 出血&nbsp;...",
+          "formattedUrl": "http://www.cjrmp.net/zhfsyx/ch/reader/create_pdf.aspx?file...",
+          "htmlFormattedUrl": "http://www.cjrmp.net/zhfsyx/ch/reader/create_pdf.aspx?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSwt_nW9cN1awpyBlIeSnxN-A54OpCxuM20dLx6ibq1o8HIwgwHYSbYI&s",
+                "width": "186",
+                "height": "271"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20110921101035+08'00'",
+                "creationdate": "D:20110921101035+08'00'",
+                "producer": "www.adultpdf.com"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c25ecdc6ebe2bd414b96b17968fceb1ebc93bf3901e35e48fb1397af0b1105ee"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "经阴道彩色多普勒在子宫肌瘤变性诊断中的价值",
+          "htmlTitle": "经阴道彩色多普勒在子宫肌瘤<b>变性</b>诊断中的价值",
+          "link": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?journal_id=cjmit&file_name=8101D5DAB1C08948522C3F3A04C8705E4CC254E004A3A1F2958392D32EF43C99DFDB9CFC7F139DB91CD85B717318AA55EE4A67684738038404AD611B20664C08&open_type=self&file_no=20010748",
+          "displayLink": "www.cjmit.com",
+          "snippet": "人,经阴道超声显像检查后,由手术及病理诊断证实。年龄. 12~61岁。其中左侧23 例(多发1 例),右侧32 例,双侧6. 例。 1.2 仪器采用PhasarAU-530型超声诊断仪,经阴道超声探.",
+          "htmlSnippet": "人,经阴道超声显像检查后,由手术及病理诊断证实。年龄. 12~61岁。其中左侧23 例(多发1 例),右侧32 例,双侧6. 例。 1.2 仪器采用PhasarAU-530型超声诊断仪,经阴道超声探.",
+          "formattedUrl": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20100916122747+08'00'",
+                "creationdate": "D:20100916122745+08'00'",
+                "creator": "创建者",
+                "subject": "科目",
+                "author": "作者",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "果糖诱导肝脂肪变性细胞模型建立及评价",
+          "htmlTitle": "果糖诱导肝脂肪<b>变性</b>细胞模型建立及评价",
+          "link": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?attachType=PDF&id=231",
+          "displayLink": "www.hepatoday.org",
+          "snippet": "因此，本研究采用果糖诱导L02人正常肝细胞. 系建立新型脂肪变性细胞模型，评价该模型与传统游. 离脂肪酸（FFA）诱导的NAFLD细胞模型对脂质合. 成的影响，以期为 ...",
+          "htmlSnippet": "因此，本研究采用果糖诱导L02人正常肝细胞. 系建立新型脂肪<b>变性</b>细胞模型，评价该模型与传统游. 离脂肪酸（FFA）诱导的NAFLD细胞模型对脂质合. 成的影响，以期为&nbsp;...",
+          "formattedUrl": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHdACYOgQyj9NgvCq62KtNdTw8wmAbzj3Xw1UDJc4nDbbeA-6O-KLTe0&s",
+                "width": "251",
+                "height": "201"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200330083605+08'00'",
+                "creationdate": "D:20200330083601+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///43349264064c57ec64cb28395b499da21ed84fdf246e102896f7d79f67c54275"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人Ｐ５３的原核表达及包涵体复性研究",
+          "htmlTitle": "人Ｐ５３的原核表达及包涵体复性研究",
+          "link": "https://www.htu.edu.cn/_upload/article/files/0c/59/554e0ea24cd1b369c05b34cb77b5/837375f0-8446-4953-9de5-b35be6b0f512.pdf",
+          "displayLink": "www.htu.edu.cn",
+          "snippet": "研究通过构建人野生型p53基因的原核表达质粒pET－32a—p53，在大肠杆菌中诱导表达得到p53包涵体蛋白，经包. 涵体变性、亲和纯化、复性得到可溶p53 ...",
+          "htmlSnippet": "研究通过构建人野生型p53基因的原核表达质粒pET－32a—p53，在大肠杆菌中诱导表达得到p53包涵体蛋白，经包. 涵体<b>变性</b>、亲和纯化、复性得到可溶p53&nbsp;...",
+          "formattedUrl": "https://www.htu.edu.cn/_.../837375f0-8446-4953-9de5-b35be6b0f512.pdf",
+          "htmlFormattedUrl": "https://www.htu.edu.cn/_.../837375f0-8446-4953-9de5-b35be6b0f512.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13gVniGyw1S128VuGbCowPCAdUp_J7GKwgY2llDpBr8dfrsu2t0tpofw&s",
+                "width": "193",
+                "height": "261"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20160923124420+08'00'",
+                "producer": "PDFlib Personalization Server 6.0.3p5 (COM/Win32)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7ee4f60f462f478382e88aba35680625ac512970be35ff14ee3d518e87a5ecc1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://wulixb.iphy.ac.cn/pdf-content/10.7498/aps.44.1373.pdf",
+          "displayLink": "wulixb.iphy.ac.cn",
+          "snippet": "利用Einstein 引力-物质系统的局域Lorentz 不变性获得了相应于角动量守恒定律。 ... 人讨论过[4-9】。 在文献[4]中,引力-物质系统的角 ... 存在模糊性,所以上述的理论都不是令 ...",
+          "htmlSnippet": "利用Einstein 引力-物质系统的局域Lorentz 不<b>变性</b>获得了相应于角动量守恒定律。 ... 人讨论过[4-9】。 在文献[4]中,引力-物质系统的角 ... 存在模糊性,所以上述的理论都不是令&nbsp;...",
+          "formattedUrl": "https://wulixb.iphy.ac.cn/pdf-content/10.7498/aps.44.1373.pdf",
+          "htmlFormattedUrl": "https://wulixb.iphy.ac.cn/pdf-content/10.7498/aps.44.1373.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Mon Sep 27 16:23:56 2004",
+                "creationdate": "Mon Sep 27 16:23:56 2004",
+                "creator": "iSEDQuickPDF 4.14 (www.sedtech.com)",
+                "producer": "iSEDQuickPDF 4.14 (www.sedtech.com)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肝豆状核变性的肝影像学表现",
+          "htmlTitle": "肝豆状核<b>变性</b>的肝影像学表现",
+          "link": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?journal_id=fsxsjzz&file_name=B3147901C258E490D979EE43861CEE2773CD65F42F800F43CADF50EFB1C6593D36CA80617A37C096B778BC9068798DD97AB59019249A091BCC3C648389307436&open_type=self&file_no=20050117",
+          "displayLink": "www.fsxsj.net",
+          "snippet": "作者简介：刘铁（1956－），男，江苏徐州人，副主任医师，主要从事. 胸、腹部影像诊断工作。 ·腹部影像学·. 肝豆状核变性的肝影像学表现. 刘铁，朱克勤，陈卫飞.",
+          "htmlSnippet": "作者简介：刘铁（1956－），男，江苏徐州人，副主任医师，主要从事. 胸、腹部影像诊断工作。 ·腹部影像学·. 肝豆状核<b>变性</b>的肝影像学表现. 刘铁，朱克勤，陈卫飞.",
+          "formattedUrl": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59i_JiqtKZuGQbgi7G5rXgViqn4J0PbNKoZ0RGxyeUfoPZovqJG4Xc1s&s",
+                "width": "190",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141107161445+08'00'",
+                "creationdate": "D:20141107161439+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3ac2f77922fc4351a74d89b1acafaaa1974df95e11d8a2aecff2bc59305e41c8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基于局部语义特征不变性的跨域行人重识别",
+          "htmlTitle": "基于局部语义特征不<b>变性</b>的跨域行人重识别",
+          "link": "https://zhanqun.qdu.edu.cn/__local/F/BE/B1/AD6E838C57CECB5FB6557392DA7_ED49C574_190A80.pdf",
+          "displayLink": "zhanqun.qdu.edu.cn",
+          "snippet": "行人重识别（ Person Re-identification） 也称行. 人再识别，是利用计算机视觉技术判断图像或者. 视频序列中是否存在某一特定行人的图像识别技. 术，其在智能化的公共 ...",
+          "htmlSnippet": "行人重识别（ Person Re-identification） 也称行. 人再识别，是利用计算机视觉技术判断图像或者. 视频序列中是否存在某一特定行人的图像识别技. 术，其在智能化的公共&nbsp;...",
+          "formattedUrl": "https://zhanqun.qdu.edu.cn/__.../AD6E838C57CECB5FB6557392DA7_ED...",
+          "htmlFormattedUrl": "https://zhanqun.qdu.edu.cn/__.../AD6E838C57CECB5FB6557392DA7_ED...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEZR7uxoNVGecAtpXYAuFjg1A4tiPYXo1gye557fcWcsT50E4JaCp6AE&s",
+                "width": "195",
+                "height": "259"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20201010163227-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3968",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8870b3ba984ec837ccc9fcd918f29869983c9def9678be026744f8c2a25ac7d1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:54"
+  },
+  {
+    "page": 10,
+    "start_index": 91,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "118000",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 101,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.363896,
+        "formattedSearchTime": "0.36",
+        "totalResults": "118000",
+        "formattedTotalResults": "118,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "以蛋白尿首发的多发性骨ë瘤继发系统性淀粉样变性1例并文献复习",
+          "htmlTitle": "以蛋白尿首发的多发性骨ë瘤继发系统性淀粉样<b>变性</b>1例并文献复习",
+          "link": "http://nkjwzzzz.chmed.net/ch/reader/download_pdf_file.aspx?journal_id=nkjwzz&file_name=B3147901C258E4905698527B4F88C67B7497F73B4ACD6BA50801366249CF6206F1CFCD03975F8ACBB1541041ACBF2FC151D1B4BED27EFDD174A7BD01830CA8C1&open_type=self&file_no=20220421",
+          "displayLink": "nkjwzzzz.chmed.net",
+          "snippet": "患者人院次0行肾穿. 刺活检术，病理诊断：淀粉样变性肾病（AL型），见. 图1。为进P步鉴别原发性或继发性，查血清免疫. 固定电g：血中有IgG λ型M蛋白。血清单克» M. 蛋白总 ...",
+          "htmlSnippet": "患者人院次0行肾穿. 刺活检术，病理诊断：淀粉样<b>变性</b>肾病（AL型），见. 图1。为进P步鉴别原发性或继发性，查血清免疫. 固定电g：血中有IgG  λ型M蛋白。血清单克» M. 蛋白总&nbsp;...",
+          "formattedUrl": "http://nkjwzzzz.chmed.net/ch/.../download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://nkjwzzzz.chmed.net/ch/.../download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQch5jhBwoun1r7dLd8dtsT32WCGsFN-Dgo7kxoCLDy1D_VqXrmhcDmTfg&s",
+                "width": "234",
+                "height": "216"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20220907141939",
+                "creator": "PDFium",
+                "producer": "PDFium"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ca04b4aec9f6497c032f52cc07398f91730df80ae573d3a32cf5d859bbf62170"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新型冠状病毒肺炎诊疗方案（试行第八版修订版）",
+          "htmlTitle": "新型冠状病毒肺炎诊疗方案（试行第八版修订版）",
+          "link": "https://www.gov.cn/zhengce/zhengceku/2021-04/15/5599795/files/e9ce837932e6434db998bdbbc5d36d32.pdf",
+          "displayLink": "www.gov.cn",
+          "snippet": "肝细胞变性､灶性坏死伴中性粒细胞浸润;肝血 ... 1. 疑似及确诊病例应在具备有效隔离条件和防护条件的定点. 医院隔离治疗,疑似病例应单人单间隔离治疗,确诊病例可多人收.",
+          "htmlSnippet": "肝细胞<b>变性</b>､灶性坏死伴中性粒细胞浸润;肝血 ... 1. 疑似及确诊病例应在具备有效隔离条件和防护条件的定点. 医院隔离治疗,疑似病例应单人单间隔离治疗,确诊病例可多人收.",
+          "formattedUrl": "https://www.gov.cn/.../2021.../e9ce837932e6434db998bdbbc5d36d32.pdf",
+          "htmlFormattedUrl": "https://www.gov.cn/.../2021.../e9ce837932e6434db998bdbbc5d36d32.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTpgt8b8VFfBo6s2aAzFyMvLyR7c06So5LXX3jKjy9bu1vjXhpanL80Y&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Apr 15 23:27:04 2021",
+                "creator": "RICOH MP 6054",
+                "creationdate": "Thu Apr 15 23:42:24 2021",
+                "producer": "RICOH MP 6054"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///678b46f715aefc0270c0dd35579b38a45c0188b0d61eab88740be0ae8010be4f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "钙钦矿的高温塑性下地慢的流变性①",
+          "htmlTitle": "钙钦矿的高温塑性下地慢的流<b>变性</b>①",
+          "link": "http://www.progeophys.cn/dzdqs-data/pg/1994/1/PDF/19940105.pdf",
+          "displayLink": "www.progeophys.cn",
+          "snippet": "等人借助于分析钙钦矿晶体结构特征确定其位错滑移. Page 3. 第. 卷第期. 王子潮. 钙钦矿的高温塑性. 下地性的流变性. 系,. 进而推论变形机制 。 等人通过微观硬度测量推测.",
+          "htmlSnippet": "等人借助于分析钙钦矿晶体结构特征确定其位错滑移. Page 3. 第. 卷第期. 王子潮. 钙钦矿的高温塑性. 下地性的流<b>变性</b>. 系,. 进而推论变形机制 。 等人通过微观硬度测量推测.",
+          "formattedUrl": "http://www.progeophys.cn/dzdqs-data/pg/1994/1/PDF/19940105.pdf",
+          "htmlFormattedUrl": "http://www.progeophys.cn/dzdqs-data/pg/1994/1/PDF/19940105.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH9Vp0BDg5okUHwB0UyqcMwIVl8D_jpZn6VmKUL6Sm_kmCg5BEEpsSA&s",
+                "width": "200",
+                "height": "118"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20101007095742",
+                "author": "TTKN Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///53226b5bbc56d721ff6e75d4726afad79e3ad1c769853ed523e29ab70ed1b6d3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "退变性与峡部裂性腰椎滑脱患者脊柱—骨盆矢状面参数的对比研究",
+          "htmlTitle": "退<b>变性</b>与峡部裂性腰椎滑脱患者脊柱—骨盆矢状面参数的对比研究",
+          "link": "https://xb.xzhmu.edu.cn/cn/article/pdf/preview/10.3969/j.issn.2096-3882.2023.07.001.pdf",
+          "displayLink": "xb.xzhmu.edu.cn",
+          "snippet": "脱症患者与42 名无症状正常人进行观察,发现退变. 性腰椎滑脱症患者的PI、PT、TK 值明显增大,而SS. 值明显减小。 Lim 等. [8]. 对30 例无症状正常人与34. 例退变性腰椎滑脱 ...",
+          "htmlSnippet": "脱症患者与42 名无症状正常人进行观察,发现退变. 性腰椎滑脱症患者的PI、PT、TK 值明显增大,而SS. 值明显减小。 Lim 等. [8]. 对30 例无症状正常人与34. 例退<b>变性</b>腰椎滑脱&nbsp;...",
+          "formattedUrl": "https://xb.xzhmu.edu.cn/cn/article/pdf/.../j.issn.2096-3882.2023.07.001.pdf",
+          "htmlFormattedUrl": "https://xb.xzhmu.edu.cn/cn/article/pdf/.../j.issn.2096-3882.2023.07.001.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCb7IBCeldZCuueY4bhQUUyCqf9sKamS5ETwCePb4H_LXa-M-Dq1QLLTL&s",
+                "width": "206",
+                "height": "244"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231205092527+08'00'",
+                "creationdate": "D:20231205092526+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4e9264939915a7da4b9a20a622ff51d31895d21758f46aafbc04d22e01ca163f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "代替GBZ30—2002 职业性急性苯的氨基、 硝基化合物中毒的诊断",
+          "htmlTitle": "代替GBZ30—2002 职业性急性苯的氨基、 硝基化合物中毒的诊断",
+          "link": "https://m.chinacdc.cn/jkzt/zywsyzdkz/xglj_13144/202109/W020210914806687026554.pdf",
+          "displayLink": "m.chinacdc.cn",
+          "snippet": "本标准主要起草人：闫永建、宋平平、李思惠、牟志春、张凤林、田东、杨丽莉 ... 硝基苯胺形成变性珠蛋白小体的作用较强，更易发生溶血。变性珠蛋白小体通常于中毒 ...",
+          "htmlSnippet": "本标准主要起草人：闫永建、宋平平、李思惠、牟志春、张凤林、田东、杨丽莉 ... 硝基苯胺形成<b>变性</b>珠蛋白小体的作用较强，更易发生溶血。<b>变性</b>珠蛋白小体通常于中毒&nbsp;...",
+          "formattedUrl": "https://m.chinacdc.cn/jkzt/zywsyzdkz/.../W020210914806687026554.pdf",
+          "htmlFormattedUrl": "https://m.chinacdc.cn/jkzt/zywsyzdkz/.../W020210914806687026554.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150917103512+08'00'",
+                "creationdate": "D:20150917103512+08'00'",
+                "creator": "EpxService",
+                "author": "EpxService PDF Output",
+                "producer": "DocGen® 2.4.2"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "北京大学A00009",
+          "htmlTitle": "北京大学A00009",
+          "link": "https://research.bjmu.edu.cn/docs/2022-04/7805fb446409404c9a2481b47239f709.pdf",
+          "displayLink": "research.bjmu.edu.cn",
+          "snippet": "本项目为临床研究类项目。 2.2 常见致盲性眼病的早期识别、干预技术及策略研究. 研究内容：基于青光眼、年龄相关性黄斑变性、白内障、病 ... 人，由不同病因成年人癫. 痫患者及 ...",
+          "htmlSnippet": "本项目为临床研究类项目。 2.2 常见致盲性眼病的早期识别、干预技术及策略研究. 研究内容：基于青光眼、年龄相关性黄斑<b>变性</b>、白内障、病 ... 人，由不同病因成年人癫. 痫患者及&nbsp;...",
+          "formattedUrl": "https://research.bjmu.edu.cn/.../7805fb446409404c9a2481b47239f709.pdf",
+          "htmlFormattedUrl": "https://research.bjmu.edu.cn/.../7805fb446409404c9a2481b47239f709.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220429203534+08'00'",
+                "creationdate": "D:20220429171714+09'17'",
+                "sourcemodified": "D:20220429171714+09'17'",
+                "producer": "; modified using iText® 5.5.13 ©2000-2018 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "老年流动人口城市适应性的社会学分析",
+          "htmlTitle": "老年流动人口城市适应性的社会学分析",
+          "link": "https://g-city.sass.org.cn/_upload/article/files/7c/ed/5e4401b64a8eae9944913d5e8471/28aa43e4-392d-41cc-8f3e-29a3f9f3860a.pdf",
+          "displayLink": "g-city.sass.org.cn",
+          "snippet": "人人皆由父母所生，父母所养，孝的最初意义是非常自然、. 非常朴素的，纯然出 ... 帕金森病（ PD） 是一种中老年人常见的神经系统变性疾. 病，以黑质多巴胺能神经元 ...",
+          "htmlSnippet": "人人皆由父母所生，父母所养，孝的最初意义是非常自然、. 非常朴素的，纯然出 ... 帕金森病（ PD） 是一种中老年人常见的神经系统<b>变性</b>疾. 病，以黑质多巴胺能神经元&nbsp;...",
+          "formattedUrl": "https://g-city.sass.org.cn/_.../28aa43e4-392d-41cc-8f3e-29a3f9f3860a.pdf",
+          "htmlFormattedUrl": "https://g-city.sass.org.cn/_.../28aa43e4-392d-41cc-8f3e-29a3f9f3860a.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20220601223217-08'00'",
+                "creator": "ReaderEx_DIS 2.3.0 Build 4002",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2017秋季泰国法政大学交流心得",
+          "htmlTitle": "2017秋季泰国法政大学交流心得",
+          "link": "https://fao.fudan.edu.cn/_upload/article/files/1f/81/bf0e55664a93ade75f6b49df15ed/7d3c3b8f-ad63-476f-a5d9-8477e6aa9abf.pdf",
+          "displayLink": "fao.fudan.edu.cn",
+          "snippet": "May 30, 2018 ... 另外值. 得一提的是，东南亚的各个国家中，都有属于自己的“变性人”文化，例如泰国最广为人知的Lady Boy、菲律宾、印尼也都有各种类似. 的性别男转女、女 ...",
+          "htmlSnippet": "May 30, 2018 <b>...</b> 另外值. 得一提的是，东南亚的各个国家中，都有属于自己的“<b>变性人</b>”文化，例如泰国最广为人知的Lady Boy、菲律宾、印尼也都有各种类似. 的性别男转女、女&nbsp;...",
+          "formattedUrl": "https://fao.fudan.edu.cn/_.../7d3c3b8f-ad63-476f-a5d9-8477e6aa9abf.pdf",
+          "htmlFormattedUrl": "https://fao.fudan.edu.cn/_.../7d3c3b8f-ad63-476f-a5d9-8477e6aa9abf.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "wkhtmltopdf 0.12.6",
+                "creationdate": "D:20220903195316+08'00'",
+                "producer": "Qt 5.15.3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2022 年中华医学科技奖候选项目/候选人公示内容",
+          "htmlTitle": "2022 年中华医学科技奖候选项目/候选人公示内容",
+          "link": "https://www.cma.org.cn/attach/0/1b8a18fd640c488d894021e1e88cf784.pdf",
+          "displayLink": "www.cma.org.cn",
+          "snippet": "Dec 28, 2021 ... 推荐单位. /科学家. 上海市医学会. 推荐意见. 视网膜变性疾病（RD）严重威胁人类的视觉健康，是一类不可逆的致盲性眼病。 项目组针对致盲性视网膜变性疾病 ...",
+          "htmlSnippet": "Dec 28, 2021 <b>...</b> 推荐单位. /科学家. 上海市医学会. 推荐意见. 视网膜<b>变性</b>疾病（RD）严重威胁人类的视觉健康，是一类不可逆的致盲性眼病。 项目组针对致盲性视网膜<b>变性</b>疾病&nbsp;...",
+          "formattedUrl": "https://www.cma.org.cn/attach/0/1b8a18fd640c488d894021e1e88cf784.pdf",
+          "htmlFormattedUrl": "https://www.cma.org.cn/attach/0/1b8a18fd640c488d894021e1e88cf784.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "Writer",
+                "creationdate": "D:20220823152453+08'00'",
+                "author": "4028881d426dfa8401426e06c8520020",
+                "producer": "OpenOffice 4.1.11"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "体外基因扩增——PCR技术",
+          "htmlTitle": "体外基因扩增——PCR技术",
+          "link": "http://cdcp.gd.gov.cn/gcdcdfiles/editor/uploadfile/20071220101808683.pdf",
+          "displayLink": "cdcp.gd.gov.cn",
+          "snippet": "Mullis等人发明了聚合酶链反应（PCR）. • 基本原理是在试管中模拟细胞内的DNA复制 ... 2）循环参数. (1)变性. 使双链DNA解链为单链. 95oC 20-30秒. (2) 退火. 温度由 ...",
+          "htmlSnippet": "Mullis等人发明了聚合酶链反应（PCR）. • 基本原理是在试管中模拟细胞内的DNA复制 ... 2）循环参数. (1)<b>变性</b>. 使双链DNA解链为单链. 95oC 20-30秒. (2) 退火. 温度由&nbsp;...",
+          "formattedUrl": "http://cdcp.gd.gov.cn/gcdcdfiles/editor/.../20071220101808683.pdf",
+          "htmlFormattedUrl": "http://cdcp.gd.gov.cn/gcdcdfiles/editor/.../20071220101808683.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDS8sMMgMGKI2RrTZNmA-yKcMRkr9N_skE5YjJyvGmGv4w5B7XnPnGAUyx&s",
+                "width": "296",
+                "height": "170"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20071207180354+08'00'",
+                "creationdate": "D:20071207180316+08'00'",
+                "creator": "Acrobat PDFMaker 7.0.5 for PowerPoint",
+                "author": "xiaoj2",
+                "producer": "Acrobat Distiller 7.0.5 (Windows)",
+                "company": "AB",
+                "title": "体外基因扩增                 ——PCR技术"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c4a5893f72bc99bf4ae085c2d9cbaf1286469e2e01081d78e6f5a3fb8afcb2c4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:51:57"
+  }
+]

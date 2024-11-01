@@ -1,0 +1,3761 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.196091,
+        "formattedSearchTime": "0.20",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://kjt.yn.gov.cn/uploadfile/kjt_old/2020/0927/20200927100509789.pdf",
+          "displayLink": "kjt.yn.gov.cn",
+          "snippet": "... 药娘母. 良、藏药雀梅藤等云南优势特色的民族民间医药产品,以及注射. 用灯盏花素、天麻素、双氢青蒿素、血塞通、红药胶囊、龙血竭、. 香参抗癌扶正胶囊、三七丹参片等中药 ...",
+          "htmlSnippet": "... <b>药娘</b>母. 良、藏药雀梅藤等云南优势特色的民族民间医药产品,以及注射. 用灯盏花素、天麻素、双氢青蒿素、血塞通、红药胶囊、龙血竭、. 香参抗癌扶正胶囊、三七丹参片等中药&nbsp;...",
+          "formattedUrl": "https://kjt.yn.gov.cn/uploadfile/kjt_old/2020/.../20200927100509789.pdf",
+          "htmlFormattedUrl": "https://kjt.yn.gov.cn/uploadfile/kjt_old/2020/.../20200927100509789.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsKImQzncJr1xlN-H6NhzdsYObjxi8I1VdiYPBINrMzpXQedA-dpUQwk&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Fri Sep 25 02:40:14 2020",
+                "creationdate": "Fri Sep 25 02:40:14 2020",
+                "creator": "HP Scan",
+                "producer": "HP Scan Extended Application"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///746da53da46844177757719e478d3f0691411fa3d0dfb7ff63ed24b5321590a9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://mpa.gd.gov.cn/attachements/2019/01/09/e75d9b48c1f4eee4bdc8f24b4e2937e9.pdf",
+          "displayLink": "mpa.gd.gov.cn",
+          "snippet": "Jan 9, 2019 ... 特此勘误,请及时通知辖区内相关企业遵照执行。 药娘. 委. 四年六月十九日. Page 2. 主题词:盐酸左旋咪唑搽剂标准勘误. 抄送:国家食品药品监督管理总局药品 ...",
+          "htmlSnippet": "Jan 9, 2019 <b>...</b> 特此勘误,请及时通知辖区内相关企业遵照执行。 <b>药娘</b>. 委. 四年六月十九日. Page 2. 主题词:盐酸左旋咪唑搽剂标准勘误. 抄送:国家食品药品监督管理总局药品&nbsp;...",
+          "formattedUrl": "http://mpa.gd.gov.cn/.../2019/.../e75d9b48c1f4eee4bdc8f24b4e2937e9.pdf",
+          "htmlFormattedUrl": "http://mpa.gd.gov.cn/.../2019/.../e75d9b48c1f4eee4bdc8f24b4e2937e9.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjm5esfaklF0EX91j-1UA9I2v0GIjlA2wIXgyRRQzShB4xZaJqgIgpeC-h&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "FHKPDF PRODUCT"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c2eecdcf3dbf47e96a20a9085a4792558de8bedb18576b04d9b137c534b89c6e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家药典委员会关于勘误斑蝥酸钠维生素B6注射液标准有关内容的函 ...",
+          "htmlTitle": "国家药典委员会关于勘误斑蝥酸钠维生素B6注射液标准有关内容的函 ...",
+          "link": "https://yjj.beijing.gov.cn/yjj/resource/cms/article/133269/765238/2019072418325342991.pdf",
+          "displayLink": "yjj.beijing.gov.cn",
+          "snippet": "应更正为:“精密吸取本品50ml置锥形瓶中,加1mol/L硫酸. 溶液10ml,置65℃水浴中回流30分钟......”。 特此勘误,请及时通知辖区内相关企业遵照执行。 -1-. 药娘.",
+          "htmlSnippet": "应更正为:“精密吸取本品50ml置锥形瓶中,加1mol/L硫酸. 溶液10ml,置65℃水浴中回流30分钟......”。 特此勘误,请及时通知辖区内相关企业遵照执行。 -1-. <b>药娘</b>.",
+          "formattedUrl": "https://yjj.beijing.gov.cn/yjj/resource/cms/.../2019072418325342991.pdf",
+          "htmlFormattedUrl": "https://yjj.beijing.gov.cn/yjj/resource/cms/.../2019072418325342991.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "producer": "Haru Free PDF Library 2.1.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://duyaonet.com/_FileUpLoad/20210702/20210702170241.pdf",
+          "displayLink": "duyaonet.com",
+          "snippet": "Jul 2, 2021 ... 确切的定义取决于. 评价黏膜炎症和临床症状的工具。 （二）终点指标评价. CD 治疗药物临床试验中，应单独评估临床症状和黏膜炎症. 两个方面 ...",
+          "htmlSnippet": "Jul 2, 2021 <b>...</b> 确切的定义取决于. 评价黏膜炎症和临床症状的工具。 （二）终点指标评价. CD 治疗药物临床试验中，应单独评估临床症状和黏膜炎症. 两个方面&nbsp;...",
+          "formattedUrl": "https://duyaonet.com/_FileUpLoad/20210702/20210702170241.pdf",
+          "htmlFormattedUrl": "https://duyaonet.com/_FileUpLoad/20210702/20210702170241.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210702104013+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20210702104013+08'00'",
+                "author": "Xtzj.User",
+                "producer": "Microsoft® Word 2016",
+                "title": "（局发文式样）"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "药物性肝损伤诊治指南",
+          "htmlTitle": "药物性肝损伤诊治指南",
+          "link": "http://tlhos.com/uploadfiles/20160909153636108.pdf",
+          "displayLink": "tlhos.com",
+          "snippet": "药物性肝损伤（ drug － induced liver injury，DILI）是指由各类. 处方或非处方的化学药物、生物制剂、传统中药（ TCM）、天然药. （ NM）、保健品（ HP）、膳食补充剂（ DS） 及其 ...",
+          "htmlSnippet": "药物性肝损伤（ drug － induced liver injury，DILI）是指由各类. 处方或非处方的化学药物、生物制剂、传统中药（ TCM）、天然药. （ NM）、保健品（ HP）、膳食补充剂（ DS） 及其&nbsp;...",
+          "formattedUrl": "http://tlhos.com/uploadfiles/20160909153636108.pdf",
+          "htmlFormattedUrl": "http://tlhos.com/uploadfiles/20160909153636108.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeDBQqVuvtLYHF0U9arn6trwahmGARIsmKKilMvFcpwzXZF4CLqyyNgi4Z&s",
+                "width": "194",
+                "height": "260"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "ReaderEx_DIS 2.0.0 Build 2889",
+                "creationdate": "D:20160628100042-08'00'",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5f8a553dd6ee8eb2638ef0aea51366e6d5157d6f00233ebee8897c0525ce00ee"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "安徽省部分稻茬麦田看麦娘种群对常用ACCase 类抑制剂的抗性现状 ...",
+          "htmlTitle": "安徽省部分稻茬麦田看麦娘种群对常用ACCase 类抑制剂的抗性现状 ...",
+          "link": "http://www.nyxxb.cn/cn/article/pdf/preview/10.16801/j.issn.1008-7303.2023.0027.pdf",
+          "displayLink": "www.nyxxb.cn",
+          "snippet": "而截至. 目前，看麦娘已对10 种不同类型除草剂产生抗药. 性，且发生程度逐年加重[15] ... (施药前7 d~施药后120 d). Fig. 1 Temperature changes during field ...",
+          "htmlSnippet": "而截至. 目前，看麦娘已对10 种不同类型除草剂产生抗药. 性，且发生程度逐年加重[15] ... (施药前7 d~施药后120 d). Fig. 1 Temperature changes during field&nbsp;...",
+          "formattedUrl": "http://www.nyxxb.cn/cn/article/pdf/.../10.../j.issn.1008-7303.2023.0027.pd...",
+          "htmlFormattedUrl": "http://www.nyxxb.cn/cn/article/pdf/.../10.../j.issn.1008-7303.2023.0027.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2cv8nIb_2D1Go1BocS4bm7u5iLZtcLUmQsooZMuVsDCKYjZJT_wUIOE&s",
+                "width": "250",
+                "height": "202"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230803134537+08'00'",
+                "creationdate": "D:20230803134537+08'00'",
+                "producer": "Acrobat"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5c2b283126493f902aef8a4d3d3646d04df85286f962342ba3212a23384cf46a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "• 综述• 桃金娘的化学成分、药理作用和临床应用研究进展",
+          "htmlTitle": "• 综述• 桃金娘的化学成分、药理作用和临床应用研究进展",
+          "link": "https://www.tiprpress.com/xdywlc/article/pdf/201305038?file_name=b3147901c258e4900e99364f1fe717b246a0d696aca272c1bb2cc09092f3e9091b3dc6c648171e6634e0e8deb37f7afe4e5c3040a616d9e62cdb5a8c51a8c62e&open_type=self",
+          "displayLink": "www.tiprpress.com",
+          "snippet": "桃金娘提取物富含黄酮苷、酚类、维生素C 等，. Page 3. 现代药物与临床. Drugs & Clinic 第28 卷第5 期. 2013 年9 月. • 802 •. 为抗氧化活性成分，能与活性氧发生氧化还原 ...",
+          "htmlSnippet": "桃金娘提取物富含黄酮苷、酚类、维生素C 等，. Page 3. 现代药物与临床. Drugs &amp; Clinic 第28 卷第5 期. 2013 年9 月. • 802 •. 为抗氧化活性成分，能与活性氧发生氧化还原&nbsp;...",
+          "formattedUrl": "https://www.tiprpress.com/xdywlc/article/pdf/201305038?file_name...",
+          "htmlFormattedUrl": "https://www.tiprpress.com/xdywlc/article/pdf/201305038?file_name...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5svV2UuiYTo03EpmdjgANvfK9rpXeRSEWug1HYLunsNUiboAUk4s42ovo&s",
+                "width": "193",
+                "height": "261"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20130923153813+08'00'",
+                "creationdate": "D:20130923153801+08'00'",
+                "creator": "Acrobat PDFMaker 7.0 for Word",
+                "author": "微软用户",
+                "producer": "Acrobat Distiller 7.0.5 (Windows)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///36e3f5160c44534a8ff77d4763df53bb05b1585a94a890a5df8aeb729a8394b5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "党的二十大精神融入“大学生心理健康教育”课程探索",
+          "htmlTitle": "党的二十大精神融入“大学生心理健康教育”课程探索",
+          "link": "https://gaojiao.gdufe.edu.cn/cn/article/pdf/preview/e06b7660-5e69-4ab1-bd07-b0c186f66c38.pdf",
+          "displayLink": "gaojiao.gdufe.edu.cn",
+          "snippet": "此外大学生中出现众多“伪娘”“药娘”现象，. 抖音、短视频等网络节目中“伪娘”文化风行，各种秀颜值和卖萌让性心理尚未完全成熟. 的男生觉得做女孩子很好，更好看也得到更多 ...",
+          "htmlSnippet": "此外大学生中出现众多“伪娘”“<b>药娘</b>”现象，. 抖音、短视频等网络节目中“伪娘”文化风行，各种秀颜值和卖萌让性心理尚未完全成熟. 的男生觉得做女孩子很好，更好看也得到更多&nbsp;...",
+          "formattedUrl": "https://gaojiao.gdufe.edu.cn/.../e06b7660-5e69-4ab1-bd07-b0c186f66c38....",
+          "htmlFormattedUrl": "https://gaojiao.gdufe.edu.cn/.../e06b7660-5e69-4ab1-bd07-b0c186f66c38....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR320s6tAgtj6CwZhf3WPb0M1S_ME0HISmEKHtlT4j2KQPcLEWBdN2aJ5E&s",
+                "width": "181",
+                "height": "278"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231010194645+08'00'",
+                "creationdate": "D:20231010194643+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f19430488eee1ed345a942b678ef649ddf7ebfd79272c7d397bb94f8c7531c9a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "样例",
+          "htmlTitle": "样例",
+          "link": "https://www.tmu.edu.cn/_upload/article/files/41/c6/54fca0ec40a59cd3af2ff533df5d/f078619e-a9e8-4791-8f32-b2a53cabd618.pdf",
+          "displayLink": "www.tmu.edu.cn",
+          "snippet": "1997 年9 月– 2001 年7 月沈阳药科大学，药物制剂专业，学士学位. 工作经历 ... 于欢; 胡雪纯; 张冬丽; 李敏; 许嵘*; 唐生安*, 桃金娘果实的化学成分研究, 中草药,.",
+          "htmlSnippet": "1997 年9 月– 2001 年7 月沈阳药科大学，药物制剂专业，学士学位. 工作经历 ... 于欢; 胡雪纯; 张冬丽; 李敏; 许嵘*; 唐生安*, 桃金娘果实的化学成分研究, 中草药,.",
+          "formattedUrl": "https://www.tmu.edu.cn/_.../f078619e-a9e8-4791-8f32-b2a53cabd618.pdf",
+          "htmlFormattedUrl": "https://www.tmu.edu.cn/_.../f078619e-a9e8-4791-8f32-b2a53cabd618.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpN27KSa8uo6c2dLslOkFwMD_PA7wpJNW-DJ7OKU6gbLB078zQxzGokB8g&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211221172352+08'00'",
+                "creator": "Microsoft® Word 2019",
+                "creationdate": "D:20211221172352+08'00'",
+                "author": "Windows 用户",
+                "producer": "Microsoft® Word 2019",
+                "title": "样  例"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///11238773091191a80edd4e22486b987ea20911bd4ee907c46edb476da82f04bf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "编号：浙PF20220007 炒葶苈子（播娘蒿）配方颗粒C h aotingliz i ...",
+          "htmlTitle": "编号：浙PF20220007 炒葶苈子（播娘蒿）配方颗粒C h aotingliz i ...",
+          "link": "https://mpa.zj.gov.cn/module/download/downfile.jsp?classid=-1&filename=2203231814596278487.pdf",
+          "displayLink": "mpa.zj.gov.cn",
+          "snippet": "蒸干，残渣加甲醇1 ml使溶解，作为供试品溶液。另取葶苈子（播娘蒿）对照药. 材2 g，加甲醇2 0 ml，同法制成对照药材溶液。再取槲皮素-3 - O - β- D- 葡萄糖.",
+          "htmlSnippet": "蒸干，残渣加甲醇1 ml使溶解，作为供试品溶液。另取葶苈子（播娘蒿）对照药. 材2 g，加甲醇2 0 ml，同法制成对照药材溶液。再取槲皮素-3 - O - β- D- 葡萄糖.",
+          "formattedUrl": "https://mpa.zj.gov.cn/module/download/downfile.jsp?classid=-1...pdf",
+          "htmlFormattedUrl": "https://mpa.zj.gov.cn/module/download/downfile.jsp?classid=-1...pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SqDgJH6AFgOnHzJJDYsFJn_vjLeSC6-b1QzfFA3Ir54dkjDUhx4mgB0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220315155638+07'56'",
+                "creationdate": "D:20220315155638+07'56'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220315155638+07'56'",
+                "author": "Administrator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///585056f5bba7d4e317e21e2260421643ba66e919b658a3f73a9281251240ee4b"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:51"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.104478,
+        "formattedSearchTime": "0.10",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "^_`ab cd#$ef",
+          "htmlTitle": "^_`ab cd#$ef",
+          "link": "https://www.bjxch.gov.cn/f/140318//42069.pdf",
+          "displayLink": "www.bjxch.gov.cn",
+          "snippet": "虽然年已过完，但年的韵味却. 依然绦绕0间，不论是为工作还是. 求#， 总有?部分人不得不离家，. 不得不离开父母，为了圆梦去闯荡. 他乡， 春节既是?部人口大迁徒. 史，也是?",
+          "htmlSnippet": "虽然年已过完，但年的韵味却. 依然绦绕0间，不论是为工作还是. 求#， 总有?部分人不得不离家，. 不得不离开父母，为了圆梦去闯荡. 他乡， 春节既是?部人口大迁徒. 史，也是?",
+          "formattedUrl": "https://www.bjxch.gov.cn/f/140318//42069.pdf",
+          "htmlFormattedUrl": "https://www.bjxch.gov.cn/f/140318//42069.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXrfSBQcbQa7KMTV_G4C6mDC2L1CVW8pD8fiZlLwVKgWDjnNfKAKhLCw&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1d096ff4f28abfd2bdfa81df68b0c73b8dc71c0e3931571b80207346ee8954f6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "防治长柔毛野豌豆生草果园杂草茎叶处理剂筛选",
+          "htmlTitle": "防治长柔毛野豌豆生草果园杂草茎叶处理剂筛选",
+          "link": "http://fruitsci.zzgss.cn/english/upload/down/month_2212/20220416.pdf",
+          "displayLink": "fruitsci.zzgss.cn",
+          "snippet": "... 娘蒿和荠菜. 防效较高（77.3%~87.4%），但对看麦娘防效较低. （53.2%~67.5%）；当剂量提升至150~250 g · hm-2 时，. 复配制剂对播娘蒿、荠菜和看麦娘均表现出较高防. 效，药 ...",
+          "htmlSnippet": "... 娘蒿和荠菜. 防效较高（77.3%~87.4%），但对看麦娘防效较低. （53.2%~67.5%）；当剂量提升至150~250 g · hm-2 时，. 复配制剂对播娘蒿、荠菜和看麦娘均表现出较高防. 效，药&nbsp;...",
+          "formattedUrl": "http://fruitsci.zzgss.cn/english/upload/down/month_2212/20220416.pdf",
+          "htmlFormattedUrl": "http://fruitsci.zzgss.cn/english/upload/down/month_2212/20220416.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20221130104950",
+                "creationdate": "D:20221130104950",
+                "author": "china Administrator",
+                "producer": "PDF Editor 2.2 - Foxit ¹«Ë¾"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.biodiversity-science.net/attached/file/20200602/20200602135935_357.pdf",
+          "displayLink": "www.biodiversity-science.net",
+          "snippet": "... 药用菌、食用菌、食药兼用菌及毒菌。从. 上到下、从左至右依次为: 药用菌烟管孔菌 ... 榉目、金虎尾目、桃金娘科、豆科等被子植物根系. 共生形成外生菌根, 可以促进 ...",
+          "htmlSnippet": "... 药用菌、食用菌、食药兼用菌及毒菌。从. 上到下、从左至右依次为: 药用菌烟管孔菌 ... 榉目、金虎尾目、桃金娘科、豆科等被子植物根系. 共生形成外生菌根, 可以促进&nbsp;...",
+          "formattedUrl": "https://www.biodiversity-science.net/attached/.../20200602135935_357.pdf",
+          "htmlFormattedUrl": "https://www.biodiversity-science.net/attached/.../20200602135935_357.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnmXcEFaq8borZuLyBE7uJJ057XH6FitZKj6YPMxSj8nsecFZhqvbnUmw&s",
+                "width": "226",
+                "height": "223"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191012142626+08'00'",
+                "creationdate": "D:20190923152031+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows)",
+                "title": "Microsoft Word - mulu8_闫new_-周.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4a7b72bd5487bc0e8c1316d27cb0777ee3e3e94e433d02f3e3f3c716374c38a9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "推进拉萨山南经济一体化发展规划",
+          "htmlTitle": "推进拉萨山南经济一体化发展规划",
+          "link": "http://drc.xizang.gov.cn/zwgk_1941/fz/zx/201811/P020200909433073620722.pdf",
+          "displayLink": "drc.xizang.gov.cn",
+          "snippet": "霞曲、温曲、娘江曲流域水电规划工作。 ... 发挥两市藏药企业传统优势，依托拉萨经济技术开发区、高新技术产业. 开发区和山南滴新藏医药园区等产业园区，鼓励两市藏药企业加强 ...",
+          "htmlSnippet": "霞曲、温曲、娘江曲流域水电规划工作。 ... 发挥两市藏药企业传统优势，依托拉萨经济技术开发区、高新技术产业. 开发区和山南滴新藏医药园区等产业园区，鼓励两市藏药企业加强&nbsp;...",
+          "formattedUrl": "http://drc.xizang.gov.cn/zwgk_1941/fz/.../P020200909433073620722.pdf",
+          "htmlFormattedUrl": "http://drc.xizang.gov.cn/zwgk_1941/fz/.../P020200909433073620722.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1PrKF7s4lhAw6Cv4zAOQQSMwLx3JL7_Oe6f_pHE1sBb9ZnWoat2k3Y8&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190123170646+09'06'",
+                "creationdate": "D:20190123170646+09'06'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20190123170646+09'06'",
+                "author": "谢慧",
+                "title": "推进拉萨山南经济一体化发展规划"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c5b79273be5651ce0c549e7e10d1c4aa82b6cf4fbfb85a4da0f23640a589b59e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "22年的悬案破了！",
+          "htmlTitle": "22年的悬案破了！",
+          "link": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "displayLink": "zjfzb.zjol.com.cn",
+          "snippet": "Aug 30, 2018 ... 离开家的日子逍遥自在，小斌整日沉. 溺于网络，并加了—个名为“药娘群”的. QQ 群。在这个群里，他认识了经验丰富. 的“医生”、比他大3岁的小俊。 今年4 月 ...",
+          "htmlSnippet": "Aug 30, 2018 <b>...</b> 离开家的日子逍遥自在，小斌整日沉. 溺于网络，并加了—个名为“<b>药娘</b>群”的. QQ 群。在这个群里，他认识了经验丰富. 的“医生”、比他大3岁的小俊。 今年4 月&nbsp;...",
+          "formattedUrl": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "htmlFormattedUrl": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUxDtxrOm83mIa3Qfjp7hqtqDTZAm_ModNEhRhdB4M2ByGwRqIJXw2L0&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180829191854+08'00'",
+                "creationdate": "D:20180829191854+08'00'",
+                "creator": "网络版",
+                "subject": "FZ1",
+                "author": "Microsoft fzbzper",
+                "producer": "pdflib",
+                "title": "zjfz20180830f01616版"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b9c02544c25e66b49531cee3ba92279354828f349032075950da72e38231901"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基本医疗保险、工伤保险和生育保险中药饮片目录",
+          "htmlTitle": "基本医疗保险、工伤保险和生育保险中药饮片目录",
+          "link": "https://ylbz.tj.gov.cn/xxgk/zcfg/ybjwj/202312/W020231228655096771311.pdf",
+          "displayLink": "ylbz.tj.gov.cn",
+          "snippet": "土炒怀山药、土炒淮山药、土炒光山药、土炒毛. 山药. 单味使用不予支付费用. 963. 益 ... 生青娘虫、生青娘子. 支付. 1134 红娘虫. 生红娘虫、米炒红娘虫. 支付. 1135 麸炒 ...",
+          "htmlSnippet": "土炒怀山药、土炒淮山药、土炒光山药、土炒毛. 山药. 单味使用不予支付费用. 963. 益 ... 生青娘虫、生青娘子. 支付. 1134 红娘虫. 生红娘虫、米炒红娘虫. 支付. 1135 麸炒&nbsp;...",
+          "formattedUrl": "https://ylbz.tj.gov.cn/xxgk/zcfg/ybjwj/.../W020231228655096771311.pdf",
+          "htmlFormattedUrl": "https://ylbz.tj.gov.cn/xxgk/zcfg/ybjwj/.../W020231228655096771311.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM_yL81UKsZt1lR6qc_ugOfHpsLR40BwKEuF39VQ27Q_d0vh_HmM9UaD0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231225133406+05'34'",
+                "creationdate": "D:20231225133406+05'34'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20231225133406+05'34'",
+                "author": "lina han"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3c1f126ad6d9d6f61ac28c4a0750487f6d49c96c882d02db971f92dc6405f73f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://scjg.lasa.gov.cn/scjgj/tggs/202204/170c0878eae249e9882832be9c228db4/files/05c92dbe4dfd45b0afa4cbaea92dbd48.pdf",
+          "displayLink": "scjg.lasa.gov.cn",
+          "snippet": "藏拉食药监械经营许20190023. 藏拉食药监械经营备20180009(更). 藏拉食药监械经营许 ... 批发拉萨市娘热乡吉苏村三组. 主动注销. Page 2. 10. 西藏旗云科技发展有限公司.",
+          "htmlSnippet": "藏拉食药监械经营许20190023. 藏拉食药监械经营备20180009(更). 藏拉食药监械经营许 ... 批发拉萨市娘热乡吉苏村三组. 主动注销. Page 2. 10. 西藏旗云科技发展有限公司.",
+          "formattedUrl": "https://scjg.lasa.gov.cn/scjgj/.../05c92dbe4dfd45b0afa4cbaea92dbd48.pdf",
+          "htmlFormattedUrl": "https://scjg.lasa.gov.cn/scjgj/.../05c92dbe4dfd45b0afa4cbaea92dbd48.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHp5N95WYSzTatChQOWRJ4cH2lIEbSQAqETuIcAdgQrvJsaakpzoxW-jY&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TOSHIBA e-STUDIO2508A",
+                "creationdate": "Fri Apr  8 04:06:46 2022",
+                "producer": "SECnvtToPDF V1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c76286e5f970461aca50c4cf71270a0b3990b0e396bd97a558d168858814c2a3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "龙川县生态功能保护修复规划（2021-2025 年）",
+          "htmlTitle": "龙川县生态功能保护修复规划（2021-2025 年）",
+          "link": "http://www.longchuan.gov.cn/attachment/0/74/74350/579190.pdf",
+          "displayLink": "www.longchuan.gov.cn",
+          "snippet": "陆地野生植物有700 多种，主要有山苍子、黄端木、. 猴耳环、乌药、春花、桃金娘、野牡丹等。 龙川县主要乔木优势树种有杉木、马尾松（广东松）、湿地松（国. 外松 ...",
+          "htmlSnippet": "陆地野生植物有700 多种，主要有山苍子、黄端木、. 猴耳环、乌药、春花、桃金娘、野牡丹等。 龙川县主要乔木优势树种有杉木、马尾松（广东松）、湿地松（国. 外松&nbsp;...",
+          "formattedUrl": "http://www.longchuan.gov.cn/attachment/0/74/74350/579190.pdf",
+          "htmlFormattedUrl": "http://www.longchuan.gov.cn/attachment/0/74/74350/579190.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjK3jj8uLuHTylGG5SRQNUZsKA08Hg0CiI7JulUrlZWlXtqVVXGWMMWXO&s",
+                "width": "197",
+                "height": "255"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231213172345+09'23'",
+                "creationdate": "D:20231213172345+09'23'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20231213172345+09'23'",
+                "author": "关关"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bf137a1e08c0ee85c44dda97da940104d733deacb2b1a7ed513d99290d417030"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "盐酸帕洛诺司琼注射液说明书",
+          "htmlTitle": "盐酸帕洛诺司琼注射液说明书",
+          "link": "https://www.huiyupharma.com/Private/Files/20211113/6377240739534566546998071.pdf",
+          "displayLink": "www.huiyupharma.com",
+          "snippet": "QT 问期延长的患者， 和给予累计高剂量惠环类药物治疗者。 【孕妇及哺乳期妇女用药】. 娃版. 尚未在娃娘 ... 药后， 随着药物在体内缓慢消除，血药浓. 皮开始下降。健康受试者与 ...",
+          "htmlSnippet": "QT 问期延长的患者， 和给予累计高剂量惠环类药物治疗者。 【孕妇及哺乳期妇女用药】. 娃版. 尚未在娃娘 ... 药后， 随着药物在体内缓慢消除，血药浓. 皮开始下降。健康受试者与&nbsp;...",
+          "formattedUrl": "https://www.huiyupharma.com/Private/.../6377240739534566546998071....",
+          "htmlFormattedUrl": "https://www.huiyupharma.com/Private/.../6377240739534566546998071....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYtQJAZ4tQ5h-igZDgKhq5T_ipy8cByv4r65bYkHXybQX_zUS7OAPgrQ&s",
+                "width": "190",
+                "height": "265"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211109165137+08'00'",
+                "creationdate": "D:20211109163743+08'00'",
+                "creator": "TOSHIBA e-STUDIO2010AC",
+                "producer": "Adobe Acrobat 10.0 Paper Capture Plug-in"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///70112e2568dbdc10700b2a3682bdfe5962f23df24caa542e2b2990693f227e81"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新增药品（西药）",
+          "htmlTitle": "新增药品（西药）",
+          "link": "https://ybj.beijing.gov.cn/zwgk/2024zcjd/202406/W020240613619721285356.pdf",
+          "displayLink": "ybj.beijing.gov.cn",
+          "snippet": "止泻药、肠道消炎药、肠道抗感染药. XA07F. 止泻微生物. 乙. 5. 双歧杆菌四联活菌. 口服 ... 标准桃金娘油肠溶胶囊. △. 乙. 133. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 乙. 134.",
+          "htmlSnippet": "止泻药、肠道消炎药、肠道抗感染药. XA07F. 止泻微生物. 乙. 5. 双歧杆菌四联活菌. 口服 ... 标准桃金娘油肠溶胶囊. △. 乙. 133. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 乙. 134.",
+          "formattedUrl": "https://ybj.beijing.gov.cn/zwgk/2024zcjd/.../W020240613619721285356.p...",
+          "htmlFormattedUrl": "https://ybj.beijing.gov.cn/zwgk/2024zcjd/.../W020240613619721285356.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Zt2BcGFIzAb6wSJ_hDjLHJJIGlT5_We7cMfUNsW_uT06KEy5EldvImRd&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191225154520+08'00'",
+                "creationdate": "D:20191224142243+06'00'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20191224142243+06'22'",
+                "author": "Lenovo User"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///dd7bc2063b881218f490a1283c8725d57af52a13007ddbd800005fce71548d29"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:53"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.123758,
+        "formattedSearchTime": "0.12",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "成都市武侯区江安河河流健康评价报告",
+          "htmlTitle": "成都市武侯区江安河河流健康评价报告",
+          "link": "https://www.cdwh.gov.cn/wuhou/c121701/2023-01/16/9ba1711a9e8c4b6bbe5f43ee99a95770/files/e645e0c994384326a90d011bcaf26a26.pdf",
+          "displayLink": "www.cdwh.gov.cn",
+          "snippet": "Jan 16, 2023 ... 该植物广. 泛分布在海拔50m~2700m 的地区，多生长于池沼和水沟内，有药用 ... 桃金娘. 科. 白千层属. Melaleuca bracteata F. Muell. 乔木. 陆生. 否. /. 77.",
+          "htmlSnippet": "Jan 16, 2023 <b>...</b> 该植物广. 泛分布在海拔50m~2700m 的地区，多生长于池沼和水沟内，有药用 ... 桃金娘. 科. 白千层属. Melaleuca bracteata F. Muell. 乔木. 陆生. 否. /. 77.",
+          "formattedUrl": "https://www.cdwh.gov.cn/.../e645e0c994384326a90d011bcaf26a26.pdf",
+          "htmlFormattedUrl": "https://www.cdwh.gov.cn/.../e645e0c994384326a90d011bcaf26a26.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwiIYHGPqwP3iz5LlInkhNIsY2VGeLEHiOkkg2AV-9M3fhLTaTUtZqOc&s",
+                "width": "229",
+                "height": "220"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221107101048+02'10'",
+                "creationdate": "D:20221107101048+02'10'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20221107101048+02'10'",
+                "author": "Lenovo User",
+                "title": "成都市安全生产监督管理局"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///57082abeafabdb7effeaf07de30e1aa367ac3d31e1429066cb3d205b9e216e34"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "丁苯酞-磺丁基-β-环糊精包合物的制备与表征",
+          "htmlTitle": "丁苯酞-磺丁基-β-环糊精包合物的制备与表征",
+          "link": "http://www.chinjmap.com/cn/article/pdf/preview/252022.pdf",
+          "displayLink": "www.chinjmap.com",
+          "snippet": "NBP 是一类难溶于水的药物，不易制成注射. 剂等剂型用于临床给药，先前研究者对HP-β-CD ... 摘要：目的建立静态顶空毛细管气相色谱法测定标准桃金娘亚微乳中α-蒎烯含量及 ...",
+          "htmlSnippet": "NBP 是一类难溶于水的药物，不易制成注射. 剂等剂型用于临床给药，先前研究者对HP-β-CD ... 摘要：目的建立静态顶空毛细管气相色谱法测定标准桃金娘亚微乳中α-蒎烯含量及&nbsp;...",
+          "formattedUrl": "http://www.chinjmap.com/cn/article/pdf/preview/252022.pdf",
+          "htmlFormattedUrl": "http://www.chinjmap.com/cn/article/pdf/preview/252022.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimOWde4Tqfik4LU25C6gBdQHKzkObY9Y7U81AUvuEjcD6YLgOKpFsCgB9&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160621104514+08'00'",
+                "creationdate": "D:20160620153202+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows)",
+                "title": "Microsoft Word - 2016-6.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a561a3ac75bd92cc09668caa2c443a1fb5fdf993c30ac9e20d1077ba181a536e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家科技计划项目汇交科技资源及成果信息（农业领域）",
+          "htmlTitle": "国家科技计划项目汇交科技资源及成果信息（农业领域）",
+          "link": "https://www.most.gov.cn/ztzl/kjzykfgx/kjzykjjhzycg/kjzykjzyny/201407/P020140718501800159021.pdf",
+          "displayLink": "www.most.gov.cn",
+          "snippet": "... 药肥,工艺技术. 【成果简介】以尿素为核心,选择广谱高效的苯噻酰草胺-吡嘧磺隆合剂 ... 娘蒿的基因突变位点;针对优势和抗药性杂草筛选“对靶”除草剂,优选出10个优良 ...",
+          "htmlSnippet": "... 药肥,工艺技术. 【成果简介】以尿素为核心,选择广谱高效的苯噻酰草胺-吡嘧磺隆合剂 ... 娘蒿的基因突变位点;针对优势和抗药性杂草筛选“对靶”除草剂,优选出10个优良&nbsp;...",
+          "formattedUrl": "https://www.most.gov.cn/ztzl/kjzykfgx/.../P020140718501800159021.pdf",
+          "htmlFormattedUrl": "https://www.most.gov.cn/ztzl/kjzykfgx/.../P020140718501800159021.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20130507161525+08'00'",
+                "creationdate": "D:20140707111326+08'00'",
+                "producer": "iText 5.0.2 (c) 1T3XT BVBA"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://nynct.shaanxi.gov.cn/sxny/upload/sxny/202310/19094249smcn.pdf",
+          "displayLink": "nynct.shaanxi.gov.cn",
+          "snippet": "... 娘、播娘蒿、猪殃殃、. 婆婆 ... 施药时间选择在上午9点至下午4点间、. 晴天无风且最低气温不低于5℃时用药,阴雨天、大风天禁止用. 药,以防药效降低及雾滴飘移产生药害。",
+          "htmlSnippet": "... 娘、播娘蒿、猪殃殃、. 婆婆 ... 施药时间选择在上午9点至下午4点间、. 晴天无风且最低气温不低于5℃时用药,阴雨天、大风天禁止用. 药,以防药效降低及雾滴飘移产生药害。",
+          "formattedUrl": "http://nynct.shaanxi.gov.cn/sxny/upload/sxny/202310/19094249smcn.pdf",
+          "htmlFormattedUrl": "http://nynct.shaanxi.gov.cn/sxny/upload/sxny/202310/19094249smcn.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Thu Oct 19 17:41:56 2023",
+                "creator": "DocuCentre-V C2265",
+                "creationdate": "Mon Sep 25 23:01:54 2023",
+                "producer": "DocuCentre-V C2265"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "老年人咳嗽诊疗方案（2020 年版）",
+          "htmlTitle": "老年人咳嗽诊疗方案（2020 年版）",
+          "link": "http://webfile.ylqxzb.com/GetFileService.aspx?p=B3EEA3B9004F36FE29BC80F7AD349B63CC4563E8298EEED0B821EEF98A8948448C73248396ACC91BF5BF71786B38A64D04CE8A39BCC08A766A81AC92E0AD6B5E&n=6F2A6DE5FED7D5290BFAE2CF8DEFE7D890AEC35B06641AA66147885C329E6B5F3E64AC1BCB6E47A2F038BBDF32571A86",
+          "displayLink": "webfile.ylqxzb.com",
+          "snippet": "（2）镇咳祛痰：可试用复方甘草合剂、乙酰半胱氨酸泡腾片、. 复方氯化铵合剂、溴己新、盐酸氨溴索、或桃金娘油等。 ... 要按时按量服药，不能擅自减药、. 换药、停药，需调整药物 ...",
+          "htmlSnippet": "（2）镇咳祛痰：可试用复方甘草合剂、乙酰半胱氨酸泡腾片、. 复方氯化铵合剂、溴己新、盐酸氨溴索、或桃金娘油等。 ... 要按时按量服药，不能擅自减药、. 换药、停药，需调整药物&nbsp;...",
+          "formattedUrl": "http://webfile.ylqxzb.com/GetFileService.aspx?p...n...",
+          "htmlFormattedUrl": "http://webfile.ylqxzb.com/GetFileService.aspx?p...n...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20201020114007+00'00'",
+                "creationdate": "D:20201020114007+00'00'",
+                "creator": "WPS Office 专业版",
+                "author": "asus",
+                "title": "山西省卫生健康委员会办公室"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "云南省自然科学奖推荐项目公示材料",
+          "htmlTitle": "云南省自然科学奖推荐项目公示材料",
+          "link": "http://www.kib.ac.cn/tzgg/201905/P020190516341725106323.pdf",
+          "displayLink": "www.kib.ac.cn",
+          "snippet": "针对大戟科、楝科、蓼科、桃金娘 ... 得到一系列结构新颖的萜类、. 黄酮苷类、含磺酸基三萜皂苷类化合物以及具有显著抗氧化活性的酚类化合物，. 为民族民间药用和食用资源植物 ...",
+          "htmlSnippet": "针对大戟科、楝科、蓼科、桃金娘 ... 得到一系列结构新颖的萜类、. 黄酮苷类、含磺酸基三萜皂苷类化合物以及具有显著抗氧化活性的酚类化合物，. 为民族民间药用和食用资源植物&nbsp;...",
+          "formattedUrl": "http://www.kib.ac.cn/tzgg/201905/P020190516341725106323.pdf",
+          "htmlFormattedUrl": "http://www.kib.ac.cn/tzgg/201905/P020190516341725106323.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190516092642+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20190516092642+08'00'",
+                "author": "Fungi",
+                "producer": "Microsoft® Word 2010",
+                "title": "云南省自然科学奖推荐项目公示材料"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "除草剂毒理及抗药性研究室",
+          "htmlTitle": "除草剂毒理及抗药性研究室",
+          "link": "https://plant.njau.edu.cn/zuhe1.pdf",
+          "displayLink": "plant.njau.edu.cn",
+          "snippet": "... 娘对多种常用除草剂药敏. 性的培养皿快速检测方法. 研究内容2:农田杂草生物学生态学及其防除技术研究. (1)明确了千金子、鳢肠、碎米知风草等恶性杂草在水稻田的成灾机制及 ...",
+          "htmlSnippet": "... 娘对多种常用除草剂药敏. 性的培养皿快速检测方法. 研究内容2:农田杂草生物学生态学及其防除技术研究. (1)明确了千金子、鳢肠、碎米知风草等恶性杂草在水稻田的成灾机制及&nbsp;...",
+          "formattedUrl": "https://plant.njau.edu.cn/zuhe1.pdf",
+          "htmlFormattedUrl": "https://plant.njau.edu.cn/zuhe1.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Tue Feb 28 19:19:00 2023",
+                "creator": "Adobe Acrobat 9.1.2",
+                "creationdate": "Tue Feb 28 19:19:00 2023",
+                "producer": "Adobe Acrobat 9.1.2 Image Conversion Plug-in"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "不育症患者精浆金属雌激素与精子质量的关联",
+          "htmlTitle": "不育症患者精浆金属雌激素与精子质量的关联",
+          "link": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2068",
+          "displayLink": "www.zjyfyxzz.com",
+          "snippet": "... Cd［10］和Cr［11］可穿. 过血睾屏障进入睾丸，或蓄积于附睾、精囊和前列腺. 中，使精子暴露于MEs 环境中，尤其是有毒重金属. Cd、As 等造成的男性生殖风险需持续关注。Cd 暴露.",
+          "htmlSnippet": "... Cd［10］和Cr［11］可穿. 过血睾屏障进入睾丸，或蓄积于附睾、精囊和前列腺. 中，使精子暴露于MEs 环境中，尤其是有毒重金属. Cd、As 等造成的男性生殖风险需持续关注。Cd 暴露.",
+          "formattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210709082003+08'00'",
+                "creationdate": "D:20210709081958+08'00'",
+                "creator": "方正飞翔7.0 专业版",
+                "author": "Microsoft Administrator",
+                "subject": "无命题2",
+                "producer": "Founder",
+                "title": "预防医学2021-7期(定稿)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "成人高尿酸血症与痛风食养指南",
+          "htmlTitle": "成人高尿酸血症与痛风食养指南",
+          "link": "http://www.nhc.gov.cn/wjw/yjzj/202312/a90c27f7b49f471eb05194354faa3cdd/files/8f5507b3f5454dbcafeecfb5c2d9d9c0.pdf",
+          "displayLink": "www.nhc.gov.cn",
+          "snippet": "Dec 11, 2023 ... 菇娘. 25. 大芒果. 12. 大头梨. 4. 提子. 9. 小芒果. 11. 苹果. 1. 巨峰葡萄. 8 ... 2.*为食谱中用到的食药物质。 夏季食谱1. 早餐. 紫薯馒头（紫薯30g，面粉 ...",
+          "htmlSnippet": "Dec 11, 2023 <b>...</b> 菇娘. 25. 大芒果. 12. 大头梨. 4. 提子. 9. 小芒果. 11. 苹果. 1. 巨峰葡萄. 8 ... 2.*为食谱中用到的食药物质。 夏季食谱1. 早餐. 紫薯馒头（紫薯30g，面粉&nbsp;...",
+          "formattedUrl": "http://www.nhc.gov.cn/wjw/.../8f5507b3f5454dbcafeecfb5c2d9d9c0.pdf",
+          "htmlFormattedUrl": "http://www.nhc.gov.cn/wjw/.../8f5507b3f5454dbcafeecfb5c2d9d9c0.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS376lqNmkMUjRN3X98DgU3IaBTsmxp_sv65sA4pn4VKWNJ4KxvsdSpo4&s",
+                "width": "246",
+                "height": "205"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231212102620+02'26'",
+                "creationdate": "D:20231212102620+02'26'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20231212102620+02'26'",
+                "author": "wangy"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b5eceb07dc376aa11aeccc7f5ac10e631374591d18f191e05e2d5fa65725a859"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "备注药品分类代码药品分类编号药品名称剂型",
+          "htmlTitle": "备注药品分类代码药品分类编号药品名称剂型",
+          "link": "https://www.gov.cn/xinwen/2017-02/23/5170392/files/60c89aae96da450e9efb6175ed8dafe4.pdf",
+          "displayLink": "www.gov.cn",
+          "snippet": "Feb 23, 2017 ... 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01A. 治疗阿米巴病和其他原 ... 标准桃金娘油. 口服常释剂型. △. 乙. 1156. 福多司坦. 口服常释剂型. 限 ...",
+          "htmlSnippet": "Feb 23, 2017 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01A. 治疗阿米巴病和其他原 ... 标准桃金娘油. 口服常释剂型. △. 乙. 1156. 福多司坦. 口服常释剂型. 限&nbsp;...",
+          "formattedUrl": "https://www.gov.cn/xinwen/.../60c89aae96da450e9efb6175ed8dafe4.pdf",
+          "htmlFormattedUrl": "https://www.gov.cn/xinwen/.../60c89aae96da450e9efb6175ed8dafe4.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20170223153814+08'00'",
+                "creationdate": "D:20170223153814+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "user",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<32303137B0E6CEF7D2A9C4BFC2BC2E786C7378>"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:55"
+  },
+  {
+    "page": 4,
+    "start_index": 31,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.134452,
+        "formattedSearchTime": "0.13",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "中药、天然药物长期毒性研究技术指导原则",
+          "htmlTitle": "中药、天然药物长期毒性研究技术指导原则",
+          "link": "http://pharmwyp.com/guideline/7.%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%99/7.3%E4%B8%AD%E8%8D%AF/7.3.3%E9%9D%9E%E4%B8%B4%E5%BA%8A/20070813_CDE_%E4%B8%AD%E8%8D%AF%E3%80%81%E5%A4%A9%E7%84%B6%E8%8D%AF%E7%89%A9%E9%95%BF%E6%9C%9F%E6%AF%92%E6%80%A7%E7%A0%94%E7%A9%B6%E6%8A%80%E6%9C%AF%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%99.pdf",
+          "displayLink": "pharmwyp.com",
+          "snippet": "供给药剂量、给药频率、检测指标等方面的 ... 即：砒石、砒霜、水银、生马钱子、生川乌、生草乌、. 生白附子、生附子、生半夏、生南星、生巴豆、斑蝥、青娘虫、红娘虫、.",
+          "htmlSnippet": "供给药剂量、给药频率、检测指标等方面的 ... 即：砒石、砒霜、水银、生马钱子、生川乌、生草乌、. 生白附子、生附子、生半夏、生南星、生巴豆、斑蝥、青娘虫、红娘虫、.",
+          "formattedUrl": "http://pharmwyp.com/.../20070813_CDE_中药、天然药物长期毒性研究技...",
+          "htmlFormattedUrl": "http://pharmwyp.com/.../20070813_CDE_中药、天然药物长期毒性研究技...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYU0k9j1OqFx4BGy3_hxiY4NZ8Qed5JKnAZ1aVMBBMXNW-oc1c6_rU8Ya&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230804192935+08'00'",
+                "creator": "Acrobat PDFMaker 7.0 for Word",
+                "creationdate": "D:20060211153355+08'00'",
+                "sourcemodified": "D:20050330023914",
+                "author": "cde",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "company": "cde1",
+                "title": "《中药、天然药物急性"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bd6ee67b419fc7d61155de79e7ef54f92eb7c6e715b4f62cbb6c30caea66a759"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "CANbridge Pharmaceuticals Inc. 北海康成製藥有限公司",
+          "htmlTitle": "CANbridge Pharmaceuticals Inc. 北海康成製藥有限公司",
+          "link": "https://www.canbridgepharma.com/media/ck0othen/2024032804968_c.pdf",
+          "displayLink": "www.canbridgepharma.com",
+          "snippet": "Mar 28, 2024 ... 我們已獲得選定的許可引進項目的生產產能，包括來自藥明生物、GC Pharma及Mirum等第三方合. 作夥伴的產能。我們旨在平衡成本效益及控制藥物產品及╱或候選 ...",
+          "htmlSnippet": "Mar 28, 2024 <b>...</b> 我們已獲得選定的許可引進項目的生產產能，包括來自藥明生物、GC Pharma及Mirum等第三方合. 作夥伴的產能。我們旨在平衡成本效益及控制藥物產品及╱或候選&nbsp;...",
+          "formattedUrl": "https://www.canbridgepharma.com/media/ck0othen/2024032804968_c.pdf",
+          "htmlFormattedUrl": "https://www.canbridgepharma.com/media/ck0othen/2024032804968_c.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240328212346+08'00'",
+                "creationdate": "D:20240328212344+08'00'",
+                "creator": "Adobe InDesign 17.4 (Windows)",
+                "producer": "Adobe PDF Library 16.0.7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "广东省2022年重点建设项目计划表",
+          "htmlTitle": "广东省2022年重点建设项目计划表",
+          "link": "http://drc.gd.gov.cn/attachment/0/532/532276/3887263.pdf",
+          "displayLink": "drc.gd.gov.cn",
+          "snippet": "扩建娘坑水横溪截洪渠，西山溪截洪渠综合整治等. 235700. 21. 广东省普宁市宝月 ... 生产30吨/年白内障药物、止痛药、抗生素、抗风湿药等药物原料药. 69000. 15. 百利宏 ...",
+          "htmlSnippet": "扩建娘坑水横溪截洪渠，西山溪截洪渠综合整治等. 235700. 21. 广东省普宁市宝月 ... 生产30吨/年白内障药物、止痛药、抗生素、抗风湿药等药物原料药. 69000. 15. 百利宏&nbsp;...",
+          "formattedUrl": "http://drc.gd.gov.cn/attachment/0/532/532276/3887263.pdf",
+          "htmlFormattedUrl": "http://drc.gd.gov.cn/attachment/0/532/532276/3887263.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230927093915+08'00'",
+                "creator": "WPS Office",
+                "creationdate": "D:20220330113011+03'30'",
+                "sourcemodified": "D:20220330113011+03'30'"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "探讨桃金娘油及花青素和透明质酸局部联合应用对暴露在PM2.5 中AR ...",
+          "htmlTitle": "探讨桃金娘油及花青素和透明质酸局部联合应用对暴露在PM2.5 中AR ...",
+          "link": "https://lceh.whuhzzs.com/data/article/lceh/preview/pdf/lcebyhtjwkzz-34-8-719.pdf",
+          "displayLink": "lceh.whuhzzs.com",
+          "snippet": "见表1。 表1 造模后及给药后各组大鼠鼻过敏症状评分比较. 分,□ x ...",
+          "htmlSnippet": "见表1。 表1 造模后及给药后各组大鼠鼻过敏症状评分比较. 分,□ x&nbsp;...",
+          "formattedUrl": "https://lceh.whuhzzs.com/data/article/lceh/.../lcebyhtjwkzz-34-8-719.pdf",
+          "htmlFormattedUrl": "https://lceh.whuhzzs.com/data/article/lceh/.../lcebyhtjwkzz-34-8-719.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfyZFOwHwUl4FtuJs3pYJp-KoIGHYP3Lj1IfBaxfTgGuKTs0yWthft4W5&s",
+                "width": "272",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "(D:20200727161048+08'00')",
+                "creationdate": "(D:20200727161048+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1562fe6fed1864683d9ee0380372c2caa0e9880d71eef8a09b50a4ea6bd1018a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "DB1304",
+          "htmlTitle": "DB1304",
+          "link": "http://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk=0aab8842acfa385466fa2fa1d2c4415ac1e346602fb7393775378befdd3c582e",
+          "displayLink": "dbba.sacinfo.org.cn",
+          "snippet": "Dec 1, 2021 ... 4.1 禾本科杂草：节节麦、雀麦、野燕麦、看麦娘。 4.2 阔叶杂草：播 ... g) 在施药期间不得饮水，抽烟等，施药时应穿防护服，施药后要用肥皂洗手 ...",
+          "htmlSnippet": "Dec 1, 2021 <b>...</b> 4.1 禾本科杂草：节节麦、雀麦、野燕麦、看麦娘。 4.2 阔叶杂草：播 ... g) 在施药期间不得饮水，抽烟等，施药时应穿防护服，施药后要用肥皂洗手&nbsp;...",
+          "formattedUrl": "http://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk...",
+          "htmlFormattedUrl": "http://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220217125203+08'00'",
+                "creationdate": "D:20211119101602+08'00'",
+                "author": "lenovo",
+                "producer": "Microsoft: Print To PDF; modified using iText® 5.5.12 ©2000-2017 iText Group NV (AGPL-version)",
+                "title": "Microsoft Word -  ¦0ôBIü 2»•/.doc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "苯绿合剂防治麦田杂草效果好",
+          "htmlTitle": "苯绿合剂防治麦田杂草效果好",
+          "link": "http://www.plantprotection.ac.cn/ch/reader/download_pdf_file.aspx?journal_id=zwbh&file_name=3618E016C89268EC91F0B5174D567A95D737170686FCE4073E22E94BCD632A7A252BC36622CE09F56BF1A0D8DEE3FB1A2E4F072977FEAA83C29136E7E37B1692&open_type=self&file_no=19910121",
+          "displayLink": "www.plantprotection.ac.cn",
+          "snippet": "播娘剪. 看麦娘一000. 100| 85-5 | 100 82 0. 施药量:1986-1989年作不同施药量与. 增产效果对比试验(见表2)8个药剂处理,均. 于杂草出苗高峰后5天施药,以不施药空白. 作对照 ...",
+          "htmlSnippet": "播娘剪. 看麦娘一000. 100| 85-5 | 100 82 0. 施药量:1986-1989年作不同施药量与. 增产效果对比试验(见表2)8个药剂处理,均. 于杂草出苗高峰后5天施药,以不施药空白. 作对照&nbsp;...",
+          "formattedUrl": "http://www.plantprotection.ac.cn/.../download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.plantprotection.ac.cn/.../download_pdf_file.aspx?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SqOkXuSFyqcKRdZrACb-FsNFCcAnfRtxuFarH82C7khv0c8OOdCRqink&s",
+                "width": "185",
+                "height": "272"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Tue Jul 28 21:40:45 2009",
+                "creator": "Adobe Photoshop 6.0",
+                "creationdate": "Fri Mar 27 22:13:45 2009",
+                "producer": "Adobe Photoshop for Windows"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0120fa7ce02c61a07f33b92c249dd0477c14e58c62c20db21f6a578beaa745ce"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《药用植物种质资源保存规范》（征求意见稿）",
+          "htmlTitle": "《药用植物种质资源保存规范》（征求意见稿）",
+          "link": "http://www.sz.gov.cn/attachment/0/498/498578/7809203.pdf",
+          "displayLink": "www.sz.gov.cn",
+          "snippet": "附录A（规范性附录） 深圳市重要药用植物资源名录. ... 127. Myrtaceae. 桃金娘科. 柠檬桉. Eucalyptus citriodora Hook. f. 128. Myrtaceae.",
+          "htmlSnippet": "附录A（规范性附录） 深圳市重要药用植物资源名录. ... 127. Myrtaceae. 桃金娘科. 柠檬桉. Eucalyptus citriodora Hook. f. 128. Myrtaceae.",
+          "formattedUrl": "http://www.sz.gov.cn/attachment/0/498/498578/7809203.pdf",
+          "htmlFormattedUrl": "http://www.sz.gov.cn/attachment/0/498/498578/7809203.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAgQCvoeBuoWNESU8oQfxyT3fzOQWN4pJglvCT3LzGIqFgIp1hK9iNyVn&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200305032038",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20200305032038",
+                "author": "win7",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///886e8adf6cc119dd17dde90df945a1d564384fb608bfe304da2b01fc559a4b3c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "目录",
+          "htmlTitle": "目录",
+          "link": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&showname=2024.01%E7%89%88IPC%E5%88%86%E7%B1%BB%E8%A1%A8-A%E9%83%A8.pdf&filename=51920533da10435d9ba775bfcd0812f6.pdf",
+          "displayLink": "www.cnipa.gov.cn",
+          "snippet": "... 娘科，例如茶树或丁香[2009.01]. A01N65/30 .. 蓼科，例如辣蓼或大黄[2009.01] ... 药筒或容器[2020.01]. A24F40/44 .. 棉芯[2020.01]. A24F40/46 .. 电加热装置的 ...",
+          "htmlSnippet": "... 娘科，例如茶树或丁香[2009.01]. A01N65/30 .. 蓼科，例如辣蓼或大黄[2009.01] ... 药筒或容器[2020.01]. A24F40/44 .. 棉芯[2020.01]. A24F40/46 .. 电加热装置的&nbsp;...",
+          "formattedUrl": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid...",
+          "htmlFormattedUrl": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231219150532+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20231219150532+08'00'",
+                "author": "wanglei",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "小麦田杂草科学防控技术方案",
+          "htmlTitle": "小麦田杂草科学防控技术方案",
+          "link": "http://www.wssc.org.cn/forum/20210917wheatweedcontrol.pdf",
+          "displayLink": "www.wssc.org.cn",
+          "snippet": "Sep 17, 2021 ... 重点防控节节麦、看麦娘、日本看麦娘、雀麦、菵草、播娘. 蒿、猪殃殃等 ... 术和注意事项，适期施药，严防药害。 （四）强化宣传发动。要充分利用 ...",
+          "htmlSnippet": "Sep 17, 2021 <b>...</b> 重点防控节节麦、看麦娘、日本看麦娘、雀麦、菵草、播娘. 蒿、猪殃殃等 ... 术和注意事项，适期施药，严防药害。 （四）强化宣传发动。要充分利用&nbsp;...",
+          "formattedUrl": "http://www.wssc.org.cn/forum/20210917wheatweedcontrol.pdf",
+          "htmlFormattedUrl": "http://www.wssc.org.cn/forum/20210917wheatweedcontrol.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210918123728+08'00'",
+                "creationdate": "D:20210918085147+08'00'",
+                "creator": "Acrobat PDFMaker 10.1 Word 版",
+                "producer": "Adobe Acrobat Pro 10.1.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "殊途同归",
+          "htmlTitle": "殊途同归",
+          "link": "https://rwys.tju.edu.cn/__local/0/79/DC/EB0D422870589B6BECCA26DACCB_C5B194A8_1CDCF3.pdf",
+          "displayLink": "rwys.tju.edu.cn",
+          "snippet": "——越娘，你可愿等我。 Page 3. 单莹·殊途同归◎. 89. 那一日。 天姥山顶三清台上 ... 我冷哼一声，走过去该扎针的扎针，该喝药的喝药，听着他们鬼哭狼嚎，. 这才感觉 ...",
+          "htmlSnippet": "——越娘，你可愿等我。 Page 3. 单莹·殊途同归◎. 89. 那一日。 天姥山顶三清台上 ... 我冷哼一声，走过去该扎针的扎针，该喝药的喝药，听着他们鬼哭狼嚎，. 这才感觉&nbsp;...",
+          "formattedUrl": "https://rwys.tju.edu.cn/__.../EB0D422870589B6BECCA26DACCB_C5B19...",
+          "htmlFormattedUrl": "https://rwys.tju.edu.cn/__.../EB0D422870589B6BECCA26DACCB_C5B19...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230327030519Z",
+                "producer": "iLovePDF"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:49:57"
+  },
+  {
+    "page": 5,
+    "start_index": 41,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.154283,
+        "formattedSearchTime": "0.15",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "ICS XX",
+          "htmlTitle": "ICS XX",
+          "link": "http://61.167.104.185/NewCMS/upload/editor/file/f33f896e-7582-4bab-b829-deb418d3a54a/f33f896e-7582-4bab-b829-deb418d3a54a_f33f896e-7582-4bab-b829-deb418d3a54a.pdf",
+          "displayLink": "61.167.104.185",
+          "snippet": "菇娘是含多种营养元素的浆果，近几年在水果市场销售非常火爆，由于独特的口感和保健药用价值. 备受人们喜欢，同时，也是我市特色经济作物之一。大棚菇娘种植具有投入少 ...",
+          "htmlSnippet": "菇娘是含多种营养元素的浆果，近几年在水果市场销售非常火爆，由于独特的口感和保健药用价值. 备受人们喜欢，同时，也是我市特色经济作物之一。大棚菇娘种植具有投入少&nbsp;...",
+          "formattedUrl": "http://61.167.104.185/.../f33f896e-7582-4bab-b829-deb418d3a54a_f33f8...",
+          "htmlFormattedUrl": "http://61.167.104.185/.../f33f896e-7582-4bab-b829-deb418d3a54a_f33f8...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAnpt3g9zlvt5iM85P5llOqTV9v_M21X6TQltvFBG6VNFDateDOcEixo&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220414145402+08'00'",
+                "creationdate": "D:20220414145344+08'00'",
+                "creator": "Acrobat PDFMaker 19 Word 版",
+                "comments": "generated by python-docx",
+                "sourcemodified": "D:20220414014804",
+                "author": "LD-Standard",
+                "producer": "Adobe PDF Library 19.8.103",
+                "company": "China",
+                "ksoproductbuildver": "2052-11.1.0.11365",
+                "category": "standard",
+                "title": "ICS XX",
+                "icv": "01876370167E438093305BD795751332"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a948938f9ba306ce2e7c3ef2460d39e98d96eae839451bb3371f0bb60f403f01"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2022年国家医保药品 录调整申报材料（公 版）",
+          "htmlTitle": "2022年国家医保药品  录调整申报材料（公  版）",
+          "link": "http://www.nhsa.gov.cn/attach/Ypsn/YPSW202200150-W1/YPSW202200150-W1.pdf",
+          "displayLink": "www.nhsa.gov.cn",
+          "snippet": "Jul 13, 2022 ... ... 药浓度、主要药代参数与. 沐舒坦基本⼀致；⽓管⽀⽓管、肺组织中分布基本 ... 娘油提取物化痰，也可雾化帮助祛. 痰。” 临床指南/诊疗规范推荐情况2.",
+          "htmlSnippet": "Jul 13, 2022 <b>...</b> ... 药浓度、主要药代参数与. 沐舒坦基本⼀致；⽓管⽀⽓管、肺组织中分布基本 ... 娘油提取物化痰，也可雾化帮助祛. 痰。” 临床指南/诊疗规范推荐情况2.",
+          "formattedUrl": "http://www.nhsa.gov.cn/attach/Ypsn/...W1/YPSW202200150-W1.pdf",
+          "htmlFormattedUrl": "http://www.nhsa.gov.cn/attach/Ypsn/...W1/YPSW202200150-W1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4jkMQ8A1hf5Gih1qdiUG6uMtLFIP5hLt4o1YC-Wa3lXugKqNNnWxqqpg&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220809092512+00'00'",
+                "creator": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.246 Safari/537.36 Qaxbrowser",
+                "creationdate": "D:20220809092512+00'00'",
+                "producer": "Skia/PDF m90"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///02b4848db517c5afcb9b08e2042cdcda7f3352f9394593e1b23984376ab0fc4c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "附件： 西藏自治区2021年第二批新增医疗服务项目试行价格表",
+          "htmlTitle": "附件： 西藏自治区2021年第二批新增医疗服务项目试行价格表",
+          "link": "https://ylbzj.xizang.gov.cn/zwgk/zcwj/202110/P020211030455640504723.pdf",
+          "displayLink": "ylbzj.xizang.gov.cn",
+          "snippet": "... 药（蒸）浴药包，并向患者详细介绍药. （蒸）浴的目的及注意事项，协助患者洗澡 ... 根据病情在“枚娘桑”进行火灸的一种外治疗法。 穴位. 30. 25. 21. ZLMZ00051. 笼特桑 ...",
+          "htmlSnippet": "... 药（蒸）浴药包，并向患者详细介绍药. （蒸）浴的目的及注意事项，协助患者洗澡 ... 根据病情在“枚娘桑”进行火灸的一种外治疗法。 穴位. 30. 25. 21. ZLMZ00051. 笼特桑&nbsp;...",
+          "formattedUrl": "https://ylbzj.xizang.gov.cn/zwgk/zcwj/.../P020211030455640504723.pdf",
+          "htmlFormattedUrl": "https://ylbzj.xizang.gov.cn/zwgk/zcwj/.../P020211030455640504723.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPimbzuRl6uRNvSamWNWjtAY29NYRBv9tQIbEANZ3cUljIdv6DnD-m2IU&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211029164326+08'43'",
+                "creationdate": "D:20211029164326+08'43'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20211029164326+08'43'",
+                "author": "Administrator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ee54ebdfa9170c4eac16b2303b0c14155341063477d8e570b58e79747899f7d8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.hznu.edu.cn/upload/resources/file/2022/08/09/7730751.pdf",
+          "displayLink": "www.hznu.edu.cn",
+          "snippet": "Aug 9, 2022 ... 中篇《模式与原型》创作于1992 年，写狗烧. 死亲娘，被警察带回老家东北乡游街。 ... 《红高粱》《二姑随后就. 到》《十三步》《灵药》《小说九段》《丰乳肥臀》.",
+          "htmlSnippet": "Aug 9, 2022 <b>...</b> 中篇《模式与原型》创作于1992 年，写狗烧. 死亲娘，被警察带回老家东北乡游街。 ... 《红高粱》《二姑随后就. 到》《十三步》《灵药》《小说九段》《丰乳肥臀》.",
+          "formattedUrl": "https://www.hznu.edu.cn/upload/resources/file/2022/08/09/7730751.pdf",
+          "htmlFormattedUrl": "https://www.hznu.edu.cn/upload/resources/file/2022/08/09/7730751.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOE2pPEN0_o4dk2FNA1NZGNU7gah0MzeRuCj8QGfdkJJVfEEM0a-Qb7Es&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220730114918+08'00'",
+                "creationdate": "D:20220730114424+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "admin",
+                "producer": "Acrobat Distiller 22.0 (Windows)",
+                "title": "WXPL202204.kdh"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ce21ef95b0c5e998eb13e3c52ee2add6f5b30b57148999701488b39b51f4d55f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3786/site/attach/0/075d2bc5684e4aa38c2c0e1110b31f0e.pdf",
+          "displayLink": "zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn",
+          "snippet": "... 娘曾?万缸池. 起早qdj。万缸池于我的印象并e深，后来e知何. 时竞填满4，/剩下E ... 1)2X药@334405药6X78韦)航9药S. 5场景@./7是:人心;@X<=>?@)个%c. 对于病患孩X5A自 ...",
+          "htmlSnippet": "... 娘曾?万缸池. 起早qdj。万缸池于我的印象并e深，后来e知何. 时竞填满4，/剩下E ... 1)2X药@334405药6X78韦)航9药S. 5场景@./7是:人心;@X&lt;=&gt;?@)个%c. 对于病患孩X5A自&nbsp;...",
+          "formattedUrl": "http://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/...",
+          "htmlFormattedUrl": "http://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RUcMtAvPnVWn84jwusOHnWpEzS9qdk5DkBTswBmC8kQe_f3O-FNes9Y&s",
+                "width": "226",
+                "height": "223"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fd77d025e148988614b80b1f27894f2568340c4d84a86a2a20a1cc01632915bc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国生物多样性保护战略与行动计划",
+          "htmlTitle": "中国生物多样性保护战略与行动计划",
+          "link": "https://www.cbd.int/doc/world/cn/cn-nbsap-v2-zh.pdf",
+          "displayLink": "www.cbd.int",
+          "snippet": "州三娘湾中华白海豚栖息地、防城港东湾红树林分布区，海南文昌、. 琼海珊瑚礁海草 ... 内容：研究野生药物生物物种引种驯化技术，对冬虫夏草等珍. 稀濒危野生药用生物物种进行 ...",
+          "htmlSnippet": "州三娘湾中华白海豚栖息地、防城港东湾红树林分布区，海南文昌、. 琼海珊瑚礁海草 ... 内容：研究野生药物生物物种引种驯化技术，对冬虫夏草等珍. 稀濒危野生药用生物物种进行&nbsp;...",
+          "formattedUrl": "https://www.cbd.int/doc/world/cn/cn-nbsap-v2-zh.pdf",
+          "htmlFormattedUrl": "https://www.cbd.int/doc/world/cn/cn-nbsap-v2-zh.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20100922141604-04'00",
+                "creationdate": "D:20100922141604-04'00",
+                "creator": "PDFCreator Version 0.8.1",
+                "author": "chiasson",
+                "producer": "AFPL Ghostscript 8.50",
+                "title": "CBD Strategy and Action Plan - China (Chinese version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "农作物病虫预报",
+          "htmlTitle": "农作物病虫预报",
+          "link": "http://www.yutai.gov.cn/module/download/downfile.jsp?classid=0&showname=%E5%86%9C%E4%BD%9C%E7%89%A9%E7%97%85%E8%99%AB%E9%A2%84%E6%8A%A5%E7%AC%AC%E4%B8%80%E6%9C%9F.pdf&filename=b6af74ff2b164b39b41eae3717e6b9b5.pdf",
+          "displayLink": "www.yutai.gov.cn",
+          "snippet": "Feb 19, 2024 ... ... 娘蒿等。田间草相复杂，密度. 大，防除困难，是我县小麦生产中的严重 ... 化学除草应. 在拔节前完成，避免拔节后施药产生药害。 春季麦田化控意见 ...",
+          "htmlSnippet": "Feb 19, 2024 <b>...</b> ... 娘蒿等。田间草相复杂，密度. 大，防除困难，是我县小麦生产中的严重 ... 化学除草应. 在拔节前完成，避免拔节后施药产生药害。 春季麦田化控意见&nbsp;...",
+          "formattedUrl": "http://www.yutai.gov.cn/module/download/downfile.jsp?classid=0...",
+          "htmlFormattedUrl": "http://www.yutai.gov.cn/module/download/downfile.jsp?classid=0...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxMNAX8a9ngLYSJvZQQ3saA4mM_ROUJhOnQkGqib27fjSJWzDCgDrTLs&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240219101358+08'00'",
+                "creationdate": "D:20240219101322+02'13'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20240219101322+02'13'",
+                "author": "Administrator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a26051a4df7dff2dfded6f378d68173b2504a134ae210f45e9fedb9413d9314c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "氟呱利多对异氟醚催眠、镇痛作用的影响",
+          "htmlTitle": "氟呱利多对异氟醚催眠、镇痛作用的影响",
+          "link": "https://xb.xzhmu.edu.cn/cn/article/pdf/preview/20163602006%E8%82%96%E6%99%97%E5%86%B0.pdf",
+          "displayLink": "xb.xzhmu.edu.cn",
+          "snippet": "氟l娘利多（drol )eridol. ,D l 。）属于丁酞苯类抗精. 神病药，特点是集镇痛、安定、镇吐、抗休克作用于一. 体，临床上主要用于增强镇痛药的作用川。 氟呱利.",
+          "htmlSnippet": "氟l娘利多（drol )eridol. ,D l 。）属于丁酞苯类抗精. 神病药，特点是集镇痛、安定、镇吐、抗休克作用于一. 体，临床上主要用于增强镇痛药的作用川。 氟呱利.",
+          "formattedUrl": "https://xb.xzhmu.edu.cn/cn/article/pdf/preview/20163602006肖晗冰.pdf",
+          "htmlFormattedUrl": "https://xb.xzhmu.edu.cn/cn/article/pdf/preview/20163602006肖晗冰.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220316124502+08'00'",
+                "creationdate": "D:20220316124502+08'00'",
+                "producer": "iText 2.1.7 by 1T3XT"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《医疗用毒性药品管理办法》中毒性中药与现行药品标准的横向比对 ...",
+          "htmlTitle": "《医疗用毒性药品管理办法》中毒性中药与现行药品标准的横向比对 ...",
+          "link": "http://zgys.cnjournals.org/ch/reader/download_pdf_file.aspx?journal_id=zgys&file_name=A8D77C701D04C881A90FCA0EADD2C1668A552A517FFDA2238E678BE98E46D20922150016E61A5374CF606FDB7A27917A&open_type=self&file_no=20231102",
+          "displayLink": "zgys.cnjournals.org",
+          "snippet": "毒杀虫燥湿止痒药（生狼毒、生藤黄、青娘虫、雄. 黄），活血化瘀药（斑蝥、红娘虫），开窍药（蟾. 酥），拔毒化腐生肌药（砒石、砒霜、水银、红. 粉、轻粉、白降丹 ...",
+          "htmlSnippet": "毒杀虫燥湿止痒药（生狼毒、生藤黄、青娘虫、雄. 黄），活血化瘀药（斑蝥、红娘虫），开窍药（蟾. 酥），拔毒化腐生肌药（砒石、砒霜、水银、红. 粉、轻粉、白降丹&nbsp;...",
+          "formattedUrl": "http://zgys.cnjournals.org/ch/.../download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://zgys.cnjournals.org/ch/.../download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231121110943+08'00'",
+                "creationdate": "D:20231121110943+08'00'",
+                "producer": "iText® 5.5.13.2 ©2000-2020 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2020 藏历新年年货城关区惠民销售点具体位置",
+          "htmlTitle": "2020 藏历新年年货城关区惠民销售点具体位置",
+          "link": "https://www.lasa.gov.cn/lasa/uploadfiles/202004021111352469.pdf",
+          "displayLink": "www.lasa.gov.cn",
+          "snippet": "14 药王山. 罗林路中国建设银行门口. 15 绕赛. 林廓南路绕赛居委会门口. 16 ... 娘热路与林廓路交叉口. 20 雪中段. 雪新村幼儿园对面. 21 市民服务中心. 林廓东路市民 ...",
+          "htmlSnippet": "14 药王山. 罗林路中国建设银行门口. 15 绕赛. 林廓南路绕赛居委会门口. 16 ... 娘热路与林廓路交叉口. 20 雪中段. 雪新村幼儿园对面. 21 市民服务中心. 林廓东路市民&nbsp;...",
+          "formattedUrl": "https://www.lasa.gov.cn/lasa/uploadfiles/202004021111352469.pdf",
+          "htmlFormattedUrl": "https://www.lasa.gov.cn/lasa/uploadfiles/202004021111352469.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200212102618+08'00'",
+                "creationdate": "D:20200212102618+08'00'",
+                "creator": "Microsoft® Excel® 2016",
+                "author": "信息中心",
+                "producer": "Microsoft® Excel® 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:00"
+  },
+  {
+    "page": 6,
+    "start_index": 51,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.219278,
+        "formattedSearchTime": "0.22",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "《医疗用毒性药品管理办法》中毒性中药与现行药品标准的横向比对 ...",
+          "htmlTitle": "《医疗用毒性药品管理办法》中毒性中药与现行药品标准的横向比对 ...",
+          "link": "http://zgys.cnjournals.org/ch/reader/download_pdf_file.aspx?journal_id=zgys&file_name=A8D77C701D04C881A90FCA0EADD2C1668A552A517FFDA2238E678BE98E46D20922150016E61A5374CF606FDB7A27917A&open_type=self&file_no=20231102",
+          "displayLink": "zgys.cnjournals.org",
+          "snippet": "毒杀虫燥湿止痒药（生狼毒、生藤黄、青娘虫、雄. 黄），活血化瘀药（斑蝥、红娘虫），开窍药（蟾. 酥），拔毒化腐生肌药（砒石、砒霜、水银、红. 粉、轻粉、白降丹 ...",
+          "htmlSnippet": "毒杀虫燥湿止痒药（生狼毒、生藤黄、青娘虫、雄. 黄），活血化瘀药（斑蝥、红娘虫），开窍药（蟾. 酥），拔毒化腐生肌药（砒石、砒霜、水银、红. 粉、轻粉、白降丹&nbsp;...",
+          "formattedUrl": "http://zgys.cnjournals.org/ch/.../download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://zgys.cnjournals.org/ch/.../download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231121110943+08'00'",
+                "creationdate": "D:20231121110943+08'00'",
+                "producer": "iText® 5.5.13.2 ©2000-2020 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2020 藏历新年年货城关区惠民销售点具体位置",
+          "htmlTitle": "2020 藏历新年年货城关区惠民销售点具体位置",
+          "link": "https://www.lasa.gov.cn/lasa/uploadfiles/202004021111352469.pdf",
+          "displayLink": "www.lasa.gov.cn",
+          "snippet": "14 药王山. 罗林路中国建设银行门口. 15 绕赛. 林廓南路 ... 娘热北路地质花园小区门口. 8. 曲米路. 曲米路布达拉宫 ... 娘热北路新华苑小区门口. 15 园林小区. 娘热路 ...",
+          "htmlSnippet": "14 药王山. 罗林路中国建设银行门口. 15 绕赛. 林廓南路 ... 娘热北路地质花园小区门口. 8. 曲米路. 曲米路布达拉宫 ... 娘热北路新华苑小区门口. 15 园林小区. 娘热路&nbsp;...",
+          "formattedUrl": "https://www.lasa.gov.cn/lasa/uploadfiles/202004021111352469.pdf",
+          "htmlFormattedUrl": "https://www.lasa.gov.cn/lasa/uploadfiles/202004021111352469.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200212102618+08'00'",
+                "creationdate": "D:20200212102618+08'00'",
+                "creator": "Microsoft® Excel® 2016",
+                "author": "信息中心",
+                "producer": "Microsoft® Excel® 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "独行菜种子转录组的高通量测序及分析",
+          "htmlTitle": "独行菜种子转录组的高通量测序及分析",
+          "link": "https://manu60.magtech.com.cn/biotech/EN/article/downloadArticleFile.do?attachType=PDF&id=5576",
+          "displayLink": "manu60.magtech.com.cn",
+          "snippet": "独行菜（LepidiumapetalumWilld）为十字花科独行. 菜属植物，分布非常广泛，具有药用和食用等价值［1］。 ... 独行菜和播娘蒿化学成分及药. 理作用研究进展.药物评价研究， ...",
+          "htmlSnippet": "独行菜（LepidiumapetalumWilld）为十字花科独行. 菜属植物，分布非常广泛，具有药用和食用等价值［1］。 ... 独行菜和播娘蒿化学成分及药. 理作用研究进展.药物评价研究，&nbsp;...",
+          "formattedUrl": "https://manu60.magtech.com.cn/biotech/EN/.../downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://manu60.magtech.com.cn/biotech/EN/.../downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhVaSzEBM_TZUH2DKDuZmcQQ1z0a6dZ0IrYxXeR2xE1QyBPnoZRNz1SQT&s",
+                "width": "285",
+                "height": "177"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0b46507811cc0f777947660ded0be050f270b3ce4ee30373b5f6b1691bc02ea1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "抗击肺炎疫情期间小麦田间管理问题",
+          "htmlTitle": "抗击肺炎疫情期间小麦田间管理问题",
+          "link": "http://www.jaas.ac.cn/ueditor/php/upload/file/20200212/1581511581126737.pdf",
+          "displayLink": "www.jaas.ac.cn",
+          "snippet": "Feb 12, 2020 ... 问题四：如何预防小麦的“冻药害” ？ 新农学院线上课件. 一、冻药害发生的原因. 防除日本看麦娘、看麦娘、硬草、菵草、早熟禾等禾本科杂草的主流除草剂 ...",
+          "htmlSnippet": "Feb 12, 2020 <b>...</b> 问题四：如何预防小麦的“冻药害” ？ 新农学院线上课件. 一、冻药害发生的原因. 防除日本看麦娘、看麦娘、硬草、菵草、早熟禾等禾本科杂草的主流除草剂&nbsp;...",
+          "formattedUrl": "http://www.jaas.ac.cn/ueditor/php/upload/file/.../1581511581126737.pdf",
+          "htmlFormattedUrl": "http://www.jaas.ac.cn/ueditor/php/upload/file/.../1581511581126737.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPii5aQSeFL_anfmEsNAFZra9LQAxfHkVO8iLChfC29yHqn_o3Mb_V4U&s",
+                "width": "226",
+                "height": "223"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200212194652+08'00'",
+                "creationdate": "D:20200212194652+08'00'",
+                "creator": "Microsoft® PowerPoint® 2016",
+                "author": "1",
+                "producer": "Microsoft® PowerPoint® 2016",
+                "title": "TYLCV防控研究方案"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///86d36006e165ff2dc205fab46e11c8bcbd9fb619301606119aa3b997f9833076"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "会议手册",
+          "htmlTitle": "会议手册",
+          "link": "https://statics.scnu.edu.cn/pics/life/2024/0613/1718264334797882.pdf",
+          "displayLink": "statics.scnu.edu.cn",
+          "snippet": "Jun 13, 2024 ... 李娘辉. DO 五步教学模式下高中生生物学迷思概念转变的实践. 研究. 61 许容榕李德红. “探秘广州花卉药用”初中生物学校本课程开发与实践. 研究. -59-. Page ...",
+          "htmlSnippet": "Jun 13, 2024 <b>...</b> 李娘辉. DO 五步教学模式下高中生生物学迷思概念转变的实践. 研究. 61 许容榕李德红. “探秘广州花卉药用”初中生物学校本课程开发与实践. 研究. -59-. Page&nbsp;...",
+          "formattedUrl": "https://statics.scnu.edu.cn/pics/life/2024/0613/1718264334797882.pdf",
+          "htmlFormattedUrl": "https://statics.scnu.edu.cn/pics/life/2024/0613/1718264334797882.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5i5T4IaVCEtVRnwZ81ukW9jWXTIv_QIPJ6hGBxWLuns6jGJYSBU7EufZf&s",
+                "width": "214",
+                "height": "235"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230420190322+08'00'",
+                "creationdate": "D:20230420190322+08'00'",
+                "creator": "WPS 文字",
+                "author": "long",
+                "producer": "Adobe Acrobat Pro 10.1.16"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///980418b0960122b70b3b7d6600760de10d08420409b11fb90025102754e35df6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "双畦革＿原药商效液相色谱分析方法研究 ",
+          "htmlTitle": "双畦革＿原药商效液相色谱分析方法研究    ",
+          "link": "http://nyfzx.com/pdf/fx/%E5%8F%8C%E5%94%91%E8%8D%89%E9%85%AE%E5%8E%9F%E8%8D%AF%E9%AB%98%E6%95%88%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B0%B1%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6.pdf",
+          "displayLink": "nyfzx.com",
+          "snippet": "性的播娘蒿、. 荠菜、. 野油菜、. 繁缕、. 牛繁缕、 . 麦家公等阔叶杂草。 . 收稿曰期：. 20 1 8－ 4 － 1 3... 作者简介：. 傅黎，. 女，. 助理工程师 ...",
+          "htmlSnippet": "性的播娘蒿、. 荠菜、. 野油菜、. 繁缕、. 牛繁缕、    . 麦家公等阔叶杂草。    . 收稿曰期：. 20 1 8－ 4 － 1 3... 作者简介：. 傅黎，. 女，. 助理工程师&nbsp;...",
+          "formattedUrl": "http://nyfzx.com/pdf/fx/双唑草酮原药高效液相色谱分析方法研究.pdf",
+          "htmlFormattedUrl": "http://nyfzx.com/pdf/fx/双唑草酮原药高效液相色谱分析方法研究.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_vwRr_sjDNWLsMsA-enop9cn5RK_m6TxqrYb2h2KIOMer3e6lrMw-FY&s",
+                "width": "294",
+                "height": "172"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190108180713+08'00'",
+                "creationdate": "D:20190106083750Z",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3948",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3948)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///79b772adc985b25d684f134cdfcae43b35d0a2030ce657081a09831c52430739"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "全国生态功能区划",
+          "htmlTitle": "全国生态功能区划",
+          "link": "https://www.mee.gov.cn/gkml/hbb/bgg/200910/W020080801436237505174.pdf",
+          "displayLink": "www.mee.gov.cn",
+          "snippet": "法监管能力建设，杜绝滥采药、滥采矿等行为。 2. 土壤保持重要区. （18）太行山地 ... （44）藏东南山地热带雨林季雨林生物多样性保护重要区：该区位. 于雅鲁藏布江下游流域 ...",
+          "htmlSnippet": "法监管能力建设，杜绝滥采药、滥采矿等行为。 2. 土壤保持重要区. （18）太行山地 ... （44）藏东南山地热带雨林季雨林生物多样性保护重要区：该区位. 于雅鲁藏布江下游流域&nbsp;...",
+          "formattedUrl": "https://www.mee.gov.cn/gkml/hbb/bgg/.../W020080801436237505174.pd...",
+          "htmlFormattedUrl": "https://www.mee.gov.cn/gkml/hbb/bgg/.../W020080801436237505174.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20080801144009+08'00'",
+                "creationdate": "D:20080801144009+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "fu",
+                "producer": "Acrobat Distiller 8.1.0 (Windows)",
+                "title": "Microsoft Word - 公告[2008]35号.doc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "附件1 2022年度广州市基础研究计划基础与应用基础研究项目（一般 ...",
+          "htmlTitle": "附件1 2022年度广州市基础研究计划基础与应用基础研究项目（一般 ...",
+          "link": "http://kjj.gz.gov.cn/attachment/7/7449/7449622/8171601.pdf",
+          "displayLink": "kjj.gz.gov.cn",
+          "snippet": "基于药动药效同步模型对产碳青霉烯酶肠杆. 菌的联合 ... 桑树根系分泌物对Cd胁迫的响应及其对Cd污. 染 ... 桃金娘野生种质资源遗传多样性分析与生物. 学特性研究.",
+          "htmlSnippet": "基于药动药效同步模型对产碳青霉烯酶肠杆. 菌的联合 ... 桑树根系分泌物对Cd胁迫的响应及其对Cd污. 染 ... 桃金娘野生种质资源遗传多样性分析与生物. 学特性研究.",
+          "formattedUrl": "http://kjj.gz.gov.cn/attachment/7/7449/7449622/8171601.pdf",
+          "htmlFormattedUrl": "http://kjj.gz.gov.cn/attachment/7/7449/7449622/8171601.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230919155605+08'00'",
+                "creationdate": "D:20220406161949+08'00'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20220406161949+08'19'",
+                "author": "hwx"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "10%单嘧磺酯WP防除冬小麦田杂草及对小麦安全性研究",
+          "htmlTitle": "10%单嘧磺酯WP防除冬小麦田杂草及对小麦安全性研究",
+          "link": "http://www.xdnyqk.com/upload/file/20191219/20191219151647194719.pdf",
+          "displayLink": "www.xdnyqk.com",
+          "snippet": "结果表明，于冬小麦分蘖末期施药，10%单嘧磺酯WP对小. 麦田杂草播娘蒿和荠菜有较好的防除效果，且具有较好的增产效果。其防效优于对照药剂10%苯磺. 隆WP，对小麦安全性高于 ...",
+          "htmlSnippet": "结果表明，于冬小麦分蘖末期施药，10%单嘧磺酯WP对小. 麦田杂草播娘蒿和荠菜有较好的防除效果，且具有较好的增产效果。其防效优于对照药剂10%苯磺. 隆WP，对小麦安全性高于&nbsp;...",
+          "formattedUrl": "http://www.xdnyqk.com/upload/file/.../20191219151647194719.pdf",
+          "htmlFormattedUrl": "http://www.xdnyqk.com/upload/file/.../20191219151647194719.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20190718105116-08'00'",
+                "creator": "ReaderEx_DIS 2.1.0 Build 3966",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新蔡县人民政府公报",
+          "htmlTitle": "新蔡县人民政府公报",
+          "link": "https://www.xincai.gov.cn/uploadpage/kindeditor/attached/file/20211231/20211231082808_83230.pdf",
+          "displayLink": "www.xincai.gov.cn",
+          "snippet": "Sep 15, 2021 ... 二是药品制造。围绕生物医药产. 业，以龟鹿药业、爱民药业为龙头，聚集政策和要素资源，推. 动 ...",
+          "htmlSnippet": "Sep 15, 2021 <b>...</b> 二是药品制造。围绕生物医药产. 业，以龟鹿药业、爱民药业为龙头，聚集政策和要素资源，推. 动&nbsp;...",
+          "formattedUrl": "https://www.xincai.gov.cn/uploadpage/.../20211231082808_83230.pdf",
+          "htmlFormattedUrl": "https://www.xincai.gov.cn/uploadpage/.../20211231082808_83230.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjE31kGApX4spxgnOSO5Q8aEWWLvuc1LZUAbfZah8vdozC1th5Wbc7l_y&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211231082434+00'24'",
+                "creationdate": "D:20211231082434+00'24'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20211231082434+00'24'",
+                "author": "Administrator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///de9de7bb8a23185e5b6d4fd8d89fd958ada92af60d147de14c841286508b948c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:29:44"
+  },
+  {
+    "page": 7,
+    "start_index": 61,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.245715,
+        "formattedSearchTime": "0.25",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "附件1 一、凡例二、西药部分三、中成药部分四、协议期内谈判药品 ...",
+          "htmlTitle": "附件1 一、凡例二、西药部分三、中成药部分四、协议期内谈判药品 ...",
+          "link": "http://ybj.hubei.gov.cn/zfxxgk/zc/qtzdgkwj/gkwj/201912/P020191231374128694808.pdf",
+          "displayLink": "ybj.hubei.gov.cn",
+          "snippet": "Dec 31, 2019 ... 抗寄生虫药，杀虫药和驱虫药. 用于成瘾疾病的药物. — 62 —. Page 64. 剂型 ... 标准桃金娘油肠溶胶囊. △. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂.",
+          "htmlSnippet": "Dec 31, 2019 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. 用于成瘾疾病的药物. — 62 —. Page 64. 剂型 ... 标准桃金娘油肠溶胶囊. △. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂.",
+          "formattedUrl": "http://ybj.hubei.gov.cn/zfxxgk/zc/.../P020191231374128694808.pdf",
+          "htmlFormattedUrl": "http://ybj.hubei.gov.cn/zfxxgk/zc/.../P020191231374128694808.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ngSAw0Zeeo93Kdlf7hHpmHjb1z3vVkUMMikr_0h0krTfco9Te9rvWuM&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191227170634+08'00'",
+                "creationdate": "D:20191227152951+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "author": "李阳洁",
+                "producer": "Microsoft® Word 2010"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///dfc6d09ae7c5af4568ea331e6cd4960e5c12448bdd398a7d0457ddcea44ba118"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家药用辅料标准编写细则",
+          "htmlTitle": "国家药用辅料标准编写细则",
+          "link": "https://cnppa.org/Public/editor/attached/file/20240403/20240403055114_66903.pdf",
+          "displayLink": "cnppa.org",
+          "snippet": "Apr 3, 2024 ... 例1 本品为桃金娘科植物丁香Eugenia caryophyllata Thunb.的. 274. 茎、叶经水蒸气蒸馏提取的挥发油。含β-丁香烯(C15H24）应为5.0%〜. 275. 14.0%，含丁香 ...",
+          "htmlSnippet": "Apr 3, 2024 <b>...</b> 例1 本品为桃金娘科植物丁香Eugenia caryophyllata Thunb.的. 274. 茎、叶经水蒸气蒸馏提取的挥发油。含β-丁香烯(C15H24）应为5.0%〜. 275. 14.0%，含丁香&nbsp;...",
+          "formattedUrl": "https://cnppa.org/Public/editor/attached/file/.../20240403055114_66903.pd...",
+          "htmlFormattedUrl": "https://cnppa.org/Public/editor/attached/file/.../20240403055114_66903.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240318135520+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20240318135520+08'00'",
+                "author": "张玉婷",
+                "producer": "Microsoft® Word 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "葶苈子国家药品标准拟修订草案（拟修订部分）公示稿葶苈子本品为 ...",
+          "htmlTitle": "葶苈子国家药品标准拟修订草案（拟修订部分）公示稿葶苈子本品为 ...",
+          "link": "https://www.duyaonet.com/_FileUpload/20240723/072316204695C5B33E908A1226.pdf",
+          "displayLink": "www.duyaonet.com",
+          "snippet": "Jul 23, 2024 ... 另取葶苈子（播娘蒿）对照药材或葶苈子（独行菜）对照药. 材各1g,分别同法制成对照药材溶液。再取芥子碱硫氰酸盐对照品，加甲醇制成每1ml 含1mg. 的溶液 ...",
+          "htmlSnippet": "Jul 23, 2024 <b>...</b> 另取葶苈子（播娘蒿）对照药材或葶苈子（独行菜）对照药. 材各1g,分别同法制成对照药材溶液。再取芥子碱硫氰酸盐对照品，加甲醇制成每1ml 含1mg. 的溶液&nbsp;...",
+          "formattedUrl": "https://www.duyaonet.com/_.../072316204695C5B33E908A1226.pdf",
+          "htmlFormattedUrl": "https://www.duyaonet.com/_.../072316204695C5B33E908A1226.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDNE3Y_8RV83dEywxNlhwjWMlqZZUu0qSOOa4oDmMqKG0cyCwDb1Nh9dKO&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240710144645+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20240710144645+08'00'",
+                "author": "翟为民",
+                "producer": "Microsoft® Word 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e71286ce0b30f9935b332339987dac5bfac172ade3a8acfdba7f8dd2f32a76b5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "DB4403",
+          "htmlTitle": "DB4403",
+          "link": "http://wjw.sz.gov.cn/attachment/0/758/758943/8615641.pdf",
+          "displayLink": "wjw.sz.gov.cn",
+          "snippet": "Apr 1, 2021 ... 6.3.1.2 中药饮片处方药物用法符合以下要求：. ——中药饮片处方用法描述应正确，包括每日剂量、简要煎法、每剂分几次服用、给药途径（内服、. 外用等）、服用 ...",
+          "htmlSnippet": "Apr 1, 2021 <b>...</b> 6.3.1.2 中药饮片处方药物用法符合以下要求：. ——中药饮片处方用法描述应正确，包括每日剂量、简要煎法、每剂分几次服用、给药途径（内服、. 外用等）、服用&nbsp;...",
+          "formattedUrl": "http://wjw.sz.gov.cn/attachment/0/758/758943/8615641.pdf",
+          "htmlFormattedUrl": "http://wjw.sz.gov.cn/attachment/0/758/758943/8615641.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9Amu_FyfrYkPD5V5Icsbi1eAmTwqlJAF4kpVqarHoy966X7VXr7OFnY&s",
+                "width": "210",
+                "height": "240"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210303023701",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20210303023701",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5a450293d0f148e148a2a8f602227dd81d51087d2016f7b1f08ae8ef02cfb86c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "标题",
+          "htmlTitle": "标题",
+          "link": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/tzgg/202306/P020230626469034567775.pdf",
+          "displayLink": "jyj.fuzhou.gov.cn",
+          "snippet": "AB = CD. 说明:本参考答案仅给出一种解法供参考. 20. 本小题考查因式 ...",
+          "htmlSnippet": "AB = CD. 说明:本参考答案仅给出一种解法供参考. 20. 本小题考查因式&nbsp;...",
+          "formattedUrl": "https://jyj.fuzhou.gov.cn/zwgk/cswz/.../P020230626469034567775.pdf",
+          "htmlFormattedUrl": "https://jyj.fuzhou.gov.cn/zwgk/cswz/.../P020230626469034567775.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR530dASiYwi4ve7YY5HsyqeNSRyP03BT-nLBcijP6e0NHAjune-G7KGQM6&s",
+                "width": "182",
+                "height": "277"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "(D:20230617135337+08'00')",
+                "moddate--text": "(D:20230617135337+08'00')",
+                "creator": "创建者",
+                "creationdate": "(D:20230617135337+08'00')",
+                "creationdate--text": "(D:20230617135337+08'00')",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8e2d03255671ccc1b345de878e6dec199b5b618719e0ecf0a072e6cf40f36dfa"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "毛酸浆（黄菇娘）乳酸发酵饮料开发",
+          "htmlTitle": "毛酸浆（黄菇娘）乳酸发酵饮料开发",
+          "link": "https://xinnongcun.byau.edu.cn/_upload/article/files/24/93/ba4b389448f0aba772616840aa72/8e16dc76-08c2-45c7-9177-7b3671405281.pdf",
+          "displayLink": "xinnongcun.byau.edu.cn",
+          "snippet": "毛酸浆（Physalis pubescens L.），别名洋菇娘、黄菇娘等。主要分布在东北 ... 使毛酸浆食药两用的价值得到充分利用。通过开发毛酸浆乳酸发酵饮料，填补. 该产品 ...",
+          "htmlSnippet": "毛酸浆（Physalis pubescens L.），别名洋菇娘、黄菇娘等。主要分布在东北 ... 使毛酸浆食药两用的价值得到充分利用。通过开发毛酸浆乳酸发酵饮料，填补. 该产品&nbsp;...",
+          "formattedUrl": "https://xinnongcun.byau.edu.cn/_.../8e16dc76-08c2-45c7-9177-7b367140...",
+          "htmlFormattedUrl": "https://xinnongcun.byau.edu.cn/_.../8e16dc76-08c2-45c7-9177-7b367140...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcVSeGNLij2d1bZXz4ar2b50zG5WAwbfWYX5Vk-PbwqM8je5GKb8zfp0&s",
+                "width": "199",
+                "height": "253"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160615134951+08'00'",
+                "creationdate": "D:20160615134945+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "author": "王建军",
+                "producer": "Microsoft® Office Word 2007",
+                "title": "关于收集2002年招商项目的通知"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c67517a1ece15ecee53dd029ba59927f0e8def1e47ee515939477540ab794963"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "胶态二氧化硅与β􀆼环糊精固化丁香油比较研究",
+          "htmlTitle": "胶态二氧化硅与β􀆼环糊精固化丁香油比较研究",
+          "link": "https://xb.njucm.edu.cn/cn/article/pdf/preview/zr201801017.pdf",
+          "displayLink": "xb.njucm.edu.cn",
+          "snippet": "Jan 1, 2018 ... SYLOID244FP和其固化粉末均无吸热峰,. 可能是丁香油被SYLOID244FP 的多孔结构包埋. 所致。见图1。 a b a.图中丁香油(A)、β􀆼CD(B) ...",
+          "htmlSnippet": "Jan 1, 2018 <b>...</b> SYLOID244FP和其固化粉末均无吸热峰,. 可能是丁香油被SYLOID244FP 的多孔结构包埋. 所致。见图1。 a b a.图中丁香油(A)、β􀆼CD(B)&nbsp;...",
+          "formattedUrl": "https://xb.njucm.edu.cn/cn/article/pdf/preview/zr201801017.pdf",
+          "htmlFormattedUrl": "https://xb.njucm.edu.cn/cn/article/pdf/preview/zr201801017.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkQrbevd1odMkMUorZpKozYzAYzzSjYWYLQlHoCciDwgX8PCIuX-IvIkO&s",
+                "width": "281",
+                "height": "179"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180122110625+08'00'",
+                "creationdate": "D:20180122110621+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///acca5e9aaabc14c7eb28710c96da00732dc14d6433085164c3d4c40696df08eb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.yunan.gov.cn/attachment/0/91/91729/1823455.pdf",
+          "displayLink": "www.yunan.gov.cn",
+          "snippet": "药、废料制造项目⑥禁止引进排放第一类水污染物的企业，对含有. 镍、铅、铬、砷 ... C 菝靸苠哔趼娘-C-ШI 功率. 10.5kW. /. 4. 4. 10. 微粉碎. 机组. ZKF-3-400. 20~200kg/h.",
+          "htmlSnippet": "药、废料制造项目⑥禁止引进排放第一类水污染物的企业，对含有. 镍、铅、铬、砷 ... C 菝靸苠哔趼娘-C-ШI 功率. 10.5kW. /. 4. 4. 10. 微粉碎. 机组. ZKF-3-400. 20~200kg/h.",
+          "formattedUrl": "https://www.yunan.gov.cn/attachment/0/91/91729/1823455.pdf",
+          "htmlFormattedUrl": "https://www.yunan.gov.cn/attachment/0/91/91729/1823455.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0T6c-o06fMap6iZuySCTQEchqtoflivOrdm7H4FQ6trEbWgy8h0xHt1k&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240606092910+08'00'",
+                "creationdate": "D:20240606091928+01'00'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20240606091928+01'19'",
+                "author": "环环（微信号：eianet2016）",
+                "title": "建设项目环境影响报告表（污染影响类-填写指南）"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f95412ad4d5f8b701449c8c48a671a94ce0f5dca7f315f3d02717df94efcc156"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "缬草的化学成分、植物资源和药理活性",
+          "htmlTitle": "缬草的化学成分、植物资源和药理活性",
+          "link": "http://yxsj.smmu.edu.cn/fileYXSJZZ/journal/article/yxsjzz/2000/5/PDF/20000509.pdf",
+          "displayLink": "yxsj.smmu.edu.cn",
+          "snippet": "金娘醇( l myrtenol) 、乙酸桃金娘酯、异戊酸桃金娘酯、甜. 没药烯( bisabolene) 、 姜黄烯( curcumene) 、喇叭醇. ( ledol) 。 12. 环烯醚萜及其酯和甙. 其中主要含二氢缬 ...",
+          "htmlSnippet": "金娘醇( l myrtenol) 、乙酸桃金娘酯、异戊酸桃金娘酯、甜. 没药烯( bisabolene) 、 姜黄烯( curcumene) 、喇叭醇. ( ledol) 。 12. 环烯醚萜及其酯和甙. 其中主要含二氢缬&nbsp;...",
+          "formattedUrl": "http://yxsj.smmu.edu.cn/fileYXSJZZ/journal/article/yxsjzz/.../20000509.pdf",
+          "htmlFormattedUrl": "http://yxsj.smmu.edu.cn/fileYXSJZZ/journal/article/yxsjzz/.../20000509.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20120105135852+08'00'",
+                "creationdate": "D:20110927103522Z",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3684",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3684)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "上海市高等教育自学考试中药学专业（专科）（520410） 药用植物学 ...",
+          "htmlTitle": "上海市高等教育自学考试中药学专业（专科）（520410） 药用植物学 ...",
+          "link": "https://www.shmeea.edu.cn/download/20211126/02.pdf",
+          "displayLink": "www.shmeea.edu.cn",
+          "snippet": "Nov 25, 2021 ... 三、考核知识点. （一）植物、药用植物和药用植物学的定义。 Page 4. 3 ... 藤黄科，堇菜科，桃金娘科，五加科*（人参属、五加属)，伞形科*(当归属 ...",
+          "htmlSnippet": "Nov 25, 2021 <b>...</b> 三、考核知识点. （一）植物、药用植物和药用植物学的定义。 Page 4. 3 ... 藤黄科，堇菜科，桃金娘科，五加科*（人参属、五加属)，伞形科*(当归属&nbsp;...",
+          "formattedUrl": "https://www.shmeea.edu.cn/download/20211126/02.pdf",
+          "htmlFormattedUrl": "https://www.shmeea.edu.cn/download/20211126/02.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211126100801+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20211126100801+08'00'",
+                "author": "Zhao Yifei",
+                "producer": "Microsoft® Word 2016"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:29:49"
+  },
+  {
+    "page": 8,
+    "start_index": 71,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.214713,
+        "formattedSearchTime": "0.21",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "中成药部分",
+          "htmlTitle": "中成药部分",
+          "link": "http://hsa.gd.gov.cn/attachment/0/538/538883/4306196.pdf",
+          "displayLink": "hsa.gd.gov.cn",
+          "snippet": "标准桃金娘油肠溶胶囊. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 甲. 239. 清宣 ... 沈阳红药、沈阳红药胶囊. 乙. 1148. 愈伤灵胶囊. Page 40. 药品分类代码. 药品分类.",
+          "htmlSnippet": "标准桃金娘油肠溶胶囊. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 甲. 239. 清宣 ... 沈阳红药、沈阳红药胶囊. 乙. 1148. 愈伤灵胶囊. Page 40. 药品分类代码. 药品分类.",
+          "formattedUrl": "http://hsa.gd.gov.cn/attachment/0/538/538883/4306196.pdf",
+          "htmlFormattedUrl": "http://hsa.gd.gov.cn/attachment/0/538/538883/4306196.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231222091826+01'18'",
+                "creationdate": "D:20231222091826+01'18'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20231222091826+01'18'",
+                "author": "wps"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "药品信息变更公示表",
+          "htmlTitle": "药品信息变更公示表",
+          "link": "http://180.101.234.24:8011/webportal/attachment/download.html?id=75c40a5f-5619-421d-b1f7-6d8d02559b6f",
+          "displayLink": "180.101.234.24",
+          "snippet": "马店）药业有限公司. WGW00022477. 标准桃金娘油肠. 溶胶囊（成人. 装）. 无. 肠溶胶. 囊. 每粒装. 0.450g（含. 300mg标准. 桃金娘油）. 10. 盒. PVC/PVDC 铝箔泡罩. 包装. 德国 ...",
+          "htmlSnippet": "马店）药业有限公司. WGW00022477. 标准桃金娘油肠. 溶胶囊（成人. 装）. 无. 肠溶胶. 囊. 每粒装. 0.450g（含. 300mg标准. 桃金娘油）. 10. 盒. PVC/PVDC 铝箔泡罩. 包装. 德国&nbsp;...",
+          "formattedUrl": "http://180.101.234.24:8011/webportal/attachment/download.html?id...",
+          "htmlFormattedUrl": "http://180.101.234.24:8011/webportal/attachment/download.html?id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDF1Zg3KYLakeeYAmV1REPgcblT_m_YecBurxKspZ6P-IPWz-vPV5Qro&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220401151741+08'00'",
+                "creationdate": "D:20220401151741+08'00'",
+                "creator": "Microsoft® Excel® 2016",
+                "author": "WangHanQiu",
+                "producer": "Microsoft® Excel® 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///18a4afa3be2734b8faaa5315ec472668599153e8913ccfb24cff8dbd3f177bce"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "考 #20316; #24050; #25104;产业船打击璋重 药 证 #20250;舯 ...",
+          "htmlTitle": "考  #20316;  #24050;  #25104;产业船打击璋重  药  证  #20250;舯 ...",
+          "link": "http://download.xinhuanet.com/mrdx/newmrdx/2014011404.PDF",
+          "displayLink": "download.xinhuanet.com",
+          "snippet": "Jan 14, 2014 ... ... 娘 鳓. 砟嗒邺郑 菀 亘涉ì迁 /nobr>. /b> 明娘钸蹋 3 晷诮蹋 /nobr>. 钅革 b>«湍革删 陆唇嗄 /nobr>. 亿皂渊 /nobr>. 凹憎仔 蛛ㄉ臀θ稀咝 /nobr>. ㄘ ...",
+          "htmlSnippet": "Jan 14, 2014 <b>...</b> ... 娘    鳓. 砟嗒邺郑  菀  亘涉ì迁 /nobr&gt;.  /b&gt;  明娘钸蹋 3 晷诮蹋 /nobr&gt;. 钅革   b&gt;«湍革删  陆唇嗄 /nobr&gt;. 亿皂渊 /nobr&gt;. 凹憎仔  蛛ㄉ臀θ稀咝 /nobr&gt;. ㄘ&nbsp;...",
+          "formattedUrl": "http://download.xinhuanet.com/mrdx/newmrdx/2014011404.PDF",
+          "htmlFormattedUrl": "http://download.xinhuanet.com/mrdx/newmrdx/2014011404.PDF",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirIDQMlQF0JTFjuoviIMWTo0r006NAxp8pN7bKpQseM59fFtFBsFFjOXY&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140114011447+08'00'",
+                "creationdate": "D:20140114011447+08'00'",
+                "creator": "华光易捷杂志排版系统",
+                "producer": "Acrobat Distiller 6.0.1 (Windows)",
+                "title": "k:PDFps文件xh011404.PS"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2d3cf6f12c27b804e5489f1a3f031916f7634cd3e24d690997fff89e2c0d2704"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2021 年度湖南省自然科学基金项目实施目标、实施时间及立项名单",
+          "htmlTitle": "2021 年度湖南省自然科学基金项目实施目标、实施时间及立项名单",
+          "link": "http://kjt.hunan.gov.cn/zxgz/zkjj/xmgljcx/202108/20367668/files/f72087348de44bd1a9ea2ffac23d2862.pdf",
+          "displayLink": "kjt.hunan.gov.cn",
+          "snippet": "药药效物质筛选与评价. 技术体系研究. 湖南大学. 童春义2021-2023. 165 ... 药理学对侗药娘嫩帕抗. 炎药效物质基础及作用. 机制的研究. 湖南医药学院. 杨鹏. 2021 ...",
+          "htmlSnippet": "药药效物质筛选与评价. 技术体系研究. 湖南大学. 童春义2021-2023. 165 ... 药理学对侗<b>药娘</b>嫩帕抗. 炎药效物质基础及作用. 机制的研究. 湖南医药学院. 杨鹏. 2021&nbsp;...",
+          "formattedUrl": "http://kjt.hunan.gov.cn/zxgz/.../f72087348de44bd1a9ea2ffac23d2862.pdf",
+          "htmlFormattedUrl": "http://kjt.hunan.gov.cn/zxgz/.../f72087348de44bd1a9ea2ffac23d2862.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2My5gjclQTPhvjpKWUsVG53haylvbRY181JB6E0oEsoSGGSx0tHgh2_0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210816164359+08'00'",
+                "creationdate": "D:20210730165752+08'00'",
+                "creator": "Adobe Acrobat Pro DC 15.7.20033",
+                "pxcviewerinfo": "PDF-XChange Viewer;2.5.214.2;Feb 17 2014;20:31:41;D:20210809174311+08'00'",
+                "producer": "OmniPageCSDK18"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ec6328a4526fece90cd76589fc1186f6ec236cb26d2c60e6a3c69e0e9bc56eaf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "\"& 例儿童分泌性中耳炎的手术治疗",
+          "htmlTitle": "&quot;&amp; 例儿童分泌性中耳炎的手术治疗",
+          "link": "http://www.xyosbs.com/zgebyheldwkzz/article/pdf/1007-1520201303-0250-04?file_name=93B673825CB84645AFA992DD124E2D27AA1A8368EA64A468A19E893909FE66E626A93B661903364E9409A3F6EE365E8F4F4CA8D71D553054755A1D56FDA2F83F8351B4C147E43F4C&open_type=self",
+          "displayLink": "www.xyosbs.com",
+          "snippet": "治疗，鼻用糖皮质激素喷鼻和口服抗过敏药物. 氯雷他定片、标准桃金娘油等治疗。 B =EC疗效评定标准[G]. 治愈:临床症状消失，鼓膜正常，鼓室导抗. 图恢复为H型， 语频听力 ...",
+          "htmlSnippet": "治疗，鼻用糖皮质激素喷鼻和口服抗过敏药物. 氯雷他定片、标准桃金娘油等治疗。 B =EC疗效评定标准[G]. 治愈:临床症状消失，鼓膜正常，鼓室导抗. 图恢复为H型， 语频听力&nbsp;...",
+          "formattedUrl": "http://www.xyosbs.com/.../article/pdf/1007-1520201303-0250-04?...",
+          "htmlFormattedUrl": "http://www.xyosbs.com/.../article/pdf/1007-1520201303-0250-04?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1OSRkVJ-4H1roqK-nYO_PiXD7qqJzaNtnX3HI_XkKm3PolY4biVOYVzk&s",
+                "width": "182",
+                "height": "278"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20130702152941+08'00'",
+                "creationdate": "D:20130702152936+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///baf0eebefd9cbe8ebb4f8ef282ae62c7e237435d234250592534dcb90bead1cb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "石景山区“十四五”时期国民经济和社会发展规划和二〇三五年远景目标 ...",
+          "htmlTitle": "石景山区“十四五”时期国民经济和社会发展规划和二〇三五年远景目标 ...",
+          "link": "https://www.beijing.gov.cn/gongkai/guihua/wngh/qjghgy/202111/W020220303605223966702.pdf",
+          "displayLink": "www.beijing.gov.cn",
+          "snippet": "处、刘娘府等地区配套学校，增加学前教育学位2070 个、中小. 学学位约7710 个，融 ... 药特色，完善中西医联合救治机制，提升重大疫情救治能力。健. 全应急保障体系 ...",
+          "htmlSnippet": "处、刘娘府等地区配套学校，增加学前教育学位2070 个、中小. 学学位约7710 个，融 ... 药特色，完善中西医联合救治机制，提升重大疫情救治能力。健. 全应急保障体系&nbsp;...",
+          "formattedUrl": "https://www.beijing.gov.cn/gongkai/.../W020220303605223966702.pdf",
+          "htmlFormattedUrl": "https://www.beijing.gov.cn/gongkai/.../W020220303605223966702.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKlKuMIbNc3fptG2RZxl8tIO9E0aecSKckIqW4EX6lOPrycubZKSMfL0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220303164748+08'00'",
+                "creationdate": "D:20210401173848+09'38'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20210401173848+09'38'",
+                "author": "lenovo"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///59ea32cb1fcfc9cc01f4ab5c8f427a34a17c6d95ed85e545f2ff8ca3a5e650f0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家药用辅料标准编写细则",
+          "htmlTitle": "国家药用辅料标准编写细则",
+          "link": "https://www.chp.org.cn/upload/userfiles/20191231/38361577762724323.pdf",
+          "displayLink": "www.chp.org.cn",
+          "snippet": "Dec 31, 2019 ... 溶剂计算，含……应为……。”（例4、5）；也可仅描述. 含量限度（例6）。 书写格式举例如下。 例1 本品为桃金娘科植物丁香（Eugenia cayophyllata Thunb.）的. 茎 ...",
+          "htmlSnippet": "Dec 31, 2019 <b>...</b> 溶剂计算，含……应为……。”（例4、5）；也可仅描述. 含量限度（例6）。 书写格式举例如下。 例1 本品为桃金娘科植物丁香（Eugenia cayophyllata Thunb.）的. 茎&nbsp;...",
+          "formattedUrl": "https://www.chp.org.cn/upload/userfiles/.../38361577762724323.pdf",
+          "htmlFormattedUrl": "https://www.chp.org.cn/upload/userfiles/.../38361577762724323.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_ZQ6PgvHpECs2jHfs8cQYeCQVLpbce1qKmmZREYNeXTCoykPg1bRhohi&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191227125941+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20191227125941+08'00'",
+                "author": "张玉婷",
+                "producer": "Microsoft® Word 2016"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3a1f702335c1dd61416a9fe48f07611583700edd1124414ba830ce4510ae2801"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "广东省药j学会文件",
+          "htmlTitle": "广东省药j学会文件",
+          "link": "http://www.sinopharmacy.com.cn/uploads/file1/20150212/54dc1b8ca9613.pdf",
+          "displayLink": "www.sinopharmacy.com.cn",
+          "snippet": "Feb 12, 2015 ... ... 药方案,有必要时应进行万古霉素血药. 浓度监测。 随着研究对不同人群 ... 】-霉蕊浓赝娘¤娣甜玺 lle$ 黄. ¤§. 琅小时内箨找蹋. 逋△0嫦絮檬变. 巍定耗 ...",
+          "htmlSnippet": "Feb 12, 2015 <b>...</b> ... 药方案,有必要时应进行万古霉素血药. 浓度监测。 随着研究对不同人群 ... 】-霉蕊浓赝娘¤娣甜玺 lle$ 黄. ¤§. 琅小时内箨找蹋. 逋△0嫦絮檬变. 巍定耗&nbsp;...",
+          "formattedUrl": "http://www.sinopharmacy.com.cn/uploads/file1/.../54dc1b8ca9613.pdf",
+          "htmlFormattedUrl": "http://www.sinopharmacy.com.cn/uploads/file1/.../54dc1b8ca9613.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5yW36a9NyR0HGeGAlfTI5OyKhZDSA3MlQkrO-3FvkMLVajQxFuNnYoU&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "Canon SC1011",
+                "creationdate": "D:20150211165113+08'00'",
+                "producer": "MP Navigator EX"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///ba045cbfbd5abd15d68b3cebbd7d597a8b69d4c246e80f605cb685c6a1068c34"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "3 综合",
+          "htmlTitle": "3 综合",
+          "link": "http://120.224.26.17:801/uploads/ueditor/file/20230710/1688973569856659.pdf",
+          "displayLink": "120.224.26.17",
+          "snippet": "‡ÓB 娘B 咱QGj•X[ ú's许Qq. Â迈ø病j老母亲j9ò¶ÆB 孔繁森跪'. 母亲ÆÏW¸古忠孝m ... 族•Ãy病<药B 直'药箱空!止B ·. 药YB ªQmŠ•1Ñ买jB sQ孔繁森. qh9òÅ\"“J¬ÒW$ 块) 毛钱X ...",
+          "htmlSnippet": "‡ÓB 娘B 咱QGj•X[ ú&#39;s许Qq. Â迈ø病j老母亲j9ò¶ÆB 孔繁森跪&#39;. 母亲ÆÏW¸古忠孝m ... 族•Ãy病&lt;药B 直&#39;药箱空!止B ·. 药YB ªQmŠ•1Ñ买jB sQ孔繁森. qh9òÅ&quot;“J¬ÒW$ 块) 毛钱X&nbsp;...",
+          "formattedUrl": "http://120.224.26.17:801/uploads/ueditor/file/.../1688973569856659.pdf",
+          "htmlFormattedUrl": "http://120.224.26.17:801/uploads/ueditor/file/.../1688973569856659.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziwA5OB2mwge75Jn-0kk4XbCvl8tKpNIgLtUWzjEJ2Z_GBtkNIMrkgFw&s",
+                "width": "194",
+                "height": "259"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a8b65ac38ec17973df03c87ad402f6898fcb9f5a37cdbb41649aef68743a4cd7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "上海市基本医疗保险、工伤保险和生育保险药品目录（2023 年）",
+          "htmlTitle": "上海市基本医疗保险、工伤保险和生育保险药品目录（2023 年）",
+          "link": "https://www.shanghai.gov.cn/cmsres/7b/7bef6454c42a482dad3b847036f31e46/a0f6cfb444fd453febdd083079f00a7b.pdf",
+          "displayLink": "www.shanghai.gov.cn",
+          "snippet": "Jan 1, 2024 ... 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1139. 伯氨喹 ... 标准桃金娘油肠溶胶囊. 甲类. 乙. 238. 小儿咳喘颗粒. 10%. ZA06BC. 宣 ...",
+          "htmlSnippet": "Jan 1, 2024 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1139. 伯氨喹 ... 标准桃金娘油肠溶胶囊. 甲类. 乙. 238. 小儿咳喘颗粒. 10%. ZA06BC. 宣&nbsp;...",
+          "formattedUrl": "https://www.shanghai.gov.cn/.../a0f6cfb444fd453febdd083079f00a7b.pdf",
+          "htmlFormattedUrl": "https://www.shanghai.gov.cn/.../a0f6cfb444fd453febdd083079f00a7b.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240316152730+08'00'",
+                "creationdate": "D:20231229143938+08'00'",
+                "creator": "Acrobat PDFMaker 15 Word 版",
+                "sourcemodified": "D:20231229063927",
+                "author": "user",
+                "producer": "Adobe PDF Library 15.0",
+                "ksoproductbuildver": "2052-11.1.0.13012",
+                "icv": "105F30CF7C984CECAC11A24C17EAFFB3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:29:52"
+  },
+  {
+    "page": 9,
+    "start_index": 81,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.139194,
+        "formattedSearchTime": "0.14",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "深圳的珍稀濒危植物",
+          "htmlTitle": "深圳的珍稀濒危植物",
+          "link": "http://jtsb.ijournals.cn/jtsb_cn/article/pdf/200104009?file_name=93B673825CB846456CB92F3D99487269FA3476FAC50C6244376CD7ABF2626E38452B59C666B250838D48ED5C5BC4C298&open_type=self",
+          "displayLink": "jtsb.ijournals.cn",
+          "snippet": "七娘山. 七蝗. 七娘山. 南澳井山村. 排牙IU、七娘tⅡ. 描岗. 橱嗨坑. 沙岗海边. H1 ... 【7】郭绍荣，段桦西双版纳药用植物名录【M］昆明：云南民族出版社．1 ...",
+          "htmlSnippet": "七娘山. 七蝗. 七娘山. 南澳井山村. 排牙IU、七娘tⅡ. 描岗. 橱嗨坑. 沙岗海边. H1 ... 【7】郭绍荣，段桦西双版纳药用植物名录【M］昆明：云南民族出版社．1&nbsp;...",
+          "formattedUrl": "http://jtsb.ijournals.cn/jtsb_cn/article/pdf/200104009?file_name...",
+          "htmlFormattedUrl": "http://jtsb.ijournals.cn/jtsb_cn/article/pdf/200104009?file_name...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20040830000222",
+                "creator": "重庆维普资讯有限公司技术部",
+                "creationdate": "D:20040830000222",
+                "producer": "重庆维普资讯有限公司",
+                "title": "深圳的珍稀濒危植物"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人体损伤致残程度分级",
+          "htmlTitle": "人体损伤致残程度分级",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/zwxxgk/fdzdgknr/fdzdgknrtzwj/201908/P020210316701681025917.pdf",
+          "displayLink": "www.moj.gov.cn",
+          "snippet": "1) 肝切除1/2 以上；. 2) 肝衰竭早期；. 3) 胰腺部分切除术后伴功能障碍，需药物治疗； ... 药浓度测定结果等。 其中，前两项是癫痫致残程度鉴定的必要条件。 B.7 肌力分级.",
+          "htmlSnippet": "1) 肝切除1/2 以上；. 2) 肝衰竭早期；. 3) 胰腺部分切除术后伴功能障碍，需药物治疗； ... 药浓度测定结果等。 其中，前两项是癫痫致残程度鉴定的必要条件。 B.7 肌力分级.",
+          "formattedUrl": "https://www.moj.gov.cn/pub/sfbgw/.../P020210316701681025917.pdf",
+          "htmlFormattedUrl": "https://www.moj.gov.cn/pub/sfbgw/.../P020210316701681025917.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160525160515+00'00'",
+                "creationdate": "D:20160525160515+00'00'",
+                "creator": "WPS Office",
+                "author": "zhu",
+                "title": "人体损伤致残程度分级"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "附件国家基本药物中成药制剂品种目录（2004年）",
+          "htmlTitle": "附件国家基本药物中成药制剂品种目录（2004年）",
+          "link": "http://law.pharmnet.com.cn/upload/0503311130112263.pdf",
+          "displayLink": "law.pharmnet.com.cn",
+          "snippet": "365 桃金娘油. Myrtol*. 胶囊剂. 二、镇咳药(0802). 366 喷托维林. Pentoxyverine. 片剂糖浆剂. (枸橼酸盐). 367 右美沙芬. Dextromethorphan. 片剂胶囊剂颗粒剂糖浆剂. ( ...",
+          "htmlSnippet": "365 桃金娘油. Myrtol*. 胶囊剂. 二、镇咳药(0802). 366 喷托维林. Pentoxyverine. 片剂糖浆剂. (枸橼酸盐). 367 右美沙芬. Dextromethorphan. 片剂胶囊剂颗粒剂糖浆剂. (&nbsp;...",
+          "formattedUrl": "http://law.pharmnet.com.cn/upload/0503311130112263.pdf",
+          "htmlFormattedUrl": "http://law.pharmnet.com.cn/upload/0503311130112263.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAACDnfMdoGji7EcSbs5FJrV9XhDYp3OPTTkS5wpABYSikb4jK6KGapso&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "pdfFactory www.fineprint.com.cn",
+                "creationdate": "D:20050331112540+08'00'",
+                "author": "zhangf",
+                "producer": "pdfFactory 2.38 (Windows 2000 Professional Chinese)",
+                "title": "国家食品药品监督管理局关于印发2004年《国家基本药物》制剂…"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///905ee31bceba7c3f027b924a482bfeea7fe6f63ab524491c912d315ebcb864f0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《植物代谢组学》课程教学大纲模板",
+          "htmlTitle": "《植物代谢组学》课程教学大纲模板",
+          "link": "http://gs.zzu.edu.cn/0710jxdg.pdf",
+          "displayLink": "gs.zzu.edu.cn",
+          "snippet": "要求：掌握多肽药物原料药的固相合成方法、多肽固相合成的基本原理和过程。了解 ... 娘”的不良习惯，熟练运用专业文献信息数据库检索功能，学习使用信息管理工具 ...",
+          "htmlSnippet": "要求：掌握多肽药物原料药的固相合成方法、多肽固相合成的基本原理和过程。了解 ... 娘”的不良习惯，熟练运用专业文献信息数据库检索功能，学习使用信息管理工具&nbsp;...",
+          "formattedUrl": "http://gs.zzu.edu.cn/0710jxdg.pdf",
+          "htmlFormattedUrl": "http://gs.zzu.edu.cn/0710jxdg.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20181022090149+08'00'",
+                "creationdate": "D:20181022090149+08'00'",
+                "creator": "Adobe Acrobat Pro DC 15.7.20033",
+                "author": "111",
+                "producer": "Adobe Acrobat Pro DC 15.7.20033"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "葶苈子（播娘蒿）配方颗粒Tinglizi（Bonianghao） Peifangkeli",
+          "htmlTitle": "葶苈子（播娘蒿）配方颗粒Tinglizi（Bonianghao） Peifangkeli",
+          "link": "https://yaorongyun-enterprise-data.oss-cn-shanghai.aliyuncs.com/policies/document/e4f6d67b07d95d529369dc405ddc3d89.pdf",
+          "displayLink": "yaorongyun-enterprise-data.oss-cn-shanghai.aliyuncs.com",
+          "snippet": "参照物溶液的制备取葶苈子（播娘蒿）对照药材0.5g，置索氏提取器中，加石油醚. （30~60℃）适量，加热回流1 小时，弃去石油醚液，药渣挥干溶剂，连同滤纸转移至锥形. 瓶中 ...",
+          "htmlSnippet": "参照物溶液的制备取葶苈子（播娘蒿）对照药材0.5g，置索氏提取器中，加石油醚. （30~60℃）适量，加热回流1 小时，弃去石油醚液，药渣挥干溶剂，连同滤纸转移至锥形. 瓶中&nbsp;...",
+          "formattedUrl": "https://yaorongyun-enterprise-data.oss-cn-shanghai.aliyuncs.com/.../e4f6d6...",
+          "htmlFormattedUrl": "https://yaorongyun-enterprise-data.oss-cn-shanghai.aliyuncs.com/.../e4f6d6...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMOONlpuF5MiwJ3Km9Jn1huXCHtTv45b41Vbc9zAyxrQshoEtQpmLJYM&s",
+                "width": "328",
+                "height": "153"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230307114407+08'00'",
+                "creationdate": "D:20230306030100Z",
+                "creator": "Aspose Ltd.",
+                "author": "ASUS",
+                "producer": "Aspose.PDF for .NET 20.6"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3cf7deb43c2571fe267849ea286e6c7a4fbb8f29f3c7aaf2b8d05925b74ee9ce"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "深圳道路绿化植物病虫害防控指引",
+          "htmlTitle": "深圳道路绿化植物病虫害防控指引",
+          "link": "http://www.dpxq.gov.cn/mobile/zxfw/ywzsk/csgl/201911/P020191119584155089887.pdf",
+          "displayLink": "www.dpxq.gov.cn",
+          "snippet": "为害三药槟榔，株受害率分别为80%、60%和40%；在深南大道深南科苑立交 ... 病虫防控措施指引. 1. 椰心叶甲的防控：重点防控鱼尾葵、三药槟榔、椰子、海枣、美丽针葵。",
+          "htmlSnippet": "为害三药槟榔，株受害率分别为80%、60%和40%；在深南大道深南科苑立交 ... 病虫防控措施指引. 1. 椰心叶甲的防控：重点防控鱼尾葵、三药槟榔、椰子、海枣、美丽针葵。",
+          "formattedUrl": "http://www.dpxq.gov.cn/mobile/zxfw/.../P020191119584155089887.pdf",
+          "htmlFormattedUrl": "http://www.dpxq.gov.cn/mobile/zxfw/.../P020191119584155089887.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUmsvaIFS4N-eGgOv5gEjqSLkseTF6GY4wguBxWUk_o1BZMUZGnfkgYnu&s",
+                "width": "260",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190904095242+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20190904095242+08'00'",
+                "author": "AutoBVT",
+                "producer": "Microsoft® Word 2010"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///cdaa4f797d22efdb202817b4069a14c3c11d5f452b1920600c15c9031e3dbaf9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "附件1 - 国家基本医疗保险、工伤保险和生育保险药品目录（2020 年）",
+          "htmlTitle": "附件1 - 国家基本医疗保险、工伤保险和生育保险药品目录（2020 年）",
+          "link": "https://ylbzj.shaoyang.gov.cn/syybj/gfxwj/202103/6515cf0211ac4670899211ff8a1b1811/files/8f6d19c69a5c4d08b6c3853a47c3e08e.pdf",
+          "displayLink": "ylbzj.shaoyang.gov.cn",
+          "snippet": "Mar 1, 2021 ... 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1076. 伯氨喹 ... 标准桃金娘油肠溶胶囊. △. 5%. 乙. 239. 小儿咳喘颗粒. 0%. ZA06BC. 宣 ...",
+          "htmlSnippet": "Mar 1, 2021 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1076. 伯氨喹 ... 标准桃金娘油肠溶胶囊. △. 5%. 乙. 239. 小儿咳喘颗粒. 0%. ZA06BC. 宣&nbsp;...",
+          "formattedUrl": "https://ylbzj.shaoyang.gov.cn/.../8f6d19c69a5c4d08b6c3853a47c3e08e.pd...",
+          "htmlFormattedUrl": "https://ylbzj.shaoyang.gov.cn/.../8f6d19c69a5c4d08b6c3853a47c3e08e.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210207161718+08'00'",
+                "creationdate": "D:20210125095552+01'30'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20210125095552+01'55'",
+                "author": "user"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.sxlf.gov.cn/u/cms/site45/202310/18110521dizt.pdf",
+          "displayLink": "www.sxlf.gov.cn",
+          "snippet": "有朝一日见了你的面,猴(小)山药药囫囵咽。 文武丝手镯一对子,咱二人相好 ... 想娘想娘,真想娘呀。有一阴魂,把我叫上。 河里开花,河里落呀。我和亲娘,相跟上呀 ...",
+          "htmlSnippet": "有朝一日见了你的面,猴(小)山药药囫囵咽。 文武丝手镯一对子,咱二人相好 ... 想娘想娘,真想娘呀。有一阴魂,把我叫上。 河里开花,河里落呀。我和亲娘,相跟上呀&nbsp;...",
+          "formattedUrl": "https://www.sxlf.gov.cn/u/cms/site45/202310/18110521dizt.pdf",
+          "htmlFormattedUrl": "https://www.sxlf.gov.cn/u/cms/site45/202310/18110521dizt.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Wed Oct 18 01:24:00 2023",
+                "producer": "iLovePDF"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家基本医疗保险、工伤保险和生育保险药品目录（2020 年）",
+          "htmlTitle": "国家基本医疗保险、工伤保险和生育保险药品目录（2020 年）",
+          "link": "http://ybj.fujian.gov.cn/zwgk/zcwjzw/fjsybwj/202103/P020210302619348980565.pdf",
+          "displayLink": "ybj.fujian.gov.cn",
+          "snippet": "Mar 1, 2021 ... 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1076. 伯氨喹 ... 标准桃金娘油肠溶胶囊. △. 乙. 239. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂.",
+          "htmlSnippet": "Mar 1, 2021 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1076. 伯氨喹 ... 标准桃金娘油肠溶胶囊. △. 乙. 239. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂.",
+          "formattedUrl": "http://ybj.fujian.gov.cn/zwgk/zcwjzw/.../P020210302619348980565.pdf",
+          "htmlFormattedUrl": "http://ybj.fujian.gov.cn/zwgk/zcwjzw/.../P020210302619348980565.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210224194351+08'00'",
+                "creationdate": "D:20210224102519+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "sffj",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "Microsoft Word - 21闽医保12号.doc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "香蜜山人工栽种的“稔子”开花了",
+          "htmlTitle": "香蜜山人工栽种的“稔子”开花了",
+          "link": "https://gdxk.southcn.com/attachment/0/14/14357/768581.pdf",
+          "displayLink": "gdxk.southcn.com",
+          "snippet": "“桃金娘又叫山菍、. 光稔，它不仅是一种观赏价值很高的植物，同时它的果实可以食用，在补虚旺血等方面具有. 很好的药用功效。”该负责人说。 以前桃金娘多为野生，如今，随着植物 ...",
+          "htmlSnippet": "“桃金娘又叫山菍、. 光稔，它不仅是一种观赏价值很高的植物，同时它的果实可以食用，在补虚旺血等方面具有. 很好的药用功效。”该负责人说。 以前桃金娘多为野生，如今，随着植物&nbsp;...",
+          "formattedUrl": "https://gdxk.southcn.com/attachment/0/14/14357/768581.pdf",
+          "htmlFormattedUrl": "https://gdxk.southcn.com/attachment/0/14/14357/768581.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2FMTxoAOKXom8ygzBoterMYIOcj6xiY6QOLTu0AjQB4YsumXi8L9Fi0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210629213509+13'35'",
+                "creationdate": "D:20210629213509+13'35'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20210629213509+13'35'",
+                "author": "Administrator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4b1e2977274ffec297cee39b2b1dd563214418f681e79d2adb3af6696a4c6baa"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:29:55"
+  },
+  {
+    "page": 10,
+    "start_index": 91,
+    "query": "药娘 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 药娘 filetype:pdf",
+            "totalResults": "16400",
+            "searchTerms": "药娘 filetype:pdf",
+            "count": 10,
+            "startIndex": 101,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.136484,
+        "formattedSearchTime": "0.14",
+        "totalResults": "16400",
+        "formattedTotalResults": "16,400"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "中华人民共和国农业农村部公报",
+          "htmlTitle": "中华人民共和国农业农村部公报",
+          "link": "http://www.moa.gov.cn/nybgb/2021/202107/202111/P020211112385956827210.pdf",
+          "displayLink": "www.moa.gov.cn",
+          "snippet": "Jul 1, 2021 ... 广灵县巧娘宫手工编织专业合作社. 山西舜乡阿霞红樱桃专业合作社. 广 ... 河南牧翔动物药业有限公司、河北远征禾木药业有限公司、. 郑州百瑞动物药 ...",
+          "htmlSnippet": "Jul 1, 2021 <b>...</b> 广灵县巧娘宫手工编织专业合作社. 山西舜乡阿霞红樱桃专业合作社. 广 ... 河南牧翔动物药业有限公司、河北远征禾木药业有限公司、. 郑州百瑞动物药&nbsp;...",
+          "formattedUrl": "http://www.moa.gov.cn/nybgb/2021/.../P020211112385956827210.pdf",
+          "htmlFormattedUrl": "http://www.moa.gov.cn/nybgb/2021/.../P020211112385956827210.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3k-kA9ETZXOPKE63FoEAH1ZD5N7oiLLAv40DyBXg_p3-Z9uSbBar9Ng6y&s",
+                "width": "192",
+                "height": "263"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210727134721+08'00'",
+                "creationdate": "D:20210727134710+08'00'",
+                "creator": "Adobe InDesign CC 13.1 (Macintosh)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8f724a9aee749b01085280633284bda251660e7a0c1d818c1106bd7ddad7f18f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "改善全球肾脏病预后组织（KDIG0)临床实践指南：肾小球肾炎",
+          "htmlTitle": "改善全球肾脏病预后组织（KDIG0)临床实践指南：肾小球肾炎",
+          "link": "http://www.24hmb.com/voimages/web_image//upload/file/20140622/96061403394393775.pdf",
+          "displayLink": "www.24hmb.com",
+          "snippet": "汀类降脂药治疗高脂血症，血压正常者无需服ACEI. 和A R B 减少蛋白尿(2D)。 成人特 ... (2D )。 SLE与务•娘. 1 . 建议妇女推迟妊娠直到L N 达完全缓解. (2D)0. 2 ...",
+          "htmlSnippet": "汀类降脂药治疗高脂血症，血压正常者无需服ACEI. 和A R B 减少蛋白尿(2D)。 成人特 ... (2D )。 SLE与务•娘. 1 . 建议妇女推迟妊娠直到L N 达完全缓解. (2D)0. 2&nbsp;...",
+          "formattedUrl": "http://www.24hmb.com/voimages/web.../file/.../96061403394393775.pdf",
+          "htmlFormattedUrl": "http://www.24hmb.com/voimages/web.../file/.../96061403394393775.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1a15r1KGieyb4trEC239ljcaHEEP6-R4s4Tnq9GeTtNXEcBJUBywAlRM&s",
+                "width": "224",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20120702161011+08'00'",
+                "creationdate": "D:16010101000000Z",
+                "creator": "Adobe Acrobat 7.0",
+                "producer": "ABBYY FineReader 11"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b2380207c55db8441d479add7b1e33ae93342b2eee572a71b20af490a6a8bcf0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "关于印发《国家基本医疗保险、工伤保险和生育保险药品目录(2023 年 ...",
+          "htmlTitle": "关于印发《国家基本医疗保险、工伤保险和生育保险药品目录(2023 年 ...",
+          "link": "https://ylbzj.sc.gov.cn/scsybj/nc010105/2023/12/29/ef4840001c7e4aca9b6c96d00f061a18/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%9B%BD%E5%AE%B6%E5%9F%BA%E6%9C%AC%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E3%80%81%E5%B7%A5%E4%BC%A4%E4%BF%9D%E9%99%A9%E5%92%8C%E7%94%9F%E8%82%B2%E4%BF%9D%E9%99%A9%E8%8D%AF%E5%93%81%E7%9B%AE%E5%BD%95%EF%BC%882023%E5%B9%B4%EF%BC%89%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.pdf",
+          "displayLink": "ylbzj.sc.gov.cn",
+          "snippet": "Dec 29, 2023 ... 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1139. 伯氨喹 ... 标准桃金娘油肠溶胶囊. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 甲.",
+          "htmlSnippet": "Dec 29, 2023 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1139. 伯氨喹 ... 标准桃金娘油肠溶胶囊. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 甲.",
+          "formattedUrl": "https://ylbzj.sc.gov.cn/.../附件1：关于印发《国家基本医疗保险、工伤保...",
+          "htmlFormattedUrl": "https://ylbzj.sc.gov.cn/.../附件1：关于印发《国家基本医疗保险、工伤保...",
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "西药部分",
+          "htmlTitle": "西药部分",
+          "link": "https://file.m12333.cn/upfile/download/f5e42e39-e7ab-40e2-cf7d-478e20f12c56.pdf",
+          "displayLink": "file.m12333.cn",
+          "snippet": "Jan 1, 2024 ... 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1139. 伯氨喹 ... 标准桃金娘油肠溶胶囊. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 甲.",
+          "htmlSnippet": "Jan 1, 2024 <b>...</b> 抗寄生虫药，杀虫药和驱虫药. XP01. 抗原虫药. XP01B. 抗疟药. 甲. 1139. 伯氨喹 ... 标准桃金娘油肠溶胶囊. 乙. 238. 小儿咳喘颗粒. ZA06BC. 宣肺止咳剂. 甲.",
+          "formattedUrl": "https://file.m12333.cn/upfile/.../f5e42e39-e7ab-40e2-cf7d-478e20f12c56.p...",
+          "htmlFormattedUrl": "https://file.m12333.cn/upfile/.../f5e42e39-e7ab-40e2-cf7d-478e20f12c56.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHvNrhzx8Vaae7EWW_V85aKTr87zSrVg87oEN80UmNjQ8G8nhjiezZT0&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231227175343+09'53'",
+                "creationdate": "D:20231227175343+09'53'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20231227175343+09'53'",
+                "author": "夏雨"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///18de6eb34fd13b6fd6de6de5a462e2e4d73508385b985841368476e5c6bf5816"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.gz.gov.cn/attachment/7/7222/7222040/8759865.pdf",
+          "displayLink": "www.gz.gov.cn",
+          "snippet": "Jan 7, 2023 ... 标准桃金娘油. 口服常释剂型. 155. 桉柠蒎. 156. 氨溴索. 157. 氨溴索. 肠 ... 药业集团广州海瑞药业股份有限公司、深圳海王. 药业有限公司. 广东华南药业 ...",
+          "htmlSnippet": "Jan 7, 2023 <b>...</b> 标准桃金娘油. 口服常释剂型. 155. 桉柠蒎. 156. 氨溴索. 157. 氨溴索. 肠 ... 药业集团广州海瑞药业股份有限公司、深圳海王. 药业有限公司. 广东华南药业&nbsp;...",
+          "formattedUrl": "https://www.gz.gov.cn/attachment/7/7222/7222040/8759865.pdf",
+          "htmlFormattedUrl": "https://www.gz.gov.cn/attachment/7/7222/7222040/8759865.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRkKNgDrXe4SQZA50l7gMNQZwhXanTW-oiePIWhAuK4o2Z8OY0EeE77I&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "Thu Jan 12 16:21:08 2023",
+                "creator": "Foxit OFDToPDF 1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e0d90f987d1676cdb6a814c947c5c10764363e6d6caaef6271a3f3a33ce78916"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "遂成药业股份有限公司年产10 亿支针剂、5 亿片片剂、1000 吨中药 ...",
+          "htmlTitle": "遂成药业股份有限公司年产10 亿支针剂、5 亿片片剂、1000 吨中药 ...",
+          "link": "https://public.xinzheng.gov.cn/attachment/%E4%BA%8C%E6%AC%A1%E5%85%AC%E7%A4%BA%E7%AE%80%E6%9C%AC.pdf?cmQ4PoaXMNt5wZFtBKkQrirOPeOaCT5CbE4MmV2TUOnF_yaDttSfTFH0_6hi2wyR_-9uO67oMNbnaXZ8Z64chy-hXsi9Lgzl",
+          "displayLink": "public.xinzheng.gov.cn",
+          "snippet": "二期项目为遂成药业股份有限公司药用包装材料生产建设项目，位. 于南厂区，总 ... 桃金娘根提取物. 80 目. 1.53kg/万片. 1585.52676 kg/a. 中药材. Page 29. - 28 -. 蔗糖.",
+          "htmlSnippet": "二期项目为遂成药业股份有限公司药用包装材料生产建设项目，位. 于南厂区，总 ... 桃金娘根提取物. 80 目. 1.53kg/万片. 1585.52676 kg/a. 中药材. Page 29. - 28 -. 蔗糖.",
+          "formattedUrl": "https://public.xinzheng.gov.cn/attachment/二次公示简本.pdf?...",
+          "htmlFormattedUrl": "https://public.xinzheng.gov.cn/attachment/二次公示简本.pdf?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160530104713+08'00'",
+                "creationdate": "D:20160530104713+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<4D6963726F736F667420576F7264202D20B6FEB4CEB9ABCABEBCF2B1BE2E646F63>"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "缘文化5版",
+          "htmlTitle": "缘文化5版",
+          "link": "http://szb.hynews.net/haby/hhwb/pc/attachment/202207/29/f0b66a91-4da8-40bd-9bde-cf7b3db81348.pdf",
+          "displayLink": "szb.hynews.net",
+          "snippet": "Jul 29, 2022 ... 回家时，已是下午两点，娘把手中的物品一放下，便急匆匆地. 去倒开水，嘴里还念念有词：得赶紧让你爹吃药了，饭后一个半小时该吃的药. 已耽搁了半小时 ...",
+          "htmlSnippet": "Jul 29, 2022 <b>...</b> 回家时，已是下午两点，娘把手中的物品一放下，便急匆匆地. 去倒开水，嘴里还念念有词：得赶紧让你爹吃药了，饭后一个半小时该吃的药. 已耽搁了半小时&nbsp;...",
+          "formattedUrl": "http://szb.hynews.net/.../f0b66a91-4da8-40bd-9bde-cf7b3db81348.pdf",
+          "htmlFormattedUrl": "http://szb.hynews.net/.../f0b66a91-4da8-40bd-9bde-cf7b3db81348.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeG_x4CpZZs-ycuzKQkQKKmMdxDEGJzqV-QhhsZ1RcPn4GXT7Xrgu3aFi0&s",
+                "width": "169",
+                "height": "298"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220728204004+08'00'",
+                "creationdate": "D:20220728204004+08'00'",
+                "creator": "飞腾创艺5.5 网络版",
+                "subject": "无命题1",
+                "author": "ylmfeng.com wbfp",
+                "producer": "Founder",
+                "title": "A05A0520220729C"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f3db0c4b4633867f01b4276f9dc00e5ceb33bdec5e452813fd3f4e4d736672d7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基本医疗保险、工伤保险和生育保险药品目录",
+          "htmlTitle": "基本医疗保险、工伤保险和生育保险药品目录",
+          "link": "https://ybj.ln.gov.cn/ybj/zfxxgk/fdzdgknr/lzyj/bbmgfxwj/1DDB1A69402A4D49A6DD010D6056C5B4/P020201201529144543672.pdf",
+          "displayLink": "ybj.ln.gov.cn",
+          "snippet": "抗寄生虫药，杀虫药和驱虫药. 抗原虫药. 76. Page 78. 药品分类代码. 编号. 药品名称 ... 标准桃金娘油肠溶胶囊. △. 乙. 238. 小儿咳喘颗粒. 乙 g23. 川贝止咳糖浆. 乙 g24.",
+          "htmlSnippet": "抗寄生虫药，杀虫药和驱虫药. 抗原虫药. 76. Page 78. 药品分类代码. 编号. 药品名称 ... 标准桃金娘油肠溶胶囊. △. 乙. 238. 小儿咳喘颗粒. 乙 g23. 川贝止咳糖浆. 乙 g24.",
+          "formattedUrl": "https://ybj.ln.gov.cn/ybj/zfxxgk/.../lzyj/.../P020201201529144543672.pdf",
+          "htmlFormattedUrl": "https://ybj.ln.gov.cn/ybj/zfxxgk/.../lzyj/.../P020201201529144543672.pdf",
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "编号中文名称英文名称剂型支付限定支付及备注1抗微生物药物1.1 ...",
+          "htmlTitle": "编号中文名称英文名称剂型支付限定支付及备注1抗微生物药物1.1 ...",
+          "link": "https://rsj.sh.gov.cn/cmsres/f7/f7161fdb2b9e4dbbac56b689365c5ddf/fb57ac6678d7b24df341782ea4edf207.pdf",
+          "displayLink": "rsj.sh.gov.cn",
+          "snippet": "停药，连续使用不超过12. 个月. 635 重组干扰素γ. Recombinant Human. Interleukin-γ ... 963 标准桃金娘油. Myrtol Standardized. 口服常释剂型甲类. 964 厄多司坦.",
+          "htmlSnippet": "停药，连续使用不超过12. 个月. 635 重组干扰素γ. Recombinant Human. Interleukin-γ ... 963 标准桃金娘油. Myrtol Standardized. 口服常释剂型甲类. 964 厄多司坦.",
+          "formattedUrl": "https://rsj.sh.gov.cn/cmsres/f7/.../fb57ac6678d7b24df341782ea4edf207.pd...",
+          "htmlFormattedUrl": "https://rsj.sh.gov.cn/cmsres/f7/.../fb57ac6678d7b24df341782ea4edf207.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20101130155108+08'00'",
+                "creationdate": "D:20101130144306+08'00'",
+                "creator": "Acrobat PDFMaker 9.0 Excel 版",
+                "author": "章卫",
+                "producer": "Acrobat Distiller 9.0.0 (Windows)",
+                "company": "smiic"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "湖甫省基本医疗保险、工伤保险和生育保险药品2录",
+          "htmlTitle": "湖甫省基本医疗保险、工伤保险和生育保险药品2录",
+          "link": "https://www.huarong.gov.cn/uploadfiles/201711/700aae6c-6601-402c-9da1-0eba5a1350de.pdf",
+          "displayLink": "www.huarong.gov.cn",
+          "snippet": "... 药还是辅助药)、 可替代品多è、 临. 床疗效、 药品价格、 剂型差异等因素， 分 ... 娘. 油 m yrtol standardized. 口. 服. 常. 释. 剂. 型. △. 5%. 114010000000519. 乙. 类.",
+          "htmlSnippet": "... 药还是辅助药)、 可替代品多è、 临. 床疗效、 药品价格、 剂型差异等因素， 分 ... 娘. 油 m yrtol standardized. 口. 服. 常. 释. 剂. 型. △. 5%. 114010000000519. 乙. 类.",
+          "formattedUrl": "https://www.huarong.gov.cn/.../700aae6c-6601-402c-9da1-0eba5a1350de....",
+          "htmlFormattedUrl": "https://www.huarong.gov.cn/.../700aae6c-6601-402c-9da1-0eba5a1350de....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYmOlB2xH7qBnAF3Y8BVdReMGtZgYOotTZNJy2nTyWkPOhQ9BDqvUSTNX&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fcebbad15d5cc3ac2a87eb1300acd376ddf5a90044d4c69a85c4e66eb5cdd6a1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:29:57"
+  }
+]

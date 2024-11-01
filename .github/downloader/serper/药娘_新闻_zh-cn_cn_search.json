@@ -1,0 +1,1225 @@
+{
+  "query": "药娘 新闻",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-10-31T04:17:12.110455",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "药娘 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\"",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/mz-04262023144931.html",
+          "snippet": "本台根据采访的女性、新闻报道和社交媒体帖子得知，跨性别女性面临的困难导致其中一些人采取了比自制药物更极端的行动，包括自我切除睾丸。 Felicity ...",
+          "date": "2023年4月26日",
+          "position": 1
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9307060",
+          "snippet": "援交的药娘中，很多人中学辍学，普遍学历不高，只能通过性交易换取赖以生存的金钱。而换来的钱都还给了“糖果”和变性手术。",
+          "date": "2020年9月23日",
+          "position": 2
+        },
+        {
+          "title": "“药娘QQ群”一步步诱骗15岁儿子打针吃药“变性” - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/04/08/105358825.shtml",
+          "snippet": "“那就是个'药娘'群，一些别有用心的人，在里面诱骗十几岁的男孩，先用女性用品刺激孩子，再一步步诱导孩子吃药变性。”刘女士说，这个群里会分享一些挑战生理与 ...",
+          "date": "2021年4月8日",
+          "position": 3
+        },
+        {
+          "title": "蜗居在互联网角落，“药娘”没有未来 - QQ News",
+          "link": "https://news.qq.com/rain/a/20220311A0COAQ00",
+          "snippet": "一些药贩子开始劝诱一些没有下定决心的未成年网友成为“药娘”，并为他们提供昂贵的药物来换取利益。 然后在贴吧的整顿行动中这个吧就被封禁了，其中的部分吧 ...",
+          "date": "2022年3月11日",
+          "position": 4
+        },
+        {
+          "title": "“药娘”是个怎样的群体？ 我们能为他们做些什么？ - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/12/21/105426896.shtml",
+          "snippet": "早前报道：药娘QQ群一步步诱骗15岁儿子打针吃药变性 轰动全国的药娘案告破了，药娘这个特殊的群体也引起了人们的关注。他们到底是个怎样的群体？",
+          "date": "2021年12月21日",
+          "position": 5
+        },
+        {
+          "title": "阉割、变性……被困在男人躯壳中的“药娘” - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_14338990",
+          "snippet": "心理认同驱使着药娘们剃掉体毛、隐藏喉结、留起长发、换上裙子……但这些都治标不治本，因此，有些人会选择吃激素类药物，来试图弱化、扭转自己的男性体征。",
+          "date": "2021年9月3日",
+          "position": 6
+        },
+        {
+          "title": "药娘变化记录日记- 百度",
+          "link": "http://www.baidu.com/from=844b/ssid=0/s?word=%E8%8D%AF%E5%A8%98%E5%8F%98%E5%8C%96%E8%AE%B0%E5%BD%95%E6%97%A5%E8%AE%B0&sa=re_dl_prs_34689_3&ms=1&rqid=6497991692702078594&rq=%E8%8D%AF%E5%A8%984%E4%B8%AA%E6%9C%88%E5%8F%98%E5%8C%96&rsf=1630013&asctag=1479",
+          "snippet": "2021年8月28日药娘,指通过服用或注射药物等手段,使其生理状态(主要为体貌特征)接近女性的男性或双性别者。 由于难以得到家人及外界的认可,国内大多数“药娘”,只能通过药物使 ...",
+          "position": 7
+        },
+        {
+          "title": "推特上，大把的“药娘”在靠卖援交视频谋生 - 网易",
+          "link": "https://www.163.com/dy/article/I94HP8680534QVU0.html",
+          "snippet": "药娘，指的是通过抗雄激素和雌激素与孕激素药物将男性性征女性化的群体，且未成年人居多。 中国的药娘，多数藏在不为人知的社会夹缝里，离每个人的生活很远又 ...",
+          "date": "2023年7月8日",
+          "position": 8
+        },
+        {
+          "title": "药娘拿激素当糖吃以身试药：不吃我会抑郁 - 新浪新闻",
+          "link": "http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4",
+          "snippet": "“不吃药的话，我感觉会活得更短，会抑郁。”一些药娘拿药当糖吃，通过网络非正规渠道买药，以身试药，身体受到很大伤害。 澎湃新闻记者朱莹谭瑶.",
+          "date": "2018年8月16日",
+          "position": 9
+        },
+        {
+          "title": "药娘_标签_网易出品",
+          "link": "https://news.163.com/keywords/8/6/836f5a18/1.html",
+          "snippet": "药娘. 相关内容. “药娘”们活得太难了 · 网易号. 今日养生之道2024-10-10. Chalice：抖音的人纯粹的口臭，遇到变性人、药娘的经历 · 网易号. 电竞闪电站2024-08-08. 没有更多 ...",
+          "position": 10
+        },
+        {
+          "title": "推特上，中国“药娘”在靠卖援交X视频谋生 - 网易新闻",
+          "link": "https://c.m.163.com/news/a/ICBMQR9H0552C19D.html",
+          "snippet": "推特上，中国“药娘”在靠卖援交X视频谋生 · 你听说过“药娘”吗？ · 顾名思义，药娘嘛，需要靠吃药抑制体内的雄性激素，增加雌激素，目的是让自己的男性特征消失， ...",
+          "date": "2023年8月18日",
+          "position": 11
+        },
+        {
+          "title": "警惕！孩子们如何被洗脑成“药娘”？ - 搜狐",
+          "link": "https://roll.sohu.com/a/820736063_121956424",
+          "snippet": "在近期引发热议的文化现象中，明星杨笠和金星成为舆论的焦点。杨笠，以其犀利的脱口秀风格而受到关注，但许多人质疑其幽默的底蕴和内容是否值得称道。",
+          "date": "4天前",
+          "position": 12
+        },
+        {
+          "title": "Bad.news on X: \"【药娘：他们吃药，想唤醒身体里的“她”】“男生不 ...",
+          "link": "https://twitter.com/lvv2com/status/1029563361502085120",
+          "snippet": "药娘：他们吃药，想唤醒身体里的“她”】“男生不适合我，讨厌男性特征，胡子、喉结，还有下面。”明明16岁开始吃激素药，之后自切下体；罗月吃药2年， ...",
+          "date": "2018年8月15日",
+          "position": 13
+        },
+        {
+          "title": "药娘三区吧- 百度",
+          "link": "https://www.baidu.com/from=844b/ssid=0/s?word=%E8%8D%AF%E5%A8%98%E4%B8%89%E5%8C%BA%E5%90%A7&sa=re_dl_prs_34689_4&ms=1&rqid=8599228628423701782&rq=%E8%A2%AB%E5%88%AB%E4%BA%BA%E5%8F%98%E6%88%90%E8%8D%AF%E5%A8%98&rsf=1000701&asctag=50329",
+          "snippet": "... 新闻.. 反对药娘,药娘科普【反男娘吧】_百度贴吧. 8月28日反对药娘,药娘科普..我觉得药娘不管出于什么原因都不应该使用吃药这种 ...",
+          "position": 14
+        },
+        {
+          "title": "19岁药娘1年内被家人两次送改造 - 新浪视频",
+          "link": "https://video.sina.cn/news/2020-07-01/detail-iircuyvk1342188.d.html",
+          "snippet": "... （化名）生理性别男，16岁时发现自己倾向女性就吃药 ... 19岁药娘1年内被家人两次送改造. 澎 ...\n时长： 2:29\n发布时间： 2020年7月1日",
+          "date": "2020年7月1日",
+          "position": 15
+        },
+        {
+          "title": "“药娘”拿激素当糖吃：不吃我会抑郁 - 新浪广东",
+          "link": "http://gd.sina.com.cn/news/2018-08-16/detail-ihhvciiv8858410.shtml",
+          "snippet": "来源：澎湃新闻药娘是一群靠药物满足心理需求的跨性别者。“不吃药的话，我感觉会活得更短，会抑郁。”一些药娘拿药当糖吃，通过...",
+          "date": "2018年8月16日",
+          "position": 16
+        },
+        {
+          "title": "瘾君子、药娘与普雷西亚多 - 艺术论坛ARTFORUM",
+          "link": "https://www.artforum.com.cn/books/12711",
+          "snippet": "新闻 · 展评; 杂志 toggle submenu; 专栏 toggle submenu; 视频 · ENGLISH · ART ... 你每一次服药（不论处方药，还是非法医药、避孕药、伟哥），就等于参与到了 ...",
+          "date": "2020年3月23日",
+          "position": 17
+        },
+        {
+          "title": "我不是药神的故事，每天都在药娘圈里上演 - 观察者",
+          "link": "https://user.guancha.cn/wap/content?id=351481",
+          "snippet": "一切看起来都十分轻松，甚至可以被称作是水到渠成。 但在国内，当人们对LGBTQ的熟悉认知只限定于LGB，对T（transgender）的认知还停留在泰国人妖桃色新闻、甚至 ...",
+          "date": "2020年7月21日",
+          "position": 18
+        },
+        {
+          "title": "有人通过网络非法贩卖变性药？温州警方通报：已成立专门调查组",
+          "link": "https://new.qq.com/rain/a/20210409A09OWQ00",
+          "snippet": "他们自称用的“药娘”，指通过服用或注射药物等手段，使其生理状态更趋女性 ... 本文来自腾讯新闻客户端创作者，不代表腾讯新闻的观点和立场。",
+          "date": "2021年4月9日",
+          "position": 19
+        },
+        {
+          "title": "中国跨性别者- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85",
+          "snippet": "药娘是指通过口服或注射药物（雌性激素、黄体素、抗雄性激素）等手段，使其激素 ... 参见. 编辑 · 维基新闻中的相关报导：买激素比买毒药难中国跨女掀自杀潮 · 中华 ...",
+          "position": 20
+        },
+        {
+          "title": "Bad.news on X: \"药娘：我用20年跨越性别https://t.co/CLAh497VKp\" / X",
+          "link": "https://twitter.com/lvv2com/status/976096037663313923",
+          "snippet": "药娘：我用20年跨越性别https://t.co/CLAh497VKp.",
+          "date": "2018年3月20日",
+          "position": 21
+        },
+        {
+          "title": "温州市鹿城区人民检察院工作报告（2022）",
+          "link": "http://www.wenzhoulc.jcy.gov.cn/system/2023/03/23/014717512.shtml",
+          "snippet": "新闻中心 · 检察动态案件追踪媒体聚焦专项活动 · 网上服务 · 网上基地检察 ... “药娘”系列案件：药娘指通过服用或注射雌性激素等手段，使体貌特征接近 ...",
+          "date": "2023年2月17日",
+          "position": 22
+        },
+        {
+          "title": "CD - Sinapred | Facebook",
+          "link": "https://m.facebook.com/sinaprednicaragua/videos/330517152188525/?__so__=permalink&__rv__=related_videos&locale=zh_CN",
+          "snippet": "Video. . CD - Sinapred 的头像. CD - Sinapred. 2021年9月7日 ...\n时长： 0:19\n发布时间： 2021年9月7日",
+          "date": "2021年9月7日",
+          "position": 23
+        },
+        {
+          "title": "跨性别女性- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%97%A5%E5%A8%98?oldformat=true",
+          "snippet": "跨性别女性这个术语并不可以与变性人女性或者药娘通用，尽管这两种词汇通常存在 ... 在21世纪以前，电视、电影、新闻以及其他形式的媒体中的跨性别代表人物很少。",
+          "position": 24
+        },
+        {
+          "title": "一文带你看懂CI/CD 是什么？ - Red Hat",
+          "link": "https://www.redhat.com/zh/topics/devops/what-is-ci-cd",
+          "snippet": "CI/CD 是一种通过自动化频繁向客户交付应用的方法。“CI” 指持续集成，“CD” 指持续交付和/或持续部署，CI/CD 可让持续自动化和持续监控贯穿于应用的整个 ...",
+          "date": "2023年1月20日",
+          "position": 25
+        },
+        {
+          "title": "調查報道|中國跨性別女性的困境：買不到藥的「藥娘」",
+          "link": "https://www.rfa.org/cantonese/news/feature-transgender-04282023130725.html",
+          "snippet": "本台根據採訪的女性、新聞報道和社交媒體帖子得知，跨性別女性面臨的困難導致其中一些人採取了比自製藥物更極端的行動，包括自我切除睪丸。 Felicity是一名 ...",
+          "date": "2023年4月28日",
+          "position": 26
+        },
+        {
+          "title": "中华人民共和国驻刚果民主共和国大使馆经济商务处",
+          "link": "http://cd.mofcom.gov.cn/",
+          "snippet": "商务部网站首页: 机构设置: 新闻发布: 政务公开: 政务大厅: 互动交流: 公共服务. 关注微博关注微信公众号下载APP客户端. 机构设置. 商务部.",
+          "position": 27
+        },
+        {
+          "title": "播放CD 时显示“ Format Unsupported （格式化不受支持）”信息",
+          "link": "https://www.bose.cn/zh_cn/support/articles/HC421/productCodes/ls48_series3/article.html",
+          "snippet": "播放CD 时显示“ Format Unsupported （格式化不受支持）”信息. 如果您的系统 ... 全球新闻资讯 · 隐私政策 · 使用条款 · 谨防假货 · Cookies 声明 · 商标 · Bose 承担的可持续 ...",
+          "position": 28
+        },
+        {
+          "title": "郝沙彬等-CD：基于多套大气再分析及CMIP6模式数据揭示北太平洋和 ...",
+          "link": "https://www.ncsti.gov.cn/kjdt/kcrbx2024/202410/t20241029_183795.html?rid=718953",
+          "snippet": "郝沙彬等-CD：基于多套大气再分析及CMIP6模式数据揭示北太平洋和北 ... 新闻出版署（国家版权局） 国家宗教事务局 国务院港澳事务办公室 国务院 ...",
+          "date": "2天前",
+          "position": 29
+        },
+        {
+          "title": "在Mac 上将信息储存在CD 和DVD 光盘上- 官方Apple 支持(中国)",
+          "link": "https://support.apple.com/zh-cn/guide/mac-help/mchl8addfd95/mac",
+          "snippet": "如果Mac 具有外置DVD 驱动器（例如，Apple USB 全能光驱），你可以将文件永久储存或刻录到CD ... 阅读新闻 · 跟踪股票和股市 · 与朋友一起玩游戏; 订阅Apple 服务. Apple Music ...",
+          "position": 30
+        },
+        {
+          "title": "深圳山灵数码科技发展有限公司",
+          "link": "https://www.shanling.com/",
+          "snippet": "近期新闻. 解密原声| MCD1.3 MQA-CD/CD播放一体机重磅上市. MCD1.3 MQA-CD/CD播放一体机，是一款与SCD1.3同样定位于中高端 ...",
+          "position": 31
+        },
+        {
+          "title": "GitLab-10万企业使用的一站式DevOps平台_GitLab中文官网",
+          "link": "https://gitlab.cn/",
+          "snippet": "极狐GitLab中文官网，提供企业级源代码管理，GitLab CI/CD，CodeReview，研发效能管理，GitLab DevSecOps等产品及服务。GitLab一站式DevOps平台，加速和优化软件开发全生命 ...",
+          "position": 32
+        },
+        {
+          "title": "CD PROJEKT looks back at the first half of 2024",
+          "link": "https://www.cdprojekt.com/en/media/news/cd-projekt-looks-back-at-the-first-half-of-2024/",
+          "snippet": "See also: News · Logotypes · Media Contacts. Learn more: thewitcher.com · cyberpunk.net · gog.com · gear.cdprojektred ...",
+          "date": "2024年8月28日",
+          "position": 33
+        },
+        {
+          "title": "CD-S3000 - 雅马哈(Yamaha)中国",
+          "link": "https://www.yamaha.com.cn/products/show/945/",
+          "snippet": "内置USB DAC功能兼容超高分辨率音频源，利用CD-S3000卓越的数字/模拟转换功能； • 精湛的工艺，完美的外观，如乐器一般雅致；. 播放Super Audio CDs和传统CDs一样。甚至能从高 ...",
+          "currency": "¥",
+          "price": 45800,
+          "position": 34
+        },
+        {
+          "title": "原创15岁男孩加入“药娘群”，内容不堪入目，妈妈看后立即报警 - 搜狐",
+          "link": "https://www.sohu.com/a/461330563_120729455",
+          "snippet": "自从知道了孩子的事情以后，刘女士就辞职在家专心教育孩子，之后的过程中，刘女士发现儿子经常浏览一个群聊的信息，而这个群聊赫然是一个“药娘群”， ...",
+          "date": "2021年4月17日",
+          "position": 35
+        },
+        {
+          "title": "CD Heart - 男士精品| DIOR - 迪奥",
+          "link": "https://www.dior.cn/zh_cn/fashion/mens-fashion/cd-heart",
+          "snippet": "迪奥倾情呈献由金·琼斯(KIM JONES) 精心打造的CD HEART 限定系列。经典的迪奥徽标经焕新演绎，以“CD” 首字母勾勒出精致的心形图案，点缀着此系列的哈灵顿夹克、裹身式 ...",
+          "position": 36
+        },
+        {
+          "title": "刻录和翻录CD - Microsoft 支持",
+          "link": "https://support.microsoft.com/zh-cn/windows/%E5%88%BB%E5%BD%95%E5%92%8C%E7%BF%BB%E5%BD%95-cd-235021d5-e1c7-8616-4efd-4f4965fe6b91",
+          "snippet": "了解如何使用Windows Media Player 翻录(复制) 和刻录(创建) Cd 和数据Dvd。",
+          "position": 37
+        },
+        {
+          "title": "DA/T 38-2021档案级可录类光盘CD-R、DVD-R - 国家档案局",
+          "link": "https://www.saac.gov.cn/daj/hybz/202109/7a376895510a4f74a83e6449a8ce3716.shtml",
+          "snippet": "新闻动态 · 要闻 · 通知公告 · 国务院要闻 · 地方动态 · 工作动态 · 档案馆室 · 经科档案 · 法标与规划统计 · 教育培训 · 科技与信息化 · 国际档案 · 法规 ...",
+          "date": "2021年9月29日",
+          "position": 38
+        },
+        {
+          "title": "通过HTTP/FTP 下载Debian USB/CD/DVD 映像",
+          "link": "https://www.debian.org/CD/http-ftp/index.zh-cn.html",
+          "snippet": "微新闻 · 星球博客 · 用于USB、CD、DVD 的Debian 安装介质 / 通过HTTP/FTP 下载Debian USB/CD/DVD 映像. Debian 光盘 · 常见问题 · 网络安装 · Live images · 购买CD 或DVD ...",
+          "position": 39
+        },
+        {
+          "title": "《赛博朋克2077》的官方网站—— 游戏、动漫尽在其中",
+          "link": "https://www.cyberpunk.net/ua/zh-cn/",
+          "snippet": "我已年满16周岁, 我自愿收到来自CD PROJEKT的新闻，促销优惠及其他信息. CD PROJEKT会对您的个人信息负责. 如需更多信息，请访问CD PROJEKT的隐私政策.",
+          "position": 40
+        },
+        {
+          "title": "便携式CD 播放机EXP5108BK/93 | Philips -飞利浦",
+          "link": "https://www.philips.com.cn/c-p/EXP5108BK_93/portable-cd-player",
+          "snippet": "便携式CD 播放机带给您无与伦比的曼妙体验，享受10 小时无跳播音乐。经典设计，配有液晶显示屏，是您随时欣赏音乐的轻松便捷之选。",
+          "position": 41
+        },
+        {
+          "title": "无“毒”三国｜这种“电子烟”，是毒不是烟！",
+          "link": "https://www.cdwh.gov.cn/wuhou/c123072/2024-01/29/content_412ab857ff6746a6886fb1dce13de663.shtml",
+          "snippet": "街道新闻 · 办事指南 · 信息公开 · 主任信箱 · 联系我们 ... 其中，作为主要成分的“依托咪酯“是一种不溶于水的白色粉末状物质，为非巴比妥类静脉短效催眠药 ...",
+          "date": "2024年1月29日",
+          "position": 42
+        },
+        {
+          "title": "Jira 与CI/CD 集成 - Atlassian",
+          "link": "https://www.atlassian.com/zh/devops/imagelabeller-intro/jira-cicd-integration",
+          "snippet": "将Jira 与Bitbucket、Github 和Gitlab 集成，查看您的Jira 事务，以查看您的CI/CD 管道 ... 注册以获取我们的DevOps 新闻资讯. 电子邮件地址. Thank you for signing up. 企业.",
+          "position": 43
+        },
+        {
+          "title": "DVD+R常规检测参数 - 全国标准信息公共服务平台",
+          "link": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D81EF6D3A7E05397BE0A0AB82A",
+          "snippet": "国家标准《可录类出版物光盘CD-R、DVD-R、DVD+R常规检测参数》 由TC527（全国新闻出版标准化技术委员会）归口 ，主管部门为国家新闻出版署（国家版权局）。 主要起草单位 中航御 ...",
+          "position": 44
+        },
+        {
+          "title": "'SHOOTING STAR' CD BOX sets are now available! - NEWS - XGALX",
+          "link": "https://xgalx.com/zh-CHS/xg/news/detail.php?id=1105694",
+          "snippet": "'SHOOTING STAR' CD BOX sets are now available! The 'SHOOTING STAR' CD BOX sets are now available on XG Official Shop / Weverse Shop / MERCHBAR ...",
+          "date": "2023年1月25日",
+          "position": 45
+        },
+        {
+          "title": "CD 50n CD Player | Marantz™ - 马兰士",
+          "link": "https://www.marantz.com.cn/zh-cn/product/cd-players/cd50n",
+          "snippet": "The modern digital engine in the CD 50n reveals the finest details in high-resolution recordings available today, with HEOS® Built-in allowing you to enjoy ...",
+          "position": 46
+        },
+        {
+          "title": "“赛博朋克2077 (Cyberpunk 2077)”光线追踪：超速模式",
+          "link": "https://www.nvidia.cn/geforce/news/cyberpunk-2077-ray-tracing-overdrive-mode-interview/",
+          "snippet": "... NVIDIA 技术，以及CD ... 新闻. 最新消息 · #SHOTWITHGEFORCE · 开发者资源. 支持. 驱动程序. 关注GeForce.",
+          "date": "2023年4月11日",
+          "position": 47
+        },
+        {
+          "title": "什么是存单(CD)——类型及何时选择 - Moomoo",
+          "link": "https://www.moomoo.com/us/hans/learn/detail-what-is-a-cd-certificate-of-deposit-116935-231114083",
+          "snippet": "What is a CD Account? Certificates of deposit, commonly referred to as CDs, are a type of savings account that typically offers higher interest ...",
+          "date": "2024年9月25日",
+          "position": 48
+        },
+        {
+          "title": "什么是CI/CD 及其工作原理？ - OpenText",
+          "link": "https://www.opentext.com/zh-cn/what-is/ci-cd",
+          "snippet": "持续集成（CI）和持续交付（CD）是开发团队用来频繁交付代码变更的方法。了解更多信息，请访问OpenText 。",
+          "position": 49
+        },
+        {
+          "title": "第七期SSCB-CD Symposia 与中国细胞生物学学会细胞代谢分会第四 ...",
+          "link": "https://meeting2.cscb.org.cn/SSCB-CD-7/",
+          "snippet": "第七期SSCB-CD Symposia 与中国细胞生物学学会细胞代谢分会第四届学术联合 ... 会议招展. 新闻公告. 第七期SSCB-CD Symposia 与中国细胞生物学学会细胞代谢分会第 ...",
+          "position": 50
+        },
+        {
+          "title": "外置便携CD / DVD 光驱| Dell 中国大陆",
+          "link": "https://www.dell.com/zh-cn/shop/%E5%A4%96%E7%BD%AEcd-dvd/ar/5687",
+          "snippet": "... CD/DVD. ... 我们的定位 · 工作机会 · Dell Technologies 资本 · 投资者 · 新闻编辑室 · 回收 · ESG 及影响 · 客户案例 ...",
+          "position": 51
+        },
+        {
+          "title": "【相约药博会】纪念华佗诞辰1897周年祭祀典礼举行 - 安徽新闻联播",
+          "link": "http://ah.anhuinews.com/bozhou/news/rw/202409/t20240909_7833000.html",
+          "snippet": "... 药童的不同教学方式，展现华佗因材施教和他的部分医学成就；在采药舞环节，在洗药池的水雾造景下，一群药娘采药而归，洗涤药草，通过舞蹈展现药材采摘 ...",
+          "date": "2024年9月9日",
+          "position": 52
+        },
+        {
+          "title": "拿激素当糖吃药娘以身试药：不吃我会抑郁",
+          "link": "https://m.huanqiu.com/article/9CaKrnKbqbw",
+          "snippet": "药娘是一群靠药物满足心理需求的跨性别者。“不吃药的话，我感觉会活得更短，会抑郁。”一些药娘拿药当糖吃，通过网络非正规渠道买药，以身试药， ...",
+          "date": "2018年8月15日",
+          "position": 53
+        },
+        {
+          "title": "第3 章新功能：详细描述",
+          "link": "https://docs.oracle.com/cd/E19620-01/805-5842/6j5gu5347/index.html",
+          "snippet": "对访问时间无关紧要的系统（例如，Usenet 新闻假脱机），该选项减少了对文件系统 ... Solaris 7 文档CD 包括从CD 安装软件的新选项。可以使用诸如 pkgadd 这样的 ...",
+          "position": 54
+        },
+        {
+          "title": "蓬勃生物祝贺乘典生物的CD-001获美国FDA临床试验许可",
+          "link": "https://bydrug.pharmcube.com/news/detail/eef7d42aa9c01df6351d0aa8f965bd44",
+          "snippet": "ByDrug医药新闻摘要⌋ 2024-09-23 15:48，ProBio蓬勃生物：9月20日，蓬勃生物的合作伙伴乘典（苏州）生物医药有限公司宣布，其自主研发的靶向肿瘤反应性CD8+T ...",
+          "date": "2024年9月23日",
+          "position": 55
+        },
+        {
+          "title": "Anti-CD抗体- 金斯瑞",
+          "link": "https://www.genscript.com.cn/anti-cd-antibodies.html",
+          "snippet": "GenScript提供广泛的高质量抗CD抗体，用于各种研究应用。我们的抗CD抗体针对特定的CD抗原，实现对免疫细胞种群的精准检测、表征和调节。",
+          "position": 56
+        },
+        {
+          "title": "CDNetworks - 行业领先的CDN 和安全解决方案",
+          "link": "https://www.cdnetworks.com/cn/",
+          "snippet": "CD网络标志 · 关于CDNetworks · 关于CDNetworks · 为什么选择CDNetworks ... CDNetworks IBC2024 - 新闻缩略图 · IBC 2024 ...",
+          "position": 57
+        },
+        {
+          "title": "CD PROJEKT RED —— 《玩家内容指南》",
+          "link": "https://www.cdprojektred.com/zh-cn/fan-content",
+          "snippet": "为我们的游戏创建社区网站、粉丝页面或新闻小组，. 创建与我们游戏配套使用的软件，例如直播时的叠放插件， ……我们相信您会想出更具创意的点子！ 第2 ...",
+          "date": "2020年12月10日",
+          "position": 58
+        },
+        {
+          "title": "缤纷校园 - 武汉大学新闻网",
+          "link": "https://news.whu.edu.cn/xywh/bfxy/39.htm",
+          "snippet": "... 新闻奖评选揭晓，我校获最佳新闻特写（中文）冠军、最佳校园新闻报道季军两个奖项。新闻与传播学院院报《新视点》作品《异躯人：隐秘的药娘》,作者为江婧怡、刘武久 ...",
+          "position": 59
+        },
+        {
+          "title": "[地理中国]佤族神药“娘布洛” - 央视网",
+          "link": "https://tv.cctv.com/v/v1/VIDE4iQdBJk5fbDBVlx1yaJG190705.html",
+          "snippet": "佤族神药“娘布洛”. 更新时间：2019-07-05 20:11 · 来源：央视网 · 视频简介：佤族 ...\n时长： 0:36\n发布时间： 2019年7月5日",
+          "date": "2019年7月5日",
+          "position": 60
+        },
+        {
+          "title": "新闻中心-青羊区人民政府门户网站",
+          "link": "http://www.cdqingyang.gov.cn/qyq/xwzx/news.shtml",
+          "snippet": "10月28日下午，成都都市圈司法护航文旅融合高质量发展签约座谈暨金沙遗址文化遗产司法保护基地启动活动在成都金沙遗址博物馆举行。四川高院副院长张能，成都中院院长杨诚，市 ...",
+          "position": 61
+        },
+        {
+          "title": "蜗居在互联网角落，“药娘”没有未来 - 网易新闻",
+          "link": "https://c.m.163.com/news/a/H277GCGV051100B9.html",
+          "snippet": "在浏览推特的过程中，小雷注意到一个药娘的推文，他写道：“我是不是很肮脏？我也不喜欢做这些事情，但是为了买药，我没有办法”，他很后悔但是却无法抗拒成为“女性 ...",
+          "date": "2022年3月11日",
+          "position": 62
+        },
+        {
+          "title": "什么是Argo CD？ - Red Hat",
+          "link": "https://www.redhat.com/zh/topics/devops/what-is-argocd",
+          "snippet": "Argo CD 是Kubernetes 的一个声明式持续交付工具。它既可将其作为独立的工具使用，也可将其作为CI/CD 工作流的一部分向集群提供所需的资源。",
+          "date": "2024年4月26日",
+          "position": 63
+        },
+        {
+          "title": "社会夹缝艰难求生的“药娘”：家人不理解，为变性走上违法道路 - 新闻",
+          "link": "https://news.sohu.com/a/820560712_121985181",
+          "snippet": "并非所有药娘群都是混乱不堪，也有一些自身是药娘且了解各种药物对身体影响的跨性别者建立的聊天室，她们在面对兴冲冲跑进群里欢呼找到组织并要加入的 ...",
+          "date": "5天前",
+          "position": 64
+        },
+        {
+          "title": "在哪里可以找到我的Ubisoft Connect CD Key？ - Epic Games商店支持",
+          "link": "https://www.epicgames.com/help/zh-CN/c-Category_EpicGamesStore/c-EpicGamesStore_LauncherSupport/ubisoft-connect-cd-key-a000090211",
+          "snippet": "在哪里可以找到我的Ubisoft Connect CD Key？ 您不需要使用产品密钥来激活在 ... 简介新闻室招贤纳士学生用户研究. ©2024, Epic Games, Inc. 保留所有权利。Epic ...",
+          "position": 65
+        },
+        {
+          "title": "从Mac 推出CD 和DVD - 官方Apple 支持(中国)",
+          "link": "https://support.apple.com/zh-cn/guide/mac-help/mchl2f6b0645/mac",
+          "snippet": "了解如何从已连接的外置光盘驱动器中推出CD 或DVD。",
+          "position": 66
+        },
+        {
+          "title": "小伙花6000元在宾馆做了个“变性”手术网友“医生”的技术竟是从视频里 ...",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2018-08/30/content_7059632_0.htm",
+          "snippet": "杭州网 > 杭州新闻中心 > 科教卫新闻. 小伙花6000元在宾馆做了个“变性 ... 在“药娘群”，小斌认识了小俊（化名）。在听说小斌想做变性手术后，小俊 ...",
+          "date": "2018年8月30日",
+          "position": 67
+        },
+        {
+          "title": "在Windows Media Player 中播放CD 或DVD - Microsoft 支持",
+          "link": "https://support.microsoft.com/zh-cn/windows/%E5%9C%A8-windows-media-player-%E4%B8%AD%E6%92%AD%E6%94%BE-cd-%E6%88%96-dvd-f562296c-32fd-cfe7-5496-8b00cb4ecea5",
+          "snippet": "在Windows Media Player 中，你可以播放包含音乐或视频文件的音频CD、数据CD 和数据DVD（也称为媒体CD）。 ... 公司新闻 · Microsoft 隐私 · 投资人 · 可持续发展 · 中文(中国) ...",
+          "position": 68
+        },
+        {
+          "title": "“天价药”开出“平民价” 医保药品目录调整呈现三个新特点 - 新闻频道",
+          "link": "https://news.cctv.com/2024/10/28/ARTI7dzobwcJsgSDi3SsSVJ3241028.shtml",
+          "snippet": "国家医保局10月27日正式启动2024年医保目录现场谈判、竞价工作。162个通用名药品参加谈判、竞价，其中包括肿瘤、慢性病、罕见病、麻醉等领域用药。",
+          "date": "3天前",
+          "position": 69
+        },
+        {
+          "title": "没钱吃药就援交这些“药娘”成了福利姬 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8EJd47CNgOj",
+          "snippet": "不过嚯，网络上还有一个群体，他们人数众多，这么些年来却一直过得十分低调。 不和小伙伴们卖关子了，这个群体就是“药娘”，不知道大伙有没有听说过？",
+          "date": "2022年3月12日",
+          "position": 70
+        },
+        {
+          "title": "CD-S2100 - 雅马哈(Yamaha)中国",
+          "link": "https://www.yamaha.com.cn/products/show/944/",
+          "snippet": "高端的CD播放器传递了雅马哈新的声音，其配置了高性能的USB音频、数模转换器和其他先进功能。 • 左右对称结构和带有电源优化的数字/模拟电路独立配置。 • 针对高精度信号读 ...",
+          "currency": "¥",
+          "price": 23580,
+          "position": 71
+        },
+        {
+          "title": "Debian -- Live 安装映像",
+          "link": "https://www.debian.org/CD/live/index.zh-cn.html",
+          "snippet": "微新闻 · 星球博客 · 用于USB、CD、DVD 的Debian 安装介质 / Live 安装映像. Debian 光盘 · 常见问题 · 网络安装 · Live images · 购买CD 或DVD; 下载. 通过HTTP/FTP 下载 ...",
+          "position": 72
+        },
+        {
+          "title": "加速：药娘开始被打击 - 品葱",
+          "link": "https://www.pincong.rocks/article/id-31162__sort_key-agree_count__sort-DESC",
+          "snippet": "他们自称用的“药娘”，指通过服用或注射药物等手段，使其生理状态更趋女性化的 ... 原新闻属于脑补过度了。 然后支持管一管的是那些色情擦边球，尤其是未成年色情 ...",
+          "position": 73
+        },
+        {
+          "title": "Cyberpunk 2077 Follow-up, codenamed Project Orion, grows in ...",
+          "link": "https://www.cdprojekt.com/en/media/news/cyberpunk-2077-follow-up-codenamed-project-orion-grows-in-strength-at-cd-projekt-red-north-america/",
+          "snippet": "Start News Cyberpunk 2077 Follow-up, codenamed Project Orion, grows in strength at CD PROJEKT RED North America! Cyberpunk 2077 Follow-up, ...",
+          "date": "2024年2月6日",
+          "position": 74
+        },
+        {
+          "title": "AXOR made by Schock 台上盆Signus N-100 XL CD，带自动下水套件",
+          "link": "https://www.axor-design.com.cn/articledetail--43031100",
+          "snippet": "台上盆Signus N-100 XL CD，带自动下水套件. 现在看.",
+          "position": 75
+        },
+        {
+          "title": "药娘父母：得知孩子在吃药变性感觉天都塌下来了 - 新浪视频",
+          "link": "http://video.sina.cn/news/s/2018-08-15/detail-ihhtfwqr4173248.d.html",
+          "snippet": "视频|药娘父母：得知孩子在吃药变性感觉天都塌下来了. 澎湃新闻 +关注 免流量看视频. 收藏 ...\n发布时间： 2018年8月15日",
+          "date": "2018年8月15日",
+          "position": 76
+        },
+        {
+          "title": "2024 年适合DevOps 团队的5 款最佳CI/CD 工具 - Atlassian",
+          "link": "https://www.atlassian.com/zh/devops/devops-tools/cicd-tools",
+          "snippet": "除自动化外，开发团队还使用CI/CD 工具通过提供代码变更的即时反馈来改善协作。 ... 注册以获取我们的DevOps 新闻资讯. 电子邮件地址. Thank you for signing up. 企业.",
+          "position": 77
+        },
+        {
+          "title": "CD Icon 细链环项链银质| DIOR - 迪奥",
+          "link": "https://www.dior.cn/zh_cn/fashion/products/N2502HOMST_D990",
+          "snippet": "这款银色项链彰显Dior 的现代风格。镂空CD Icon 标志让细链环更显精致迷人，致敬Dior 经典。扣环处饰以Dior 标志，可轻松调节项链长度。可与配套的手链搭配， ...",
+          "position": 78
+        },
+        {
+          "title": "27 · 论坛| 药娘的天空",
+          "link": "https://transky.mtf.wiki/01/027",
+          "snippet": "苏雨晴对于这些帖子的兴趣都不是很大，随便翻看了几个有关手术的国外新闻后，就打开了自己的私信。 在论坛里，苏雨晴还是有几个比较熟悉的朋友的，虽说她们都 ...",
+          "date": "2024年3月26日",
+          "position": 79
+        },
+        {
+          "title": "伪娘- 萌娘百科万物皆可萌的百科全书",
+          "link": "https://zh.moegirl.org.cn/zh-cn/%E4%BC%AA%E5%A8%98",
+          "snippet": "药娘. 药娘指的是通过吃药（服用抗雄激素或雌激素）等手段（但一般不实施变性手术）想要变成女性的男子，其性别认同上通常为性少数群体中的跨性别者。而药娘与伪娘本质 ...",
+          "position": 80
+        },
+        {
+          "title": "便携式MP3-CD 播放器EXP2368/93 | Philips -飞利浦",
+          "link": "https://www.philips.com.cn/c-p/EXP2368_93/portable-mp3-cd-player",
+          "snippet": "EXP2368 MP3-CD 播放器带给您无与伦比的曼妙体验，这是一个能够10 小时无跳跃播放音乐的MP3-CD。经典设计，配有液晶显示屏，是您随时欣赏音乐的轻松便捷之选.",
+          "position": 81
+        },
+        {
+          "title": "GitLab CI/CD持续集成工具",
+          "link": "https://gitlab.cn/stages-devops-lifecycle/continuous-integration/",
+          "snippet": "... CD工具，实现开发流程的无缝集成，推动您的项目成功上线！ ... 获取产品更新、功能解读、最佳实践 · 近期活动 →. 获取公司、产品最新活动信息 · 公司新闻 →.",
+          "position": 82
+        },
+        {
+          "title": "r/China_irl - 中国跨性别近况",
+          "link": "https://www.reddit.com/r/China_irl/comments/nyu1ss/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%91%E5%86%B5/",
+          "snippet": "不论药物的副作用，我听说不少药娘下海是为了支付药物费用，我认为这太极端了。 对于你提到的这类跨性别者，以及未成年跨性别者，最重要的是理想中的自己与 ...",
+          "date": "2021年6月13日",
+          "position": 83
+        },
+        {
+          "title": "推特上的药娘是什么意思 - 抖音",
+          "link": "https://www.douyin.com/shipin/7286367581265709113",
+          "snippet": "#药娘#小眼睛大叔#内容过于真实#孩子教育#父母必看系列@DOU+小助手书接上文，咱们这期接着说要娘上集和中集我已经详细讲过了要娘 ... 根据澎湃新闻报导， 国际 ...",
+          "date": "2023年10月5日",
+          "position": 84
+        },
+        {
+          "title": "《赛博朋克2077》的官方网站—— 游戏、动漫尽在其中",
+          "link": "https://www.cyberpunk.net/us/zh-cn/",
+          "snippet": "我已年满17周岁, 我自愿收到来自CD PROJEKT的新闻，促销优惠及其他信息. CD PROJEKT会对您的个人信息负责. 如需更多信息，请访问CD PROJEKT的隐私政策.",
+          "position": 85
+        },
+        {
+          "title": "清华大学开源软件镜像站| Tsinghua Open Source Mirror",
+          "link": "https://mirrors.tuna.tsinghua.edu.cn/",
+          "snippet": "debian-cd, 2024-10-29 02:57. debian-eltsnew [Help], 2024-10-28 09:22 ... 新闻公告. 2024-07-02 CentOS 7 与Debian 10 结束支持 · 2024-04-07 关于更换Erlang ...",
+          "position": 86
+        },
+        {
+          "title": "药娘Jenny：黑丝纯欲美妖的魅力瞬间 - TGba",
+          "link": "https://tgba.io/telegram/%23%E8%8D%AF%E5%A8%98Jenny.html",
+          "snippet": "... 药娘Jenny#视觉盛宴#迷人瞬间#黑丝美妖. #P5TL 在Telegram中打开. 热门分类. 娱乐(369189) 成人娱乐(35088) 新闻(28501) 社会新闻(26321) 生活(23409) 视频分享(20287) 短 ...",
+          "position": 87
+        },
+        {
+          "title": "“激素、阉割、变性”，被嫌弃的药娘一生",
+          "link": "https://user.guancha.cn/main/content?id=468026&page=1",
+          "snippet": "还有人去小诊所或者黑心作坊，结果是大出血，二级伤残，永远丧失性功能。 500. 来自澎湃新闻. 变成“正常人”就好了吗？ 跨性别群体是少数派，或者说 ...",
+          "date": "2021年2月25日",
+          "position": 88
+        },
+        {
+          "title": "我的丈夫是“药娘” - 网易",
+          "link": "https://m.163.com/dy/article/IBGDTSMP055619BO.html",
+          "snippet": "1女人千万不要在老公的朋友面前秀恩爱，不然在他们眼里你就是个笑话。因为他们都知道一个只有你不知道的秘密。我和陈宇是相亲认识的。",
+          "date": "2023年8月7日",
+          "position": 89
+        },
+        {
+          "title": "跨性别女性在中国：当“妳”只被允许成为“你” | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/article/20230323-mainland-mtf-all-ask-for-is-a-chance-to-live",
+          "snippet": "药娘的“哭墙”. 格拉蕾已在北欧停留八年，她从不做回到故土的打算。这是她 ... 那一句男声咒骂令她冷不防地回想去年3月传遍MTF圈的一则新闻：一名 ...",
+          "date": "2023年3月23日",
+          "position": 90
+        },
+        {
+          "title": "加入药娘QQ群(加入药娘QQ群)",
+          "link": "http://phus.shclawyer.com.cn/news/7103d76098529.html",
+          "snippet": "... 药娘QQ群药娘QQ ... 国内新闻. 东莞还有站巷子的吗(如果你是东莞一个单身汉) · 郫都区卖批一条街 ...",
+          "date": "1天前",
+          "position": 91
+        },
+        {
+          "title": "桃金娘抗耐药菌活性成分研究取得进展----改版-中国科学院成都生物 ...",
+          "link": "http://www.cib.ac.cn/xwdt/kjqy/202408/t20240807_7247506.html",
+          "snippet": "图片新闻 · 通知公告 · 图片展示 · 视频 · 新闻动态 科技前沿. 桃金娘抗耐药菌活性成分研究取得进展 ... 药用植物。 中国科学院华南植物园天然产物化学生物学研究组博士 ...",
+          "position": 92
+        },
+        {
+          "title": "火热黄金周|好玩又出片这些沉浸式新场景你选谁？ - 成都日报",
+          "link": "https://v5share.cdrb.com.cn/h5/detail/normal/5469060325508096",
+          "snippet": "... 新闻客户端刘鲁. 随着中秋国庆大假 ... 作为全国少有的半岛茶饮空间，熊猫很行将成都的精髓深刻融入到装修、产品、氛围的点点滴滴。 成都日报锦观新闻 ...",
+          "date": "2023年9月24日",
+          "position": 93
+        },
+        {
+          "title": "【筑梦现代化共绘新图景】让更多优质藏药制剂成为惠民好药——记 ...",
+          "link": "http://www.qinghai.gov.cn/zwgk/system/2024/05/07/030043582.shtml",
+          "snippet": "... 新闻动态 / 图片新闻. 【筑梦现代化共绘新图景】让更 ... 2018年，“国医大师”尼玛指导娘加先创新藏药制剂炮制方法。 ... “藏药制剂从采药、鉴别、炮制、配料、加工 ...",
+          "position": 94
+        },
+        {
+          "title": "加速：药娘开始被打击 - 品葱",
+          "link": "https://pincong.rocks/article/31162",
+          "snippet": "他们自称用的“药娘”，指通过服用或注射药物等手段，使其生理状态更趋 ... 原新闻属于脑补过度了。 然后支持管一管的是那些色情擦边球，尤其是未 ...",
+          "date": "2021年4月10日",
+          "position": 95
+        },
+        {
+          "title": "药娘群像：与身体斗争的这些年 - 凤凰网",
+          "link": "http://inews.ifeng.com/51900796/news.shtml",
+          "snippet": "凤凰新闻; 快头条; 凤凰视频. 资讯频道. 用4个字收获200元，平民小伙合不拢嘴...>> 药娘群像：与身体斗争的这些年. 2017-09-07 04:35 每日人物公号.",
+          "position": 96
+        },
+        {
+          "title": "推特逆天药娘图 - 抖音",
+          "link": "https://www.douyin.com/search/%E6%8E%A8%E7%89%B9%E9%80%86%E5%A4%A9%E8%8D%AF%E5%A8%98%E5%9B%BE",
+          "snippet": "6天前. cd，药娘，ts长期服用激素有什么后果？#ts #反串 #男扮女装 ... 广州新闻电台. 认证徽章 · 广州新闻电台. ·4年前. 考古都能考出狗粮. 考古都能 ...",
+          "date": "8天前",
+          "position": 97
+        },
+        {
+          "title": "原创15岁儿子私藏激素药物，单亲妈妈进入“药娘群”后，心痛报警 - 搜狐",
+          "link": "https://www.sohu.com/a/461212290_100203620",
+          "snippet": "原创 15岁儿子私藏激素药物，单亲妈妈进入“药娘群”后，心痛报警. 媛妈 ... 为您推荐中 暂时没有更多内容了…… 网站地图. 新闻 · 财经 · 娱乐 · 军事 · 体育 ...",
+          "date": "2021年4月16日",
+          "position": 98
+        },
+        {
+          "title": "[闲聊]前两天约翰斯顿好像出了个大新闻178",
+          "link": "https://nga.178.com/read.php?tid=10671237",
+          "snippet": "就是有个药娘出来援交，顶到G点失手把E5捞出来的约翰斯顿喂了，结果因为这个导火索，这个药娘又火了，这两天在知乎上被疯狂扒皮，内容不忍直视，隔壁猴区 ...",
+          "date": "2016年12月26日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "不归路上的“药娘”_手机新浪网",
+          "imageUrl": "https://k.sinaimg.cn/n/test/crawl/33/w550h283/20210716/f043-f97711cfaac004e5d22a28b015634483.png/w700d1q75cms.jpg?by=cms_fixed_width",
+          "link": "https://zx.sina.cn/sh/2021-07-16/zx-ikqciyzk5735908.d.html"
+        },
+        {
+          "title": "药娘QQ群”一步步诱骗15岁儿子打针吃药“变性”-新闻中心-温州网",
+          "imageUrl": "https://news.66wz.com/pic/003/007/532/00300753209_6f74c2ac.jpg",
+          "link": "https://news.66wz.com/system/2021/04/08/105358825.shtml"
+        },
+        {
+          "title": "视频|药娘父母：得知孩子在吃药变性感觉天都塌下来了_手机新浪网",
+          "imageUrl": "https://n.sinaimg.cn/news/transform/53/w550h303/20180815/8irt-hhtfwqr4091604.png",
+          "link": "http://video.sina.cn/news/s/2018-08-15/detail-ihhtfwqr4173248.d.html"
+        },
+        {
+          "title": "蜗居在互联网角落，“药娘”没有未来",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/14616647490/641",
+          "link": "https://news.qq.com/rain/a/20220311A0COAQ00"
+        },
+        {
+          "title": "调查：社会夹缝与边缘的“药娘”群体_手机新浪网",
+          "imageUrl": "https://n.sinaimg.cn/test/crawl/132/w399h533/20211019/1072-68d91bb4c14a27bd8ff36db7faa40010.jpg",
+          "link": "https://zx.sina.cn/sh/2021-10-19/zx-iktzqtyu2334053.d.html"
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/90/257/730.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9307060"
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/90/257/686.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9307060"
+        },
+        {
+          "title": "19岁“药娘”1年内被家人两次送改造，经历三次出逃后家人最终妥协",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/12018663258/641",
+          "link": "https://new.qq.com/rain/a/20200701A0K1BN00?pc"
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/90/257/271.jpg",
+          "link": "https://m.thepaper.cn/newsdetail_forward_9307060"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "药娘自杀"
+        },
+        {
+          "query": "药娘寿命"
+        },
+        {
+          "query": "药娘吃的什么药"
+        },
+        {
+          "query": "药娘身体变化"
+        },
+        {
+          "query": "药娘停药"
+        },
+        {
+          "query": "药娘知乎"
+        },
+        {
+          "query": "药娘wiki"
+        },
+        {
+          "query": "药娘糖"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "药娘 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "[闲聊]前两天约翰斯顿好像出了个大新闻178",
+          "link": "https://nga.178.com/read.php?tid=10671237",
+          "snippet": "就是有个药娘出来援交，顶到G点失手把E5捞出来的约翰斯顿喂了，结果因为这个导火索，这个药娘又火了，这两天在知乎上被疯狂扒皮，内容不忍直视，隔壁猴区 ...",
+          "date": "2016年12月26日",
+          "position": 1
+        },
+        {
+          "title": "结果: 找到“药娘” 相关内容15 个 - Stage1st",
+          "link": "https://bbs.saraba1st.com/2b//search.php?mod=forum&srchtxt=%E8%8D%AF%E5%A8%98&searchsubmit=yes",
+          "snippet": "药娘群体引热议，这到底是个什么样的群体 · https://k.sina.cn/article_1773083760_m69af1c70033011ad6.html 今年药娘频上新闻，政府是不是... #卓明谷; 25358; 128. 不想活.",
+          "position": 2
+        },
+        {
+          "title": "CD科瑞亚VS埃尔切",
+          "link": "http://www.ymhg.com.cn/zuqiuzhibo/9742.html",
+          "snippet": "... 足球新闻 · 篮球新闻. 27%. 当前位置: 首页 > 足球直播. CD科瑞亚VS埃尔切. 足球直播 2024-10-31 03:30:00. 在2024-10-31 03:30:00，精彩的国王杯对决【CD科瑞亚VS ...",
+          "position": 3
+        },
+        {
+          "title": "推：璧合by法采，乡下药娘VS少年将军，古言追妻，酸涩拉扯 - 新闻",
+          "link": "https://news.sohu.com/a/820200285_121829698",
+          "snippet": "女主父母凭借努力也算一家老小吃喝无虑，有点资产，女主一家也是团结和睦有爱，幼时女主过了一段很是无忧无虑的少女生活，直到女主大哥带队前往边关采药， ...",
+          "date": "6天前",
+          "position": 4
+        },
+        {
+          "title": "DNF药娘是什么意思药娘是什么梗-8090网页游戏",
+          "link": "https://www.8090.com/news/gonglue/article_217118.html",
+          "snippet": "... 新闻 · 原创攻略 · 礼包 · 充值 · VIP · 客服 · 商城. 您的位置：主页 > 游戏资讯 > 游戏攻略 >. DNF药娘是什么意思药娘是什么梗; 2016-04-13 10:08作者：白咻咻.",
+          "position": 5
+        },
+        {
+          "title": "青春学子翩翩至南汉故地筑新城 - 广州市政府",
+          "link": "https://www.gz.gov.cn/zlgz/whgz/content/post_9948153.html",
+          "snippet": "... 药科大学、广东工业大学、广州美术学院、星海音乐学院、暨南大学以及广州 ... 清末广绣兴盛时，北亭村“家家有绣架，户户有绣娘”，流传着“广州派 ...",
+          "date": "1天前",
+          "position": 6
+        },
+        {
+          "title": "拿激素当糖吃药娘以身试药：不吃我会抑郁",
+          "link": "https://3w.huanqiu.com/a/0c789f/7FpshZnwL0Q?agt=17@",
+          "snippet": "来源：【澎湃新闻】. 药娘是一群靠药物满足心理需求的跨性别者。“不吃药的话，我感觉会活得更短，会抑郁。”一些药娘拿药当糖吃，通过网络非正规渠道买药， ...",
+          "date": "2018年8月16日",
+          "position": 7
+        },
+        {
+          "title": "礼来公布「重磅自免药物」长期数据，对战强生、艾伯维！",
+          "link": "https://bydrug.pharmcube.com/news/detail/3284222988c26145641f5c83220afe5c",
+          "snippet": "ByDrug医药新闻摘要⌋ 2024-10-30 15:51，药时代：结果显示，mirikizumab在两种炎症性肠病中均显示出长期稳定疗效，且安全性良好。 基于此次公布数据，礼来强调称 ...",
+          "position": 8
+        },
+        {
+          "title": "【木桶猫访谈】大家怎么看某新闻对“药娘”的报道？ - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1Ks411F7Ly/",
+          "snippet": "木桶猫视频——跨性别者怎么看待某新闻网站的4篇关于“药娘”的新闻。, 视频播放量2421、弹幕量13、点赞数40、投硬币枚数50、收藏人数24、转发人数35, ...",
+          "date": "2018年9月1日",
+          "position": 9
+        },
+        {
+          "title": "[转] 小药娘常用糖的副作用，和可爱吧见到的几个可爱的xyn",
+          "link": "https://blog.seanzou.com/archives/-zhuan-xiao-yao-niang-chang-yong-tang-de-fu-zuo-yong--he-ke-ai-ba-jian-dao-de-ji-ge-ke-ai-de-xyn",
+          "snippet": "确实很久以前的时候，看过一篇新闻，说是高中男生入学，结果因为注射了很多雌性激素，室友们都感觉把持不住之类的事情，但是没想到其实这个圈子蛮大的。只能说，",
+          "date": "2022年5月8日",
+          "position": 10
+        },
+        {
+          "title": "（无关键政）变性吃药要慎重！ - YouTube",
+          "link": "https://www.youtube.com/watch?v=0r_KgFdrTjk",
+          "snippet": "... 所》【2024.9.18『1800年代晚報張雅琴說播批評』】. 年代新聞CH50 New 111K views · 20:17 · Go to channel · Wang's News Talk｜I Apologizes to Everyone.",
+          "date": "2023年8月24日",
+          "position": 11
+        },
+        {
+          "title": "跨区知识产权联合执法护航青羊市场秩序营商环境",
+          "link": "http://www.cdqingyang.gov.cn/qyq/zwyw/2024-10/31/content_e051da799efb479ea23376255d011296.shtml",
+          "snippet": "新闻中心 · 政务公开 · 政务服务 · 政民互动 · 认识青羊 · 首页 / 新闻中心 / 政务要闻. 跨区知识产权联合执法护航青羊市场秩序营商环境. 来源：锦绣青羊 ...",
+          "date": "3小时前",
+          "position": 12
+        },
+        {
+          "title": "药娘拿激素当糖吃长期吃激素有什么后果 - 黑龙江网",
+          "link": "https://m.chinahlj.cn/news/189587.html",
+          "snippet": "药娘是一群靠药物满足心理需求的跨性别者。“不吃药的话，我感觉会活得更短，会抑郁。”一些药娘拿药当糖吃，通过网络非 ...",
+          "date": "2018年8月17日",
+          "position": 13
+        },
+        {
+          "title": "[PDF] 电子垃圾拆解区表层土壤重金属水平分布特征及其污染评价",
+          "link": "https://pdf.hanspub.org/hjss2024124_42850276.pdf",
+          "snippet": "根据前期翻阅文献、新闻，. 本次研究将采样区集中设置在垃圾拆迁区相对 ... 以农用地土壤污染风险筛选值作为评价标准值，Cd 单因子污染指数平均值超过1，证明 ...",
+          "date": "52分钟前",
+          "position": 14
+        },
+        {
+          "title": "风景园林学院与北京大学校园服务中心考察团队开展座谈交流",
+          "link": "https://www.cdnkxy.com/info/1110/11017.htm",
+          "snippet": "网站首页 >> 新闻资讯 >> 校园新闻 >> 校园新闻_xj >> 正文. 风景园林学院与北京大学校园服务中心考察团队开展座谈交流. 来源：风景园林学院 作者：吴珊 ...",
+          "date": "51分钟前",
+          "position": 15
+        },
+        {
+          "title": "广东省广裕集团东莞兴龙实业有限公司外协人员工作记录仪采购项目 ...",
+          "link": "http://dgjy.gd.gov.cn/xxgk/zfcg/content/post_4516470.html",
+          "snippet": "新闻中心 · 信息公开 · 专题栏目 · 互动平台 · 在线调查 · 信息查询 · 会见日查询 · 交通指引 ... CD-1728743335383. 报名时间. 2024-10-31 09:00:00 至2024-11-06 17:00:00.",
+          "position": 16
+        },
+        {
+          "title": "白银地区传统民俗文化II盘扣 - 白银市人民政府",
+          "link": "http://www.baiyin.gov.cn/bmzq/bysbwg/bmyw/art/2024/art_12f1285385d448c988bf6276cdc40e0c.html",
+          "snippet": "上了年纪的老太太穿的大襟子衣服、男式对襟棉袄大都缝一字形盘扣；女式棉袄花花绿绿，盘扣也五花八门，丰富多彩，新嫁娘 ... 新闻办 · 新华社 · 中科院 · 社科 ...",
+          "date": "21小时前",
+          "position": 17
+        },
+        {
+          "title": "CD格沃拉VS皇家贝蒂斯视频直播",
+          "link": "http://www.ymhg.com.cn/zuqiuzhibo/9893.html",
+          "snippet": "... 足球新闻 · 篮球新闻. 当前位置: 首页 > 足球直播. CD格沃拉VS皇家贝蒂斯. 足球直播 2024-10-31 01:00:00. 在2024-10-31 01:00:00，精彩的国王杯对决【CD格沃拉VS ...",
+          "position": 18
+        },
+        {
+          "title": "Chalice：抖音的人纯粹的口臭，遇到变性人、药娘的经历_DOTA闪电站",
+          "link": "https://dota.shandian.biz/5358.html",
+          "snippet": "说实话抖音比较适合我，上面没有节奏狗，因为大家都在带节奏。 查理斯：老鬼这个马戏有点像奥运会上面的变性人，你们可能是看新闻看到了某场比赛。但 ...",
+          "date": "2024年8月8日",
+          "position": 19
+        },
+        {
+          "title": "NBC10 Boston—Local News and Weather",
+          "link": "https://www.nbcboston.com/",
+          "snippet": "Boston News, Local News, Weather, Traffic, Entertainment, Breaking News.",
+          "position": 20
+        },
+        {
+          "title": "叶面喷施锌硒降低水稻镉转运机制研究取得新进展 - 生物通",
+          "link": "https://www.ebiotrade.com/newsf/2024-10/20241031064826867.htm",
+          "snippet": "... Cd积累过程中对叶片亚细胞分布、叶片抗氧化酶活性和转录调控的影响 ... 相关新闻. 热点排行. 1NEJM：首次发现lncRNA基因缺失引起神经发育疾病; 2 ...",
+          "date": "5小时前",
+          "position": 21
+        },
+        {
+          "title": "药娘：他们吃药想唤醒身体里的“她” - 新浪视频",
+          "link": "https://video.sina.cn/news/s/2018-08-14/detail-ihhtfwqq6940936.d.html?from=wap",
+          "snippet": "激素药，之后自切下体；罗月吃药两年，找私人诊所去势。这是一群用药物 ... 药娘：他们吃药想唤醒身体里的“她”. 澎湃新闻 +关注 免流量看视频. 收藏超 ...",
+          "date": "2018年8月14日",
+          "position": 22
+        },
+        {
+          "title": "化学科学与工程学院丁军桥课题组在高效率BT.2020蓝光OLED领域 ...",
+          "link": "http://www.news.ynu.edu.cn/info/1101/30003.htm",
+          "snippet": "图5：a) 基于[B-N]N2、[B-N]N3和[B-N]N4的OLED器件结构。b) 各层功能材料的分子结构。c) 器件的亮度-电压-电流密度。d) 在1000 cd cm−2下的电致发光（EL） ...",
+          "date": "24小时前",
+          "position": 23
+        },
+        {
+          "title": "肠菌移植为炎症性肠病诊治开辟“新视野” - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/532873.shtm",
+          "snippet": "... CD患者腹痛、腹泻、便血和发热情况，43.7%、20.1%的患者至FMT治疗后 ... 版权声明：凡本网注明“来源：中国科学报、科学网、科学新闻杂志”的所有 ...",
+          "date": "2天前",
+          "position": 24
+        },
+        {
+          "title": "戴建君任中国药科大学党委书记 - 新闻频道- 央视网",
+          "link": "https://news.cctv.com/2024/10/31/ARTItgTEvNUskz8300QmUQbi241031.shtml",
+          "snippet": "... ，教育部人事司在中国药科大学宣布了教育部党组的任免决定，戴建君同志任中国药科大学党委书记，金能明同志不再担任中国药 ... 黑龙江同江：“红菇娘”点亮农民 ...",
+          "date": "2小时前",
+          "position": 25
+        },
+        {
+          "title": "珠海斯巴克取得顶开式CD机碟盖组件专利 - 网易",
+          "link": "https://m.163.com/news/article/JFQM9I7A0519QIKK.html?clickfrom=subscribe&spss=adap_pc",
+          "snippet": "... ，国家知识产权局信息显示，珠海斯巴克电子设备有限公司取得一项名为“一种顶开式CD ... 红星新闻. 特朗普在关键\"摇摆州\"发问：你们日子比4年 · 美方就朝鲜派兵 ...",
+          "date": "3小时前",
+          "position": 26
+        },
+        {
+          "title": "LGBT药娘的圣地hahah - - YouTube",
+          "link": "https://m.youtube.com/post/UgkxFfhabj-utm6Aq4N9LmZH_G6J6vvLqOJG",
+          "snippet": "Share your videos with friends, family, and the world.",
+          "position": 27
+        },
+        {
+          "title": "赏秋图鉴，解锁秋天的N种打开方式！ - 新华社客户端",
+          "link": "https://h.xinhuaxmt.com/vh512/share/12244912",
+          "snippet": "正是一年收获时，在黑龙江省同江市农业科技园向阳园区，个大、味美兼有药用价值的红菇娘挂满了枝头，一经销售就受到消费者追捧。 ... 10月21日新闻夜览.",
+          "date": "2024年10月22日",
+          "position": 28
+        },
+        {
+          "title": "新闻简报| 2021年4月全球跨儿新闻 - 跨儿心理小组",
+          "link": "https://kuaerxinli.org/trans-news/1190",
+          "snippet": "1/ 美国北卡州学校提供认同姓名 · 2/ 艾利奥特·佩吉为跨儿发声 · 3/ 菲律宾跨儿tucking致睾丸被切除 · 4/ 皮克斯新电影现跨儿角色 · 5/ 温州跨儿家长检举“药娘 ...",
+          "date": "2022年7月31日",
+          "position": 29
+        },
+        {
+          "title": "CD Coria VS 艾尔切：比赛报告、统计数据、阵容和H2H",
+          "link": "https://www.365scores.com/zh/football/match/copa-del-rey-13/cd-coria-elche-156-17967-13",
+          "snippet": "我们的足球报道包括最新的新闻、赛程和结果、排名、统计数据和来自世界各地的比赛现场更新，包括欧洲冠军联赛, 欧足联欧洲联赛, 美國職業足球大聯盟, NWSL 和英格兰足球超级 ...",
+          "position": 30
+        },
+        {
+          "title": "CD维达vs 霍洛玛体育会 - 斗球直播",
+          "link": "https://www.kimchicenter.com/list_hongduAlian/4236786.html",
+          "snippet": "相关直播 · 热门标签 · 足球新闻 · 足球视频.",
+          "date": "6小时前",
+          "position": 31
+        },
+        {
+          "title": "广东省广裕集团东莞兴龙实业有限公司外协人员工作记录仪采购项目 ...",
+          "link": "http://dgjy.gd.gov.cn/zxxx/content/post_4516471.html",
+          "snippet": "欢迎访问广东省东莞监狱门户网站！ 单位概况 · 监狱简介 · 机构设置 · 领导信息 · 新闻中心 ... CD-1728743335383. 报名时间. 2024-10-31 09:00:00 至2024-11-06 17:00:00.",
+          "position": 32
+        },
+        {
+          "title": "用“一片叶”讲海南文化 - 中国旅游报",
+          "link": "https://www.ctnews.com.cn/renwu/content/2024-10/24/content_166329.html",
+          "snippet": "鹧鸪茶产自海南雨林，茶香伴随药香，入口回甘，余香不绝，不仅能辅助 ... 从此，“上南堂，下南洋，别妻儿，告爹娘，自此一去无见日，万般言语尽 ...",
+          "date": "7天前",
+          "position": 33
+        },
+        {
+          "title": "电子垃圾拆解区表层土壤重金属水平分布特征及其污染评价 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=99185",
+          "snippet": "... Cd存在局部污染的特征，表层农田土壤中Cd ... 根据前期翻阅文献、新闻，本次研究将采样区集中设置在垃圾拆迁区相对集中的西北 ...",
+          "position": 34
+        },
+        {
+          "title": "关于“温州母亲发现15岁'儿子'加入'药娘群''变性'”新闻的焦点解读",
+          "link": "https://telegra.ph/%E5%85%B3%E4%BA%8E%E6%B8%A9%E5%B7%9E%E6%AF%8D%E4%BA%B2%E5%8F%91%E7%8E%B015%E5%B2%81%E5%84%BF%E5%AD%90%E5%8A%A0%E5%85%A5%E8%8D%AF%E5%A8%98%E7%BE%A4%E5%8F%98%E6%80%A7%E6%96%B0%E9%97%BB%E7%9A%84%E7%84%A6%E7%82%B9%E8%A7%A3%E8%AF%BB-04-13",
+          "snippet": "回到“药娘QQ群”这群15岁的孩子中，实际上部分发达国家地区的正规医疗系统中，会对类似的年龄小的疑似跨性别者进行保护，为其提供青春期阻滞剂来延缓青春期第 ...",
+          "date": "2021年4月13日",
+          "position": 35
+        },
+        {
+          "title": "2024上海国际吉他艺术节震撼来袭！一览9位世界级吉他大师的神秘风采",
+          "link": "https://m.jfdaily.com/sgh/detail?id=1451855",
+          "snippet": "他曾在多个国际吉他比赛中获奖，包括“Narciso Yepes”比赛、国际罗马竞赛、“de Bonis”国际比赛等。他的著名CD包括为海顿交响乐团录制的“Arcierto de ...",
+          "date": "18分钟前",
+          "position": 36
+        },
+        {
+          "title": "反“内卷”会议之后，光伏组件集体涨价？晶科、晶澳、天合、隆基这样 ...",
+          "link": "https://cd.nbd.com.cn/articles/2024-10-30/3621732.html",
+          "snippet": "近日，有市场消息称光伏组件厂商上调组件出货价格。为了解相关情况，《每日经济新闻》记者（以下简称每经记者）于10月30日通过微信采访多家光伏行业上市 ...",
+          "date": "18小时前",
+          "position": 37
+        },
+        {
+          "title": "27天24板，重组概念龙头暴涨6倍，最牛散户精准潜伏，或已赚超2亿 ...",
+          "link": "http://www.stcn.com/article/detail/1376557.html",
+          "snippet": "包括时报快讯、股市新闻 ... 数据显示，8月27日收盘时，双成药业股价为5.22元/股，若按照最新收盘价37.42元/股计算，仅9月11日复牌以来，双成药 ...",
+          "date": "3天前",
+          "position": 38
+        },
+        {
+          "title": "从太空遨游到太空漫步：解锁太空旅行的奥秘与技术 - 中国数字科技馆",
+          "link": "https://www.cdstm.cn/subjects/css_sieb/zrkp/htkc/202410/t20241029_1081476.html",
+          "snippet": "相信在不久远的未来，我国太空旅行飞行器也将面世，助力我国航天事业不断发展。 部分信息来源于科普中国、新京报、央视网、中国新闻周刊、中国科学报、新华 ...",
+          "date": "2天前",
+          "position": 39
+        },
+        {
+          "title": "有药娘“以身试药”，专家称失控或伤身 - YouTube",
+          "link": "https://www.youtube.com/watch?v=Nmd3cBR3unc",
+          "snippet": "药娘通过吃雌性激素等药物使身体接近女性。“不吃药的话，我感觉会活得更短，会抑郁。”一些药娘称吃药为吃糖，通过网络等非正规渠道买药，以身试药， ...",
+          "date": "2019年1月13日",
+          "position": 40
+        },
+        {
+          "title": "CD埃斯特波纳vs 马拉加赛事推介 - 足球资讯- 7M体育",
+          "link": "https://news.7m.com.cn/prediction/data/4797005.shtml",
+          "snippet": "7M制造 · 赛事推介 · 足球情报. 您的位置:7M足球新闻> 赛事推介. CD埃斯特波纳 [胜][胜][和][和][胜][和]. CD埃斯特波纳. VS. 马拉加 [胜][和][和][和][和] ...",
+          "date": "1天后",
+          "position": 41
+        },
+        {
+          "title": "CD Atletico Paso VS CD Eldense - 365Scores",
+          "link": "https://www.365scores.com/zh/football/match/copa-del-rey-13/cd-atletico-paso-cd-eldense-18086-57347-13",
+          "snippet": "我们的足球报道包括最新的新闻、赛程和结果、排名、统计数据和来自世界各地的比赛现场更新，包括欧洲冠军联赛, 欧足联欧洲联赛, 美國職業足球大聯盟, NWSL 和英格兰足球超级 ...",
+          "position": 42
+        },
+        {
+          "title": "10月30日04:00CD瓦尔加斯托雷斯vs圣安东尼奥(ECU)视频直播",
+          "link": "https://www.fczhibo.net/live/football/375893.html",
+          "snippet": "... CD瓦尔加斯托雷斯vs圣安东尼奥(ECU)的比赛, 我们为CD ... 新闻资讯, 在线看厄乙直播就来风驰直播！",
+          "date": "1天前",
+          "position": 43
+        },
+        {
+          "title": "贵州省市场监管局关于38批次食品抽检不合格情况的通告（2024年第 ...",
+          "link": "https://www.cqn.com.cn/ms/content/2024-10/30/content_9074704.htm",
+          "snippet": "... Cd计)、铅(以Pb计)、二氧化硫残留量、铝的残留量(干样品,以Al计) ... 新闻中心>>民生>>抽查>>地方抽查>>2024>>. 首页 简介 联系 投稿 声明 PC版.",
+          "date": "19小时前",
+          "position": 44
+        },
+        {
+          "title": "CD维达VS霍洛玛体育会高清无插件视频直播在线观看",
+          "link": "https://www.ninemusespoetry.com/list_hongduAlian/4236786.html",
+          "snippet": "足球新闻 · 足球视频 · 篮球直播 · 篮球新闻 · 篮球视频 · 联赛. 当前位置：首页 > 足球直播 > 洪都A联 > CD维达vs 霍洛玛体育会. 洪都A联. 洪都A联 2024- ...",
+          "date": "6小时前",
+          "position": 45
+        },
+        {
+          "title": "唐本忠院士谈聚集诱导发光材料：越聚集，越发光！—新闻 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/532984.shtm",
+          "snippet": "与CD、DVD、BD相比，AIE超级光盘能制作多达100层，存储量高达160万GB，相当于CD容量的200万倍。AIE材料通过聚合作用使软性液体材料硬化，形成稳定发光的信息点 ...",
+          "date": "2小时前",
+          "position": 46
+        },
+        {
+          "title": "Celltrion presents post hoc analysis of LIBERTY studies of ...",
+          "link": "https://www.thailand-business-news.com/thailand-prnews/celltrion-presents-post-hoc-analysis-of-liberty-studies-of-zymfentra-infliximab-dyyb-at-the-american-college-of-gastroenterology-2024-annual-scientific-meeting",
+          "snippet": "JERSEY CITY, N.J., Oct. 30, 2024 /PRNewswire/ -- Celltrion USA today announced a late-breaking post hoc analysis of the pivotal LIBERTY studies (LIBERTY-CD.",
+          "position": 47
+        },
+        {
+          "title": "27天24板，重组概念龙头暴涨6倍，最牛散户精准潜伏 - 证券",
+          "link": "https://wap.stockstar.com/detail/IG2024102800026522",
+          "snippet": "雷赛智能于2023年底成功研发出高密度无框力矩电机、CD伺服驱动器、中空编码器、空心杯电机及配套的微型伺服系统等核心产品。 据证券时报·数据宝统计，从 ...",
+          "date": "3天前",
+          "position": 48
+        },
+        {
+          "title": "赏秋图鉴，解锁秋天的N种打开方式！ - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=810107",
+          "snippet": "正是一年收获时，在黑龙江省同江市农业科技园向阳园区，个大、味美兼有药用价值的红菇娘挂满了枝头，一经销售就受到消费者追捧。 综合新华社记者报道.",
+          "date": "8天前",
+          "position": 49
+        },
+        {
+          "title": "果然是她！吴帆获聘贵州银行行长将成为该行首位女行长 - 每日经济新闻",
+          "link": "https://cd.nbd.com.cn/articles/2024-10-31/3625221.html",
+          "snippet": "日前，贵州银行公告宣布，该行董事会在当日召开会议，决定聘任吴帆为贵州银行行长。 每经记者张祎 每经编辑马子卿. 10月30日，微信公众号“贵州省人民政府 ...",
+          "date": "54分钟前",
+          "position": 50
+        },
+        {
+          "title": "导致寨子一夜之间被屠杀，后来我上京，为让当年欺辱娘亲 - YouTube",
+          "link": "https://www.youtube.com/watch?v=XC_y2HOpunE",
+          "snippet": "《不逢春》娘亲是有名的药娘，被皇帝请去上京，却因得药娘者得长生之法 ... 新聞大白話完整版20241015. 新聞大白話•271K views · 30:57. Go to ...",
+          "date": "2024年10月11日",
+          "position": 51
+        },
+        {
+          "title": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\"--RFA RSS的博客",
+          "link": "https://blog.jinbay.com/rfarss/681369.htm",
+          "snippet": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\". 4/27/2023 6:52:00 PM [生活-健康]. 分享. 对于中国的跨性别 ... 新闻机构。 “如果是非常敏感的话题，你可能得不到 ...",
+          "position": 52
+        },
+        {
+          "title": "CD科瑞亚VS埃尔切高清无插件视频直播在线观看",
+          "link": "https://www.ninemusespoetry.com/list_guowangbei/4231387.html",
+          "snippet": "足球新闻 · 足球视频 · 篮球直播 · 篮球新闻 · 篮球视频 · 联赛. 当前位置：首页 > 足球直播 > 国王杯 > CD科瑞亚vs 埃尔切. 国王杯. 国王杯 2024-10-31 03 ...",
+          "date": "11小时前",
+          "position": 53
+        },
+        {
+          "title": "CD维达VS霍洛玛体育会高清无插件视频直播在线观看 - 雨燕直播",
+          "link": "https://www.artjingya.com/list_hongduAlian/4236786.html",
+          "snippet": "【比赛简介】北京时间09:00，洪都A联《CD维达vs霍洛玛体育会》直播准时在线播放，喜欢看洪都A联比赛的朋友可以提前收藏本页面以免错过直播。 相关新闻. 中国女足2：0 ...",
+          "position": 54
+        },
+        {
+          "title": "布洛斯A女篮U19 vs CD何塞雷吉奥女篮 - 山猫直播",
+          "link": "https://clara-ng.com/list_punvyi/3820108.html",
+          "snippet": "... A女篮U19VS CD ... 篮球新闻. 更多 · CBA-曾凡博22 ...",
+          "date": "1天后",
+          "position": 55
+        },
+        {
+          "title": "药娘父母：儿变“女”后的难以承受之重 - YouTube",
+          "link": "https://www.youtube.com/watch?v=ANgF22QGOgU",
+          "snippet": "... 药、要变性，一位药娘母亲“感觉天都塌下来了”，担心世俗的眼光， ... 【新聞最嘲點姜光宇】2024.1022. 新聞最嘲點Mr.姜光宇 New 31K views · 38:26.",
+          "date": "2019年1月13日",
+          "position": 56
+        },
+        {
+          "title": "15岁儿子加“药娘QQ群”，聊天内容不堪入目！妈妈情绪失控",
+          "link": "https://www.cn-healthcare.com/articlewm/20210813/wap-content-1252565.html",
+          "snippet": "希望各位父母一定要关注孩子的成长，正视孩子的差异和需求，不要听之任之，就算真的要变性，也要科学变性，避免孩子走上“药娘的不归路”",
+          "date": "2021年8月13日",
+          "position": 57
+        },
+        {
+          "title": "Tgba.io #杭州药娘: 每一下都顶到新高度！细腻解读前列腺刺激的奥秘",
+          "link": "https://tgba.io/telegram/%23%E6%9D%AD%E5%B7%9E%E8%8D%AF%E5%A8%98.html",
+          "snippet": "... 药娘#欢乐时光#短视频推荐#轻松娱乐. #8VGQ 在Telegram中打开. 热门分类. 娱乐(360073) 成人娱乐(34309) 新闻(27569) 社会新闻(25394) 生活(22827) 视频 ...",
+          "date": "2天前",
+          "position": 58
+        },
+        {
+          "title": "主播你是药娘吗” - YouTube",
+          "link": "https://www.youtube.com/watch?v=uko8kY7bn5A",
+          "snippet": "”主播你是药娘吗”. 840 views · 8 months ago ...more. NoirNeko. 5.06K ... | 一周遊戲新聞. Kim和Nana的遊戲世界 New 39K views · 27:45. Go ...",
+          "date": "2024年1月27日",
+          "position": 59
+        },
+        {
+          "title": "家長爆料15歲兒子在B站接觸＂藥娘Q群＂後 - YouTube",
+          "link": "https://www.youtube.com/watch?v=ntRhoAMb2z8",
+          "snippet": "... Rail Against The UN And World Health Organization. Forbes Breaking News New 1.6M views · 3:22. Go to channel · High chance for tropical ...",
+          "date": "2022年7月31日",
+          "position": 60
+        },
+        {
+          "title": "小药娘拆弹经验体会分享（个人经验） - YouTube",
+          "link": "https://www.youtube.com/watch?v=_cO3pNJMhwY",
+          "snippet": "小药娘拆弹经验体会分享（个人经验）. 1.1K ... 偽娘織田紀香外表真的比女人還美女兒這句「爸爸很酷」撫平傷口#專訪| 台灣新聞Taiwan 蘋果新聞網.",
+          "date": "2023年2月20日",
+          "position": 61
+        },
+        {
+          "title": "通俗用语表- 木桶饭 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/",
+          "snippet": "伪娘、药娘、MtF？ ¶. MtF：跨性别女性。 伪娘/女装大佬：详见这里。 指打扮、着装、行为女性化的男性 ...",
+          "position": 62
+        },
+        {
+          "title": "我不是药神的故事，每天都在药娘圈里上演 - Telegraph",
+          "link": "https://telegra.ph/%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E7%9A%84%E6%95%85%E4%BA%8B%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E8%8D%AF%E5%A8%98%E5%9C%88%E9%87%8C%E4%B8%8A%E6%BC%94-07-18",
+          "snippet": "... 新闻、甚至对Q（酷儿）甚至完全陌生时——. 光是想要获取正式的易性诊断，以此开启官方HRT，对大部分跨性别者就已是门槛极高的高难度任务。 理论上说 ...",
+          "date": "2020年7月17日",
+          "position": 63
+        },
+        {
+          "title": "药娘：我用20年跨越性别 - Bad.news",
+          "link": "https://bad.news/t/834329",
+          "snippet": "... news 澎湃新闻 6年前• --. 【药娘：他们吃药，想唤醒身体里的“她”】“男生不适合我，讨厌男性特征，胡子、喉结，还有下面。”明明16岁开始吃激素药，之后自切下体；罗月吃药 ...",
+          "position": 64
+        },
+        {
+          "title": "创作灵感#药娘#跨性别者#男性千万别乱吃雌性激素#无美颜无滤镜",
+          "link": "https://www.douyin.com/video/7385176776609156378",
+          "snippet": "创作灵感#药娘#跨性别者#男性千万别乱吃雌性激素#无美颜无滤镜最真实的模样- 听心姐姐于20240627发布在抖音，已经收获了2129个喜欢，来抖音，记录美好生活！",
+          "position": 65
+        },
+        {
+          "title": "19岁药娘1年内被家人两次送改造 - 优酷",
+          "link": "https://m.youku.com/video/id_XNDczMzQ0MDM3Mg==.html",
+          "snippet": "预览播放中，打开优酷APP看高清完整版. 19岁药娘1年内被家人两次送改造. +追. 超清画质. 2. 收藏. 下载. 分享. 选集. 01:31. 医生勾引女患者在病房发生关系？其妻回应. 2024- ...",
+          "position": 66
+        },
+        {
+          "title": "药娘现状不容乐观_哔哩哔哩 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1vu411v7vs/",
+          "snippet": "视频播放量469794、弹幕量59、点赞数5553、投硬币枚数351、收藏人数2277、转发人数1190, 视频作者彩虹心理曹秋生, 作者简介国家二级心理咨询师，专业专一于同性恋、性 ...",
+          "position": 67
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "药娘 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [],
+      "credits": 2
+    }
+  ]
+}

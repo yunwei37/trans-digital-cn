@@ -1,0 +1,67 @@
+变性人:
+- query: 变性人 filetype:txt
+  engines:
+  - name: google
+    total_results: '13'
+    searched_results: 13
+    last_search_date: '2024-10-28 20:48:05'
+  last_search: '2024-10-28 20:48:05'
+- query: 变性人 filetype:pdf
+  engines:
+  - name: google
+    total_results: '118000'
+    searched_results: 100
+    last_search_date: '2024-10-28 20:51:57'
+  last_search: '2024-10-28 20:51:57'
+跨性别:
+- query: 跨性别
+  engines:
+  - name: google
+    total_results: '5890000'
+    searched_results: 70
+    last_search_date: '2024-10-28 20:42:50'
+  last_search: '2024-10-28 20:42:50'
+- query: 跨性别 filetype:txt
+  engines:
+  - name: google
+    total_results: '18'
+    searched_results: 18
+    last_search_date: '2024-10-28 20:47:38'
+  last_search: '2024-10-28 20:47:38'
+- query: 跨性别 filetype:pdf
+  engines:
+  - name: google
+    total_results: '115000'
+    searched_results: 100
+    last_search_date: '2024-10-28 20:45:42'
+  last_search: '2024-10-28 20:45:42'
+药娘:
+- query: 药娘 filetype:txt
+  engines:
+  - name: google
+    total_results: '22'
+    searched_results: 22
+    last_search_date: '2024-10-28 20:49:13'
+  last_search: '2024-10-28 20:49:13'
+- query: 药娘 filetype:pdf
+  engines:
+  - name: google
+    total_results: '16400'
+    searched_results: 50
+    last_search_date: '2024-10-28 20:50:00'
+  last_search: '2024-10-28 20:50:00'
+变性手术:
+- query: 变性手术 filetype:txt
+  engines:
+  - name: google
+    total_results: '11'
+    searched_results: 11
+    last_search_date: '2024-10-28 20:48:18'
+  last_search: '2024-10-28 20:48:18'
+- query: 变性手术 filetype:pdf
+  engines:
+  - name: google
+    total_results: '86'
+    searched_results: 86
+    last_search_date: '2024-10-28 20:50:55'
+  last_search: '2024-10-28 20:50:55'

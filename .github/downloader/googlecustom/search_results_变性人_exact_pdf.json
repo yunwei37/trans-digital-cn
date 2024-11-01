@@ -1,0 +1,3616 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "'变性人' filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.2837,
+        "formattedSearchTime": "0.28",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "术语英文术语及背景知识存在年龄差异的关系Age-disparate ...",
+          "htmlTitle": "术语英文术语及背景知识存在年龄差异的关系Age-disparate ...",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "... 性. 别或异性癖的个体。跨性别者可能会自我认同属于跨性别者、女性、男性、跨性别女性或跨性别男性、变性人、中性人、. 人妖、第三性别者或其他跨性别身份，并以各种男性 ...",
+          "htmlSnippet": "... 性. 别或异性癖的个体。跨性别者可能会自我认同属于跨性别者、女性、男性、跨性别女性或跨性别男性、<b>变性人</b>、中性人、. 人妖、第三性别者或其他跨性别身份，并以各种男性&nbsp;...",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20161116111803+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20161116111803+08'00'",
+                "author": "Jie Liu",
+                "producer": "Microsoft® Word 2010"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别选择权:性质界定与法权塑造",
+          "htmlTitle": "性别选择权:性质界定与法权塑造",
+          "link": "https://www.civillaw.com.cn/uploadfile/lmpic/20180315/20180315200557734.pdf",
+          "displayLink": "www.civillaw.com.cn",
+          "snippet": "Mar 15, 2018 ... 性人为侵权对象的魏某某等强奸案[8]80,变性人. 卖淫问题,双性人卖淫问题,“强奸”变性人问题. 等,是否构成法律上的强奸,卖淫不无疑问.以. 强奸罪为例,该罪 ...",
+          "htmlSnippet": "Mar 15, 2018 <b>...</b> 性人为侵权对象的魏某某等强奸案[8]80,<b>变性人</b>. 卖淫问题,双性人卖淫问题,“强奸”<b>变性人</b>问题. 等,是否构成法律上的强奸,卖淫不无疑问.以. 强奸罪为例,该罪&nbsp;...",
+          "formattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "htmlFormattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20180314220626-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3948",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "大会",
+          "htmlTitle": "大会",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "Mar 31, 2021 ... ... 男女同性恋、双性恋、变性人、间. 性者和性别奇异者权利的环境下，为变性人、男同性恋者和其他男男性行为者提. 供安全套、暴露前预防用药和病毒抑制等 ...",
+          "htmlSnippet": "Mar 31, 2021 <b>...</b> ... 男女同性恋、双性恋、<b>变性人</b>、间. 性者和性别奇异者权利的环境下，为<b>变性人</b>、男同性恋者和其他男男性行为者提. 供安全套、暴露前预防用药和病毒抑制等&nbsp;...",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/A-75-836_zh.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsm-f12rfk21aumGpor4SZg-YE-WW0rh5J4BnsVaMJG4QCIfyjsaEJJXy&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210427103723-04'00'",
+                "creator": "Microsoft® Word 适用于 Microsoft 365",
+                "creationdate": "D:20210427103723-04'00'",
+                "author": "Qiping Jia",
+                "producer": "Microsoft® Word 适用于 Microsoft 365"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a163b87a570586d88ac9218ac4cca03683f0c3fa4ebcf2024f59266c69fd66f8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "htmlTitle": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "link": "http://www.medline.com.cn/lzj2013-dengmingyu/20150501xingbiekunaodelinchuang.pdf",
+          "displayLink": "www.medline.com.cn",
+          "snippet": "变性人在手术后能成功变为另一个性别吗？其实，任何手术都不能更改人的生理性别（Sex）， XX. （女生）或XY（男生）的性染色体会 ...",
+          "htmlSnippet": "<b>变性人</b>在手术后能成功变为另一个性别吗？其实，任何手术都不能更改人的生理性别（Sex）， XX. （女生）或XY（男生）的性染色体会&nbsp;...",
+          "formattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "htmlFormattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150501081335+08'00'",
+                "creationdate": "D:20150424113620-04'00'",
+                "creator": "Acrobat PDFMaker 9.0 Word 版",
+                "sourcemodified": "D:20150424153613",
+                "author": "User",
+                "producer": "Adobe PDF Library 9.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "关于“代孕爸爸”事件的生命伦理与法律问题思考",
+          "htmlTitle": "关于“代孕爸爸”事件的生命伦理与法律问题思考",
+          "link": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "displayLink": "yizhe.dmu.edu.cn",
+          "snippet": "变性人的婚姻、. 生育及代孕问题让我们不得不对变性手术、人工辅助生殖技术以及代孕技术这些新兴生命技术进行再思考。我们不仅要. 肯定新兴生命技术的合理性,也要防止其 ...",
+          "htmlSnippet": "<b>变性人</b>的婚姻、. 生育及代孕问题让我们不得不对变性手术、人工辅助生殖技术以及代孕技术这些新兴生命技术进行再思考。我们不仅要. 肯定新兴生命技术的合理性,也要防止其&nbsp;...",
+          "formattedUrl": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "htmlFormattedUrl": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20100712161251",
+                "author": "TTKN Co., Ltd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "第三册- 跨性别同盟手册A Handbook for Trans Ally",
+          "htmlTitle": "第三册- 跨性别同盟手册A Handbook for Trans Ally",
+          "link": "https://docs.transonline.org.cn/files/shi-fei-nan-nv-3.pdf",
+          "displayLink": "docs.transonline.org.cn",
+          "snippet": "坊间常以“人妖”一词称呼变性人，应注意“人. 妖”这个名词带有贬义，应避免引用在跨性别或变性人身上。再者“人妖”多. 指泰国从事舞台表演的变性艺人，其独特之处在于外貌非常 ...",
+          "htmlSnippet": "坊间常以“人妖”一词称呼<b>变性人</b>，应注意“人. 妖”这个名词带有贬义，应避免引用在跨性别或<b>变性人</b>身上。再者“人妖”多. 指泰国从事舞台表演的变性艺人，其独特之处在于外貌非常&nbsp;...",
+          "formattedUrl": "https://docs.transonline.org.cn/files/shi-fei-nan-nv-3.pdf",
+          "htmlFormattedUrl": "https://docs.transonline.org.cn/files/shi-fei-nan-nv-3.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCvXXF-lis9E38XQktHMvSwbebLgUe_W1rArW6ewlBr9XxlB4XJjKDbb6&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181125115955+08'00'",
+                "creator": "Microsoft® Word for Office 365",
+                "creationdate": "D:20181125115955+08'00'",
+                "author": "子尧 徐",
+                "producer": "Microsoft® Word for Office 365"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bfb2069783137d6b224d4fc8bc31b485f7ed9172e6cc8512fbfd3e84d568a7f3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Article 级联网络和金字塔光流的旋转不变人脸检测Rotating invariant ...",
+          "htmlTitle": "Article 级联网络和金字塔光流的旋转不变人脸检测Rotating invariant ...",
+          "link": "https://cn.oejournal.org/data/article/oee/preview/pdf/gdgc-47-1-190135-1.pdf",
+          "displayLink": "cn.oejournal.org",
+          "snippet": "框用到人脸检测(如Face R-CNN、S3FD 等)。虽然对比. 传统方法在准确性上有较高的优势，但并没有很好地. 针对人脸旋转问题，常见的旋转不变性人脸检测还是. 以传统方法为主 ...",
+          "htmlSnippet": "框用到人脸检测(如Face R-CNN、S3FD 等)。虽然对比. 传统方法在准确性上有较高的优势，但并没有很好地. 针对人脸旋转问题，常见的旋转不<b>变性人</b>脸检测还是. 以传统方法为主&nbsp;...",
+          "formattedUrl": "https://cn.oejournal.org/data/article/oee/preview/.../gdgc-47-1-190135-1.pd...",
+          "htmlFormattedUrl": "https://cn.oejournal.org/data/article/oee/preview/.../gdgc-47-1-190135-1.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFPRccdHqWiS8R4QPzFDxXJnulZLzfD4lvzpYMSldsV4rqlCt__tWqbmW&s",
+                "width": "276",
+                "height": "182"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200114161257+08'00'",
+                "creationdate": "D:20200114161257+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "xxp",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "Microsoft Word - 07-孙锐_oee190135_xyz.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c9e3842e94ef914e46f1977f1b47ba7f93ad26ab9dac9b302110003bf1c75828"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别运动员参加高水平体育比赛的科学思考",
+          "htmlTitle": "跨性别运动员参加高水平体育比赛的科学思考",
+          "link": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "displayLink": "cmstykx.cisszgty.com",
+          "snippet": "变性人一般通过性别重整手术或激素治疗等方. 法改变出生时确认的性别。 变性女性（transgender woman）：指出生时认定为男性，. 通过性别重整手术或激素治疗变为女性的 ...",
+          "htmlSnippet": "<b>变性人</b>一般通过性别重整手术或激素治疗等方. 法改变出生时确认的性别。 变性女性（transgender woman）：指出生时认定为男性，. 通过性别重整手术或激素治疗变为女性的&nbsp;...",
+          "formattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "htmlFormattedUrl": "http://cmstykx.cisszgty.com/xhimg/soft/220128/5-22012P93GEN.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxl4aWfdzLDIlw2zrK92qnPAMs_qv4UISilv4GE2ZLyTfZySb1CGvcQSWU&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220124153512+08'00'",
+                "creationdate": "D:20220124153512+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1671",
+                "author": "Microsoft xionghp",
+                "producer": "Founder",
+                "title": "faf42564-2f4c-44f2-af9c-fcf401824a14"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f4a19c6bd9b93654a3a9d4245bebf3bf59aedc3a1f57409740e132f981976d30"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "日本老妇“操控人心”致死十余人",
+          "htmlTitle": "日本老妇“操控人心”致死十余人",
+          "link": "http://epaper.xxcb.cn/xxcba/page/101/2012-11-12/A10/8901352664332765.PDF",
+          "displayLink": "epaper.xxcb.cn",
+          "snippet": "Nov 12, 2012 ... 据新华社电从表面上看，美国女孩. 凯蒂·希尔和她的男友阿伦·安德鲁斯与. 普通年轻情侣没什么两样。实际上，两人. 都是变性人。两人因不同于常人的成长. 经历 ...",
+          "htmlSnippet": "Nov 12, 2012 <b>...</b> 据新华社电从表面上看，美国女孩. 凯蒂·希尔和她的男友阿伦·安德鲁斯与. 普通年轻情侣没什么两样。实际上，两人. 都是<b>变性人</b>。两人因不同于常人的成长. 经历&nbsp;...",
+          "formattedUrl": "http://epaper.xxcb.cn/xxcba/page/101/2012-11.../8901352664332765.PDF",
+          "htmlFormattedUrl": "http://epaper.xxcb.cn/xxcba/page/101/2012-11.../8901352664332765.PDF",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmck2h8GfBDF2J_VsrThwEx0H2tU8dKPQ6qkyYAvtp2AIDY6LnNVGXTs4&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20121112012603+08'00'",
+                "creationdate": "D:20121112012603+08'00'",
+                "creator": "FantArt",
+                "subject": "Untitiled",
+                "author": "Founder",
+                "producer": "idle",
+                "title": "Untitiled"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b6622714da4735e896b55378607526765fae9cf9b009738a667742cf6794bfac"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "我骄傲，我奉献，真色彩",
+          "htmlTitle": "我骄傲，我奉献，真色彩",
+          "link": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021-12/1_33975.pdf",
+          "displayLink": "www.yunbaogao.cn",
+          "snippet": "Jun 13, 2018 ... 麦肯锡拥抱最优秀的人才——拥抱. 他们在个体方面的多元性。” Trevor 计划提供心理危机干预，预防和劝阻全美的男女同性恋、双性. 恋、变性人和其他青年的自杀 ...",
+          "htmlSnippet": "Jun 13, 2018 <b>...</b> 麦肯锡拥抱最优秀的人才——拥抱. 他们在个体方面的多元性。” Trevor 计划提供心理危机干预，预防和劝阻全美的男女同性恋、双性. 恋、<b>变性人</b>和其他青年的自杀&nbsp;...",
+          "formattedUrl": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021.../1_33975.pdf",
+          "htmlFormattedUrl": "https://www.yunbaogao.cn/index/partFile/1/mckinsey/2021.../1_33975.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtb_bG16n8PkmKx1Wql5WNvI256CANsH54pyWe6Ex6hm8FKQd_y_CA0uW&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "PyPDF2"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b7dedc808496a580ae908c419aed11cfd56d3f675b527fc13b74fd0d61324e8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:21:42"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.122005,
+        "formattedSearchTime": "0.12",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.rhinobio.com/uploadfiles/2020/04/202004081046594659.pdf",
+          "displayLink": "www.rhinobio.com",
+          "snippet": "... 变性RNase B释放≥95%N-连寡糖。 活性测试:在Glyco缓冲液体系下,20ul反应体系Iul PNGase F(Glycerol-free) 37℃酶切1小. 时,可使40ug变性人源化单抗释放≥95%N-连寡糖。",
+          "htmlSnippet": "... 变性RNase B释放≥95%N-连寡糖。 活性测试:在Glyco缓冲液体系下,20ul反应体系Iul PNGase F(Glycerol-free) 37℃酶切1小. 时,可使40ug<b>变性人</b>源化单抗释放≥95%N-连寡糖。",
+          "formattedUrl": "http://www.rhinobio.com/uploadfiles/2020/04/202004081046594659.pdf",
+          "htmlFormattedUrl": "http://www.rhinobio.com/uploadfiles/2020/04/202004081046594659.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Wed Apr  8 00:12:59 2020",
+                "creator": "Adobe Acrobat Pro 9.0.0",
+                "creationdate": "Wed Apr  8 00:12:59 2020",
+                "producer": "Adobe Acrobat Pro 9.0.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "1981—2019年美国艾滋病病毒感染情况分析",
+          "htmlTitle": "1981—2019年美国艾滋病病毒感染情况分析",
+          "link": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2126",
+          "displayLink": "www.zjyfyxzz.com",
+          "snippet": "这些社会因素包括系统性种族. 主义、贫困、无家可归、歧视、恐同和对变性人的恐. 惧等。 此报告至少有3 个方面的局限：一是采用3 个. 数学模型分析估计不同时期的发病率。每 ...",
+          "htmlSnippet": "这些社会因素包括系统性种族. 主义、贫困、无家可归、歧视、恐同和对<b>变性人</b>的恐. 惧等。 此报告至少有3 个方面的局限：一是采用3 个. 数学模型分析估计不同时期的发病率。每&nbsp;...",
+          "formattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtz9Muq9wq6BVFfysn91c_mMIuOAaoUtd6yH_JjlDeuGLNnXwHEHwL8CY&s",
+                "width": "191",
+                "height": "264"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210810143101+08'00'",
+                "creationdate": "D:20210810143053+08'00'",
+                "creator": "方正飞翔7.0 专业版",
+                "author": "Microsoft Administrator",
+                "subject": "无命题1",
+                "producer": "Adobe Acrobat Pro 11.0.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///47efbe78b5c631300142f477ccb529962b426c84fe083fa163086d9a69627c7e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.rhinobio.com/uploadfiles/2022/07/202207271054255425.pdf",
+          "displayLink": "www.rhinobio.com",
+          "snippet": "活性测试:在Glyco缓冲液体系下,20ul反应体系,1ul PNGase F(Glycerol-free)37°C酶切1小时,可使40ug. 变性人源化单抗释放>95%N-连寡糖。 纯度:SDS-PAGE 分析纯度≥95%。",
+          "htmlSnippet": "活性测试:在Glyco缓冲液体系下,20ul反应体系,1ul PNGase F(Glycerol-free)37°C酶切1小时,可使40ug. <b>变性人</b>源化单抗释放&gt;95%N-连寡糖。 纯度:SDS-PAGE 分析纯度≥95%。",
+          "formattedUrl": "http://www.rhinobio.com/uploadfiles/2022/07/202207271054255425.pdf",
+          "htmlFormattedUrl": "http://www.rhinobio.com/uploadfiles/2022/07/202207271054255425.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxfGLz7Q8qwFJktwjwuRN9V7kVARgQxbjRXtvaTV2yUqtyGLnHm6WLDY&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Feb 10 17:46:51 2022",
+                "creator": "TOSHIBA e-STUDIO400AC",
+                "creationdate": "Thu Feb 10 17:46:51 2022",
+                "producer": "SECnvtToPDF V1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///abe40cfade6068d66b15bc5b133a45375ceac42dab43de32f7ce3984b9987ac7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别烦躁的诊断和治疗",
+          "htmlTitle": "性别烦躁的诊断和治疗",
+          "link": "https://www.mhealthu.com/uploads/enclosure/201907/201907291641401353480122.pdf",
+          "displayLink": "www.mhealthu.com",
+          "snippet": "有的个体. 未进行变性手术，但像“变性人”一样生活，其中一. 些个体对生活感到满意和快乐，并管理了性别烦. 躁［2，7］。 2. 2. 2 激素治疗. 要从男性变为女性，首先要服用处方药—— ...",
+          "htmlSnippet": "有的个体. 未进行变性手术，但像“<b>变性人</b>”一样生活，其中一. 些个体对生活感到满意和快乐，并管理了性别烦. 躁［2，7］。 2. 2. 2 激素治疗. 要从男性变为女性，首先要服用处方药——&nbsp;...",
+          "formattedUrl": "https://www.mhealthu.com/uploads/.../201907291641401353480122.pdf",
+          "htmlFormattedUrl": "https://www.mhealthu.com/uploads/.../201907291641401353480122.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190611103809+08'00'",
+                "creationdate": "D:20190611103809+08'00'",
+                "creator": "Nooog PStoPDF v1.5",
+                "author": "http://www.nooog.com",
+                "subject": "010-80697296",
+                "producer": "Nooog Pdf Library"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "英国反就业歧视法与我国立法之完善",
+          "htmlTitle": "英国反就业歧视法与我国立法之完善",
+          "link": "http://iolaw.cssn.cn/zzwx/201905/P020190522400944034955.pdf",
+          "displayLink": "iolaw.cssn.cn",
+          "snippet": "因此,除了未婚者没有受到性别歧视法的保护,女. 性、男性、已婚者、同居协议者、变性人、异性恋者、同性恋. ·. 64. ·. Page 2. 法学杂志·2008年第5期. 各科专论. 者和双性恋 ...",
+          "htmlSnippet": "因此,除了未婚者没有受到性别歧视法的保护,女. 性、男性、已婚者、同居协议者、<b>变性人</b>、异性恋者、同性恋. ·. 64. ·. Page 2. 法学杂志·2008年第5期. 各科专论. 者和双性恋&nbsp;...",
+          "formattedUrl": "http://iolaw.cssn.cn/zzwx/201905/P020190522400944034955.pdf",
+          "htmlFormattedUrl": "http://iolaw.cssn.cn/zzwx/201905/P020190522400944034955.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIQOpiIyrnR5Yu_vyzO_theG80ollFt4iOo-4-Gnd3EhsjI8srgQsx-sE&s",
+                "width": "187",
+                "height": "270"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20090317143219",
+                "author": "TTKN Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///60c13155546f88f1cdad413dc6dcef9afcf262d915bcde761c6af2263a31a146"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Physics Magazine",
+          "htmlTitle": "Physics Magazine",
+          "link": "https://wuli.iphy.ac.cn/cn/article/pdf/preview/4ee385ab-8622-47eb-b84e-deb48b1cb4c1.pdf",
+          "displayLink": "wuli.iphy.ac.cn",
+          "snippet": "第一集报道. 关于男、女同性恋者，双性恋者，. 变性人等物理学工作者(LGBTQ 物. 理学 ... 正待遇的人。 银河系黑洞进入视野. 2022 年5 月，科学家公布了第. 二张黑洞 ...",
+          "htmlSnippet": "第一集报道. 关于男、女同性恋者，双性恋者，. <b>变性人</b>等物理学工作者(LGBTQ 物. 理学 ... 正待遇的人。 银河系黑洞进入视野. 2022 年5 月，科学家公布了第. 二张黑洞&nbsp;...",
+          "formattedUrl": "https://wuli.iphy.ac.cn/cn/.../4ee385ab-8622-47eb-b84e-deb48b1cb4c1.pdf",
+          "htmlFormattedUrl": "https://wuli.iphy.ac.cn/cn/.../4ee385ab-8622-47eb-b84e-deb48b1cb4c1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUu-JFa9X3TK_MB_XP25-uQUaUMuaF4UEEVXs4WwD2Sjyr2w6qscxYDo&s",
+                "width": "253",
+                "height": "199"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230218102112+08'00'",
+                "creationdate": "D:20230218102112+08'00'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///abf3fddf04c76bd40b602b66da3876d95579fa0847fb8dcb8507f0c4c0d59b0a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "旅英手册2019",
+          "htmlTitle": "旅英手册2019",
+          "link": "https://www.britishcouncil.cn/sites/default/files/lu_ying_shou_ce_2019.pdf",
+          "displayLink": "www.britishcouncil.cn",
+          "snippet": "人理对个人残疾、 族、宗教、性取向. 或为的残疾、 族、宗教、性取向以及. 对变性人或作变性人出于恶意或偏. 成的犯事件。 仇恨犯现为多形式包括. ◇ 人攻击. ◇ 破坏产包括 ...",
+          "htmlSnippet": "人理对个人残疾、 族、宗教、性取向. 或为的残疾、 族、宗教、性取向以及. 对<b>变性人</b>或作<b>变性人</b>出于恶意或偏. 成的犯事件。 仇恨犯现为多形式包括. ◇ 人攻击. ◇ 破坏产包括&nbsp;...",
+          "formattedUrl": "https://www.britishcouncil.cn/sites/default/files/lu_ying_shou_ce_2019.pdf",
+          "htmlFormattedUrl": "https://www.britishcouncil.cn/sites/default/files/lu_ying_shou_ce_2019.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRko4nLP6VkHsOMMR9JmCsAQfO8igwq8DK9zFuUAMLMXg5oa3fj3i06UiY&s",
+                "width": "274",
+                "height": "184"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190619064446Z00'00'",
+                "creator": "预览",
+                "creationdate": "D:20190619064446Z00'00'",
+                "producer": "Mac OS X 10.12.3 Quartz PDFContext"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///78ba12929750b38d15da755dcde20d0876bc408f48efdfb4d4d8a9a75d0b1aa8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别者自杀意念的影响因素探析Analysis of Influencing Factors of ...",
+          "htmlTitle": "跨性别者自杀意念的影响因素探析Analysis of Influencing Factors of ...",
+          "link": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "displayLink": "pdf.hanspub.org",
+          "snippet": "Jan 22, 2023 ... 变性人的发展历史及其现状[J]. 中国性科学, 2006, 15(9): 5-8. [2] Rotondi, N.K., Bauer, G.R., Travers, R., et al. (2011) Depression in Male-to ...",
+          "htmlSnippet": "Jan 22, 2023 <b>...</b> <b>变性人</b>的发展历史及其现状[J]. 中国性科学, 2006, 15(9): 5-8. [2] Rotondi, N.K., Bauer, G.R., Travers, R., et al. (2011) Depression in Male-to&nbsp;...",
+          "formattedUrl": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "htmlFormattedUrl": "https://pdf.hanspub.org/ASS20230100000_55689888.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gDPcW0AdYVu06pI9Z8R7o_3v9pmTEhxyYkdVcN4CK2fXEpBb1RJtZA&s",
+                "width": "253",
+                "height": "89"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230129142931+08'00'",
+                "creationdate": "D:20230129142930+08'00'",
+                "creator": "Acrobat PDFMaker 11 Word 版",
+                "sourcemodified": "D:20230129062851",
+                "author": "李记勇",
+                "subject": "近年，跨性别者开始受到社会关注。跨性别人群作为社会边缘群体，其特有的心理和行为问题亟需重视。同时，与正常人群相比，跨性别者的高自杀意念背后的原因目前须进行清晰的解释。因此，本文通过探讨跨性别者所特有经历的压力源，对其高自杀意念的影响因素进行梳理，以期为跨性别人群的心理干预提供一定帮助。",
+                "producer": "Adobe PDF Library 11.0",
+                "title": "跨性别者自杀意念的影响因素探析"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9508e17c83c0077acb88ec4c35bf31fd4ddae43219665c0a95fe8a46c8d85865"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "法治时空",
+          "htmlTitle": "法治时空",
+          "link": "http://zjfzb.zjol.com.cn/zjfz/resfile/2010-05-25/04/ZJFZ2010052504.pdf",
+          "displayLink": "zjfzb.zjol.com.cn",
+          "snippet": "May 25, 2010 ... “她”还真吸引住了一个叫王进的网. 友，王进对朱小琼的“熟女”身份信. 以为真，很快有了见面占有的冲动。 变性人设局“玩”抢劫. 朱小琼将此事告诉了何伟，何伟.",
+          "htmlSnippet": "May 25, 2010 <b>...</b> “她”还真吸引住了一个叫王进的网. 友，王进对朱小琼的“熟女”身份信. 以为真，很快有了见面占有的冲动。 <b>变性人</b>设局“玩”抢劫. 朱小琼将此事告诉了何伟，何伟.",
+          "formattedUrl": "http://zjfzb.zjol.com.cn/zjfz/resfile/2010-05-25/04/ZJFZ2010052504.pdf",
+          "htmlFormattedUrl": "http://zjfzb.zjol.com.cn/zjfz/resfile/2010-05-25/04/ZJFZ2010052504.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQULX806eqj-hyjIxYmaBzcEc8nOrksR9ir2FdTio9dz341kBQhO12YF9n&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d447a8440c9abe1cd8041856059ddb4b9df410c8cc6d0defecd1f4c0fb66f6f6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性",
+          "htmlTitle": "论西方当代性别与跨性别理论的缘起、内涵与特性",
+          "link": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=32814",
+          "displayLink": "www.zjujournals.com",
+          "snippet": "Sep 5, 2021 ... 她鼓励变性人不要去追求所谓的合格与和谐，而是要. 去寻找“变性身体的互文可能性”，在社会性别类型的空隙和裂缝中构建他们自己的历史［17］。斯通. 的论文是对 ...",
+          "htmlSnippet": "Sep 5, 2021 <b>...</b> 她鼓励<b>变性人</b>不要去追求所谓的合格与和谐，而是要. 去寻找“变性身体的互文可能性”，在社会性别类型的空隙和裂缝中构建他们自己的历史［17］。斯通. 的论文是对&nbsp;...",
+          "formattedUrl": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUZ62_9r7ASjr3-P8P4SaONPpKnsnxLkmqGN3b2BpD8x_K18SqM_pkoIP&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211028125333+08'00'",
+                "creationdate": "D:20211028125333+08'00'",
+                "creator": "方正飞翔8.0 XML版 8.0.0.1668",
+                "subject": "浙大学报社科版",
+                "author": "Microsoft fmx",
+                "producer": "Founder",
+                "title": "03aa71f6-feaa-4c21-bb70-666e3fe6b634"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///50a5a6e70b08375ac407142dbaf5b09b043f8bdd9893f8fc877cd69b46c45c35"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:21:45"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.157044,
+        "formattedSearchTime": "0.16",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "西方大学生身份研究及其启示*",
+          "htmlTitle": "西方大学生身份研究及其启示*",
+          "link": "http://gdjyyjxb.nudt.edu.cn/ch/reader/create_pdf.aspx?file_no=20140216&year_id=2014&quarter_id=2&falg=1",
+          "displayLink": "gdjyyjxb.nudt.edu.cn",
+          "snippet": "Jun 2, 2014 ... 现多样性，包括成年大学生、移民大学生、残疾大. 学生，此外，还包括女同性恋、男同性恋、两性. 人、变性人大学生。Chickering 身份理论是基于传. 统意义 ...",
+          "htmlSnippet": "Jun 2, 2014 <b>...</b> 现多样性，包括成年大学生、移民大学生、残疾大. 学生，此外，还包括女同性恋、男同性恋、两性. 人、<b>变性人</b>大学生。Chickering 身份理论是基于传. 统意义&nbsp;...",
+          "formattedUrl": "http://gdjyyjxb.nudt.edu.cn/ch/reader/create_pdf.aspx?file...2...",
+          "htmlFormattedUrl": "http://gdjyyjxb.nudt.edu.cn/ch/reader/create_pdf.aspx?file...2...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzPPi2a9LJPcvlSPOI6ikVRfpt_-PV9t-zvSGLobYgQ6t8jYOjhunu00&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20140820103237-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///51a92229cd40bf0383afcfb31a20f6ed0acfbcef4456fa80671437f83f166c28"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "印度E-VISA（电子签）个人申请表",
+          "htmlTitle": "印度E-VISA（电子签）个人申请表",
+          "link": "http://pages.ctrip.com/tour/visa/chengdu/pdf/vbk/323.pdf",
+          "displayLink": "pages.ctrip.com",
+          "snippet": "□ 变性人. 出生城市. 出生国. 身份证号码. 是否有明显可见的胎记？如有，注明部位 ... 申请人的祖父母是否持有巴基斯坦国籍或居住于巴基斯坦地区？ □ 否□ 是如是 ...",
+          "htmlSnippet": "□ <b>变性人</b>. 出生城市. 出生国. 身份证号码. 是否有明显可见的胎记？如有，注明部位 ... 申请人的祖父母是否持有巴基斯坦国籍或居住于巴基斯坦地区？ □ 否□ 是如是&nbsp;...",
+          "formattedUrl": "http://pages.ctrip.com/tour/visa/chengdu/pdf/vbk/323.pdf",
+          "htmlFormattedUrl": "http://pages.ctrip.com/tour/visa/chengdu/pdf/vbk/323.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20170314154800+07'48'",
+                "creationdate": "D:20170314154800+07'48'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20170314154800+07'48'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "夫拉客妻卖淫",
+          "htmlTitle": "夫拉客妻卖淫",
+          "link": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "displayLink": "szb.sxworker.com",
+          "snippet": "院做了变性手术，成为中国. 大陆第一个变性人……2003. 年4月21日在成都一家酒. 店，张莎在接受记者采访时. 说，20年前的那场变性手术. 终于使她实现了多年来想要. 成为女人的 ...",
+          "htmlSnippet": "院做了变性手术，成为中国. 大陆第一个<b>变性人</b>……2003. 年4月21日在成都一家酒. 店，张莎在接受记者采访时. 说，20年前的那场变性手术. 终于使她实现了多年来想要. 成为女人的&nbsp;...",
+          "formattedUrl": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "htmlFormattedUrl": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231015131919+08'00'",
+                "creationdate": "D:20231015131919+08'00'",
+                "producer": "iTextSharp™ 5.5.6-SNAPSHOT ©2000-2014 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "老太太买飞机改豪宅",
+          "htmlTitle": "老太太买飞机改豪宅",
+          "link": "http://epaper.632news.com/xst/page/51/2015-09/10/13/2015091013_pdf.pdf",
+          "displayLink": "epaper.632news.com",
+          "snippet": "Sep 10, 2015 ... 在变性人比例较高的泰国，中性厕所早就. 不是什么新鲜事物。泰国东北部一所高中的. 2600 多名学生当中，超过200 名男孩有变性倾. 向，他们不愿意使用男 ...",
+          "htmlSnippet": "Sep 10, 2015 <b>...</b> 在<b>变性人</b>比例较高的泰国，中性厕所早就. 不是什么新鲜事物。泰国东北部一所高中的. 2600 多名学生当中，超过200 名男孩有变性倾. 向，他们不愿意使用男&nbsp;...",
+          "formattedUrl": "http://epaper.632news.com/xst/page/51/2015-09/.../2015091013_pdf.pdf",
+          "htmlFormattedUrl": "http://epaper.632news.com/xst/page/51/2015-09/.../2015091013_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMPnOAik-0kYwH03uhEl5xEQfFuqvU3pyr4d56owW0LZwx-2gYn0Tcow&s",
+                "width": "272",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150909145858+08'00'",
+                "creationdate": "D:20150909145858+08'00'",
+                "creator": "网络版",
+                "author": "微软中国 Administrator",
+                "subject": "无命题1",
+                "producer": "pdflib",
+                "title": "XST13BXST13C150910"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///75981fb4496cfcf215557c3b1eef9e7ce8854cbed591958cc10f607486ff0bbf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.zhld.com/zkwb/page/1/2014-08-18/02/96101408294625949.pdf",
+          "displayLink": "www.zhld.com",
+          "snippet": "Aug 18, 2014 ... 使他从孝子变性为&孝女$!依然可以. 做好&道德模范$!陪伴着母亲!照顾着. 母亲!践行着孝道!孝心不会打折, 虽. 然变性人存在不能生育后代的问题! 但现今早已 ...",
+          "htmlSnippet": "Aug 18, 2014 <b>...</b> 使他从孝子变性为&amp;孝女$!依然可以. 做好&amp;道德模范$!陪伴着母亲!照顾着. 母亲!践行着孝道!孝心不会打折, 虽. 然<b>变性人</b>存在不能生育后代的问题! 但现今早已&nbsp;...",
+          "formattedUrl": "http://www.zhld.com/zkwb/page/1/2014-08.../96101408294625949.pdf",
+          "htmlFormattedUrl": "http://www.zhld.com/zkwb/page/1/2014-08.../96101408294625949.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RIxvkYuKkqis9rpCMfeqWSYCsHoxJIlm--hIiIC0qvUExV1sLzrJ4AE&s",
+                "width": "276",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b8af8ef9fd4bdcefe9bb38f86045152dd7b10ddee827d48ea5f31fcd5125ee4e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2020 年美国内分泌协会《临床实践指南： 内分泌疾病患者的血脂管理 ...",
+          "htmlTitle": "2020 年美国内分泌协会《临床实践指南： 内分泌疾病患者的血脂管理 ...",
+          "link": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType=PDF&id=5609",
+          "displayLink": "www.chinagp.net",
+          "snippet": "年人相关指南。 目前，关于变性人血脂指标变化的研究很有限，变. 性人心血管疾病发生风险相关数据缺乏。部分针对变性. 男性的研究结果显示，采用睾酮治疗可使其HDL 水平.",
+          "htmlSnippet": "年人相关指南。 目前，关于<b>变性人</b>血脂指标变化的研究很有限，变. 性人心血管疾病发生风险相关数据缺乏。部分针对变性. 男性的研究结果显示，采用睾酮治疗可使其HDL 水平.",
+          "formattedUrl": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshlP4Z2G1_eij_PklY0_6Mf6K2nQBaE9GU9dClzzOhpyPWLueNwh9give&s",
+                "width": "178",
+                "height": "178"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210520082737+08'00'",
+                "creationdate": "D:20210520082734+08'00'",
+                "creator": "Adobe Photoshop CS6 (Windows)",
+                "author": "Administrator",
+                "producer": "Adobe Photoshop for Windows -- Image Conversion Plug-in"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f58edb9377e312bba01f4d587eb50552fccba2f08819bc73b11f3b69e16bfd64"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "变性手术算病假， 整容手术算病假吗？",
+          "htmlTitle": "<b>变性</b>手术算病假， 整容手术算病假吗？",
+          "link": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "displayLink": "epaper.file.routeryun.com",
+          "snippet": "。 我们尊重和保护变性人的. 人格、 尊严及其正当权利， 是. 基于我们对于公民的 ... 的确， 现代社会， 人们的观. 念、 行为日益多元化和丰富化，. 变性手术、 整容手术都屡见不.",
+          "htmlSnippet": "。 我们尊重和保护<b>变性人</b>的. 人格、 尊严及其正当权利， 是. 基于我们对于公民的 ... 的确， 现代社会， 人们的观. 念、 行为日益多元化和丰富化，. 变性手术、 整容手术都屡见不.",
+          "formattedUrl": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "htmlFormattedUrl": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXGPXhNRvbhr--jwCkx_4gEihWiQA_Fqo2qoGGOyLjdFbEjk3vXDc-6q_&s",
+                "width": "279",
+                "height": "181"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20200707210530+08'00'",
+                "creator": "Founder PDF Library",
+                "author": "Founder Electronics Ltd",
+                "producer": "Founder PDF Library"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///93a4803afd4cbb7dd5edce241e052391b58c636c1fcad59d97eeea4dbccbd216"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "!\"# 2 $%&'()",
+          "htmlTitle": "!&quot;# 2 $%&amp;&#39;()",
+          "link": "https://lywb.lyd.com.cn/images/2010-01/29/1264706911109A15B129C.pdf",
+          "displayLink": "lywb.lyd.com.cn",
+          "snippet": "Jan 29, 2010 ... ... 变性男子下个. 月将迎来自己的第D个孩子$. 美国加州30 岁男子斯科特%莫尔是D个变性人# 而他的配偶托马. 斯本来也是D个女性#却和他D样接受变性手术成为 ...",
+          "htmlSnippet": "Jan 29, 2010 <b>...</b> ... 变性男子下个. 月将迎来自己的第D个孩子$. 美国加州30 岁男子斯科特%莫尔是D个<b>变性人</b># 而他的配偶托马. 斯本来也是D个女性#却和他D样接受变性手术成为&nbsp;...",
+          "formattedUrl": "https://lywb.lyd.com.cn/images/2010-01/.../1264706911109A15B129C.pdf",
+          "htmlFormattedUrl": "https://lywb.lyd.com.cn/images/2010-01/.../1264706911109A15B129C.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "纽约大学法律评论",
+          "htmlTitle": "纽约大学法律评论",
+          "link": "https://law.suda.edu.cn/_upload/article/files/ef/f7/2e674b23400d97399d905b559e39/5b01c449-9db9-4044-9688-701986b42358.pdf",
+          "displayLink": "law.suda.edu.cn",
+          "snippet": "... 变性造成的不一致性，. 还因为这一标准统一了低级法院近期的裁决意见，讨论了关于在多民族人群、双. 性人以及变性人不断增多的时代，如何实现平等保护的问题。（【美】 ...",
+          "htmlSnippet": "... 变性造成的不一致性，. 还因为这一标准统一了低级法院近期的裁决意见，讨论了关于在多民族人群、双. 性人以及<b>变性人</b>不断增多的时代，如何实现平等保护的问题。（【美】&nbsp;...",
+          "formattedUrl": "https://law.suda.edu.cn/_.../5b01c449-9db9-4044-9688-701986b42358.pd...",
+          "htmlFormattedUrl": "https://law.suda.edu.cn/_.../5b01c449-9db9-4044-9688-701986b42358.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YFOJuKYmsh5xNyrfWTT1an39ccL3dm9Cf8EjJ5hz5ux_926wR5IsBiQ&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160912224723+14'47'",
+                "creationdate": "D:20160912224723+14'47'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20160912224723+14'47'",
+                "author": "lucky",
+                "title": "像我一样的白人：白人身份构建多样性原理的负面影响"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fc452603d03eb857401e7d61527ae73d9025492cc134ef71469c7a57a66ebb5d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "美共和党欲推“瘦身版”新医改法案",
+          "htmlTitle": "美共和党欲推“瘦身版”新医改法案",
+          "link": "http://www.chaozhoudaily.com/upload/czrb/page/1/2017-07-28/08/89371501204730406.pdf",
+          "displayLink": "www.chaozhoudaily.com",
+          "snippet": "Jul 28, 2017 ... 允许变性人以任何形式在军队服役。 此番言论在美国内引发争议。 特朗普说， 美军必须专注于胜. 利，变性人服役会造成军队医疗成本. 高昂，因而扰乱队伍 ...",
+          "htmlSnippet": "Jul 28, 2017 <b>...</b> 允许<b>变性人</b>以任何形式在军队服役。 此番言论在美国内引发争议。 特朗普说， 美军必须专注于胜. 利，<b>变性人</b>服役会造成军队医疗成本. 高昂，因而扰乱队伍&nbsp;...",
+          "formattedUrl": "http://www.chaozhoudaily.com/upload/czrb/.../89371501204730406.pdf",
+          "htmlFormattedUrl": "http://www.chaozhoudaily.com/upload/czrb/.../89371501204730406.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gEFix1CER3CaKH83z4ieCFknK-8K6ZWpaQ62rBt9jWN1g6Ktg5XGE8g&s",
+                "width": "265",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator For EPD"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6fa7e85d78e073686f1d9631755dad5036bfe2c9a9a3a43e611b1187a8c76977"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:21:47"
+  },
+  {
+    "page": 4,
+    "start_index": 31,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.128784,
+        "formattedSearchTime": "0.13",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Advances in Psychological Science chinaXiv:202303.09492v1",
+          "htmlTitle": "Advances in Psychological Science chinaXiv:202303.09492v1",
+          "link": "https://psych.chinaxiv.org/user/download.htm?uuid=986a4bbe5421447ca03b36526720666b",
+          "displayLink": "psych.chinaxiv.org",
+          "snippet": "有意思的是,. 近期的研究比较了变性人和对照组被试的声音性. 别加工模式, 发现变性人在脑岛等脑区的神经响. 应更接近其心理认同的性别对照组, 而与其生理. 性别一致的对照 ...",
+          "htmlSnippet": "有意思的是,. 近期的研究比较了<b>变性人</b>和对照组被试的声音性. 别加工模式, 发现<b>变性人</b>在脑岛等脑区的神经响. 应更接近其心理认同的性别对照组, 而与其生理. 性别一致的对照&nbsp;...",
+          "formattedUrl": "https://psych.chinaxiv.org/user/download.htm?uuid...",
+          "htmlFormattedUrl": "https://psych.chinaxiv.org/user/download.htm?uuid...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230328101602+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "creationdate": "D:20201201114534+08'00'",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 9.0.0 (Windows); modified using iText® 5.5.8 ©2000-2015 iText Group NV (AGPL-version)",
+                "title": "Microsoft Word - 4杨国春刘勋jz20-259_new_.doc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "行为规范",
+          "htmlTitle": "行为规范",
+          "link": "https://int.hworld.com/assets/HWI_CodeofConduct_202402_chinesisch.pdf",
+          "displayLink": "int.hworld.com",
+          "snippet": "▫ 性别歧视、种族主义、仇视同性恋、变性人或其他歧视性的笑话和语言，以及出版或展示色情或暴力材料。 ▫ 特别是性别、性取向、种族、宗教或残疾方面的人身侮辱。",
+          "htmlSnippet": "▫ 性别歧视、种族主义、仇视同性恋、<b>变性人</b>或其他歧视性的笑话和语言，以及出版或展示色情或暴力材料。 ▫ 特别是性别、性取向、种族、宗教或残疾方面的人身侮辱。",
+          "formattedUrl": "https://int.hworld.com/assets/HWI_CodeofConduct_202402_chinesisch.pdf",
+          "htmlFormattedUrl": "https://int.hworld.com/assets/HWI_CodeofConduct_202402_chinesisch.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResS3vs03kQ1oYVi9sFDaAazZcS-rnwOz9qj0zQKXrkqk7XsIbKQAG8tk&s",
+                "width": "299",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240226101136+01'00'",
+                "creationdate": "D:20240226101136+01'00'",
+                "creator": "Microsoft® PowerPoint® für Microsoft 365",
+                "author": "Jennifer Weihs (TR/RTC/TMOA, Frankfurt)",
+                "producer": "Microsoft® PowerPoint® für Microsoft 365",
+                "title": "PowerPoint Presentation"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2f1f7b932a1fe8a4d85d9c1199f781ab4810d9f57b67de1b6496dfc96683b8d9"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "美国卫生公平社会决定因素分析与对策",
+          "htmlTitle": "美国卫生公平社会决定因素分析与对策",
+          "link": "http://journal.healthpolicy.cn/ch/reader/create_pdf.aspx?file_no=20121208",
+          "displayLink": "journal.healthpolicy.cn",
+          "snippet": "美国妇女的平均收入少于同等地位的男性。美国许. 多州通过立法剥夺了同性恋、变性人与同性结婚的. 权利，对同性伴侣而言，被剥夺婚姻权利也就因此剥. 夺了作为配偶应该 ...",
+          "htmlSnippet": "美国妇女的平均收入少于同等地位的男性。美国许. 多州通过立法剥夺了同性恋、<b>变性人</b>与同性结婚的. 权利，对同性伴侣而言，被剥夺婚姻权利也就因此剥. 夺了作为配偶应该&nbsp;...",
+          "formattedUrl": "http://journal.healthpolicy.cn/ch/reader/create_pdf.aspx?file_no...",
+          "htmlFormattedUrl": "http://journal.healthpolicy.cn/ch/reader/create_pdf.aspx?file_no...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ukyHSUJUxyxZTDzN4wlRM0RsYloRwffYGZOJJJmsghaSZ6MZbCYZnl1q&s",
+                "width": "184",
+                "height": "274"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20121227163254+08'00'",
+                "creationdate": "D:20121227163250+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b2cc5d387919080802fe44a5c6e6633d100529bd012eecffa36f177cae44984"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2017秋季泰国法政大学交流心得",
+          "htmlTitle": "2017秋季泰国法政大学交流心得",
+          "link": "https://fao.fudan.edu.cn/_upload/article/files/1f/81/bf0e55664a93ade75f6b49df15ed/7d3c3b8f-ad63-476f-a5d9-8477e6aa9abf.pdf",
+          "displayLink": "fao.fudan.edu.cn",
+          "snippet": "May 30, 2018 ... 因此，如何在当代的社会结构中、复兴传统女性的社会地位是需要思考的。 另外值. 得一提的是，东南亚的各个国家中，都有属于自己的“变性人”文化，例如 ...",
+          "htmlSnippet": "May 30, 2018 <b>...</b> 因此，如何在当代的社会结构中、复兴传统女性的社会地位是需要思考的。 另外值. 得一提的是，东南亚的各个国家中，都有属于自己的“<b>变性人</b>”文化，例如&nbsp;...",
+          "formattedUrl": "https://fao.fudan.edu.cn/_.../7d3c3b8f-ad63-476f-a5d9-8477e6aa9abf.pdf",
+          "htmlFormattedUrl": "https://fao.fudan.edu.cn/_.../7d3c3b8f-ad63-476f-a5d9-8477e6aa9abf.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "wkhtmltopdf 0.12.6",
+                "creationdate": "D:20220903195316+08'00'",
+                "producer": "Qt 5.15.3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "113岁国米老球迷离世",
+          "htmlTitle": "113岁国米老球迷离世",
+          "link": "https://zzwb.zynews.cn/page/2/2014-05/07/A30/20140507A30_pdf.PDF",
+          "displayLink": "zzwb.zynews.cn",
+          "snippet": "这部纪录片播. 出后，在欧美的网络上引起了很. 大轰动，在被佳雅的执着感动的. 同时，也有很多欧美观众表示无. 法理解，“一个准变性人，他到底. 是男还是女？” 对于这样的议论， ...",
+          "htmlSnippet": "这部纪录片播. 出后，在欧美的网络上引起了很. 大轰动，在被佳雅的执着感动的. 同时，也有很多欧美观众表示无. 法理解，“一个准<b>变性人</b>，他到底. 是男还是女？” 对于这样的议论，&nbsp;...",
+          "formattedUrl": "https://zzwb.zynews.cn/page/2/2014-05/07/A30/20140507A30_pdf.PDF",
+          "htmlFormattedUrl": "https://zzwb.zynews.cn/page/2/2014-05/07/A30/20140507A30_pdf.PDF",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0fmkGzSvXNNrekHSbTR4TPpFBrIsi8OsTX-_rXO7LjhQDJgcjM5enKQ&s",
+                "width": "273",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140507014553+08'00'",
+                "creationdate": "D:20140507014553+08'00'",
+                "creator": "FantArt",
+                "subject": "Untitiled",
+                "author": "Founder",
+                "producer": "idle",
+                "title": "Untitiled"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4c0344a4a3c51bc6a82ab3eaa87f50159a08cceaf0d5a766aec5ddf68c408be3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "走上T台刘婷“最美蝶变”",
+          "htmlTitle": "走上T台刘婷“最美蝶变”",
+          "link": "http://epaper.dbcsq.com/html/1/2015-09/24/A13/20150924A13_pdf.pdf",
+          "displayLink": "epaper.dbcsq.com",
+          "snippet": "Sep 24, 2015 ... 最后，组委会统一意. 见，那就是给她一个机会。” 秦树发称，比赛是国际性的，. 变性人参赛的案例比较少，她是中. 国的第一人。 □讲述. 机场安检曾难分 ...",
+          "htmlSnippet": "Sep 24, 2015 <b>...</b> 最后，组委会统一意. 见，那就是给她一个机会。” 秦树发称，比赛是国际性的，. <b>变性人</b>参赛的案例比较少，她是中. 国的第一人。 □讲述. 机场安检曾难分&nbsp;...",
+          "formattedUrl": "http://epaper.dbcsq.com/html/1/2015-09/24/A13/20150924A13_pdf.pdf",
+          "htmlFormattedUrl": "http://epaper.dbcsq.com/html/1/2015-09/24/A13/20150924A13_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QimlQkiDXg67V78c6JGs9N75Lh6r0gVuOC5TqFGRJpa0r-1waeQT7YI&s",
+                "width": "276",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150923193948+08'00'",
+                "creationdate": "D:20150923193948+08'00'",
+                "creator": "飞腾创艺5.4 网络版",
+                "subject": "农民报第3版",
+                "author": "qhrb Administrator",
+                "producer": "Founder",
+                "title": "1313BC924"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///780222b3ec635fc795f64db76a35830b3570689c16aa5cfa5c4c023ede1b6493"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "正当行政程序之价值基础",
+          "htmlTitle": "正当行政程序之价值基础",
+          "link": "https://sfj.beijing.gov.cn/sfj/fzbwj/resources/content/PDF/200503/20050308.pdf",
+          "displayLink": "sfj.beijing.gov.cn",
+          "snippet": "行政程序的正当性是行政程序产生的合法性与行政程. 序运行机制的合理性以及行政程序保障人的尊严的人道性 ... 实的多变性，人的地位，能力和欲望的复杂性，导致完全的 ...",
+          "htmlSnippet": "行政程序的正当性是行政程序产生的合法性与行政程. 序运行机制的合理性以及行政程序保障人的尊严的人道性 ... 实的多<b>变性，人</b>的地位，能力和欲望的复杂性，导致完全的&nbsp;...",
+          "formattedUrl": "https://sfj.beijing.gov.cn/sfj/fzbwj/resources/content/PDF/.../20050308.pdf",
+          "htmlFormattedUrl": "https://sfj.beijing.gov.cn/sfj/fzbwj/resources/content/PDF/.../20050308.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRN9UyoUf5UReFAHKEC2Ld5M62OaNZRCimHRJgX7kuZ0oGDsp7Z06LLjR&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20100913114212+08'00'",
+                "creationdate": "D:20100913114156+08'00'",
+                "creator": "TH-OCR PDF Writer",
+                "author": "TH-OCR 2000",
+                "producer": "±±¾©Çå»ª×Ï¹âÎÄÍ¨ÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///59174d3ca5c4f69070e2137e4359a98ca50476c30942c686d3234f4152e113f6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "污名化阻止社会广泛从HIV大流行吸取教训",
+          "htmlTitle": "污名化阻止社会广泛从HIV大流行吸取教训",
+          "link": "https://www.iikx.com/e/dongpo/doc/pdf/?classid=13&id=15974",
+          "displayLink": "www.iikx.com",
+          "snippet": "污名化的后果是诋毁一些人所获得的知识和经验。该校公共卫生学院流行病学和 ... （LGBTQI+代表女同性恋、男同性恋、双性恋、变性人、酷儿. 和阴阳人。） 正因为 ...",
+          "htmlSnippet": "污名化的后果是诋毁一些人所获得的知识和经验。该校公共卫生学院流行病学和 ... （LGBTQI+代表女同性恋、男同性恋、双性恋、<b>变性人</b>、酷儿. 和阴阳人。） 正因为&nbsp;...",
+          "formattedUrl": "https://www.iikx.com/e/dongpo/doc/pdf/?classid=13&id=15974",
+          "htmlFormattedUrl": "https://www.iikx.com/e/dongpo/doc/pdf/?classid=13&amp;id=15974",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQooMTFXRw_YSwFXNyOGgXWEjtcMabdjQXVDnyjyhbbuhyvSdLcsqVGSbo&s",
+                "width": "240",
+                "height": "79"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20241012081047+08'00'",
+                "creationdate": "D:20241012081047+08'00'",
+                "producer": "TCPDF 6.2.11 (http://www.tcpdf.org)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b741ec10fc830380403a25b16c60376e22a9264e45628889b78d5b89af61c01d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "联合国开发计划署",
+          "htmlTitle": "联合国开发计划署",
+          "link": "http://xiamen.customs.gov.cn/customs/resource/cms/article/5366415/5804491/2024041014452019584.pdf",
+          "displayLink": "xiamen.customs.gov.cn",
+          "snippet": "Apr 10, 2024 ... 15 SES中提到的\"女性和男性\"或类似的说法被理解为包括\"女孩和男孩\"以及其他因性别认同而受到歧. 视的群体，如变性人或变性人。 16 见开发署2014-2017 ...",
+          "htmlSnippet": "Apr 10, 2024 <b>...</b> 15 SES中提到的&quot;女性和男性&quot;或类似的说法被理解为包括&quot;女孩和男孩&quot;以及其他因性别认同而受到歧. 视的群体，如<b>变性人</b>或<b>变性人</b>。 16 见开发署2014-2017&nbsp;...",
+          "formattedUrl": "http://xiamen.customs.gov.cn/customs/.../2024041014452019584.pdf",
+          "htmlFormattedUrl": "http://xiamen.customs.gov.cn/customs/.../2024041014452019584.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaigpYMLK6DytG9xh40iB7iJp_Y7raXdSUv90znR_xANlfcDrom820MryZ&s",
+                "width": "257",
+                "height": "196"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230628015927Z",
+                "creator": "Microsoft Office Word",
+                "creationdate": "D:20230628015927Z",
+                "producer": "Aspose.Words for .NET 23.1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e3e900b16c473f6daa3b71c50e19229965ae9dfe8b4e771d5ca935a32a9cc043"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "非均衡的经济动态模型",
+          "htmlTitle": "非均衡的经济动态模型",
+          "link": "http://www.erj.cn/UploadFiles/%E9%9D%9E%E5%9D%87%E8%A1%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%8A%A8%E6%80%81%E6%A8%A1%E5%9E%8B.pdf",
+          "displayLink": "www.erj.cn",
+          "snippet": "这一规则既反映了市场中介人的适应性和小心谨慎行为,又简化了模. 型。⑤ 由市场 ... 的相互制约关系,人们心理行为的复杂性和多变性,人与人和人与自然之间错综复杂 ...",
+          "htmlSnippet": "这一规则既反映了市场中介人的适应性和小心谨慎行为,又简化了模. 型。⑤ 由市场 ... 的相互制约关系,人们心理行为的复杂性和多<b>变性,人</b>与人和人与自然之间错综复杂&nbsp;...",
+          "formattedUrl": "http://www.erj.cn/UploadFiles/非均衡的经济动态模型.pdf",
+          "htmlFormattedUrl": "http://www.erj.cn/UploadFiles/非均衡的经济动态模型.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStdNsuAlYncPEZi0IghNl6JOsAXAKH8HPCrTpqFnbgtZdhtAtt7bH6jgpg&s",
+                "width": "184",
+                "height": "273"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20100820103450",
+                "author": "TTKN Co., Ltd"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///317c8ca3d6ffcd4077809ab9b26af0b8418f94510282028e3133ca3cc68b5c8a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:24"
+  },
+  {
+    "page": 5,
+    "start_index": 41,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.124279,
+        "formattedSearchTime": "0.12",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "数学成就的性别差异",
+          "htmlTitle": "数学成就的性别差异",
+          "link": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=2761",
+          "displayLink": "journal.psych.ac.cn",
+          "snippet": "内容特异性, 很难简单地认定男性或女性谁数学. 更优或更差 ... 同样来. 自于变性人的证据也证实了这一观点, 经过3 个. 月的雄性激素注射治疗后, 女变男的变性人的视.",
+          "htmlSnippet": "内容特异性, 很难简单地认定男性或女性谁数学. 更优或更差 ... 同样来. 自于<b>变性人</b>的证据也证实了这一观点, 经过3 个. 月的雄性激素注射治疗后, 女变男的<b>变性人</b>的视.",
+          "formattedUrl": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?...",
+          "htmlFormattedUrl": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20121031160540+08'00'",
+                "creationdate": "D:20121031160540+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "Microsoft Word - 9刘蕴坤陶沙jz11-159_new_.doc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《土壤、沉积物酚类化合物的测定气相色谱法》 （征求意见稿） 编制 ...",
+          "htmlTitle": "《土壤、沉积物酚类化合物的测定气相色谱法》 （征求意见稿） 编制 ...",
+          "link": "https://www.mee.gov.cn/gkml/hbb/bgth/201206/W020120614379750892788.pdf",
+          "displayLink": "www.mee.gov.cn",
+          "snippet": "高浓度的酚液能. 使蛋白质凝固，并能继续向体内渗透，引起深部组织损伤、坏死乃至全身中毒；低浓度的酚. 液也可使蛋白质变性。人如果长期饮用被酚污染的水能引起慢性中毒 ...",
+          "htmlSnippet": "高浓度的酚液能. 使蛋白质凝固，并能继续向体内渗透，引起深部组织损伤、坏死乃至全身中毒；低浓度的酚. 液也可使蛋白质<b>变性。人</b>如果长期饮用被酚污染的水能引起慢性中毒&nbsp;...",
+          "formattedUrl": "https://www.mee.gov.cn/gkml/hbb/bgth/.../W020120614379750892788.pd...",
+          "htmlFormattedUrl": "https://www.mee.gov.cn/gkml/hbb/bgth/.../W020120614379750892788.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQC310vrQToYQjVroCQrsqs1CiAQDHyB9ZJuUny5iyQQPyrgMVZJT0q5O&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20120614103535+08'00'",
+                "creationdate": "D:20120614103535+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "fcy",
+                "producer": "Acrobat Distiller 8.1.0 (Windows)",
+                "title": "<4D6963726F736F667420576F7264202D20BBB7B0ECBAAF5B323031325D363833BAC5B8BDBCFECAAED2BB2E646F63>"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///12c2051a10ae2aed0e6351890c1c50397ff7d3d47d7da75041442fb4a7c7e9ce"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中外文学关系",
+          "htmlTitle": "中外文学关系",
+          "link": "https://clc.shisu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=93",
+          "displayLink": "clc.shisu.edu.cn",
+          "snippet": "耳其做大使，后来变成了女性，跨越时代，活到20世纪，成为一位女作家。 这位变性人或雌雄同体人，成了对文学和艺术的永恒追求的象征，就像他／. 她庄园里的大橡树 ...",
+          "htmlSnippet": "耳其做大使，后来变成了女性，跨越时代，活到20世纪，成为一位女作家。 这位<b>变性人</b>或雌雄同体人，成了对文学和艺术的永恒追求的象征，就像他／. 她庄园里的大橡树&nbsp;...",
+          "formattedUrl": "https://clc.shisu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://clc.shisu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200220190908+08'00'",
+                "creationdate": "D:20200220190905+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "女女性接触者/群体及艾滋病相关危险行为",
+          "htmlTitle": "女女性接触者/群体及艾滋病相关危险行为",
+          "link": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?journal_id=zhlxbx&file_name=A8D77C701D04C881047567B09ECCB87F12549E37C09A35937C1F0B2B2A05ADC90F707FFB2033B675B12B9020932F800E&open_type=self&file_no=20070321",
+          "displayLink": "chinaepi.icdc.cn",
+          "snippet": "接触的比例增加到2.99%,仅与女性发生过性行为的人中. 91%有其他高危行为,通常是 ... 者及变性人中的吸毒人员,基于降低危害的理论,为她们提. 供团体活动、同伴咨询 ...",
+          "htmlSnippet": "接触的比例增加到2.99%,仅与女性发生过性行为的人中. 91%有其他高危行为,通常是 ... 者及<b>变性人</b>中的吸毒人员,基于降低危害的理论,为她们提. 供团体活动、同伴咨询&nbsp;...",
+          "formattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "术语",
+          "htmlTitle": "术语",
+          "link": "https://www.swirecocacola.com/sbcorpweb/uploads/docs/SCC_SR2021_Glossary_SC.pdf",
+          "displayLink": "www.swirecocacola.com",
+          "snippet": "女同性恋、男同性恋、双性恋和跨性别/变性人，包括其他群体，如无性恋、间性人、酷儿、疑. 性恋等。 我们的员工. 生命周期评估（LCA） 生命周期评估是一种“从摇篮到坟墓 ...",
+          "htmlSnippet": "女同性恋、男同性恋、双性恋和跨性别/<b>变性人</b>，包括其他群体，如无性恋、间性人、酷儿、疑. 性恋等。 我们的员工. 生命周期评估（LCA） 生命周期评估是一种“从摇篮到坟墓&nbsp;...",
+          "formattedUrl": "https://www.swirecocacola.com/sbcorpweb/.../SCC_SR2021_Glossary_SC.p...",
+          "htmlFormattedUrl": "https://www.swirecocacola.com/sbcorpweb/.../SCC_SR2021_Glossary_SC.p...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220525154922+08'00'",
+                "creationdate": "D:20220525154918+08'00'",
+                "creator": "Adobe InDesign 17.2 (Macintosh)",
+                "producer": "Adobe PDF Library 16.0.7"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "评估和控制药物中DNA 反应性（致突变）杂质以限制潜在致癌风险M7 ...",
+          "htmlTitle": "评估和控制药物中DNA 反应性（致突变）杂质以限制潜在致癌风险M7 ...",
+          "link": "http://gcpunion.org/upload/cmsfile/1703404973480031.pdf",
+          "displayLink": "gcpunion.org",
+          "snippet": "May 31, 2017 ... ... 性白血病），特别标明. 使用期应短于10 年的药品，间歇性给药治疗急性复发症状. 2（慢性疱疹、痛风发作、物质依赖如戒烟）、黄斑变性、人. 类免疫缺陷 ...",
+          "htmlSnippet": "May 31, 2017 <b>...</b> ... 性白血病），特别标明. 使用期应短于10 年的药品，间歇性给药治疗急性复发症状. 2（慢性疱疹、痛风发作、物质依赖如戒烟）、黄斑<b>变性、人</b>. 类免疫缺陷&nbsp;...",
+          "formattedUrl": "http://gcpunion.org/upload/cmsfile/1703404973480031.pdf",
+          "htmlFormattedUrl": "http://gcpunion.org/upload/cmsfile/1703404973480031.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190214094909+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20190214094909+08'00'",
+                "author": "a",
+                "producer": "Microsoft® Word 2010"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "竞技·人文·传播:东京2020 奥运会系列事件的思考",
+          "htmlTitle": "竞技·人文·传播:东京2020 奥运会系列事件的思考",
+          "link": "http://cdtyxb.cdsu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1316",
+          "displayLink": "cdtyxb.cdsu.edu.cn",
+          "snippet": "奥运会确保了少数性群体的权益,会引发女性运动员间的另. 一种不平等. 华南师范大学熊欢教授则认为,固化的性别二. 元论是人们反对变性人参加奥运会的重要原因,而男女运动.",
+          "htmlSnippet": "奥运会确保了少数性群体的权益,会引发女性运动员间的另. 一种不平等. 华南师范大学熊欢教授则认为,固化的性别二. 元论是人们反对<b>变性人</b>参加奥运会的重要原因,而男女运动.",
+          "formattedUrl": "http://cdtyxb.cdsu.edu.cn/CN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "http://cdtyxb.cdsu.edu.cn/CN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211126105639+08'00'",
+                "creationdate": "D:20211126105619+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "德沃金的少数人权利法理及其中国进路",
+          "htmlTitle": "德沃金的少数人权利法理及其中国进路",
+          "link": "http://www.shkxjk.com/CN/article/downloadArticleFile.do?attachType=PDF&id=3465",
+          "displayLink": "www.shkxjk.com",
+          "snippet": "性,随着人类不断走向文明, 一直以来受到排挤的. 群体不再愿意被迫沉默或被边缘化,其中一些特殊. 的权利诉求日益引起了我们的关注, 比如, 变性人. 的性别承认权, 单身妇女 ...",
+          "htmlSnippet": "性,随着人类不断走向文明, 一直以来受到排挤的. 群体不再愿意被迫沉默或被边缘化,其中一些特殊. 的权利诉求日益引起了我们的关注, 比如, <b>变性人</b>. 的性别承认权, 单身妇女&nbsp;...",
+          "formattedUrl": "http://www.shkxjk.com/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://www.shkxjk.com/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi46yJe2KCHcHPaEEU9xpwLnvw5iZC3GiiMcA3ve5Kj4Hp4zL8PH7yzVmf&s",
+                "width": "178",
+                "height": "283"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20181012053147",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3948",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3948)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d329d8c785eea0240487746fb270b2965cb9d7dd4a53155bc1570973d8e72051"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "知识产权海外风险预警专刊知识产权海外风险预警专刊",
+          "htmlTitle": "知识产权海外风险预警专刊知识产权海外风险预警专刊",
+          "link": "http://ipr.mofcom.gov.cn/hwwq_2/zhuankan/file/2020/2020-01.pdf",
+          "displayLink": "ipr.mofcom.gov.cn",
+          "snippet": "Jan 2, 2020 ... 此类数据将由印度政府不定时地进行定义，仅. 能在印度进行存储和处理。 敏感数据. 此类数据涉及金融信息、健康状况、性取向、. 生物统计、变性人身份、宗教 ...",
+          "htmlSnippet": "Jan 2, 2020 <b>...</b> 此类数据将由印度政府不定时地进行定义，仅. 能在印度进行存储和处理。 敏感数据. 此类数据涉及金融信息、健康状况、性取向、. 生物统计、<b>变性人</b>身份、宗教&nbsp;...",
+          "formattedUrl": "http://ipr.mofcom.gov.cn/hwwq_2/zhuankan/file/2020/2020-01.pdf",
+          "htmlFormattedUrl": "http://ipr.mofcom.gov.cn/hwwq_2/zhuankan/file/2020/2020-01.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5YSDc-y-oyth0Sd4c4c0RyNB6cYO7fGGptvONHpO1RH6XKf6WocnGMvo&s",
+                "width": "266",
+                "height": "190"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210908095548+08'00'",
+                "creationdate": "D:20210908095430+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "author": "Cheng Yu",
+                "producer": "Microsoft® Word 2016",
+                "title": "巴西批准《马拉喀什条约》"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///263f6f0998ecbd833a7a4bab9bd96d8493b41b8f87ad9ae5bc3829822e35e9fb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://ncaids.chinacdc.cn/xxgx/xxzl/202004/W020200402339784264886.pdf",
+          "displayLink": "ncaids.chinacdc.cn",
+          "snippet": "据该报告显示，关键人群及其. 性伴侣占全球新增艾滋病病毒感染. 人数的一半以上（54％）。2018 年，. 包括注射吸毒者、男同性恋和其他. 男男性行为者、变性人、性工作者. 和 ...",
+          "htmlSnippet": "据该报告显示，关键人群及其. 性伴侣占全球新增艾滋病病毒感染. 人数的一半以上（54％）。2018 年，. 包括注射吸毒者、男同性恋和其他. 男男性行为者、<b>变性人</b>、性工作者. 和&nbsp;...",
+          "formattedUrl": "https://ncaids.chinacdc.cn/xxgx/xxzl/.../W020200402339784264886.pdf",
+          "htmlFormattedUrl": "https://ncaids.chinacdc.cn/xxgx/xxzl/.../W020200402339784264886.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKoNLZQ_OG6wOO-wDFLta960NfQqP6M20DFD-1HrFYiGkxx0Lb2yRX84A&s",
+                "width": "260",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191010103105+08'00'",
+                "creationdate": "D:20191010103056+08'00'",
+                "creator": "Adobe InDesign CC 2017 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e16a85d22c1a66f294b229f5ad81df522cb8c61b65912129b639d2debdd554ef"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:27"
+  },
+  {
+    "page": 6,
+    "start_index": 51,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.128888,
+        "formattedSearchTime": "0.13",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "综述- HIFs-PHDs氧传感途径在细胞铁死亡中的作用研究进展",
+          "htmlTitle": "综述- HIFs-PHDs氧传感途径在细胞铁死亡中的作用研究进展",
+          "link": "https://actaps.sinh.ac.cn/pdf.php?id=8582",
+          "displayLink": "actaps.sinh.ac.cn",
+          "snippet": "在脂肪变性人肝细胞(L02) 中，沉默HIF-. 2α 的表达可减少脂质累积，相反HIF-2α 过表达可. 显著抑制PPARα，导致PGC-1α、NRF-1、ESRRα. 基因表达降低，增加线粒体损伤和脂质 ...",
+          "htmlSnippet": "在脂肪<b>变性人</b>肝细胞(L02) 中，沉默HIF-. 2α 的表达可减少脂质累积，相反HIF-2α 过表达可. 显著抑制PPARα，导致PGC-1α、NRF-1、ESRRα. 基因表达降低，增加线粒体损伤和脂质&nbsp;...",
+          "formattedUrl": "https://actaps.sinh.ac.cn/pdf.php?id=8582",
+          "htmlFormattedUrl": "https://actaps.sinh.ac.cn/pdf.php?id=8582",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURD8-Hsy_7_sFQXULPZ4EO1snMkH53vV57VLNfYWdZ8r-IxInb2xyOvQ&s",
+                "width": "279",
+                "height": "181"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211222105244+08'00'",
+                "creationdate": "D:20211222105242+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///82bea8ce4172888fa8af4b74edbc9dde2bb4f0e061152f5f8ee12f6de633ffcd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国艾滋病诊疗指南（2021 年版）",
+          "htmlTitle": "中国艾滋病诊疗指南（2021 年版）",
+          "link": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.12290/xhyxzz.2022-0097.pdf",
+          "displayLink": "xhyxzz.pumch.cn",
+          "snippet": "MSM、 与男女发生性关系的男性和不使用安全. 套的男性、 变性人、 性工作者、 多性伴者、 STI 患. 者、 共用针具或注射器或其他器具者。 12􀆰 4􀆰 2 用药原则.",
+          "htmlSnippet": "MSM、 与男女发生性关系的男性和不使用安全. 套的男性、 <b>变性人</b>、 性工作者、 多性伴者、 STI 患. 者、 共用针具或注射器或其他器具者。 12􀆰 4􀆰 2 用药原则.",
+          "formattedUrl": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.../xhyxzz.2022-0097.pd...",
+          "htmlFormattedUrl": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.../xhyxzz.2022-0097.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "(D:20220330140541+08'00')",
+                "creationdate": "(D:20220330140541+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "新时代更要学习马克思! 习近平这么说",
+          "htmlTitle": "新时代更要学习马克思! 习近平这么说",
+          "link": "https://gdxk.southcn.com/attachment/0/4/4281/503544.pdf",
+          "displayLink": "gdxk.southcn.com",
+          "snippet": "泰国作为一个佛国，佛教教育人们行善积德，. 有利于统治者的领导和端正社会风气，但却允许. 变性“人妖”的出现，而且形成了一个颇大的人 ... “人妖厕所”，人妖又有变性与不变性的， ...",
+          "htmlSnippet": "泰国作为一个佛国，佛教教育人们行善积德，. 有利于统治者的领导和端正社会风气，但却允许. <b>变性</b>“人妖”的出现，而且形成了一个颇大的人 ... “人妖厕所”，人妖又有<b>变性</b>与不<b>变性</b>的，&nbsp;...",
+          "formattedUrl": "https://gdxk.southcn.com/attachment/0/4/4281/503544.pdf",
+          "htmlFormattedUrl": "https://gdxk.southcn.com/attachment/0/4/4281/503544.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwc4t2OV4feGkVb5dppzpBes_dxIO6r_nDQy288avNZ6Fu-Q-KARxonk&s",
+                "width": "230",
+                "height": "220"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210611112235+08'00'",
+                "creationdate": "D:20180727110922+08'00'",
+                "creator": "Adobe InDesign CC 2017 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f524cbca6ffd8e271b9bc2eacc4af8f2bc55399e9df7e1106c3366d32d8a99ba"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "C:Program Files华光科技易现标引临时文件A23-PDF.PS",
+          "htmlTitle": "C:Program Files华光科技易现标引临时文件A23-PDF.PS",
+          "link": "https://epaper.qlwb.com.cn/qlwb/PDF/20131223/A23.pdf",
+          "displayLink": "epaper.qlwb.com.cn",
+          "snippet": "Dec 23, 2013 ... 为了这. 个错误，我请求原谅。” 女性示威者突破两道防线数百名人妖加入集会 ... 的泰国人妖（变性人）也加入了集. 会队伍。 当天，英拉住所的大门紧闭 ...",
+          "htmlSnippet": "Dec 23, 2013 <b>...</b> 为了这. 个错误，我请求原谅。” 女性示威者突破两道防线数百名人妖加入集会 ... 的泰国人妖（<b>变性人</b>）也加入了集. 会队伍。 当天，英拉住所的大门紧闭&nbsp;...",
+          "formattedUrl": "https://epaper.qlwb.com.cn/qlwb/PDF/20131223/A23.pdf",
+          "htmlFormattedUrl": "https://epaper.qlwb.com.cn/qlwb/PDF/20131223/A23.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqdO09nS305VwauAx2bFjwbGNMJN9v1eU2yrmG-p0DbH6PYc0iVvP6AU&s",
+                "width": "272",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20131223013023+08'00'",
+                "creationdate": "D:20131223013023+08'00'",
+                "creator": "华光易捷杂志排版系统",
+                "producer": "Acrobat Distiller 7.0.5 (Windows)",
+                "title": "C:Program Files华光科技易现标引临时文件A23-PDF.PS"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1db4fea225b521d37726e62cac59ad795cd6dbca9c80ae5a2e6bd2026e5bd8eb"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "《小号》中的叙事认同与爵士乐身份",
+          "htmlTitle": "《小号》中的叙事认同与爵士乐身份",
+          "link": "https://skxb.hnust.edu.cn/hnkjdxxbsk/article/pdf/202005007?file_name=55455A4859C3AA36F4A4D355050451DBBEA0D2D07942409325CF498C9B33998D106E9881BC1DF74EC58D2947CA52C30D3D763C2EB53544AF70297F14E2C99E18&open_type=self",
+          "displayLink": "skxb.hnust.edu.cn",
+          "snippet": "Sep 5, 2020 ... 和变性人的故事”⑤。斯通斯将自诩的正常和诚. 实的人生与穆迪的荒诞和虚伪的经历相比对的行. 为再次证明萨特韦尔等研究者的担忧，生平经历. 和生平再现之 ...",
+          "htmlSnippet": "Sep 5, 2020 <b>...</b> 和<b>变性人</b>的故事”⑤。斯通斯将自诩的正常和诚. 实的人生与穆迪的荒诞和虚伪的经历相比对的行. 为再次证明萨特韦尔等研究者的担忧，生平经历. 和生平再现之&nbsp;...",
+          "formattedUrl": "https://skxb.hnust.edu.cn/hnkjdxxbsk/article/pdf/202005007?file...",
+          "htmlFormattedUrl": "https://skxb.hnust.edu.cn/hnkjdxxbsk/article/pdf/202005007?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqJtVulAoA3YiRV7UPapudh1TNILq8h988XOm61wzxK1fYoNC-O0a6jw4&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200929172349+08'00'",
+                "creationdate": "D:20200929172337+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9449496d560a43234edf072581ca94bf2529865c22e0cef97d642af9a88d5a67"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "哪些群体会明显受益",
+          "htmlTitle": "哪些群体会明显受益",
+          "link": "http://epaper.xzsnw.com/snbhw/page/1/2016-04/18/04B/2016041804B_pdf.pdf",
+          "displayLink": "epaper.xzsnw.com",
+          "snippet": "Apr 18, 2016 ... 日庆祝过程中的女性或变性人服装裸. 露、酗酒等无礼行为当局会严厉打击 ... 有标志性意义，说明我国无人. 驾驶汽车技术已经不输于国外。 执行此次 ...",
+          "htmlSnippet": "Apr 18, 2016 <b>...</b> 日庆祝过程中的女性或<b>变性人</b>服装裸. 露、酗酒等无礼行为当局会严厉打击 ... 有标志性意义，说明我国无人. 驾驶汽车技术已经不输于国外。 执行此次&nbsp;...",
+          "formattedUrl": "http://epaper.xzsnw.com/snbhw/page/1/2016-04/.../2016041804B_pdf.pdf",
+          "htmlFormattedUrl": "http://epaper.xzsnw.com/snbhw/page/1/2016-04/.../2016041804B_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmm1nE5bknUeb63tNqqO9QyiXhxBi_EW_z6h8PAOaP3GA0PwvZoj_osg&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160417175612+08'00'",
+                "creationdate": "D:20160417175612+08'00'",
+                "creator": "飞腾创艺5.4 网络版",
+                "subject": "无命题6",
+                "author": "PC",
+                "producer": "Founder",
+                "title": "HW4B20160418C"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///3c033b163f771a5188042e9942654f291539e664073d3dd318d8dac553c4fa18"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "世卫组织关于人类精液检查和处理的实验室手册",
+          "htmlTitle": "世卫组织关于人类精液检查和处理的实验室手册",
+          "link": "https://urology.wiki/Guidelines/Androlgy/Inferlity/%E7%B2%BE%E6%B6%B2%E6%A3%80%E6%9F%A5%E5%92%8C%E5%A4%84%E7%90%86%E6%89%8B%E5%86%8C%E7%AC%AC%E5%85%AD%E7%89%88-%E4%B8%AD%E6%96%87%E8%AF%91%E7%89%88.pdf",
+          "displayLink": "urology.wiki",
+          "snippet": "... 变性的统计程序 ... 212. 表8.3无保护性交导致活产的男性精液检查结果分布。 坎贝尔等人。（5）；可性的第五百分位数（95%置信区间 ...",
+          "htmlSnippet": "... <b>变性</b>的统计程序 ... 212. 表8.3无保护性交导致活产的男性精液检查结果分布。 坎贝尔等人。（5）；可性的第五百分位数（95%置信区间&nbsp;...",
+          "formattedUrl": "https://urology.wiki/Guidelines/.../精液检查和处理手册第六版-中文译版.p...",
+          "htmlFormattedUrl": "https://urology.wiki/Guidelines/.../精液检查和处理手册第六版-中文译版.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPsjt4bIH5R4aN5G8fblldqd_N0vj0oc_4hJk5wJWjwFoIc4CGkU5n1Y&s",
+                "width": "205",
+                "height": "246"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210908162054+08'20'",
+                "creationdate": "D:20210908162054+08'20'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20210908162057+08'20'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///fbeecb42ad1b1db5372f44e91ace645aa06b6c29af8679520af99f0c5acf2593"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://web3.psych.ac.cn/CN/tongxun/2019year/2019kan-1.pdf",
+          "displayLink": "web3.psych.ac.cn",
+          "snippet": "通过训练提升工作记忆容量将对人的一般性认知能力产生事半功倍的积极影响。然而 ... 变性。人从. 出生到成年，脑的可塑性处在不断的变化过程中。年龄较小者，脑的 ...",
+          "htmlSnippet": "通过训练提升工作记忆容量将对人的一般性认知能力产生事半功倍的积极影响。然而 ... <b>变性。人</b>从. 出生到成年，脑的可塑性处在不断的变化过程中。年龄较小者，脑的&nbsp;...",
+          "formattedUrl": "http://web3.psych.ac.cn/CN/tongxun/2019year/2019kan-1.pdf",
+          "htmlFormattedUrl": "http://web3.psych.ac.cn/CN/tongxun/2019year/2019kan-1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetptbl_nJ6i__4cSRgETHMeiKD0udSlgNxNDKMTnYP8AKSCfucQwU-j7h&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190430162114+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20190430162114+08'00'",
+                "author": "gumin_bgs",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///55bf75f7063f87a5dd5484440808061d8215e27e6c31e201bcfb5d97c78e207f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "公告信息",
+          "htmlTitle": "公告信息",
+          "link": "http://doss.xhby.net/zpaper/yzwb/pc/att/202106/18/63ce37bd-9637-4b98-a9ab-ef6d76be1eea.pdf",
+          "displayLink": "doss.xhby.net",
+          "snippet": "Jun 18, 2021 ... 后是马努埃拉，一位变性人姐姐。 我依然记得第一眼见到马努埃拉. 的那个下午，男朋友帮我拉着行李朝我. 们那栋楼走，院子里的一棵树下站着个. 40多岁的 ...",
+          "htmlSnippet": "Jun 18, 2021 <b>...</b> 后是马努埃拉，一位<b>变性人</b>姐姐。 我依然记得第一眼见到马努埃拉. 的那个下午，男朋友帮我拉着行李朝我. 们那栋楼走，院子里的一棵树下站着个. 40多岁的&nbsp;...",
+          "formattedUrl": "http://doss.xhby.net/.../pc/.../63ce37bd-9637-4b98-a9ab-ef6d76be1eea.pdf",
+          "htmlFormattedUrl": "http://doss.xhby.net/.../pc/.../63ce37bd-9637-4b98-a9ab-ef6d76be1eea.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHapBLYeF8wns1stHAtJ9e8V4KTy8Y2wjG7YJCu0jE-CI0fnug8BFBePW&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210617184422+08'00'",
+                "creationdate": "D:20210617184422+08'00'",
+                "creator": "飞腾创艺5.4 网络版",
+                "subject": "2017最新2位数版心",
+                "author": "xiaot_yz",
+                "producer": "Founder",
+                "title": "YZWBB002B20210618C"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///90ae05c6ec890ba4cdc2bee3196c45a5b5f0c73651dce180423c35227b043e3d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "元宇宙中虚拟人相关的心理问题探讨",
+          "htmlTitle": "元宇宙中虚拟人相关的心理问题探讨",
+          "link": "http://www.xljsyyy.com/CN/article/downloadArticleFile.do?attachType=PDF&id=697",
+          "displayLink": "www.xljsyyy.com",
+          "snippet": "“机器”类别的东西会引起人的认知焦虑。这种. 恐惧也反映在一些其他类型的“杂交”事物上，. 如转基因食品、变性人等。另外的解释是，当. 一个机器人表现得像一个机器人时 ...",
+          "htmlSnippet": "“机器”类别的东西会引起人的认知焦虑。这种. 恐惧也反映在一些其他类型的“杂交”事物上，. 如转基因食品、<b>变性人</b>等。另外的解释是，当. 一个机器人表现得像一个机器人时&nbsp;...",
+          "formattedUrl": "http://www.xljsyyy.com/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "http://www.xljsyyy.com/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w74fqmQycaxeWPKWk2WX0EzlpT0lEta1bQCMoGKHpEYFNE7131lYv3CF&s",
+                "width": "229",
+                "height": "220"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230704020400Z",
+                "producer": "iLovePDF"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///163f1e09ccdf142839356e187715b465ad6372f3734009ee9aa6d6e8734bc272"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:29"
+  },
+  {
+    "page": 7,
+    "start_index": 61,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.131462,
+        "formattedSearchTime": "0.13",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "封面18年第一期------",
+          "htmlTitle": "封面18年第一期------",
+          "link": "http://www.wacd921.org/wp-content/uploads/2020/12/20200301.pdf",
+          "displayLink": "www.wacd921.org",
+          "snippet": "骨转移按病变特征可分为以下3种类型，. 溶骨性、成骨性和混合性。大部分结 ... 变性人，或年轻母亲。PACC 帮助参与者互相学习，. 提高医疗保健结果。PACC 从50 个 ...",
+          "htmlSnippet": "骨转移按病变特征可分为以下3种类型，. 溶骨性、成骨性和混合性。大部分结 ... <b>变性人</b>，或年轻母亲。PACC 帮助参与者互相学习，. 提高医疗保健结果。PACC 从50 个&nbsp;...",
+          "formattedUrl": "http://www.wacd921.org/wp-content/uploads/2020/12/20200301.pdf",
+          "htmlFormattedUrl": "http://www.wacd921.org/wp-content/uploads/2020/12/20200301.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4syX7dW5q9pCJHnx1xocGqZ8jFzFSkvWCsOmELY2Zm3iBG6W-j4F-jZPG&s",
+                "width": "292",
+                "height": "172"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20201221100621+08'00'",
+                "creator": "Adobe Illustrator CS6 (Windows)",
+                "creationdate": "D:20191009094404+08'00'",
+                "producer": "Adobe PDF library 10.01",
+                "title": "封面 18年第一期------"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///686cf3ee29c7d5d81982a72e4d9cc5bd8433cdd34f3ac3ffc97c229646e06c03"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "游电",
+          "htmlTitle": "游电",
+          "link": "http://106.37.81.211:8082/wxzy/down/sjs_journal/8470092.html",
+          "displayLink": "106.37.81.211",
+          "snippet": "男性、女性，可以是变性人，也可以是同性恋者；易装的成功. 与否，不仅要看着衣是否巧妙无破绽，更重要的是看言谈、举. 止模仿异性是否惟妙惟肖。程蝶衣是中国京剧舞台上 ...",
+          "htmlSnippet": "男性、女性，可以是<b>变性人</b>，也可以是同性恋者；易装的成功. 与否，不仅要看着衣是否巧妙无破绽，更重要的是看言谈、举. 止模仿异性是否惟妙惟肖。程蝶衣是中国京剧舞台上&nbsp;...",
+          "formattedUrl": "http://106.37.81.211:8082/wxzy/down/sjs_journal/8470092.html",
+          "htmlFormattedUrl": "http://106.37.81.211:8082/wxzy/down/sjs_journal/8470092.html",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDk5cPOiTAGcM3xzAEKoN42PxJ0p9B5J9eMVHYQcoTg9oxiZ_l85ILfT6u&s",
+                "width": "281",
+                "height": "179"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20060430090801+08'00'",
+                "creationdate": "D:20060430090801+08'00'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///15067e14ecdae855fd8a621af3eb3ef9d5fa78af1c98146f3deee84bc9dcbfb3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.dfrobot.com.cn/images/upload/File/20200420153959qgxlbp.pdf",
+          "displayLink": "www.dfrobot.com.cn",
+          "snippet": "Apr 20, 2020 ... 易变性：人脸的外形很不稳定，人可以通过脸部的变化产生很多表情，而在 ... 果就是：人、人、人。因为它只能识别物体的类别而不能对个体进行区别 ...",
+          "htmlSnippet": "Apr 20, 2020 <b>...</b> 易<b>变性：人</b>脸的外形很不稳定，人可以通过脸部的变化产生很多表情，而在 ... 果就是：人、人、人。因为它只能识别物体的类别而不能对个体进行区别&nbsp;...",
+          "formattedUrl": "https://www.dfrobot.com.cn/images/upload/.../20200420153959qgxlbp.pdf",
+          "htmlFormattedUrl": "https://www.dfrobot.com.cn/images/upload/.../20200420153959qgxlbp.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvZDNGtaDRGstmLHIEwF7gavudlzYBvX7MjTIRsU_mqa8S7mxdnsfumA&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200420153735+08'00'",
+                "creationdate": "D:20200403113912+08'00'",
+                "creator": "Adobe InDesign 15.0 (Macintosh)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///eb0b0e2783d2d3fc7c4c4664652b29b963ab7c5b5dabe200f6c54806355f4869"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "从“后学”到认同政治： 当代美国人文思潮走向",
+          "htmlTitle": "从“后学”到认同政治： 当代美国人文思潮走向",
+          "link": "https://www.xsyk021.com/fileXSYK/journal/article/xsyk/2020/2/PDF/liukang.pdf",
+          "displayLink": "www.xsyk021.com",
+          "snippet": "Feb 2, 2020 ... 的各种人文批评思潮，如女性主义、非裔−美国研究（Afro-American studies）、亚裔−美国研究（Asian-. American studies）、LGBTQ（同性恋、双性恋、变性人 ...",
+          "htmlSnippet": "Feb 2, 2020 <b>...</b> 的各种人文批评思潮，如女性主义、非裔−美国研究（Afro-American studies）、亚裔−美国研究（Asian-. American studies）、LGBTQ（同性恋、双性恋、<b>变性人</b>&nbsp;...",
+          "formattedUrl": "https://www.xsyk021.com/fileXSYK/journal/article/xsyk/.../2/.../liukang.pdf",
+          "htmlFormattedUrl": "https://www.xsyk021.com/fileXSYK/journal/article/xsyk/.../2/.../liukang.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200224110221+08'00'",
+                "creationdate": "D:20200224110221+08'00'",
+                "producer": "rhhz"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "论社会性别理论视域下的女性研究及其争论",
+          "htmlTitle": "论社会性别理论视域下的女性研究及其争论",
+          "link": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=702",
+          "displayLink": "tsla.ecnu.edu.cn",
+          "snippet": "常而心理异常（如变性人［the transsexual］）患者. 的研究对将男女 ... 性决定女性特殊性，社会性别理论则强调社会. （父权制）网络生产女性差异性 ...",
+          "htmlSnippet": "常而心理异常（如<b>变性人</b>［the transsexual］）患者. 的研究对将男女 ... 性决定女性特殊性，社会性别理论则强调社会. （父权制）网络生产女性差异性&nbsp;...",
+          "formattedUrl": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210501111755+08'00'",
+                "creationdate": "D:20210501111748+08'00'",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "第一章引言",
+          "htmlTitle": "第一章引言",
+          "link": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/gykejianupload/3073/files/%E8%AF%AD%E6%96%99%E5%BA%93%E4%B8%8E%E6%80%A7%E5%88%AB%E5%88%86%E6%9E%90-%E7%B2%BE%E5%BD%A9%E6%A0%B7%E7%AB%A0.pdf",
+          "displayLink": "fltrp-gy.oss-cn-shanghai.aliyuncs.com",
+          "snippet": "尽管存在阴阳人和变性人，. 性经常被描述为（对于大多数人而言）具有稳定性的男性/ 女性的二元对立。而性别却被理. 论化为更加复杂、易变，而且可能包括多重变化梯度（例如，有的 ...",
+          "htmlSnippet": "尽管存在阴阳人和<b>变性人</b>，. 性经常被描述为（对于大多数人而言）具有稳定性的男性/ 女性的二元对立。而性别却被理. 论化为更加复杂、易变，而且可能包括多重变化梯度（例如，有的&nbsp;...",
+          "formattedUrl": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/.../语料库与性别分析-精彩样...",
+          "htmlFormattedUrl": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/.../语料库与性别分析-精彩样...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20190129165425+08'00'",
+                "creationdate": "D:20190129164756+08'00'",
+                "creator": "Founder PDF Library",
+                "author": "Founder Electronics Ltd",
+                "producer": "Founder PDF Library"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=9245",
+          "displayLink": "www.zghjkx.com.cn",
+          "snippet": "流感病毒抗原的多变性,人一生中可多次患. 溫度和相对湿度对病毒生存的影响表2. 項目 ... 性疾病的爆发呈地区性和季节性。水网. 地区、雨季及收获季节接触污水的人极 ...",
+          "htmlSnippet": "流感病毒抗原的多<b>变性,人</b>一生中可多次患. 溫度和相对湿度对病毒生存的影响表2. 項目 ... 性疾病的爆发呈地区性和季节性。水网. 地区、雨季及收获季节接触污水的人极&nbsp;...",
+          "formattedUrl": "http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "Mon Jan 12 16:41:11 2009",
+                "creator": "Adobe Photoshop 6.0",
+                "creationdate": "Sat Nov  1 18:55:38 2008",
+                "producer": "Adobe Photoshop for Windows"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "当代美国戏剧奖概述",
+          "htmlTitle": "当代美国戏剧奖概述",
+          "link": "http://111.205.231.68/docs/2018-11/20181114211112657750.caj",
+          "displayLink": "111.205.231.68",
+          "snippet": "Nov 14, 2018 ... 男、女同性恋、双性恋、变性人生活和诉求的新闻体裁和. 文学、艺术创作。 首届奖颁发于1990 年，分别面向英语. 和西班牙语作品。 该奖项最出名的是电影 ...",
+          "htmlSnippet": "Nov 14, 2018 <b>...</b> 男、女同性恋、双性恋、<b>变性人</b>生活和诉求的新闻体裁和. 文学、艺术创作。 首届奖颁发于1990 年，分别面向英语. 和西班牙语作品。 该奖项最出名的是电影&nbsp;...",
+          "formattedUrl": "http://111.205.231.68/docs/2018-11/20181114211112657750.caj",
+          "htmlFormattedUrl": "http://111.205.231.68/docs/2018-11/20181114211112657750.caj",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20141222220359-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3863",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "上政法律評論",
+          "htmlTitle": "上政法律評論",
+          "link": "https://www.shupl.edu.cn/_upload/article/files/43/e0/fb2612754677bd36720905285387/0442f442-40e0-4dd8-95e7-7b7f42e0aa8b.pdf",
+          "displayLink": "www.shupl.edu.cn",
+          "snippet": "如变性人问题，受害人在变性前是男性身份，在其变性为女性后遭遇到强奸行为应该如何认. 定的问题。不仅是变性人问题，还有同性性侵、女性侵犯男性的问题都是刑法上亟待解决的.",
+          "htmlSnippet": "如<b>变性人</b>问题，受害人在变性前是男性身份，在其变性为女性后遭遇到强奸行为应该如何认. 定的问题。不仅是<b>变性人</b>问题，还有同性性侵、女性侵犯男性的问题都是刑法上亟待解决的.",
+          "formattedUrl": "https://www.shupl.edu.cn/_.../0442f442-40e0-4dd8-95e7-7b7f42e0aa8b.p...",
+          "htmlFormattedUrl": "https://www.shupl.edu.cn/_.../0442f442-40e0-4dd8-95e7-7b7f42e0aa8b.p...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20170927100304+02'03'",
+                "creationdate": "D:20170927100304+02'03'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20170927100304+02'03'",
+                "author": "lenovo"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "印象曼谷—旅行工具箱—行程—交通曼谷景点",
+          "htmlTitle": "印象曼谷—旅行工具箱—行程—交通曼谷景点",
+          "link": "http://download.cntv.cn/travel/guide/www_17u_com/2013-06-05/3187_mangugonglue_20130605_0.pdf",
+          "displayLink": "download.cntv.cn",
+          "snippet": "人妖秀. 位于泰国的首都曼谷府之县的素坤逸路，素坤逸廿二街之“华. 盛顿商业中心”里的一个以变性人(由男性变成女性)为主要演员的. 歌舞表演团体，观众主要来自欧洲、北 ...",
+          "htmlSnippet": "人妖秀. 位于泰国的首都曼谷府之县的素坤逸路，素坤逸廿二街之“华. 盛顿商业中心”里的一个以<b>变性人</b>(由男性变成女性)为主要演员的. 歌舞表演团体，观众主要来自欧洲、北&nbsp;...",
+          "formattedUrl": "http://download.cntv.cn/travel/.../3187_mangugonglue_20130605_0.pdf",
+          "htmlFormattedUrl": "http://download.cntv.cn/travel/.../3187_mangugonglue_20130605_0.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsVYFQj4yW5fNOeYrFoOD0wk2XFqyzqRcPxVy3EgbgY-dG877cG3xTQ4&s",
+                "width": "274",
+                "height": "184"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20130102133413+08'00'",
+                "creationdate": "D:20130102133141+08'00'",
+                "creator": "Acrobat PDFMaker 10.1 Word 版",
+                "sourcemodified": "D:20130102053132",
+                "author": "tc01230",
+                "producer": "Adobe PDF Library 10.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8e39d627a63835860b47108fdc3d5f02ba6a542fcc3396c3d17538258edae20c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:31"
+  },
+  {
+    "page": 8,
+    "start_index": 71,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.134794,
+        "formattedSearchTime": "0.13",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "法句经故事集",
+          "htmlTitle": "法句经故事集",
+          "link": "https://jnbooks.oss-cn-qingdao.aliyuncs.com/books/%E3%80%8A%E6%B3%95%E5%8F%A5%E7%BB%8F%E6%95%85%E4%BA%8B%E9%9B%86%E3%80%8B.pdf.pdf",
+          "displayLink": "jnbooks.oss-cn-qingdao.aliyuncs.com",
+          "snippet": "九、变性人......................................... 75. 第四品华品. 78. 一、观 ... 的人也受诽谤，世间人对任何人都诽谤。（法句227）. ◎ 不论过去，未来或现在 ...",
+          "htmlSnippet": "九、<b>变性人</b>......................................... 75. 第四品华品. 78. 一、观 ... 的人也受诽谤，世间人对任何人都诽谤。（法句227）. ◎ 不论过去，未来或现在&nbsp;...",
+          "formattedUrl": "https://jnbooks.oss-cn-qingdao.aliyuncs.com/.../《法句经故事集》.pdf.pdf",
+          "htmlFormattedUrl": "https://jnbooks.oss-cn-qingdao.aliyuncs.com/.../《法句经故事集》.pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2e81kSMLQ5m-Jm1rNDbQV_D3ZteJKb2Ijhuzo3X5xmZR2KEujoiYVrDo&s",
+                "width": "188",
+                "height": "268"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140120164652+08'00'",
+                "creationdate": "D:20140116133750+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0.2)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///73ae621b8e632dd65a155aa55e12d8a6563bb93aa219bd59e2615c0f6a03f3ff"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "心理健康概述",
+          "htmlTitle": "心理健康概述",
+          "link": "http://www.tup.tsinghua.edu.cn/upload/books/yz/102452-01.pdf",
+          "displayLink": "www.tup.tsinghua.edu.cn",
+          "snippet": "Aug 1, 2023 ... 个体在不同的. 年龄阶段表现出身心发展不同的总体特征及主要矛盾，面临着不同的发展任务。 （2）心理发展具有稳定性和可变性。人的心理发展在正常情况下，一般 ...",
+          "htmlSnippet": "Aug 1, 2023 <b>...</b> 个体在不同的. 年龄阶段表现出身心发展不同的总体特征及主要矛盾，面临着不同的发展任务。 （2）心理发展具有稳定性和可<b>变性。人</b>的心理发展在正常情况下，一般&nbsp;...",
+          "formattedUrl": "http://www.tup.tsinghua.edu.cn/upload/books/yz/102452-01.pdf",
+          "htmlFormattedUrl": "http://www.tup.tsinghua.edu.cn/upload/books/yz/102452-01.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230801141614+08'00'",
+                "creationdate": "D:20230801141610+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "涉及人的健康相关研究国际伦理指南",
+          "htmlTitle": "涉及人的健康相关研究国际伦理指南",
+          "link": "http://www.sxatcm.com/uploadfile/ueditor/file/20200827/1598513259161022431.pdf",
+          "displayLink": "www.sxatcm.com",
+          "snippet": "虽然妇女一般不应被视为弱势群体，但妇女在研究中易受伤害的特定情况包括：涉及女. 性或变性人的性 ... 性，或损害研究科学有效性的可能性，以及判. 断次要利益与利益相关 ...",
+          "htmlSnippet": "虽然妇女一般不应被视为弱势群体，但妇女在研究中易受伤害的特定情况包括：涉及女. 性或<b>变性人</b>的性 ... 性，或损害研究科学有效性的可能性，以及判. 断次要利益与利益相关&nbsp;...",
+          "formattedUrl": "http://www.sxatcm.com/uploadfile/ueditor/.../1598513259161022431.pdf",
+          "htmlFormattedUrl": "http://www.sxatcm.com/uploadfile/ueditor/.../1598513259161022431.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20181211073437+08'00'",
+                "creationdate": "D:20181211073437+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "producer": "Acrobat Distiller 9.5.5 (Windows)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "青少年性教育是什么？",
+          "htmlTitle": "青少年性教育是什么？",
+          "link": "http://www.zgxkxzzs.com/uploadfile/zgxkx/20180419/%E4%B8%AD%E5%9B%BD%E6%80%A7%E7%A7%91%E5%AD%A611-2.pdf",
+          "displayLink": "www.zgxkxzzs.com",
+          "snippet": "Apr 18, 2018 ... 变性人的发展历史及其现状［J］.中国性科学，. 2006，15（9）：5r8. 2 林崇德.发展心理学［M］.北京：人民教育出版社，1995. 3 石玲.儿童性别认同状况 ...",
+          "htmlSnippet": "Apr 18, 2018 <b>...</b> <b>变性人</b>的发展历史及其现状［J］.中国性科学，. 2006，15（9）：5r8. 2 林崇德.发展心理学［M］.北京：人民教育出版社，1995. 3 石玲.儿童性别认同状况&nbsp;...",
+          "formattedUrl": "http://www.zgxkxzzs.com/uploadfile/zgxkx/.../中国性科学11-2.pdf",
+          "htmlFormattedUrl": "http://www.zgxkxzzs.com/uploadfile/zgxkx/.../中国性科学11-2.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rv5KZP0Ndxy02NawOgT4tgugq1Uv1lRrgMWRiIZm6bGPzboOnzVNKQA&s",
+                "width": "249",
+                "height": "203"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2ebe75f9062594497d66f8a6bca519d63d97e8fb41d1325d25c8052c9f8ec57e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "在对潜意识的探索中追问电影的本性",
+          "htmlTitle": "在对潜意识的探索中追问电影的本性",
+          "link": "https://xbbjb.ucass.edu.cn/__local/6/D7/69/ADB127DA6767CDFAF32F746467E_7F69BD77_6710A.pdf",
+          "displayLink": "xbbjb.ucass.edu.cn",
+          "snippet": "他进入人物的潜意识心理，尝试依靠情境而不是情节进行叙. 事的多种可能性，将场面调度技术发展到无人 ... 变性人去往俱乐部路上的夜景， 《访谈录》中印第安人手. 持电视 ...",
+          "htmlSnippet": "他进入人物的潜意识心理，尝试依靠情境而不是情节进行叙. 事的多种可能性，将场面调度技术发展到无人 ... <b>变性人</b>去往俱乐部路上的夜景， 《访谈录》中印第安人手. 持电视&nbsp;...",
+          "formattedUrl": "https://xbbjb.ucass.edu.cn/__.../ADB127DA6767CDFAF32F746467E_7F6...",
+          "htmlFormattedUrl": "https://xbbjb.ucass.edu.cn/__.../ADB127DA6767CDFAF32F746467E_7F6...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20211108192908-08'00'",
+                "creator": "ReaderEx_DIS 2.3.0 Build 3983",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "个人化的婚姻和家庭",
+          "htmlTitle": "个人化的婚姻和家庭",
+          "link": "https://jxpt.whut.edu.cn/meol/analytics/resPdfShow.do;jsessionid=0BB9C7D091040A20215CE9C31AA34E33?resId=163387&lid=9179",
+          "displayLink": "jxpt.whut.edu.cn",
+          "snippet": "而今，在“性. 解放”和女性主义的倡导下 ... 法国的一. 些激进团体，特别是一些同性恋（LGBT）协会（LGBT：lesbiennes, gays, trans et bi 女同. 性恋，男同性恋，变性人和双性 ...",
+          "htmlSnippet": "而今，在“性. 解放”和女性主义的倡导下 ... 法国的一. 些激进团体，特别是一些同性恋（LGBT）协会（LGBT：lesbiennes, gays, trans et bi 女同. 性恋，男同性恋，<b>变性人</b>和双性&nbsp;...",
+          "formattedUrl": "https://jxpt.whut.edu.cn/meol/analytics/resPdfShow.do;jsessionid...lid...",
+          "htmlFormattedUrl": "https://jxpt.whut.edu.cn/meol/analytics/resPdfShow.do;jsessionid...lid...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20180920202329-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3948",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.lawyers.org.cn/file/upload/20160216/file/20160216154559_3d91a6c71ed745cfa4252da7c775dbbf.pdf",
+          "displayLink": "www.lawyers.org.cn",
+          "snippet": "Feb 15, 2016 ... 中国法制的基础不在于刑法，而在于前置性法. 律，如果人人遵守前置性法律，中国的犯罪就不应该那么 ... 变性人等等，这个在. 人格上应该是受到同等保护。 华东 ...",
+          "htmlSnippet": "Feb 15, 2016 <b>...</b> 中国法制的基础不在于刑法，而在于前置性法. 律，如果人人遵守前置性法律，中国的犯罪就不应该那么 ... <b>变性人</b>等等，这个在. 人格上应该是受到同等保护。 华东&nbsp;...",
+          "formattedUrl": "http://www.lawyers.org.cn/.../20160216154559_3d91a6c71ed745cfa4252...",
+          "htmlFormattedUrl": "http://www.lawyers.org.cn/.../20160216154559_3d91a6c71ed745cfa4252...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_BkZYVfFS1E6YoSynpX77NFFLEmLZei0juqLerGR_8ceuATPgHFbNaw&s",
+                "width": "288",
+                "height": "175"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160216094710+08'00'",
+                "creationdate": "D:20160216091858+08'00'",
+                "creator": "pdfFactory Pro www.pdffactory.com",
+                "author": "Apple",
+                "producer": "pdfFactory Pro 4.50 (Windows 7 Ultimate x86 Chinese (Simplified))",
+                "title": "12.FIT)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///903f4fd9ba18274c8a8b0ee931dda8abee4489708ef274c3b4bb73f213eaf09e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.mzywfyj.org.cn/downloadRepository/9ab0c665-653b-4ae5-b081-8d4b76f01239.pdf",
+          "displayLink": "www.mzywfyj.org.cn",
+          "snippet": "这篇文章记述了“苗族性行为和性规范多样性”研讨会的内容,探讨了苗族文化“专制”. 的构建、性别不平等、期望、性观念、同性恋、双性恋、变性人与酷儿的身份、贞洁、性行为.",
+          "htmlSnippet": "这篇文章记述了“苗族性行为和性规范多样性”研讨会的内容,探讨了苗族文化“专制”. 的构建、性别不平等、期望、性观念、同性恋、双性恋、<b>变性人</b>与酷儿的身份、贞洁、性行为.",
+          "formattedUrl": "https://www.mzywfyj.org.cn/.../9ab0c665-653b-4ae5-b081-8d4b76f01239...",
+          "htmlFormattedUrl": "https://www.mzywfyj.org.cn/.../9ab0c665-653b-4ae5-b081-8d4b76f01239...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCcVpqVGiBFFZC7gdsF3grH-hTDMJTdvscgOjDMkA2XCEpTnUd55I4Cwy&s",
+                "width": "190",
+                "height": "265"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Nov 10 10:28:30 2016",
+                "creationdate": "Thu Nov 10 10:28:30 2016",
+                "author": "Stephan Huck",
+                "producer": "PDF Editor 2.0 - Foxit Software"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///06f23e1279e57496bf9bd29424d616438212f94db4f349b5720c3ca219b2cca4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中医精髓图解第二版",
+          "htmlTitle": "中医精髓图解第二版",
+          "link": "http://www.ecsponline.com/yz/BBA42E8E4C368451AB39A11AB3C5C45C6000.pdf",
+          "displayLink": "www.ecsponline.com",
+          "snippet": "... 变性人可以说明. 这条哲理。泰国一些男人由于谋生或性变态的需. 要，年幼即去日本做变性手术，割去男性的“根” ，. 做了人工阴道，通过大量服用女性激素和长期的. 训练，变 ...",
+          "htmlSnippet": "... <b>变性人</b>可以说明. 这条哲理。泰国一些男人由于谋生或性变态的需. 要，年幼即去日本做变性手术，割去男性的“根” ，. 做了人工阴道，通过大量服用女性激素和长期的. 训练，变&nbsp;...",
+          "formattedUrl": "http://www.ecsponline.com/.../BBA42E8E4C368451AB39A11AB3C5C45C...",
+          "htmlFormattedUrl": "http://www.ecsponline.com/.../BBA42E8E4C368451AB39A11AB3C5C45C...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-2On6MALvlrki8fltcofXo60bhuzCZH9HuNz2krSXIuXs-5OWNGPrQPP&s",
+                "width": "191",
+                "height": "264"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150127082802+08'00'",
+                "creationdate": "D:20150127082802+08'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "lyl",
+                "producer": "AFPL Ghostscript 8.50",
+                "title": "zy1ml.s92"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///feda68f798c8283906851cdd48623d5c3aec452ed0ec42258c5d7a9e40e98ef1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "KS 故事- 克氏综合征",
+          "htmlTitle": "KS 故事- 克氏综合征",
+          "link": "http://ym.ymcs.top:1258/UploadFiles/images/source/20170607114429%E5%85%8B%E6%B0%8F%E7%BB%BC%E5%90%88%E5%BE%81%E4%BF%A1%E6%81%AF%E6%8C%87%E5%8D%97%E5%92%8C%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6.pdf",
+          "displayLink": "ym.ymcs.top",
+          "snippet": "Jun 6, 2017 ... 这是与一个装扮异性者或变性人是不. 同的。（请参阅本章的性/性别范围术语和用法，“雌雄同体”，P67）. 你并不是一个人！ 从与各种支持团体的谈话中了解 ...",
+          "htmlSnippet": "Jun 6, 2017 <b>...</b> 这是与一个装扮异性者或<b>变性人</b>是不. 同的。（请参阅本章的性/性别范围术语和用法，“雌雄同体”，P67）. 你并不是一个人！ 从与各种支持团体的谈话中了解&nbsp;...",
+          "formattedUrl": "http://ym.ymcs.top:1258/.../20170607114429克氏综合征信息指南和深入...",
+          "htmlFormattedUrl": "http://ym.ymcs.top:1258/.../20170607114429克氏综合征信息指南和深入...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcjIKbQeaQnIf_c8QzfdLa5mUuRZ8BjfbI2nJNzPlk6FT8pyYjOjgZLvI&s",
+                "width": "224",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20130427144204+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20130427144204+08'00'",
+                "author": "瓷娃娃罕见病关爱中心",
+                "subject": "克氏综合征",
+                "producer": "Microsoft® Word 2010"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///d35cd457f2cd9d44a7dcbcdab7c7c0a7165c70b9951376280f79c481b3040b1e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:34"
+  },
+  {
+    "page": 9,
+    "start_index": 81,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "171",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 10,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.154509,
+        "formattedSearchTime": "0.15",
+        "totalResults": "171",
+        "formattedTotalResults": "171"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "美国反种族歧视的#黑命亦命$运动探析",
+          "htmlTitle": "美国反种族歧视的#黑命亦命$运动探析",
+          "link": "https://mzyj.ajcass.com/Admin/UploadFile/Issue/201707310001/2021/12//20211229095617WU_FILE_0.pdf",
+          "displayLink": "mzyj.ajcass.com",
+          "snippet": "和不可知论者'#酷儿$)\\1<<;+和变性人都在其中扮演着重要角色\") #黑命亦命$不仅 ... 浏览时间$#$%年*月%4日\". 朱炳坤'佟德志*,#人人生而不平等$*美国另类右翼运动的 ...",
+          "htmlSnippet": "和不可知论者&#39;#酷儿$)\\1&lt;&lt;;+和<b>变性人</b>都在其中扮演着重要角色&quot;) #黑命亦命$不仅 ... 浏览时间$#$%年*月%4日&quot;. 朱炳坤&#39;佟德志*,#人人生而不平等$*美国另类右翼运动的&nbsp;...",
+          "formattedUrl": "https://mzyj.ajcass.com/Admin/.../12//20211229095617WU_FILE_0.pdf",
+          "htmlFormattedUrl": "https://mzyj.ajcass.com/Admin/.../12//20211229095617WU_FILE_0.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-Ns0I3oUgOBozY9sPe8Qgh4JZjyaNvF-QRgYBJwu3EZn1eC5jMcw2WOf&s",
+                "width": "193",
+                "height": "261"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211229094616+08'00'",
+                "creationdate": "D:20211229094558+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///97a0b426f52bd5a4c513a02f09638dfad337eb8f08bfd6ccdea19680d4e5bba4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "基于深度学习的人脸分析研究进展",
+          "htmlTitle": "基于深度学习的人脸分析研究进展",
+          "link": "https://jxmu.xmu.edu.cn/Upload/docs/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA%E8%84%B8%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf",
+          "displayLink": "jxmu.xmu.edu.cn",
+          "snippet": "4.2 人脸分析面临的挑战. 1)人脸的相似性和多变性.人脸图像有相似的五. 官结构和基本特征.这些内在的相似结构特征有利于. 特定人脸分析任务(如人脸检测、人脸关键点检测),.",
+          "htmlSnippet": "4.2 人脸分析面临的挑战. 1)人脸的相似性和多<b>变性.人</b>脸图像有相似的五. 官结构和基本特征.这些内在的相似结构特征有利于. 特定人脸分析任务(如人脸检测、人脸关键点检测),.",
+          "formattedUrl": "https://jxmu.xmu.edu.cn/Upload/.../基于深度学习的人脸分析研究进展.pdf",
+          "htmlFormattedUrl": "https://jxmu.xmu.edu.cn/Upload/.../基于深度学习的人脸分析研究进展.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QjcZSY2seA9SWAa_kWAPkd33Yk1XkHLomoFUZdbyHQowallj4zk6FbFS&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20170111110609+08'00'",
+                "creationdate": "D:20170111110517+08'00'",
+                "creator": "创建者",
+                "subject": "科目",
+                "author": "作者",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7a2f6c3eb7c7c504c79a27dc8520e7a740d91fdae0051f72c7378e4a8e34cbaa"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.junhe.com/download?filePath=/upload/humanity-periodicals/0b73666f5b8678332cbf9a819e15948a.pdf",
+          "displayLink": "www.junhe.com",
+          "snippet": "观众席上，有个男孩子轻浮. 的问他们，军队里面是不是同性恋很多，互相打飞机？甚而毫. 不在意的说，不管你是同性恋，还是双性恋还是变性人我都不. 在乎，言谈中 ...",
+          "htmlSnippet": "观众席上，有个男孩子轻浮. 的问他们，军队里面是不是同性恋很多，互相打飞机？甚而毫. 不在意的说，不管你是同性恋，还是双性恋还是<b>变性人</b>我都不. 在乎，言谈中&nbsp;...",
+          "formattedUrl": "https://www.junhe.com/download?filePath=/upload/humanity...pdf",
+          "htmlFormattedUrl": "https://www.junhe.com/download?filePath=/upload/humanity...pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKLA8V3bEEdN7y9pCI4GDsxhBaSwuYUDgIwFizNyU5dR7mnw5y20LAyU&s",
+                "width": "273",
+                "height": "185"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20171114155511+08'00'",
+                "creationdate": "D:20171114155358+08'00'",
+                "creator": "Adobe InDesign CC (Macintosh)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c161d71de304bc10c039a0cecde64c18e4563f2aeba9fb840b9ce12a6c357f5a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.dsm5gpm.com/upload/pdf/202206/B01473CCA67442D5B64E6B0DFDDC705E.pdf",
+          "displayLink": "www.dsm5gpm.com",
+          "snippet": "... 人主动发动募捐或向外界寻求帮助，善于利用. 资源；②具有乐于助人、行善好施的 ... 变性手术的成年人都就诊. 于专科门诊，所以这些比例可能在一定程度上被低. 估了 ...",
+          "htmlSnippet": "... 人主动发动募捐或向外界寻求帮助，善于利用. 资源；②具有乐于助人、行善好施的 ... <b>变性</b>手术的成年人都就诊. 于专科门诊，所以这些比例可能在一定程度上被低. 估了&nbsp;...",
+          "formattedUrl": "http://www.dsm5gpm.com/.../B01473CCA67442D5B64E6B0DFDDC705E....",
+          "htmlFormattedUrl": "http://www.dsm5gpm.com/.../B01473CCA67442D5B64E6B0DFDDC705E....",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220321113037+08'00'",
+                "creationdate": "D:20220310170231+08'00'",
+                "creator": "Adobe Acrobat Pro DC 20.13.20074",
+                "author": "Microsoft Administrator",
+                "producer": "Adobe Acrobat Pro DC 20.13.20074"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国外课堂二语习得研究动态（2010—2019）",
+          "htmlTitle": "国外课堂二语习得研究动态（2010—2019）",
+          "link": "https://journal.bisu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=682",
+          "displayLink": "journal.bisu.edu.cn",
+          "snippet": "（2019）聚焦变性人在课堂中的身份构建，研究了课堂中另类学习者如何维持个. 人尊严且不影响正常语言学习。总体而言，课堂身份类的研究文献能够促使教. Page 9. 北京第二 ...",
+          "htmlSnippet": "（2019）聚焦<b>变性人</b>在课堂中的身份构建，研究了课堂中另类学习者如何维持个. 人尊严且不影响正常语言学习。总体而言，课堂身份类的研究文献能够促使教. Page 9. 北京第二&nbsp;...",
+          "formattedUrl": "https://journal.bisu.edu.cn/EN/article/downloadArticleFile.do?...PDF&id...",
+          "htmlFormattedUrl": "https://journal.bisu.edu.cn/EN/article/downloadArticleFile.do?...PDF&amp;id...",
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "最人物纪账号",
+          "htmlTitle": "最人物纪账号",
+          "link": "http://www.sxhhy.com/uploadfile/file/20231218/35594562a.pdf",
+          "displayLink": "www.sxhhy.com",
+          "snippet": "2015 年，北京小伙爱上泰国变性人女友，远赴泰国定居，如今怎样了. 13:20. 39.3 万次播放·2021-10-24. 351. 阿姨说：我是世界上最幸福的女人了. 12:51. 4 万次播放·2021-10 ...",
+          "htmlSnippet": "2015 年，北京小伙爱上泰国<b>变性人</b>女友，远赴泰国定居，如今怎样了. 13:20. 39.3 万次播放·2021-10-24. 351. 阿姨说：我是世界上最幸福的女人了. 12:51. 4 万次播放·2021-10&nbsp;...",
+          "formattedUrl": "http://www.sxhhy.com/uploadfile/file/20231218/35594562a.pdf",
+          "htmlFormattedUrl": "http://www.sxhhy.com/uploadfile/file/20231218/35594562a.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLYzdXKRTke8ELM2VOqDn6RUqcVsH4B8ePmfnxWpBsRPV_6EWN39qJQrd&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20231218024558+18'45'",
+                "creationdate": "D:20231218024558+18'45'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20231218024558+18'45'",
+                "author": "FtpDown",
+                "title": "最人物纪账号"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a7ab4f33893b12384771d79e7efc8d3529c7fed783c3bd4fe8ccf6b9194b047d"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://rprc.scau.edu.cn/_upload/article/files/5f/9c/1f7d6e7d41f89fb89c572b8e6d3f/fb005764-5398-4589-bb7c-a1ddf7894887.pdf",
+          "displayLink": "rprc.scau.edu.cn",
+          "snippet": "括男同性恋者、女同性恋者、双性恋者、变性人和无性人，更没有哪一. 种理论能够 ... （Cynthia Janus）询问过的男性和女性中，有29%的人声称性问题是他. 们离婚的 ...",
+          "htmlSnippet": "括男同性恋者、女同性恋者、双性恋者、<b>变性人</b>和无性人，更没有哪一. 种理论能够 ... （Cynthia Janus）询问过的男性和女性中，有29%的人声称性问题是他. 们离婚的&nbsp;...",
+          "formattedUrl": "https://rprc.scau.edu.cn/_.../fb005764-5398-4589-bb7c-a1ddf7894887.pdf",
+          "htmlFormattedUrl": "https://rprc.scau.edu.cn/_.../fb005764-5398-4589-bb7c-a1ddf7894887.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJ4mI-aOUl97b3tIRuwtz9MQocFNgOLJwQlX2ziYNXBSY0IMbf_QvJCcO&s",
+                "width": "190",
+                "height": "265"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20200820140228+00'00'",
+                "creator": "calibre 3.42.0 [https://calibre-ebook.com]",
+                "author": "戴维·巴斯",
+                "producer": "calibre 3.42.0 [https://calibre-ebook.com]",
+                "title": "欲望的演化：人类的择偶策略：最新修订版"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///f1285f042a5f68212a9c89fc0daa729bcbaa21450a4a10dc4a47e6323af2ea12"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "雄激素水平影响大鼠空间学习记忆能力的机制研究TP",
+          "htmlTitle": "雄激素水平影响大鼠空间学习记忆能力的机制研究TP",
+          "link": "https://www.paper.edu.cn/releasepaper/downFile/original/NUjGIFxQMRQVeQIeQeQ",
+          "displayLink": "www.paper.edu.cn",
+          "snippet": "P等研究了男性变女性变性人的性激素变化对其认知功能. 的影响，发现这些变性人的雌二醇和性激素结合蛋白的浓度升高而睾酮浓度下降，但他们的. 认知能力与正常人没有区别。",
+          "htmlSnippet": "P等研究了男性变女性<b>变性人</b>的性激素变化对其认知功能. 的影响，发现这些<b>变性人</b>的雌二醇和性激素结合蛋白的浓度升高而睾酮浓度下降，但他们的. 认知能力与正常人没有区别。",
+          "formattedUrl": "https://www.paper.edu.cn/releasepaper/.../NUjGIFxQMRQVeQIeQeQ",
+          "htmlFormattedUrl": "https://www.paper.edu.cn/releasepaper/.../NUjGIFxQMRQVeQIeQeQ",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20060412173224+08'00'",
+                "creationdate": "D:20060412103853+08'00'",
+                "producer": "Acrobat Distiller 6.0 (Windows)",
+                "title": "untitled"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国人工智能系列白皮书——AI+Art",
+          "htmlTitle": "中国人工智能系列白皮书——AI+Art",
+          "link": "https://dxobs.obs.cn-north-1.myhuaweicloud.com/dxzk/2023/12/2023-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6-AIArt.pdf",
+          "displayLink": "dxobs.obs.cn-north-1.myhuaweicloud.com",
+          "snippet": "正如艺术家在其网站上所言，. 面部识别算法和深度伪造技术目前很难辨别变性人、同性恋者和其他. 边缘化身份人士。虽然神经网络的灵感来源于人脑，但令人遗憾的是，. 它 ...",
+          "htmlSnippet": "正如艺术家在其网站上所言，. 面部识别算法和深度伪造技术目前很难辨别<b>变性人</b>、同性恋者和其他. 边缘化身份人士。虽然神经网络的灵感来源于人脑，但令人遗憾的是，. 它&nbsp;...",
+          "formattedUrl": "https://dxobs.obs.cn-north-1.myhuaweicloud.com/.../2023-中国人工智能系...",
+          "htmlFormattedUrl": "https://dxobs.obs.cn-north-1.myhuaweicloud.com/.../2023-中国人工智能系...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOSbWgBYXfyoMn7wjO4f41kERdrZ-PlyiGwCdqQiRHvjLTlzD5b1Xvh5Q&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230916134648+05'46'",
+                "creationdate": "D:20230916134648+05'46'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20230916134648+05'46'",
+                "author": "Crystal",
+                "title": "宏观经济管理信息系统初步设计"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b6b959d3ef1c8e5d7d02326c448145d4a8261eefe8ee8bb648767cc8fd3b0944"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "（13）",
+          "htmlTitle": "（13）",
+          "link": "https://wmarxism.fudan.edu.cn/_upload/article/files/03/1a/303d843541928e0d2c2501180a1e/ae24384d-a753-4cab-991f-df38d2b72ee5.pdf",
+          "displayLink": "wmarxism.fudan.edu.cn",
+          "snippet": "外，还有“双性人”、“顺性人”、“变性人”等54 个新增的性别选项。 2015 年，Facebook 又推出性别自定义功能，用户可以输入任何词汇来. 描述自己的性别特征。这一做法已经 ...",
+          "htmlSnippet": "外，还有“双性人”、“顺性人”、“<b>变性人</b>”等54 个新增的性别选项。 2015 年，Facebook 又推出性别自定义功能，用户可以输入任何词汇来. 描述自己的性别特征。这一做法已经&nbsp;...",
+          "formattedUrl": "https://wmarxism.fudan.edu.cn/_.../ae24384d-a753-4cab-991f-df38d2b72e...",
+          "htmlFormattedUrl": "https://wmarxism.fudan.edu.cn/_.../ae24384d-a753-4cab-991f-df38d2b72e...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20170502134101+08'00'",
+                "creator": "Founder PDF Library",
+                "author": "Founder Electronics Ltd",
+                "producer": "Founder PDF Library"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:36"
+  },
+  {
+    "page": 10,
+    "start_index": 91,
+    "query": "变性人 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "93",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 3,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性人 filetype:pdf",
+            "totalResults": "93",
+            "searchTerms": "变性人 filetype:pdf",
+            "count": 3,
+            "startIndex": 91,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN",
+            "exactTerms": "变性人"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.150859,
+        "formattedSearchTime": "0.15",
+        "totalResults": "93",
+        "formattedTotalResults": "93"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://wyxy.hebtu.edu.cn/dynamic/download.jsp?id=73c2640645384b93807b733fe59737f6",
+          "displayLink": "wyxy.hebtu.edu.cn",
+          "snippet": "... 变性人新夏娃的回忆展开，实际上. 卡特将批判的锋芒直指美国发达工业文明社会。因此，本文通过对小说中技术理性造就的肯. 定性思维、单向度的人和极权社会的分析，认为 ...",
+          "htmlSnippet": "... <b>变性人</b>新夏娃的回忆展开，实际上. 卡特将批判的锋芒直指美国发达工业文明社会。因此，本文通过对小说中技术理性造就的肯. 定性思维、单向度的人和极权社会的分析，认为&nbsp;...",
+          "formattedUrl": "https://wyxy.hebtu.edu.cn/dynamic/download.jsp?id...",
+          "htmlFormattedUrl": "https://wyxy.hebtu.edu.cn/dynamic/download.jsp?id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRKhkeRmNqy_qSJAvV-rJ6Nnz0HBgmWOG936s_EEykNpoN0h93ceoSJyA&s",
+                "width": "248",
+                "height": "203"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220826185046+08'00'",
+                "creationdate": "D:20220826153441+07'30'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220826153441+07'34'",
+                "author": "dell"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5e6b85148862bc171192ce1c2971b31f68b1964757e528540f795d12e0ef0382"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "协和妇产科文献月报",
+          "htmlTitle": "协和妇产科文献月报",
+          "link": "http://www.cogonline.com/UploadFile/Net/file/2014-10-10/3d0702b0-1d62-4515-8a94-1156d56b5e7b.pdf",
+          "displayLink": "www.cogonline.com",
+          "snippet": "Oct 10, 2014 ... ... 男性. 同性恋夫妻和变性人。 （胡惠英）. 年轻女性化疗后卵巢功能恢复后更佳的随访超敏抗苗勒氏管激素分析[182]. 本研究是为了评价超敏分析测量年轻肿瘤 ...",
+          "htmlSnippet": "Oct 10, 2014 <b>...</b> ... 男性. 同性恋夫妻和<b>变性人</b>。 （胡惠英）. 年轻女性化疗后卵巢功能恢复后更佳的随访超敏抗苗勒氏管激素分析[182]. 本研究是为了评价超敏分析测量年轻肿瘤&nbsp;...",
+          "formattedUrl": "http://www.cogonline.com/.../3d0702b0-1d62-4515-8a94-1156d56b5e7b....",
+          "htmlFormattedUrl": "http://www.cogonline.com/.../3d0702b0-1d62-4515-8a94-1156d56b5e7b....",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_FwXvjAycPIQwdkFFmKRIuR_iDaie7execV2B8JDgKMXWMtQ_4xotvw&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141009130211",
+                "creator": "Microsoft Office Word 2007",
+                "creationdate": "D:20141009130211",
+                "author": "Li Lei",
+                "producer": "Microsoft Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///35a15d39a520c52f26bd9dae83c9b707b7f4fb3da522991dd1e9106c568eafea"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Three Shadows Photography Art Centre Annual Report",
+          "htmlTitle": "Three Shadows Photography Art Centre Annual Report",
+          "link": "https://www.threeshadows.cn/usr/library/documents/main/2010-2011-annual-report_s.pdf",
+          "displayLink": "www.threeshadows.cn",
+          "snippet": "发言人和与会者讨论了艺术家创作自主性以及美术馆、. 艺术节、画廊和拍卖行之间 ... 变性人，从乡. 下来大城市发财的姑娘，一位过着能让自己独立自由的生. 活的女人 ...",
+          "htmlSnippet": "发言人和与会者讨论了艺术家创作自主性以及美术馆、. 艺术节、画廊和拍卖行之间 ... <b>变性人</b>，从乡. 下来大城市发财的姑娘，一位过着能让自己独立自由的生. 活的女人&nbsp;...",
+          "formattedUrl": "https://www.threeshadows.cn/usr/library/.../2010-2011-annual-report_s.pdf",
+          "htmlFormattedUrl": "https://www.threeshadows.cn/usr/library/.../2010-2011-annual-report_s.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4m2OelxmGmnwElz6nUvkD8apcNWv181PWulTtY10EtBj7ouZosJASfbT&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20120424090949+08'00'",
+                "creationdate": "D:20120103222056+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2cb9bed3dd7c813624d4eb103f8938993fa0a23dff7d0ef1cc14b84480e0d7e4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-29 06:22:38"
+  }
+]

@@ -1,0 +1,3240 @@
+[
+  {
+    "page": 1,
+    "start_index": 1,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.317953,
+        "formattedSearchTime": "0.32",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别女性人群心理特征及相关行为分析*",
+          "htmlTitle": "跨性别女性人群心理特征及相关行为分析*",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "displayLink": "www.zgggws.com",
+          "snippet": "Nov 1, 2018 ... 134 人未做过变性手术，但其中有61 人有做变性手. 术的打算，占45.5 %。有 ... 性化，或者通过手术方式变性。完全女性心理性别. 者比模糊心理性别 ...",
+          "htmlSnippet": "Nov 1, 2018 <b>...</b> 134 人未做过<b>变性手术</b>，但其中有61 人有做变性手. 术的打算，占45.5 %。有 ... 性化，或者通过手术方式变性。完全女性心理性别. 者比模糊心理性别&nbsp;...",
+          "formattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1118684.pdf",
+          "htmlFormattedUrl": "https://www.zgggws.com/cn/article/pdf/preview/10.../zgggws1118684.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Y1YvvK4DgMfHiVJmqRInpEswlKcx3c4KorJbgX5piST7SPdPi3naJqI&s",
+                "width": "213",
+                "height": "213"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20181213150446+08'00'",
+                "creationdate": "D:20181213150446+08'00'",
+                "producer": "rhhz"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///49b1bd0a731a434092146fb64f41280cf8b9dba54062f21075377cfd913a6c09"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.cma.org.cn/attachment/2009/11/27/20091127677c696e62fa47609683657a602a917c.pdf",
+          "displayLink": "www.cma.org.cn",
+          "snippet": "Nov 27, 2009 ... 《变性手术技术管理规范(征求意见稿)》等. 第三类医疗技术管理规范意见的函. 各省、自治区、直辖市卫生厅局医政处,新疆生产建设兵团卫生. 局医政处: 为 ...",
+          "htmlSnippet": "Nov 27, 2009 <b>...</b> 《<b>变性手术</b>技术管理规范(征求意见稿)》等. 第三类医疗技术管理规范意见的函. 各省、自治区、直辖市卫生厅局医政处,新疆生产建设兵团卫生. 局医政处: 为&nbsp;...",
+          "formattedUrl": "https://www.cma.org.cn/.../20091127677c696e62fa47609683657a602a91...",
+          "htmlFormattedUrl": "https://www.cma.org.cn/.../20091127677c696e62fa47609683657a602a91...",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "Mon Jun 22 10:26:56 2009",
+                "creator": "Panasonic Communications Co., Ltd. Multi-Function Viewer 1.14CN",
+                "producer": "PDFlib 3.03 (Win32)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家限制类技术目录（2022 年版）",
+          "htmlTitle": "国家限制类技术目录（2022 年版）",
+          "link": "http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144/files/05bffdb6d7514898b7a1a45281078075.pdf",
+          "displayLink": "www.nhc.gov.cn",
+          "snippet": "对应手术/操作名称及编码中除“64.5x00 性转变手术”、. “64.5x00x001 变性手术(男变女)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64 ...",
+          "htmlSnippet": "对应手术/操作名称及编码中除“64.5x00 性转变手术”、. “64.5x00x001 <b>变性手术</b>(男变女)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64&nbsp;...",
+          "formattedUrl": "http://www.nhc.gov.cn/yzygj/.../05bffdb6d7514898b7a1a45281078075.pd...",
+          "htmlFormattedUrl": "http://www.nhc.gov.cn/yzygj/.../05bffdb6d7514898b7a1a45281078075.pd...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220426105446+02'54'",
+                "creationdate": "D:20220426105446+02'54'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220426105446+02'54'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "两种椎间融合手术治疗腰椎退变性疾病术后神经功能恢复的临床对照 ...",
+          "htmlTitle": "两种椎间融合<b>手术</b>治疗腰椎退<b>变性</b>疾病术后神经功能恢复的临床对照 ...",
+          "link": "http://www.spinejournal.net/ch/reader/download_pdf_file.aspx?journal_id=jss&file_name=A8D77C701D04C8818330CA0E26014BB24D8ACEAA8D067C42EB4B593F70640F9A0806E9B3517676EA1A696A313315989D&open_type=self&file_no=20120212",
+          "displayLink": "www.spinejournal.net",
+          "snippet": "两种椎间融合手术治疗腰椎退变性疾病术后神经功能. 恢复的临床对照研究. 高如峰袁郑摇奋袁潘福根. 作者简介:高如峰渊员怨苑猿要冤袁学士袁主治医师. 作者单位:圆园员苑园园 ...",
+          "htmlSnippet": "两种椎间融合<b>手术</b>治疗腰椎退<b>变性</b>疾病术后神经功能. 恢复的临床对照研究. 高如峰袁郑摇奋袁潘福根. 作者简介:高如峰渊员怨苑猿要冤袁学士袁主治医师. 作者单位:圆园员苑园园&nbsp;...",
+          "formattedUrl": "http://www.spinejournal.net/ch/.../download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.spinejournal.net/ch/.../download_pdf_file.aspx?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCitVTNc1T74d2pLIGGMehOXPQQacLn_kAr0Mf0ZQ1hf5kJi-Cz3K8cHc&s",
+                "width": "254",
+                "height": "198"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140314132142+08'00'",
+                "creationdate": "D:20140314132140+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "<D5FDCEC42E6D7073>"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///154f2cc9598869712ebc446d19abf49f0118057890a6c8a74a5fa4807a9becc4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "关于“代孕爸爸”事件的生命伦理与法律问题思考",
+          "htmlTitle": "关于“代孕爸爸”事件的生命伦理与法律问题思考",
+          "link": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "displayLink": "yizhe.dmu.edu.cn",
+          "snippet": "摘要:全球首位“代孕爸爸”托马斯·比提的高调出现,带来了一场激烈的关于生命伦理与法律的大讨论。变性人的婚姻、. 生育及代孕问题让我们不得不对变性手术、人工辅助生殖 ...",
+          "htmlSnippet": "摘要:全球首位“代孕爸爸”托马斯·比提的高调出现,带来了一场激烈的关于生命伦理与法律的大讨论。变性人的婚姻、. 生育及代孕问题让我们不得不对<b>变性手术</b>、人工辅助生殖&nbsp;...",
+          "formattedUrl": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "htmlFormattedUrl": "https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2008-10A-9.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20100712161251",
+                "author": "TTKN Co., Ltd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "华泰财险个人人身意外伤害保险（互联网专属）条款华泰财险附加 ...",
+          "htmlTitle": "华泰财险个人人身意外伤害保险（互联网专属）条款华泰财险附加 ...",
+          "link": "https://image.ssish.com/core/material/20220304145232_%E8%B4%A3%E4%BB%BB%E5%85%8D%E9%99%A4.pdf",
+          "displayLink": "image.ssish.com",
+          "snippet": "... 手术、变性手术、人体试验和人. 工生殖，及由此而引起的并发症；. 4. 被保险人未经保险人同意的转院治疗或在家自设病床治疗；. 5. 未经保险人同意，被保险人在非认可的 ...",
+          "htmlSnippet": "... 手术、<b>变性手术</b>、人体试验和人. 工生殖，及由此而引起的并发症；. 4. 被保险人未经保险人同意的转院治疗或在家自设病床治疗；. 5. 未经保险人同意，被保险人在非认可的&nbsp;...",
+          "formattedUrl": "https://image.ssish.com/core/material/20220304145232_责任免除.pdf",
+          "htmlFormattedUrl": "https://image.ssish.com/core/material/20220304145232_责任免除.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL0sfXQOprojmE6JHoWFl-j-_RYAxbKEhIzWTycZ3f6DwJ8LyNlollVxvY&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220124194910+11'49'",
+                "creationdate": "D:20220124194910+11'49'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220124194910+11'49'",
+                "author": "lenovo"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8ec542c1393a4a80829b6eb35ec395464575f9d4c35efd94d343d433781bb285"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肥胖患者胆囊手术切口皮下脂肪液化的预防",
+          "htmlTitle": "肥胖患者胆囊<b>手术</b>切口皮下脂肪液化的预防",
+          "link": "http://www.zpwz.net/zgptwkzz/article/pdf/71229?file_name=93B673825CB8464579B1ADE632A019C833D55B566EB06CD6EEE76DDDACEC98E32D0A58E9B70FF7D50CF9C7B7AA73F8FBB9ED511A5319EA2FD1D5C2F9A0B3E94D&open_type=self",
+          "displayLink": "www.zpwz.net",
+          "snippet": "Dec 12, 2007 ... 手术操作粗暴，大. 块钳夹、结扎和缝合脂肪组织，破坏了脂肪层；广泛使用高. 频电刀，高温灼伤，使脂肪变性；机械牵拉钝性伤；术中拉. 钩反复牵拉刺激，使脂肪细胞 ...",
+          "htmlSnippet": "Dec 12, 2007 <b>...</b> <b>手术</b>操作粗暴，大. 块钳夹、结扎和缝合脂肪组织，破坏了脂肪层；广泛使用高. 频电刀，高温灼伤，使脂肪<b>变性</b>；机械牵拉钝性伤；术中拉. 钩反复牵拉刺激，使脂肪细胞&nbsp;...",
+          "formattedUrl": "http://www.zpwz.net/zgptwkzz/article/pdf/71229?file_name...open...",
+          "htmlFormattedUrl": "http://www.zpwz.net/zgptwkzz/article/pdf/71229?file_name...open...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20071229112050+08'00'",
+                "creationdate": "D:20071229111929+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "华泰财险境内旅行人身意外伤害保险（互联网专属）条款责任免除",
+          "htmlTitle": "华泰财险境内旅行人身意外伤害保险（互联网专属）条款责任免除",
+          "link": "https://image.ssish.com/core/material/20240104140105_%E8%B4%A3%E4%BB%BB%E5%85%8D%E9%99%A4.pdf",
+          "displayLink": "image.ssish.com",
+          "snippet": "Jan 4, 2024 ... ... 手术、变性手术、人体试验和人. 工生殖，及由此而引起的并发症；. 4. 被保险人未经保险人同意的转院治疗或在家自设病床治疗；. 5. 未经保险人同意，被 ...",
+          "htmlSnippet": "Jan 4, 2024 <b>...</b> ... 手术、<b>变性手术</b>、人体试验和人. 工生殖，及由此而引起的并发症；. 4. 被保险人未经保险人同意的转院治疗或在家自设病床治疗；. 5. 未经保险人同意，被&nbsp;...",
+          "formattedUrl": "https://image.ssish.com/core/material/20240104140105_责任免除.pdf",
+          "htmlFormattedUrl": "https://image.ssish.com/core/material/20240104140105_责任免除.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231219134947+05'49'",
+                "creationdate": "D:20231219134947+05'49'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20231219134947+05'49'",
+                "author": "lenovo"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "附加建筑施工人员团体意外住院津贴保险(2020 版)条款",
+          "htmlTitle": "附加建筑施工人员团体意外住院津贴保险(2020 版)条款",
+          "link": "https://ssish.com/policyBilling/pdf/dicc/star_zhuyuanjintie2020.pdf",
+          "displayLink": "ssish.com",
+          "snippet": "被保险人的视力矫正手术或变性手术；. 3. 因药物过敏发生的治疗；. 4. 被保险人美容、整形、矫形术、非必须紧急性治疗的手术、心理咨询及和角膜屈. 光成形手术；. 5. 一般 ...",
+          "htmlSnippet": "被保险人的视力矫正手术或<b>变性手术</b>；. 3. 因药物过敏发生的治疗；. 4. 被保险人美容、整形、矫形术、非必须紧急性治疗的手术、心理咨询及和角膜屈. 光成形手术；. 5. 一般&nbsp;...",
+          "formattedUrl": "https://ssish.com/policyBilling/pdf/dicc/star_zhuyuanjintie2020.pdf",
+          "htmlFormattedUrl": "https://ssish.com/policyBilling/pdf/dicc/star_zhuyuanjintie2020.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20200922145859+08'00'",
+                "creationdate": "D:20200922145818+08'00'",
+                "producer": "福昕高级PDF编辑器打印机版本10.0.0.3435"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "附加旅行突发急性疾病身故保险条款(互联网) 注册号 ...",
+          "htmlTitle": "附加旅行突发急性疾病身故保险条款(互联网) 注册号 ...",
+          "link": "https://static.zhongan.com/upload/online/material/1672381410862.pdf",
+          "displayLink": "static.zhongan.com",
+          "snippet": "... 手术、变性手术、人体试验. 和人工生殖，及由此而引起的并发症；. （五）遗传性疾病 ... （六）被保险人接受整容手术及其他内、外科手术过程中发生的医疗事故；.",
+          "htmlSnippet": "... 手术、<b>变性手术</b>、人体试验. 和人工生殖，及由此而引起的并发症；. （五）遗传性疾病 ... （六）被保险人接受整容手术及其他内、外科手术过程中发生的医疗事故；.",
+          "formattedUrl": "https://static.zhongan.com/upload/online/material/1672381410862.pdf",
+          "htmlFormattedUrl": "https://static.zhongan.com/upload/online/material/1672381410862.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240923155404+07'54'",
+                "creationdate": "D:20240923155404+07'54'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20240923155404+07'54'",
+                "author": "yangzhongwen",
+                "subject": "附加旅行突发急性疾病身故保险（互联网）",
+                "title": "众安在线财产保险股份有限公司"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:26"
+  },
+  {
+    "page": 2,
+    "start_index": 11,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.136118,
+        "formattedSearchTime": "0.14",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "性别选择权:性质界定与法权塑造",
+          "htmlTitle": "性别选择权:性质界定与法权塑造",
+          "link": "https://www.civillaw.com.cn/uploadfile/lmpic/20180315/20180315200557734.pdf",
+          "displayLink": "www.civillaw.com.cn",
+          "snippet": "Mar 15, 2018 ... 的易性癖病并实施变性手术,变性手术“是指通. 过整形外科手段(组织移植和器官再造)使易性. 癖病患者的生理性别与其心理性别相符,即切除. 其原有的性器官并 ...",
+          "htmlSnippet": "Mar 15, 2018 <b>...</b> 的易性癖病并实施<b>变性手术</b>,<b>变性手术</b>“是指通. 过整形外科手段(组织移植和器官再造)使易性. 癖病患者的生理性别与其心理性别相符,即切除. 其原有的性器官并&nbsp;...",
+          "formattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "htmlFormattedUrl": "https://www.civillaw.com.cn/uploadfile/lmpic/.../20180315200557734.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20180314220626-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3948",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "https://www.qiluhospital.com/site75/cyxz/images/2012/11/01/2C72DDF5D733DF9F5F8503D31C4528B2.pdf",
+          "displayLink": "www.qiluhospital.com",
+          "snippet": "Nov 1, 2012 ... 变性手术. 按已下发规定执行. 卫生部第三类医疗. 技术审核机构. 卫生部. 卫生部. 卫生部第三类医疗. 3. 心室辅助装置应用技术. 卫生部. 技术审核机构.",
+          "htmlSnippet": "Nov 1, 2012 <b>...</b> <b>变性手术</b>. 按已下发规定执行. 卫生部第三类医疗. 技术审核机构. 卫生部. 卫生部. 卫生部第三类医疗. 3. 心室辅助装置应用技术. 卫生部. 技术审核机构.",
+          "formattedUrl": "https://www.qiluhospital.com/.../2C72DDF5D733DF9F5F8503D31C4528B...",
+          "htmlFormattedUrl": "https://www.qiluhospital.com/.../2C72DDF5D733DF9F5F8503D31C4528B...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5wwHg41gHaOGj381hm4YBZ3iExkoJlF-3tcvG3jeAcrFZTOKrKpd9q8&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "Mon Jun  8 17:00:42 2009",
+                "creator": "Panasonic Communications Co., Ltd. Multi-Function Viewer 1.14CN",
+                "producer": "PDFlib 3.03 (Win32)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///63701903d41323814b2066eb825c1e8bf550169d0646dead1174823e383df920"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "变性手术算病假， 整容手术算病假吗？",
+          "htmlTitle": "<b>变性手术</b>算病假， 整容手术算病假吗？",
+          "link": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "displayLink": "epaper.file.routeryun.com",
+          "snippet": "变性手术、 整容手术都屡见不. 鲜， 对职场中的人来说， 变性手. 术、 整容手术导致的缺勤是否属. 于病假， 是一个非常现实的法律. 问题。 争议：. 变性手术能否请病假. 我们 ...",
+          "htmlSnippet": "<b>变性手术</b>、 整容手术都屡见不. 鲜， 对职场中的人来说， 变性手. 术、 整容手术导致的缺勤是否属. 于病假， 是一个非常现实的法律. 问题。 争议：. <b>变性手术</b>能否请病假. 我们&nbsp;...",
+          "formattedUrl": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "htmlFormattedUrl": "http://epaper.file.routeryun.com/ldb/other/5f04b9994b592.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXGPXhNRvbhr--jwCkx_4gEihWiQA_Fqo2qoGGOyLjdFbEjk3vXDc-6q_&s",
+                "width": "279",
+                "height": "181"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20200707210530+08'00'",
+                "creator": "Founder PDF Library",
+                "author": "Founder Electronics Ltd",
+                "producer": "Founder PDF Library"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///93a4803afd4cbb7dd5edce241e052391b58c636c1fcad59d97eeea4dbccbd216"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "htmlTitle": "性别苦恼的临床研究新进展（DSM-5 新标准）",
+          "link": "http://www.medline.com.cn/lzj2013-dengmingyu/20150501xingbiekunaodelinchuang.pdf",
+          "displayLink": "www.medline.com.cn",
+          "snippet": "(6) 施行变性手术：男性转女性切去双侧睾丸、阴茎并造人工阴道；女性转男性则切除双侧乳房、. 子宫、卵巢并作人工阴茎。 (7) 手术前后都要接受性激素及心理治疗。 . (8) 变性 ...",
+          "htmlSnippet": "(6) 施行<b>变性手术</b>：男性转女性切去双侧睾丸、阴茎并造人工阴道；女性转男性则切除双侧乳房、. 子宫、卵巢并作人工阴茎。 (7) 手术前后都要接受性激素及心理治疗。  . (8) 变性&nbsp;...",
+          "formattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "htmlFormattedUrl": "http://www.medline.com.cn/.../20150501xingbiekunaodelinchuang.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150501081335+08'00'",
+                "creationdate": "D:20150424113620-04'00'",
+                "creator": "Acrobat PDFMaker 9.0 Word 版",
+                "sourcemodified": "D:20150424153613",
+                "author": "User",
+                "producer": "Adobe PDF Library 9.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "户口登记（变更性别）",
+          "htmlTitle": "户口登记（变更性别）",
+          "link": "https://xinhuaqu.gov.cn/upload/files/2023/12/7a78cf1a9776ffc5a1380392a0ddd22b.pdf",
+          "displayLink": "xinhuaqu.gov.cn",
+          "snippet": "一、公民实施变性手术或具有两性特征的公民实施手术后确定变更户口登记性别项目的。 设定依据. 《中华人民共和国户口登记条例》第十七条户口登记的内容需要变更或者更正 ...",
+          "htmlSnippet": "一、公民实施<b>变性手术</b>或具有两性特征的公民实施手术后确定变更户口登记性别项目的。 设定依据. 《中华人民共和国户口登记条例》第十七条户口登记的内容需要变更或者更正&nbsp;...",
+          "formattedUrl": "https://xinhuaqu.gov.cn/upload/.../7a78cf1a9776ffc5a1380392a0ddd22b.p...",
+          "htmlFormattedUrl": "https://xinhuaqu.gov.cn/upload/.../7a78cf1a9776ffc5a1380392a0ddd22b.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvl-5wN1dNMdJVabqElhyQVH07niazwg7Znp7Y0lP7YZMGzig4-zvFa4&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20201013085800Z",
+                "creator": "Microsoft Office Word",
+                "creationdate": "D:20200922113200Z",
+                "producer": "Aspose.Words for Java 14.11.0.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///db20482a9b07b38a61e7ee09405310aa0a172de854274a0d99f63253963c9888"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中银保险有限公司人身意外伤害保险附加突发急性严重疾病身故保险 ...",
+          "htmlTitle": "中银保险有限公司人身意外伤害保险附加突发急性严重疾病身故保险 ...",
+          "link": "https://pic.bankofchina.com/bocappd/agreement/201911/P020191103558440882586.pdf",
+          "displayLink": "pic.bankofchina.com",
+          "snippet": "（四）被保险人接受整容手术及其他内、外科手术过程中发生的医疗事故；. （五）被保险人流产、堕胎、分娩、不孕症、避孕或绝育手术、变性手术、人体试验. 和人工生殖，及 ...",
+          "htmlSnippet": "（四）被保险人接受整容手术及其他内、外科手术过程中发生的医疗事故；. （五）被保险人流产、堕胎、分娩、不孕症、避孕或绝育手术、<b>变性手术</b>、人体试验. 和人工生殖，及&nbsp;...",
+          "formattedUrl": "https://pic.bankofchina.com/bocappd/.../P020191103558440882586.pdf",
+          "htmlFormattedUrl": "https://pic.bankofchina.com/bocappd/.../P020191103558440882586.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20191015151144+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20191015151144+08'00'",
+                "author": "蔡阳",
+                "producer": "Microsoft® Word 2010",
+                "title": "太平财产保险有限公司"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "性别变更更正办理服务指南",
+          "htmlTitle": "性别变更更正办理服务指南",
+          "link": "http://www.huguan.gov.cn/hgxgk/zfxxgk/zwgk/hjglly/zdjsxmlygknr/gxzhjglnr/lqz/202012/P020220815575849147443.pdf",
+          "displayLink": "www.huguan.gov.cn",
+          "snippet": "因实施变性手术后，要求变更本人户籍登记性别项目的. 或登记有误的，可以申请性别变更、更正。 八、禁止性要求. 无。 九、申请材料目录. 1.本人或监护人书面申请;. 2.申请 ...",
+          "htmlSnippet": "因实施<b>变性手术</b>后，要求变更本人户籍登记性别项目的. 或登记有误的，可以申请性别变更、更正。 八、禁止性要求. 无。 九、申请材料目录. 1.本人或监护人书面申请;. 2.申请&nbsp;...",
+          "formattedUrl": "http://www.huguan.gov.cn/hgxgk/.../P020220815575849147443.pdf",
+          "htmlFormattedUrl": "http://www.huguan.gov.cn/hgxgk/.../P020220815575849147443.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0sX1z1th1WuWyUn603YknRrcwaDHgRwrC1Gyk-vcWWNC8fDtGoS-IUs&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220815155251+07'52'",
+                "creationdate": "D:20220815155251+07'52'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220815155251+07'52'",
+                "author": "Lenovo User",
+                "title": "事项编码:"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7663875877c9207db2e32bc3d9dd5425830b1e7debff07e6db2d07acf99288ab"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国老年性黄斑变性临床诊断治疗路径",
+          "htmlTitle": "中国老年性黄斑<b>变性</b>临床诊断治疗路径",
+          "link": "http://www.24hmb.com/voimages/web_image//upload/file/20140701/15221404205850427.pdf",
+          "displayLink": "www.24hmb.com",
+          "snippet": "低视力康复卜… 图13晚期AMD临床路径. 3．3．2抗VEGF药物玻璃体腔注射、随访、再治疗及. 并发症处理. 手术后向患者介绍眼内炎症状，瞩患者一旦出现 ... 斑变性的患病率调查．",
+          "htmlSnippet": "低视力康复卜… 图13晚期AMD临床路径. 3．3．2抗VEGF药物玻璃体腔注射、随访、再治疗及. 并发症处理. <b>手术</b>后向患者介绍眼内炎症状，瞩患者一旦出现 ... 斑<b>变性</b>的患病率调查．",
+          "formattedUrl": "http://www.24hmb.com/voimages/web.../file/.../15221404205850427.pdf",
+          "htmlFormattedUrl": "http://www.24hmb.com/voimages/web.../file/.../15221404205850427.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20140514142059+08'00'",
+                "creationdate": "D:20140510235352+08'00'",
+                "ҽ  ָͨ ϵײ¿_new": "{9AB9988B-39E4-4829-BFD8-F3B2E848BF4A}",
+                "producer": "A-PDF Watermark 4.7.6",
+                "ҽ  ͨlogo   ½Ç_new": "{55BDEA33-9935-4CD0-A484-81E84761C2FC}"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "肝移植治疗肝豆状核变性的单中心疗效分析",
+          "htmlTitle": "肝移植治疗肝豆状核<b>变性</b>的单中心疗效分析",
+          "link": "https://www.organtranspl.com/cn/article/pdf/preview/10.3969/j.issn.1674-7445.2011.02.002.pdf",
+          "displayLink": "www.organtranspl.com",
+          "snippet": "Mar 2, 2011 ... 年7月接受肝移植手术治疗的5例肝豆状核变性患者的临床资料。结果采用附加腔静脉整形的改良. 背驮式肝移植3例，成人间活体部分肝移植2例。围手术期 ...",
+          "htmlSnippet": "Mar 2, 2011 <b>...</b> 年7月接受肝移植<b>手术</b>治疗的5例肝豆状核<b>变性</b>患者的临床资料。结果采用附加腔静脉整形的改良. 背驮式肝移植3例，成人间活体部分肝移植2例。围<b>手术</b>期&nbsp;...",
+          "formattedUrl": "https://www.organtranspl.com/cn/.../10.../j.issn.1674-7445.2011.02.002.pd...",
+          "htmlFormattedUrl": "https://www.organtranspl.com/cn/.../10.../j.issn.1674-7445.2011.02.002.pd...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvWJZCg7jXp5eGqIrE6tHdJNHv2QEdfWSSrnLJNDntDeEgwL1ceYwBDw&s",
+                "width": "187",
+                "height": "270"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20110328114754+08'00'",
+                "creator": "Adobe Photoshop 6.0",
+                "creationdate": "D:20110328105854+08'00'",
+                "producer": "Adobe Photoshop for Windows"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///7a9576c837b68c8fbe83288afb3d839cd9d6efd31a5220d8484a116a48eb39f2"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "术语英文术语及背景知识存在年龄差异的关系Age-disparate ...",
+          "htmlTitle": "术语英文术语及背景知识存在年龄差异的关系Age-disparate ...",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "displayLink": "hkb980dd.pic44.websiteonline.cn",
+          "snippet": "跨性别者包括已经接受变性. 手术的个体，已经接受与性别有关的医疗干预而非除变性手术者（例如，荷尔蒙疗法），以及确定为没有性别、有双重性. 别或异性癖的个体。跨性别 ...",
+          "htmlSnippet": "跨性别者包括已经接受变性. 手术的个体，已经接受与性别有关的医疗干预而非除<b>变性手术</b>者（例如，荷尔蒙疗法），以及确定为没有性别、有双重性. 别或异性癖的个体。跨性别&nbsp;...",
+          "formattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "htmlFormattedUrl": "http://hkb980dd.pic44.websiteonline.cn/upload/15_t2mb.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20161116111803+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20161116111803+08'00'",
+                "author": "Jie Liu",
+                "producer": "Microsoft® Word 2010"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:29"
+  },
+  {
+    "page": 3,
+    "start_index": 21,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.130222,
+        "formattedSearchTime": "0.13",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "1.对下列费用或因下列情形之一导致被保险人接受治疗的，我们不承担 ...",
+          "htmlTitle": "1.对下列费用或因下列情形之一导致被保险人接受治疗的，我们不承担 ...",
+          "link": "https://files2.huizecdn.com/file1/M00/4B/47/CgUA3GFxG1CAfxsPAAGsy-cuoJk840.pdf",
+          "displayLink": "files2.huizecdn.com",
+          "snippet": "(14)整容、整容手术、美容、美容手术、矫形、矫形手术、外科整形手术、变性手术、预防. 性手术（如预防性阑尾切除），但因意外伤害所致的矫形、矫形手术、外科整形手术除外 ...",
+          "htmlSnippet": "(14)整容、整容手术、美容、美容手术、矫形、矫形手术、外科整形手术、<b>变性手术</b>、预防. 性手术（如预防性阑尾切除），但因意外伤害所致的矫形、矫形手术、外科整形手术除外&nbsp;...",
+          "formattedUrl": "https://files2.huizecdn.com/.../CgUA3GFxG1CAfxsPAAGsy-cuoJk840.pdf",
+          "htmlFormattedUrl": "https://files2.huizecdn.com/.../CgUA3GFxG1CAfxsPAAGsy-cuoJk840.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfMxbqnBp3qJx0UDEmTRl3WFJFPTnycdEMaqUtRJjCcEQ8CzOLJIRhFzJ&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20211021154753+07'47'",
+                "creationdate": "D:20211021154753+07'47'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20211021154753+07'47'",
+                "author": "CPIC"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///524a700dccac5c98d8f264b3f7a745fe69d0d379a33f6ef5c87988ea7b29b8a5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别证件修改手册",
+          "htmlTitle": "跨性别证件修改手册",
+          "link": "https://docs.transonline.org.cn/files/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%AF%81%E4%BB%B6%E4%BF%AE%E6%94%B9%E6%89%8B%E5%86%8C.pdf",
+          "displayLink": "docs.transonline.org.cn",
+          "snippet": "Sep 28, 2019 ... 公安部治安管理局关于公民. 手术变性后变更户口登记性. 别项目有关问题的批复. 实施变性手术的公民申请变更户口登记性别项. 目时，应当提供. 国内三级医院 ...",
+          "htmlSnippet": "Sep 28, 2019 <b>...</b> 公安部治安管理局关于公民. 手术变性后变更户口登记性. 别项目有关问题的批复. 实施<b>变性手术</b>的公民申请变更户口登记性别项. 目时，应当提供. 国内三级医院&nbsp;...",
+          "formattedUrl": "https://docs.transonline.org.cn/files/跨性别证件修改手册.pdf",
+          "htmlFormattedUrl": "https://docs.transonline.org.cn/files/跨性别证件修改手册.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqH2TmU4rr5ZwrjZGPcavEWOdMjH8p-JPqfv8pf9gyUmJvE-npMt6QrD0&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190928042405Z00'00'",
+                "creator": "Word",
+                "creationdate": "D:20190928042405Z00'00'",
+                "producer": "macOS 版本 10.14.6（版号 18G95） Quartz PDFContext",
+                "title": "Microsoft Word - 跨性别证件修改手册-彩虹律师团.docx"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///429882083cf28269a96d6ed6d21871f044f0dbe83596b27739359c85f144942c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人保健康青春无忧互联网医疗保险（费率可调）条款-责任免除",
+          "htmlTitle": "人保健康青春无忧互联网医疗保险（费率可调）条款-责任免除",
+          "link": "https://files2.huizecdn.com/file2/M00/01/21/rBYA3GJo6Q-AcvCCAAGbiY4Metg630.pdf",
+          "displayLink": "files2.huizecdn.com",
+          "snippet": "16)矫正、矫形、视力矫正手术、美容整容整形7.36、生育或生殖相关7.37、变性手术、牙科治疗及保健、. 生理缺陷的手术及相关检查；. 17)保健食品及用品，矫治和防护器械 ...",
+          "htmlSnippet": "16)矫正、矫形、视力矫正手术、美容整容整形7.36、生育或生殖相关7.37、<b>变性手术</b>、牙科治疗及保健、. 生理缺陷的手术及相关检查；. 17)保健食品及用品，矫治和防护器械&nbsp;...",
+          "formattedUrl": "https://files2.huizecdn.com/.../rBYA3GJo6Q-AcvCCAAGbiY4Metg630.pdf",
+          "htmlFormattedUrl": "https://files2.huizecdn.com/.../rBYA3GJo6Q-AcvCCAAGbiY4Metg630.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoifkDcJb0Zzt5deuni_3oAAFDNEII2hfiWYqUki4H_4t2rfWiNvZV4mK&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220427145540+06'55'",
+                "creationdate": "D:20220427145540+06'55'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220427145540+06'55'",
+                "author": "Irena"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///908e576319ee5135736ea6cddd2f100e6cf771b4f8477ac26e4421286e459372"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "分期微创手术治疗成人重度退变性脊柱侧凸的中远期临床研究王永福 ...",
+          "htmlTitle": "分期微创<b>手术</b>治疗成人重度退<b>变性</b>脊柱侧凸的中远期临床研究王永福 ...",
+          "link": "https://xuebao.bbmu.edu.cn/cn/article/pdf/preview/10.13898/j.cnki.issn.1000-2200.2020.06.021.pdf",
+          "displayLink": "xuebao.bbmu.edu.cn",
+          "snippet": "[摘要]目的:通过分期微创手术的方式(侧路腰椎间融合术+ 后路经皮椎弓根螺钉固定)治疗成人重度退变性脊柱侧凸病人,. 评估分期微创手术在恢复病人冠状面和矢状面平衡中的 ...",
+          "htmlSnippet": "[摘要]目的:通过分期微创<b>手术</b>的方式(侧路腰椎间融合术+ 后路经皮椎弓根螺钉固定)治疗成人重度退<b>变性</b>脊柱侧凸病人,. 评估分期微创<b>手术</b>在恢复病人冠状面和矢状面平衡中的&nbsp;...",
+          "formattedUrl": "https://xuebao.bbmu.edu.cn/cn/.../j.cnki.issn.1000-2200.2020.06.021.pdf",
+          "htmlFormattedUrl": "https://xuebao.bbmu.edu.cn/cn/.../j.cnki.issn.1000-2200.2020.06.021.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8m8_Oor5FO03_1jk5MXUnV3wdermvMociXqtVoo6_zNJfEAyfUFnnY0&s",
+                "width": "162",
+                "height": "312"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200707154918+08'00'",
+                "creationdate": "D:20200707154918+08'00'",
+                "producer": "iText® 5.5.11 ©2000-2017 iText Group NV (AGPL-version)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8bef98912386a6171450a70c19769db8165fa9710898d57df4ebf4f6c48bfa1a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "融盛财产保险股份有限公司附加意外伤害医疗保险条款",
+          "htmlTitle": "融盛财产保险股份有限公司附加意外伤害医疗保险条款",
+          "link": "https://www.erongsheng.com/uploads/soft/201221/%E8%9E%8D%E7%9B%9B%E8%B4%A2%E4%BA%A7%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E6%9D%A1%E6%AC%BE.pdf",
+          "displayLink": "www.erongsheng.com",
+          "snippet": "3.被保险人流产、堕胎、分娩、不孕症、避孕或绝育手术、变性手术、人体试验和人. 工生殖，及由此而引起的并发症；. 4.被保险人发生的护理（陪住）费、取暖费、交通费 ...",
+          "htmlSnippet": "3.被保险人流产、堕胎、分娩、不孕症、避孕或绝育手术、<b>变性手术</b>、人体试验和人. 工生殖，及由此而引起的并发症；. 4.被保险人发生的护理（陪住）费、取暖费、交通费&nbsp;...",
+          "formattedUrl": "https://www.erongsheng.com/.../融盛财产保险股份有限公司附加意外伤害...",
+          "htmlFormattedUrl": "https://www.erongsheng.com/.../融盛财产保险股份有限公司附加意外伤害...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZH6LrIlsZl5booZ_1apApSZ82lGMQiiFkNnaqR9HVLOJEFyOgxhstKT0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20201221111358+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20201221111358+08'00'",
+                "author": "蔡阳",
+                "producer": "Microsoft® Word 2016",
+                "title": "华泰财产保险股份有限公司"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///71a0a0b239ece834b45340211e0e7713c283b6b6da8f09ed57da86a40eee1ac3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "华泰财产保险有限公司附加意外伤害住院津贴保险条款",
+          "htmlTitle": "华泰财产保险有限公司附加意外伤害住院津贴保险条款",
+          "link": "https://file.shenlanbao.com/2020/03/02/120030211203046201.pdf",
+          "displayLink": "file.shenlanbao.com",
+          "snippet": "Mar 2, 2020 ... 2、被保险人因流产、堕胎、分娩、不孕症、避孕或绝育手术、变性手术、人体试验和. 人工生殖，及由此而引起的并发症而住院；. 3、被保险人因健康护理(含 ...",
+          "htmlSnippet": "Mar 2, 2020 <b>...</b> 2、被保险人因流产、堕胎、分娩、不孕症、避孕或绝育手术、<b>变性手术</b>、人体试验和. 人工生殖，及由此而引起的并发症而住院；. 3、被保险人因健康护理(含&nbsp;...",
+          "formattedUrl": "https://file.shenlanbao.com/2020/03/02/120030211203046201.pdf",
+          "htmlFormattedUrl": "https://file.shenlanbao.com/2020/03/02/120030211203046201.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABRkPcIsgN7LXRuGUYu2KxM-utICS6uhnYIsHbkoE-PvgLdzn7xh_mnUI&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180727102911+02'29'",
+                "creationdate": "D:20180727102911+02'29'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20180727102911+02'29'"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///31b1a21ed2cb1f44b9662b5b84e9cc301c2a715ab488f4a4539e79f388d77e92"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "22年的悬案破了！",
+          "htmlTitle": "22年的悬案破了！",
+          "link": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "displayLink": "zjfzb.zjol.com.cn",
+          "snippet": "Aug 30, 2018 ... 变性手术加上之前长期服用雌性激素类. 药物，小斌的身体发生了变化，胡须汗毛越来. 越少、越细，皮肤越来越好，他有时穿着女装. 外出，从外貌体征上看已经 ...",
+          "htmlSnippet": "Aug 30, 2018 <b>...</b> <b>变性手术</b>加上之前长期服用雌性激素类. 药物，小斌的身体发生了变化，胡须汗毛越来. 越少、越细，皮肤越来越好，他有时穿着女装. 外出，从外貌体征上看已经&nbsp;...",
+          "formattedUrl": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "htmlFormattedUrl": "http://zjfzb.zjol.com.cn/images/2018-08/30/f2018083000016.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUxDtxrOm83mIa3Qfjp7hqtqDTZAm_ModNEhRhdB4M2ByGwRqIJXw2L0&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180829191854+08'00'",
+                "creationdate": "D:20180829191854+08'00'",
+                "creator": "网络版",
+                "subject": "FZ1",
+                "author": "Microsoft fzbzper",
+                "producer": "pdflib",
+                "title": "zjfz20180830f01616版"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5b9c02544c25e66b49531cee3ba92279354828f349032075950da72e38231901"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "PowerPoint 演示文稿",
+          "htmlTitle": "PowerPoint 演示文稿",
+          "link": "https://www.mhealthu.com/uploads/20200313/1654d2f111cef626e4c4ea9a0f0e711e.pdf",
+          "displayLink": "www.mhealthu.com",
+          "snippet": "晚起病性别烦躁男性，大比例与出生性别为女性个体同居或结婚。 ◇变性后，个体的自我认同为同性恋。 ◇早起病群体会寻求临床激素治疗和性别再分配手术的 ...",
+          "htmlSnippet": "晚起病性别烦躁男性，大比例与出生性别为女性个体同居或结婚。 ◇<b>变性</b>后，个体的自我认同为同性恋。 ◇早起病群体会寻求临床激素治疗和性别再分配<b>手术</b>的&nbsp;...",
+          "formattedUrl": "https://www.mhealthu.com/.../1654d2f111cef626e4c4ea9a0f0e711e.pdf",
+          "htmlFormattedUrl": "https://www.mhealthu.com/.../1654d2f111cef626e4c4ea9a0f0e711e.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KYvmpw7_jwtchGyLAotO86x38Yin_V4PRpNLoNJxl0L93N36InSJt9k&s",
+                "width": "299",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200313165920+08'00'",
+                "creationdate": "D:20190612170731+08'00'",
+                "creator": "Microsoft® PowerPoint® 适用于 Office 365",
+                "author": "china",
+                "producer": "Microsoft® PowerPoint® 适用于 Office 365",
+                "title": "PowerPoint 演示文稿"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5ef87f9607d913b89dccaf7cc7e75f0725ab0d32c6ed544d024858768ffdd525"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跳出性别之网",
+          "htmlTitle": "跳出性别之网",
+          "link": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/2015-05-26/Issue/ljfpw0em.pdf",
+          "displayLink": "shxyj.ajcass.com",
+          "snippet": "... 变性手术”的案例，展开对性别规. 范与自由关系的思考。变性手术真的是可以让人重新选择而达成性别. 自由的手段吗？ 巴特勒以“给人以公正：性别再分配与变性寓言”这样. 的 ...",
+          "htmlSnippet": "... <b>变性手术</b>”的案例，展开对性别规. 范与自由关系的思考。<b>变性手术</b>真的是可以让人重新选择而达成性别. 自由的手段吗？ 巴特勒以“给人以公正：性别再分配与变性寓言”这样. 的&nbsp;...",
+          "formattedUrl": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/.../ljfpw0em.pdf",
+          "htmlFormattedUrl": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/.../ljfpw0em.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20141206122426-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3925",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "复星联合优越保医疗保险条款",
+          "htmlTitle": "复星联合优越保医疗保险条款",
+          "link": "https://resource.kaixinbao.com/eriskfile/escapeBlame/226101031_00011838.pdf",
+          "displayLink": "resource.kaixinbao.com",
+          "snippet": "（9） 整形手术、美容或整容手术、变性手术及前述手术的并发症或因前. 1. 酒后驾驶：指经检测或鉴定，发生事故时车辆驾驶人员每百毫升血液中的酒精含量达到或超过一定的 ...",
+          "htmlSnippet": "（9） 整形手术、美容或整容手术、<b>变性手术</b>及前述手术的并发症或因前. 1. 酒后驾驶：指经检测或鉴定，发生事故时车辆驾驶人员每百毫升血液中的酒精含量达到或超过一定的&nbsp;...",
+          "formattedUrl": "https://resource.kaixinbao.com/eriskfile/.../226101031_00011838.pdf",
+          "htmlFormattedUrl": "https://resource.kaixinbao.com/eriskfile/.../226101031_00011838.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqsz22mfqIbGIw0jF5xiQO_1XGepWSfH2BkLNw11c3nmOSoka7CET46bL&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200508063200Z",
+                "creator": "Microsoft Office Word",
+                "creationdate": "D:20191115015500Z",
+                "author": "zhp",
+                "producer": "Aspose.Words for .NET 16.7.0.0",
+                "title": "条款"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b391db8fb86862e77768bb8f24da6d64600ed052de906f4d469f31016f864b9b"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:31"
+  },
+  {
+    "page": 4,
+    "start_index": 31,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.117971,
+        "formattedSearchTime": "0.12",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "有限复位内固定椎间融合术治疗稳定的退变性腰椎滑脱症临床疗效的 ...",
+          "htmlTitle": "有限复位内固定椎间融合术治疗稳定的退<b>变性</b>腰椎滑脱症临床疗效的 ...",
+          "link": "http://mode301.ijournals.cn/zhlndqgjbzz/article/pdf/20120423008?file_name=B3147901C258E490E038A1CCCCBCE6E276ECE481D05622389534768734C7419FE24778386BB6F06036696244C5E02E07C77F5FF28376004946BB25473AF5A7A7&open_type=self",
+          "displayLink": "mode301.ijournals.cn",
+          "snippet": "Apr 23, 2012 ... 合手术。所有患者均为L4 椎体滑移, 腰椎过伸过屈位X 线测量无明显 ... 在手术治疗稳定性退变性腰椎滑脱症过程中,. 通过有限复位即可恢复重建腰椎 ...",
+          "htmlSnippet": "Apr 23, 2012 <b>...</b> 合<b>手术</b>。所有患者均为L4 椎体滑移, 腰椎过伸过屈位X 线测量无明显 ... 在<b>手术</b>治疗稳定性退<b>变性</b>腰椎滑脱症过程中,. 通过有限复位即可恢复重建腰椎&nbsp;...",
+          "formattedUrl": "http://mode301.ijournals.cn/zhlndqgjbzz/article/pdf/20120423008?...",
+          "htmlFormattedUrl": "http://mode301.ijournals.cn/zhlndqgjbzz/article/pdf/20120423008?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbYGDgWgvNK0xJEcYhqCNixUdgGqVBG_rSLR9yGLrKwLfbXHn2NfBANkC&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20120824084431+08'00'",
+                "creationdate": "D:20120822134220+08'00'",
+                "creator": "PScript5.dll Version 5.2",
+                "author": "Administrator",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "Microsoft Word - 刘玉增_new_.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1a85307bb951fd1d2e0e35b18bce737bda222a1521a41f8d4899e1e36b6ce67b"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "三星财险企无忧-三星团意险产品说明书",
+          "htmlTitle": "三星财险企无忧-三星团意险产品说明书",
+          "link": "https://www.samsunganycar.com/cn/gkxxpl/jbxxpl/jycpjtk/cpsm/1/%E4%B8%89%E6%98%9F%E8%B4%A2%E9%99%A9%20%E4%BC%81%E6%97%A0%E5%BF%A7-%E4%B8%89%E6%98%9F%E5%9B%A2%E6%84%8F%E9%99%A9%20%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+          "displayLink": "www.samsunganycar.com",
+          "snippet": "... 手术、变性手术、人体试验. 和人工生殖，及由此而引起的并发症；. （八）被保险人未经保险人同意的转院治疗或在家自设病床治疗；. （九）未经保险人同意，被保险人在非 ...",
+          "htmlSnippet": "... 手术、<b>变性手术</b>、人体试验. 和人工生殖，及由此而引起的并发症；. （八）被保险人未经保险人同意的转院治疗或在家自设病床治疗；. （九）未经保险人同意，被保险人在非&nbsp;...",
+          "formattedUrl": "https://www.samsunganycar.com/.../三星财险%20企无忧-三星团意险%20...",
+          "htmlFormattedUrl": "https://www.samsunganycar.com/.../三星财险%20企无忧-三星团意险%20...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfMbhSZUq3P-sjAxc5QDC4d6VMKYH1WA7ySKgEsHHXohleO28sXO6gIQD&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240314154647+08'00'",
+                "creationdate": "D:20240314154644+08'00'",
+                "creator": "Acrobat PDFMaker 23 Word 版",
+                "sourcemodified": "D:20240223024228",
+                "author": "Xiong shanshan",
+                "producer": "Adobe PDF Library 23.8.75"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///272a43f806dad26866dcd75eb01ec42ddf5ae97343b9ef98934d29190dd0e170"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Dynesys弹性内固定系统治疗腰椎退变性疾病的效果评价",
+          "htmlTitle": "Dynesys弹性内固定系统治疗腰椎退<b>变性</b>疾病的效果评价",
+          "link": "http://www.zhqkyx.net/article/exportPdf?id=96b39637-23fa-4dd6-b1a1-bde014c9f53b",
+          "displayLink": "www.zhqkyx.net",
+          "snippet": "1.3 手术方法结合临床表现及影像学资料对40例. 患者进行术前评估，患者全身麻醉后取俯卧位，术前C. 型臂X线机透视下定位，以病变节段为中心，病变椎. 及上下椎体椎弓根体定位， ...",
+          "htmlSnippet": "1.3 <b>手术</b>方法结合临床表现及影像学资料对40例. 患者进行术前评估，患者全身麻醉后取俯卧位，术前C. 型臂X线机透视下定位，以病变节段为中心，病变椎. 及上下椎体椎弓根体定位，&nbsp;...",
+          "formattedUrl": "http://www.zhqkyx.net/article/exportPdf?id=96b39637-23fa-4dd6-b1a1...",
+          "htmlFormattedUrl": "http://www.zhqkyx.net/article/exportPdf?id=96b39637-23fa-4dd6-b1a1...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjEyEyZlSXeioA_iAWQwMCduV3TWk9d4axSNQDCj_lKQlKhfPAGuT5zc&s",
+                "width": "192",
+                "height": "262"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220805174656-08'00'",
+                "creationdate": "D:20220805174656-08'00'",
+                "producer": "http://www.adultpdf.com"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///8549b45c74709c09a02f9e21d09ebcaa4902c11811b0687fb1c5b372bebbd148"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "巨大阔韧带肌瘤伴囊性变1例并文献复习Giant Broad Ligament ...",
+          "htmlTitle": "巨大阔韧带肌瘤伴囊性变1例并文献复习Giant Broad Ligament ...",
+          "link": "https://pdf.hanspub.org/ACM20220100000_12243261.pdf",
+          "displayLink": "pdf.hanspub.org",
+          "snippet": "Jan 14, 2022 ... 结论：巨大阔韧带肌瘤伴囊性变缺乏特异性临床表现，MRI对. 其鉴别诊断有重要意义，当肌瘤增长较快、体积较大且血供不足时易发生变性；手术为首选治疗方法。",
+          "htmlSnippet": "Jan 14, 2022 <b>...</b> 结论：巨大阔韧带肌瘤伴囊性变缺乏特异性临床表现，MRI对. 其鉴别诊断有重要意义，当肌瘤增长较快、体积较大且血供不足时易发生<b>变性</b>；<b>手术</b>为首选治疗方法。",
+          "formattedUrl": "https://pdf.hanspub.org/ACM20220100000_12243261.pdf",
+          "htmlFormattedUrl": "https://pdf.hanspub.org/ACM20220100000_12243261.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwWdsLoWFjPOOeLVWPUaE5wLP_yW4wHaOdE2gvwNQlbv6CUGO0ILk9uwQ&s",
+                "width": "268",
+                "height": "188"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220126135632+08'00'",
+                "creationdate": "D:20220126135630+08'00'",
+                "creator": "Acrobat PDFMaker 11 Word 版",
+                "sourcemodified": "D:20220126055626",
+                "author": "张耀匀，李玉娜，戴红英",
+                "subject": "目的：该文旨在探讨阔韧带肌瘤的临床表现、鉴别诊断及诊治要点。方法：对青岛大学附属医院妇科收治的1例巨大阔韧带肌瘤伴囊性变的患者进行回顾性分析并复习相关文献。结果：阔韧带肌瘤是子宫肌瘤的一种特殊类型，其发病率较低，巨大的阔韧带肌瘤更为少见；合并肌瘤变性时，容易误诊及漏诊，但最终确诊要依靠手术探查及石蜡病理。结论：巨大阔韧带肌瘤伴囊性变缺乏特异性临床表现，MRI对其鉴别诊断有重要意义，当肌瘤增长较快、体积较大且血供不足时易发生变性；手术为首选治疗方法。",
+                "producer": "Adobe PDF Library 11.0",
+                "title": "巨大阔韧带肌瘤伴囊性变1例并文献复习"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///72a9c00cf614b1094f70fca46a83a3efde28a2f69fca4ce33777f62f97e5554b"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "吉林吉康保免责条款",
+          "htmlTitle": "吉林吉康保免责条款",
+          "link": "http://files.huizecdn.com/file1/M00/58/50/CgUA3GAjeMyAPuWGAAD6yINO4j8397.pdf",
+          "displayLink": "files.huizecdn.com",
+          "snippet": "（9）被保险人接受美容手术、矫形手术、变性手术或非因意外伤. 害而进行的整形手术；. （10）被保险人在本保险合同等待期前罹患保险合同约定的特定既. 往症（见释义）及 ...",
+          "htmlSnippet": "（9）被保险人接受美容手术、矫形手术、<b>变性手术</b>或非因意外伤. 害而进行的整形手术；. （10）被保险人在本保险合同等待期前罹患保险合同约定的特定既. 往症（见释义）及&nbsp;...",
+          "formattedUrl": "http://files.huizecdn.com/.../CgUA3GAjeMyAPuWGAAD6yINO4j8397.pdf",
+          "htmlFormattedUrl": "http://files.huizecdn.com/.../CgUA3GAjeMyAPuWGAAD6yINO4j8397.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210210140952+06'09'",
+                "creationdate": "D:20210210140952+06'09'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20210210140952+06'09'",
+                "author": "WPS_1611744936"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "永诚财产保险股份有限公司优e 保个人医疗保险（C 款）条款保险产品 ...",
+          "htmlTitle": "永诚财产保险股份有限公司优e 保个人医疗保险（C 款）条款保险产品 ...",
+          "link": "https://www.alltrust.com.cn/downloadProd/termsCode/500370&_3",
+          "displayLink": "www.alltrust.com.cn",
+          "snippet": "（十一）被保险人接受整形手术、美容或整容手术、变性手术及前述手术的并发症或因. 前述手术导致的医疗事故；. （十二）遗传性疾病、先天性畸形、变形或染色体异常 ...",
+          "htmlSnippet": "（十一）被保险人接受整形手术、美容或整容手术、<b>变性手术</b>及前述手术的并发症或因. 前述手术导致的医疗事故；. （十二）遗传性疾病、先天性畸形、变形或染色体异常&nbsp;...",
+          "formattedUrl": "https://www.alltrust.com.cn/downloadProd/termsCode/500370&_3",
+          "htmlFormattedUrl": "https://www.alltrust.com.cn/downloadProd/termsCode/500370&amp;_3",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240622094218+08'00'",
+                "creator": "Microsoft® Word 适用于 Microsoft 365",
+                "creationdate": "D:20240622094218+08'00'",
+                "producer": "Microsoft® Word 适用于 Microsoft 365"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "跨性别女性的特征及艾滋病相关知识行为调查",
+          "htmlTitle": "跨性别女性的特征及艾滋病相关知识行为调查",
+          "link": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?journal_id=zhlxbx&file_name=8101D5DAB1C08948E75602FF36EC0DAE997B349F20780245349618035C29863401CC68A39FF5E763DD5ABCA5C3495EC981BFAEEA5D0BD8C0D4B94448DB18C3C0&open_type=self&file_no=20160116",
+          "displayLink": "chinaepi.icdc.cn",
+          "snippet": "Jan 16, 2016 ... ... 变性手术，则变. 性前生理性别为男性)，自述心理性别不是男性的. MTF ... 发现做过变性手术者，完全不想变性的仅占5.5!，. 其余皆不同程度的想要 ...",
+          "htmlSnippet": "Jan 16, 2016 <b>...</b> ... <b>变性手术</b>，则变. 性前生理性别为男性)，自述心理性别不是男性的. MTF ... 发现做过<b>变性手术</b>者，完全不想变性的仅占5.5!，. 其余皆不同程度的想要&nbsp;...",
+          "formattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://chinaepi.icdc.cn/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20160111140252+08'00'",
+                "creationdate": "D:20160111140240+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "皮质骨通道螺钉结合改良腰椎后路椎间融合术治疗腰椎退变性疾病的 ...",
+          "htmlTitle": "皮质骨通道螺钉结合改良腰椎后路椎间融合术治疗腰椎退<b>变性</b>疾病的 ...",
+          "link": "http://oj.chmed.net/ch/reader/download_pdf_file.aspx?journal_id=gk&file_name=B3147901C258E490AC1B6CCABB75A921258817D194F4C25D71EF4100E262B83516A096645C02D92DFFBD4988D0D7E465A10987E7A84B10AC&open_type=self&file_no=20200307",
+          "displayLink": "oj.chmed.net",
+          "snippet": "手术采用全身麻醉，病人取俯卧位，均取后正中. 切口，逐层切开并分离椎旁肌肉。 椎弓根螺钉PLIF 组，切口长约8 cm，显露病变. 节段上下椎体的横突与关节突 ...",
+          "htmlSnippet": "<b>手术</b>采用全身麻醉，病人取俯卧位，均取后正中. 切口，逐层切开并分离椎旁肌肉。 椎弓根螺钉PLIF 组，切口长约8 cm，显露病变. 节段上下椎体的横突与关节突&nbsp;...",
+          "formattedUrl": "http://oj.chmed.net/ch/reader/download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://oj.chmed.net/ch/reader/download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJV-1wMwBDAIODh0ReTxTGlhvS6IpVOG7xlWd73-04zCxliutStIvZsc2&s",
+                "width": "228",
+                "height": "221"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200601115544+08'00'",
+                "creationdate": "D:20200601115544+08'00'",
+                "creator": "方正飞翔2012 专业版",
+                "subject": "李玉伟(副本) (1)",
+                "author": "微软中国 fl",
+                "producer": "Founder",
+                "title": "202003-正文"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///80ec19051fd85bbae811236c0ea880ec39458baef59ed059c721e2f58565cddc"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "信泰安心手术意外伤害保险条款阅读指引",
+          "htmlTitle": "信泰安心<b>手术</b>意外伤害保险条款阅读指引",
+          "link": "https://www.xintai.com/cmspro/attachmentDir/file/202306/archival_materials/10349.pdf",
+          "displayLink": "www.xintai.com",
+          "snippet": "... 变性手术；. （7）门诊手术；. （8）医疗事故8.11；. （9）被保险人在非手术医院另行求医或在非本合同规定等级的医疗机构诊疗；. （10）被保险人及其看护人员不遵守医院 ...",
+          "htmlSnippet": "... <b>变性手术</b>；. （7）门诊手术；. （8）医疗事故8.11；. （9）被保险人在非手术医院另行求医或在非本合同规定等级的医疗机构诊疗；. （10）被保险人及其看护人员不遵守医院&nbsp;...",
+          "formattedUrl": "https://www.xintai.com/cmspro/attachmentDir/file/202306/.../10349.pdf",
+          "htmlFormattedUrl": "https://www.xintai.com/cmspro/attachmentDir/file/202306/.../10349.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eV2vggDze89h48igmKi-e_uiJJh5he3kMmOxwi97fMESuAzSInE0rzs&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230619180949+08'00'",
+                "creationdate": "D:20230619180949+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "producer": "Adobe Acrobat Pro (64-bit) 23.1.20174"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6e8c1e1f2e48126fefd6a412435b578dbf3f31fb428e446ef440b9d0f9089e92"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "翼状胬肉标准化手术治疗的疗效",
+          "htmlTitle": "翼状胬肉标准化<b>手术</b>治疗的疗效",
+          "link": "http://ies.ijo.cn/cn_publish/2012/8/20120862.pdf",
+          "displayLink": "ies.ijo.cn",
+          "snippet": "0 引言. 摇摇翼状胬肉是眼科常见的、多发的眼表疾病,是结膜组. 织的增生变性弹力纤维发育异常而产生的弹力纤维变性. 所致[1] 。 其主要诱因多为局部受光、风沙、尘埃、 ...",
+          "htmlSnippet": "0 引言. 摇摇翼状胬肉是眼科常见的、多发的眼表疾病,是结膜组. 织的增生<b>变性</b>弹力纤维发育异常而产生的弹力纤维<b>变性</b>. 所致[1] 。 其主要诱因多为局部受光、风沙、尘埃、&nbsp;...",
+          "formattedUrl": "http://ies.ijo.cn/cn_publish/2012/8/20120862.pdf",
+          "htmlFormattedUrl": "http://ies.ijo.cn/cn_publish/2012/8/20120862.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8t8vBkzTJ9gJmRHeyDeyV5YrJjMuk_1Yb-Mf95CGP9d-zWBa1AIosiQ&s",
+                "width": "182",
+                "height": "277"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "(D:20120723100347+08'00')",
+                "creationdate": "(D:20120723100347+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0152849871a02268a0a6e965dccd11ca2b4f338011ebaab3eecf1768df4d7b47"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:33"
+  },
+  {
+    "page": 5,
+    "start_index": 41,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 31,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.133068,
+        "formattedSearchTime": "0.13",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "天安保险股份有限公司附加学生住院定额给付医疗保险条款总则保险 ...",
+          "htmlTitle": "天安保险股份有限公司附加学生住院定额给付医疗保险条款总则保险 ...",
+          "link": "https://www.95505.com.cn/tianwebsite/2018-12-29/154605646740120180706r079.pdf",
+          "displayLink": "www.95505.com.cn",
+          "snippet": "四、被保险人的视力矫正手术或变性手术；. 五、被保险人非因意外伤害导致的整容或矫形手术；. 六、被保险人在香港特别行政区、澳门特别行政区、台湾地区或中国境外的诊疗 ...",
+          "htmlSnippet": "四、被保险人的视力矫正手术或<b>变性手术</b>；. 五、被保险人非因意外伤害导致的整容或矫形手术；. 六、被保险人在香港特别行政区、澳门特别行政区、台湾地区或中国境外的诊疗&nbsp;...",
+          "formattedUrl": "https://www.95505.com.cn/.../2018.../154605646740120180706r079.pdf",
+          "htmlFormattedUrl": "https://www.95505.com.cn/.../2018.../154605646740120180706r079.pdf",
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "国家限制类技术目录（2022 年版）",
+          "htmlTitle": "国家限制类技术目录（2022 年版）",
+          "link": "https://cdn045.yun-img.com/static/upload/bjtcma/news/20220708121231_30717.pdf",
+          "displayLink": "cdn045.yun-img.com",
+          "snippet": "对应手术/操作名称及编码中除“64.5x00 性转变手术”、. “64.5x00x001 变性手术(男变女)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64 ...",
+          "htmlSnippet": "对应手术/操作名称及编码中除“64.5x00 性转变手术”、. “64.5x00x001 <b>变性手术</b>(男变女)”可直接识别病例外，其. 他手术/操作编码需结合疾病诊断编码（F64.000 易性症；. F64&nbsp;...",
+          "formattedUrl": "https://cdn045.yun-img.com/static/upload/.../20220708121231_30717.pdf",
+          "htmlFormattedUrl": "https://cdn045.yun-img.com/static/upload/.../20220708121231_30717.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20220419092517+01'25'",
+                "creationdate": "D:20220419092517+01'25'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20220419092517+01'25'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "商业医疗保险产品计划商业医疗保险产品计划商业医疗保险产品计划",
+          "htmlTitle": "商业医疗保险产品计划商业医疗保险产品计划商业医疗保险产品计划",
+          "link": "https://ygb.fudan.edu.cn/_upload/article/files/27/4c/51f637394725b004ec0875df5661/bf7555d6-37f1-430a-a674-0ff7aa1ce8fa.pdf",
+          "displayLink": "ygb.fudan.edu.cn",
+          "snippet": "被保险人的视力矫正手术或变性手术；. 5.被保险人非因意外伤害导致的整容或矫形手术。 1.保险公司是指中国人寿保险股份有限公司上海市分公司。 2.遗传性疾病：指生殖 ...",
+          "htmlSnippet": "被保险人的视力矫正手术或<b>变性手术</b>；. 5.被保险人非因意外伤害导致的整容或矫形手术。 1.保险公司是指中国人寿保险股份有限公司上海市分公司。 2.遗传性疾病：指生殖&nbsp;...",
+          "formattedUrl": "https://ygb.fudan.edu.cn/_.../bf7555d6-37f1-430a-a674-0ff7aa1ce8fa.pdf",
+          "htmlFormattedUrl": "https://ygb.fudan.edu.cn/_.../bf7555d6-37f1-430a-a674-0ff7aa1ce8fa.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20210823091549+08'00'",
+                "creationdate": "D:20210820155117+09'00'",
+                "creator": "Adobe Illustrator CC 23.0 (Windows)",
+                "producer": "Adobe PDF library 15.00",
+                "title": "复旦大学研究生在职-微信缴费（不用打印）"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "变性后利用色相行骗“安徽变性第一人”获刑三年",
+          "htmlTitle": "<b>变性</b>后利用色相行骗“安徽<b>变性</b>第一人”获刑三年",
+          "link": "http://www.ahscb.com.cn/page/1/2014-12/08/07/2014120807_pdf.pdf",
+          "displayLink": "www.ahscb.com.cn",
+          "snippet": "Dec 8, 2014 ... 为了让自己更有女人味，韩美玲. 陆续做了整容手术，见过她的人都说. 韩美玲简直比女人还女人，更有媒体. 将其称为“华中第一变性美女”。韩美. 玲也逐渐迷失在 ...",
+          "htmlSnippet": "Dec 8, 2014 <b>...</b> 为了让自己更有女人味，韩美玲. 陆续做了整容<b>手术</b>，见过她的人都说. 韩美玲简直比女人还女人，更有媒体. 将其称为“华中第一<b>变性</b>美女”。韩美. 玲也逐渐迷失在&nbsp;...",
+          "formattedUrl": "http://www.ahscb.com.cn/page/1/2014-12/08/07/2014120807_pdf.pdf",
+          "htmlFormattedUrl": "http://www.ahscb.com.cn/page/1/2014-12/08/07/2014120807_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweMyd9ywyz4JpN5ov1DEl5RnkjCoRcF5I_EwGgtbLw9DWQAcoN0qUmCQ&s",
+                "width": "182",
+                "height": "277"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141208003320+08'00'",
+                "creationdate": "D:20141208003320+08'00'",
+                "creator": "网络版",
+                "author": "ahscb tongk",
+                "subject": "无命题2",
+                "producer": "pdflib",
+                "title": "07YD07Cc08"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///89b0019d69d5c27b04b1937865613ee832c93048af8734dfe9925cbaeff5a3c3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "产品说明",
+          "htmlTitle": "产品说明",
+          "link": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/278-300_%E5%9B%BD%E5%AF%BF%E9%99%84%E5%8A%A0%E4%B9%90%E5%AD%A6%E6%97%A0%E5%BF%A7%E4%BD%8F%E9%99%A2%E8%B4%B9%E7%94%A8%E8%A1%A5%E5%81%BF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9(C%E6%AC%BE)%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf",
+          "displayLink": "www.e-chinalife.com",
+          "snippet": "三、被保险人的视力矫正手术或变性手术；. 四、被保险人非因意外伤害导致的整容或矫形手术；. 五、被保险人在香港特别行政区、澳门特别行政区、台湾地区或中国境外的.",
+          "htmlSnippet": "三、被保险人的视力矫正手术或<b>变性手术</b>；. 四、被保险人非因意外伤害导致的整容或矫形手术；. 五、被保险人在香港特别行政区、澳门特别行政区、台湾地区或中国境外的.",
+          "formattedUrl": "https://www.e-chinalife.com/.../278-300_国寿附加乐学无忧住院费用补偿...",
+          "htmlFormattedUrl": "https://www.e-chinalife.com/.../278-300_国寿附加乐学无忧住院费用补偿...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240226140943+08'00'",
+                "creator": "Microsoft® Word 2010",
+                "creationdate": "D:20240226140943+08'00'",
+                "producer": "Microsoft® Word 2010"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国太平洋财产保险股份有限公司附加旅行医疗保险（2013版）条款 ...",
+          "htmlTitle": "中国太平洋财产保险股份有限公司附加旅行医疗保险（2013版）条款 ...",
+          "link": "https://creditcard.bankcomm.com/content/dam/pc/bjk/pdf/s3_11.pdf",
+          "displayLink": "creditcard.bankcomm.com",
+          "snippet": "... 手术、变性手术、预防性手术（如预防性阑尾. 切除）；. （九）被保险人在中华人民共和国境内遭受意外伤害或突发急性病，在中华人民共和国境外. 进行的治疗；. （十）被保险 ...",
+          "htmlSnippet": "... 手术、<b>变性手术</b>、预防性手术（如预防性阑尾. 切除）；. （九）被保险人在中华人民共和国境内遭受意外伤害或突发急性病，在中华人民共和国境外. 进行的治疗；. （十）被保险&nbsp;...",
+          "formattedUrl": "https://creditcard.bankcomm.com/content/dam/pc/bjk/pdf/s3_11.pdf",
+          "htmlFormattedUrl": "https://creditcard.bankcomm.com/content/dam/pc/bjk/pdf/s3_11.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_SE4NzacQaB4DlurHVh1cpHn5muaxlhyg87vD4TX_pvhlmvJLnXujL8&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20180514110350+03'03'",
+                "creationdate": "D:20180514110350+03'03'",
+                "creator": "WPS Office",
+                "sourcemodified": "D:20180514110350+03'03'",
+                "author": "陶玲"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9e2145e3fc15a558eb8a02e870c2a236c2a2f71052565732770e2b5003308bc3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "儿童青少年常见眼科疾病诊治指南",
+          "htmlTitle": "儿童青少年常见眼科疾病诊治指南",
+          "link": "http://www.duyaonet.com/_FileUpLoad/20211207/20211207134618.pdf",
+          "displayLink": "www.duyaonet.com",
+          "snippet": "若在原手术眼上手术，手术量不能遵循共. 同性内斜视的常规计算方法 ... 由于DVD. 的病因仍不明确，且DVD 垂直斜视角度测量的易变性，手术效. Page 42. 40. 果有不确定性。",
+          "htmlSnippet": "若在原手术眼上手术，手术量不能遵循共. 同性内斜视的常规计算方法 ... 由于DVD. 的病因仍不明确，且DVD 垂直斜视角度测量的易<b>变性</b>，<b>手术</b>效. Page 42. 40. 果有不确定性。",
+          "formattedUrl": "http://www.duyaonet.com/_FileUpLoad/20211207/20211207134618.pdf",
+          "htmlFormattedUrl": "http://www.duyaonet.com/_FileUpLoad/20211207/20211207134618.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20211203231107+15'11'",
+                "creationdate": "D:20211203231107+15'11'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20211203231107+15'11'",
+                "author": "技术服务,综合部门,综合处核稿",
+                "title": "国家卫生计生委请示报告专用纸"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "退变性脊柱侧凸矢状面平衡的研究进展",
+          "htmlTitle": "退<b>变性</b>脊柱侧凸矢状面平衡的研究进展",
+          "link": "http://www.zjyxzzs.com/ch/reader/download_pdf_file.aspx?journal_id=zjyx&file_name=3618E016C89268EC91F0B5174D567A95A28022A88784623B6F9E6603D85847D0370891C66EC356F2F23645C5F9D72CCA8BB56EC7815CE413987FF41B1C25C247BBFDBB43ED05267E&open_type=self&file_no=2022-516",
+          "displayLink": "www.zjyxzzs.com",
+          "snippet": "Schwab 等[14- 16] 指出. SVA、PT、PI-LL 是制定手术计划的关键参数，并以这. 些参数为中心对成人脊柱畸形进行分类，以指导手. 术矫正。Cheung 等[17] 研究表明骨盆是人类 ...",
+          "htmlSnippet": "Schwab 等[14- 16] 指出. SVA、PT、PI-LL 是制定<b>手术</b>计划的关键参数，并以这. 些参数为中心对成人脊柱畸形进行分类，以指导手. 术矫正。Cheung 等[17] 研究表明骨盆是人类&nbsp;...",
+          "formattedUrl": "http://www.zjyxzzs.com/ch/.../download_pdf_file.aspx?...id...",
+          "htmlFormattedUrl": "http://www.zjyxzzs.com/ch/.../download_pdf_file.aspx?...id...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT644I5HLP5LXqlg0FrY7ZTMNHwmqN5zRdbf45e7hX8v04v_Qd4c2WlubI&s",
+                "width": "269",
+                "height": "187"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20221117155638+08'00'",
+                "creationdate": "D:20221117155613+08'00'",
+                "creator": "飞腾创艺5.5 网络版",
+                "subject": "朱琳超LZ(YWW)",
+                "author": "lwl",
+                "producer": "Founder",
+                "title": "2022-20医学内芯4"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c0e0121da8fd5e1da7f513fe0a5cc404a474016063f2c0de37020972c82b999c"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "ó癌患者围术期血液流变性变化的临床研究",
+          "htmlTitle": "ó癌患者围术期血液流<b>变性</b>变化的临床研究",
+          "link": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file_no=20110410&year_id=2011&quarter_id=4&falg=1",
+          "displayLink": "www.tougao120.com",
+          "snippet": "血液黏度. 增高，导致微循环障碍，很容易发生深静脉血栓。 本研究. 动态观察麻醉期间以及术后早期胃癌病人血液流变性的. 变化，分析麻醉手术及术后患者血液 ...",
+          "htmlSnippet": "血液黏度. 增高，导致微循环障碍，很容易发生深静脉血栓。 本研究. 动态观察麻醉期间以及术后早期胃癌病人血液流<b>变性</b>的. 变化，分析麻醉<b>手术</b>及术后患者血液&nbsp;...",
+          "formattedUrl": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file...",
+          "htmlFormattedUrl": "https://www.tougao120.com/ch/reader/create_pdf.aspx?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfBWjg2nczPxwwFOeJZNcDa0EkOqx1YPKbN8D0cj83cK3RuR8KC5vy_lb&s",
+                "width": "187",
+                "height": "269"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150427125108+08'00'",
+                "creationdate": "D:20150427125108+08'00'",
+                "producer": "iTextSharp 5.0.4 (c) 1T3XT BVBA"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///bc72bd6fb68445beadefb922c6009927528f6f3cdbf46a50d48cd87fcec6b8c4"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "走上T台刘婷“最美蝶变”",
+          "htmlTitle": "走上T台刘婷“最美蝶变”",
+          "link": "http://epaper.dbcsq.com/html/1/2015-09/24/A13/20150924A13_pdf.pdf",
+          "displayLink": "epaper.dbcsq.com",
+          "snippet": "Sep 24, 2015 ... 你做了变性手术，现在来参. 加选美比赛，这在选美史上没有先. 例”。 秦树发称，从全国道德模范，. 到接受变性手术做回“自己”，刘婷. 敢于面对争议，经历 ...",
+          "htmlSnippet": "Sep 24, 2015 <b>...</b> 你做了<b>变性手术</b>，现在来参. 加选美比赛，这在选美史上没有先. 例”。 秦树发称，从全国道德模范，. 到接受<b>变性手术</b>做回“自己”，刘婷. 敢于面对争议，经历&nbsp;...",
+          "formattedUrl": "http://epaper.dbcsq.com/html/1/2015-09/24/A13/20150924A13_pdf.pdf",
+          "htmlFormattedUrl": "http://epaper.dbcsq.com/html/1/2015-09/24/A13/20150924A13_pdf.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QimlQkiDXg67V78c6JGs9N75Lh6r0gVuOC5TqFGRJpa0r-1waeQT7YI&s",
+                "width": "276",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20150923193948+08'00'",
+                "creationdate": "D:20150923193948+08'00'",
+                "creator": "飞腾创艺5.4 网络版",
+                "subject": "农民报第3版",
+                "author": "qhrb Administrator",
+                "producer": "Founder",
+                "title": "1313BC924"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///780222b3ec635fc795f64db76a35830b3570689c16aa5cfa5c4c023ede1b6493"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:36"
+  },
+  {
+    "page": 6,
+    "start_index": 51,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 41,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.151003,
+        "formattedSearchTime": "0.15",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "阅读提示",
+          "htmlTitle": "阅读提示",
+          "link": "https://www.generalichina.com/u/cms/www/202004/03123752hvem.pdf",
+          "displayLink": "www.generalichina.com",
+          "snippet": "10.11. 双侧睾丸切除术. 指为治疗疾病实际接受了经腹部切开或腹腔镜进行的双侧睾丸完. 全切除手术。 单侧或部分睾丸切除、变性手术、预防性手术、因恶性肿瘤引起. 的手术 ...",
+          "htmlSnippet": "10.11. 双侧睾丸切除术. 指为治疗疾病实际接受了经腹部切开或腹腔镜进行的双侧睾丸完. 全切除手术。 单侧或部分睾丸切除、<b>变性手术</b>、预防性手术、因恶性肿瘤引起. 的手术&nbsp;...",
+          "formattedUrl": "https://www.generalichina.com/u/cms/www/202004/03123752hvem.pdf",
+          "htmlFormattedUrl": "https://www.generalichina.com/u/cms/www/202004/03123752hvem.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVeeyBbLrKXNvJjjKyTbyus0lshn8XCrwRhY1u_Jo0OOwOabFG1itGs2I&s",
+                "width": "291",
+                "height": "97"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200326093620",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20200326093620",
+                "author": "xuxiaojing",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c4f53e477cf01e7ab99cbce80dc19ce14fba0bc702101779260744ddd091d8bf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "泰康神奇宝贝（2021 款）重大疾病保险条款阅读指引",
+          "htmlTitle": "泰康神奇宝贝（2021 款）重大疾病保险条款阅读指引",
+          "link": "https://v.icbc.com.cn/userfiles/Resources/ICBC/baoxian/images/2021/%E6%B3%B0%E5%BA%B7%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D2021%E6%AC%BE%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9.pdf",
+          "displayLink": "v.icbc.com.cn",
+          "snippet": "脑动脉瘤（未破裂）预防性手术、颅骨打孔手术、动脉瘤栓塞手术、血管内手术及其他颅脑手术不 ... 单侧或部分卵巢切除、变性手术、因恶性肿瘤引起的手术不在保障范围内。 37 原 ...",
+          "htmlSnippet": "脑动脉瘤（未破裂）预防性手术、颅骨打孔手术、动脉瘤栓塞手术、血管内手术及其他颅脑手术不 ... 单侧或部分卵巢切除、<b>变性手术</b>、因恶性肿瘤引起的手术不在保障范围内。 37 原&nbsp;...",
+          "formattedUrl": "https://v.icbc.com.cn/userfiles/.../泰康神奇宝贝2021款重大疾病保险.pdf",
+          "htmlFormattedUrl": "https://v.icbc.com.cn/userfiles/.../泰康神奇宝贝2021款重大疾病保险.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5aPDkDmQ0ROBFpdvsV2R9m27jGNGlLQZA0_HVpTmfF9SS2Q2u32OhA&s",
+                "width": "120",
+                "height": "118"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20201210184910+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "creationdate": "D:20201210184910+08'00'",
+                "author": "fansj",
+                "producer": "Microsoft® Word 2016",
+                "title": "泰康世纪长乐（2003）终身寿险（分红型）条款"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b8498aa29b024ba74dc3ab16fdbf5b6678da841db7c9030ec7bfba25afd6bbaf"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "泰康养老健康服务重症中症轻症列表",
+          "htmlTitle": "泰康养老健康服务重症中症轻症列表",
+          "link": "https://tkyl.taikang.com/tkylpow/2023/12/22/94F22ED9150B4004B9B0B4F742E5D4CD.pdf",
+          "displayLink": "tkyl.taikang.com",
+          "snippet": "Dec 22, 2023 ... 1.21. 双侧卵巢切除术. 指为治疗疾病实际实施了经腹部切开或腹腔镜进行的双侧卵巢. 完全切除手术。 单侧或部分卵巢切除、变性手术、因恶性肿瘤引起的手术 ...",
+          "htmlSnippet": "Dec 22, 2023 <b>...</b> 1.21. 双侧卵巢切除术. 指为治疗疾病实际实施了经腹部切开或腹腔镜进行的双侧卵巢. 完全切除手术。 单侧或部分卵巢切除、<b>变性手术</b>、因恶性肿瘤引起的手术&nbsp;...",
+          "formattedUrl": "https://tkyl.taikang.com/.../94F22ED9150B4004B9B0B4F742E5D4CD.pdf",
+          "htmlFormattedUrl": "https://tkyl.taikang.com/.../94F22ED9150B4004B9B0B4F742E5D4CD.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231222102400+02'24'",
+                "creationdate": "D:20231222102400+02'24'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20231222102400+02'24'",
+                "author": "张露"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "夫拉客妻卖淫",
+          "htmlTitle": "夫拉客妻卖淫",
+          "link": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "displayLink": "szb.sxworker.com",
+          "snippet": "然而鲜为人知的是在20年. 前，张莎可是一个堂堂正正. 的小伙子，而且还当过兵，但. 就在她脱下军装后不久，张. 莎在北京医学院第三附属医. 院做了变性手术，成为中国. 大陆第一 ...",
+          "htmlSnippet": "然而鲜为人知的是在20年. 前，张莎可是一个堂堂正正. 的小伙子，而且还当过兵，但. 就在她脱下军装后不久，张. 莎在北京医学院第三附属医. 院做了<b>变性手术</b>，成为中国. 大陆第一&nbsp;...",
+          "formattedUrl": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "htmlFormattedUrl": "http://szb.sxworker.com/Img/2003/10/SXGRB2003102104.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231015131919+08'00'",
+                "creationdate": "D:20231015131919+08'00'",
+                "producer": "iTextSharp™ 5.5.6-SNAPSHOT ©2000-2014 iText Group NV (AGPL-version)"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "脑肿瘤放疗后脑损伤的治疗",
+          "htmlTitle": "脑肿瘤放疗后脑损伤的治疗",
+          "link": "http://www.zlfzyj.com/cn/article/pdf/preview/10.3971/j.issn.1000-8578.1798.pdf",
+          "displayLink": "www.zlfzyj.com",
+          "snippet": "变、神经纤维的变性坏死时,治疗主要靠手术切除、移. 植修复,通畅脑脊液循环通路等进行修复[7] 。关于采. 取何种手术治疗方式,我们的经验是不同类别的放射. 性脑损伤,应 ...",
+          "htmlSnippet": "变、神经纤维的<b>变性</b>坏死时,治疗主要靠<b>手术</b>切除、移. 植修复,通畅脑脊液循环通路等进行修复[7] 。关于采. 取何种<b>手术</b>治疗方式,我们的经验是不同类别的放射. 性脑损伤,应&nbsp;...",
+          "formattedUrl": "http://www.zlfzyj.com/cn/article/pdf/preview/.../j.issn.1000-8578.1798.pdf",
+          "htmlFormattedUrl": "http://www.zlfzyj.com/cn/article/pdf/preview/.../j.issn.1000-8578.1798.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creator": "TTKN CAJ2PDF",
+                "creationdate": "D:20090105133133",
+                "author": "TTKN Co., Ltd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "友邦附加轻如意豁免保险费疾病保险",
+          "htmlTitle": "友邦附加轻如意豁免保险费疾病保险",
+          "link": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1027-2_AUWCIWP(20210402)_IAC9100008290_con.pdf",
+          "displayLink": "www.aia.com.cn",
+          "snippet": "... 手术。 下列情况不在保障范围内：. （1）部分卵巢切除；. （2）因恶性肿瘤进行的卵巢切除术；. （3）预防性卵巢切除；. （4）变性手术。 20）双侧睾丸切除术. 指为治疗疾病 ...",
+          "htmlSnippet": "... 手术。 下列情况不在保障范围内：. （1）部分卵巢切除；. （2）因恶性肿瘤进行的卵巢切除术；. （3）预防性卵巢切除；. （4）<b>变性手术</b>。 20）双侧睾丸切除术. 指为治疗疾病&nbsp;...",
+          "formattedUrl": "https://www.aia.com.cn/.../B1027-2_AUWCIWP(20210402)_IAC9100008...",
+          "htmlFormattedUrl": "https://www.aia.com.cn/.../B1027-2_AUWCIWP(20210402)_IAC9100008...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDJeHvPXVhYuqZyTwbKhZbF8gSVBSHlwAElEi7Xi1R5A1tVBbJZ27Aoo&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20210401153045+08'00'",
+                "creator": "Microsoft® Word for Microsoft 365",
+                "creationdate": "D:20210401153045+08'00'",
+                "author": "NACT013",
+                "producer": "Microsoft® Word for Microsoft 365"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///5f8b0f03ce59ad5d41a95d55fae30ffc75582e47e79ce25dce6cc726ab7ee13a"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "经阴道彩色多普勒在子宫肌瘤变性诊断中的价值",
+          "htmlTitle": "经阴道彩色多普勒在子宫肌瘤<b>变性</b>诊断中的价值",
+          "link": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?journal_id=cjmit&file_name=8101D5DAB1C08948522C3F3A04C8705E4CC254E004A3A1F2958392D32EF43C99DFDB9CFC7F139DB91CD85B717318AA55EE4A67684738038404AD611B20664C08&open_type=self&file_no=20010748",
+          "displayLink": "www.cjmit.com",
+          "snippet": "普勒在变性子宫肌瘤诊断中的价值。现报告如下: 1 材料和方法. 本文58例子宫肌瘤住院病人,年龄27~50岁,平均37. 岁。经手术和病理证实,肌瘤数为70个,其中浆膜下24个,. 黏膜 ...",
+          "htmlSnippet": "普勒在<b>变性</b>子宫肌瘤诊断中的价值。现报告如下: 1 材料和方法. 本文58例子宫肌瘤住院病人,年龄27~50岁,平均37. 岁。经<b>手术</b>和病理证实,肌瘤数为70个,其中浆膜下24个,. 黏膜&nbsp;...",
+          "formattedUrl": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?...",
+          "htmlFormattedUrl": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20100916122747+08'00'",
+                "creationdate": "D:20100916122745+08'00'",
+                "creator": "创建者",
+                "subject": "科目",
+                "author": "作者",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "户籍管理领域基层政务公开标准目录",
+          "htmlTitle": "户籍管理领域基层政务公开标准目录",
+          "link": "http://www.cnyc.gov.cn/upload-service/2c90808483d171790183e4d0219b0002/2c90808483d171790183e8b166ee0005/WY1598608411929481216.pdf",
+          "displayLink": "www.cnyc.gov.cn",
+          "snippet": "... 变性手术性别矫正后，到户口所在地派出所申请更. 正；办理流程：1.本人申请. 2.派出所审核受理；所需材料：1.申请人居民户口簿2.有效身份证原件、复印件一式一份3.国内三 ...",
+          "htmlSnippet": "... <b>变性手术</b>性别矫正后，到户口所在地派出所申请更. 正；办理流程：1.本人申请. 2.派出所审核受理；所需材料：1.申请人居民户口簿2.有效身份证原件、复印件一式一份3.国内三&nbsp;...",
+          "formattedUrl": "http://www.cnyc.gov.cn/upload-service/.../WY1598608411929481216.pdf",
+          "htmlFormattedUrl": "http://www.cnyc.gov.cn/upload-service/.../WY1598608411929481216.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20201223115429+03'54'",
+                "creationdate": "D:20201223115429+03'54'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20201223115429+03'54'",
+                "author": "lenovo"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "信泰如意保（银龄版）医疗保险产品说明",
+          "htmlTitle": "信泰如意保（银龄版）医疗保险产品说明",
+          "link": "https://sinatay.com/cmspro/attachmentDir/file/202402/29235523ga6c.pdf",
+          "displayLink": "sinatay.com",
+          "snippet": "... 手术治疗的，对其支出的医疗必需且合理的门诊手术. 医疗费用，我们在扣除本 ... 9.被保险人因整形手术、美容或整容手术、变性手术、视力矫正手术及前述手术的并发 ...",
+          "htmlSnippet": "... 手术治疗的，对其支出的医疗必需且合理的门诊手术. 医疗费用，我们在扣除本 ... 9.被保险人因整形手术、美容或整容手术、<b>变性手术</b>、视力矫正手术及前述手术的并发&nbsp;...",
+          "formattedUrl": "https://sinatay.com/cmspro/attachmentDir/file/202402/29235523ga6c.pdf",
+          "htmlFormattedUrl": "https://sinatay.com/cmspro/attachmentDir/file/202402/29235523ga6c.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqt5uDjo69eycdsze5OtzGLwmdQTdFg1c7xWYNLxx-Q8SlswJviQqji4ji&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240229212042+08'00'",
+                "creationdate": "D:20240229212038+08'00'",
+                "creator": "Acrobat PDFMaker 23 Word 版",
+                "sourcemodified": "D:20240229105810",
+                "author": "liya",
+                "producer": "Adobe PDF Library 23.8.75",
+                "company": "Lenovo (Beijing) Limited",
+                "ksoproductbuildver": "2052-11.8.2.8593"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///71fb6e66a010eaca6d86cbab4fe405cd4a6e4926f5f7bd74ef5eaae39cd7c372"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "泰康附加健康人生F 款重大疾病保险条款阅读指引",
+          "htmlTitle": "泰康附加健康人生F 款重大疾病保险条款阅读指引",
+          "link": "https://m.taikanglife.com/mobile/uploader/interProductFile/2020/09/14/5480fc40-1bde-4194-8607-d3d9ec98479f.pdf",
+          "displayLink": "m.taikanglife.com",
+          "snippet": "Sep 14, 2020 ... 35 双侧卵巢切除术. 指为治疗疾病已经实施了经腹部切开或腹腔镜进行的双侧卵巢完全切除手术。 单侧或部分卵巢切除、变性手术、因恶性肿瘤引起的手术不在 ...",
+          "htmlSnippet": "Sep 14, 2020 <b>...</b> 35 双侧卵巢切除术. 指为治疗疾病已经实施了经腹部切开或腹腔镜进行的双侧卵巢完全切除手术。 单侧或部分卵巢切除、<b>变性手术</b>、因恶性肿瘤引起的手术不在&nbsp;...",
+          "formattedUrl": "https://m.taikanglife.com/.../5480fc40-1bde-4194-8607-d3d9ec98479f.pdf",
+          "htmlFormattedUrl": "https://m.taikanglife.com/.../5480fc40-1bde-4194-8607-d3d9ec98479f.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFx3HZIH2En1XmazyXBX1d4ubObna9qz2LJaDxVLknQI--lhM2mhio5NQ&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200515133756+08'00'",
+                "creationdate": "D:20200515133725+08'00'",
+                "creator": "Acrobat PDFMaker 20 Word 版",
+                "sourcemodified": "D:20200515053715",
+                "author": "fansj",
+                "producer": "Adobe PDF Library 20.9.95",
+                "company": "Microsoft",
+                "title": "泰康世纪长乐（2003）终身寿险（分红型）条款",
+                "mtwineqns": "1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///13b858a48d64df72f0939fe2c30e8fbc38b4c375e0becff79fcdcdd0b3f18baa"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:48"
+  },
+  {
+    "page": 7,
+    "start_index": 61,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 51,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32500",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.158906,
+        "formattedSearchTime": "0.16",
+        "totalResults": "32500",
+        "formattedTotalResults": "32,500"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "后路选择性减压融合术治疗老年退变性腰椎侧凸症",
+          "htmlTitle": "后路选择性减压融合术治疗老年退<b>变性</b>腰椎侧凸症",
+          "link": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20130115&flag=1&year_id=2013&quarter_id=1",
+          "displayLink": "tjyxxb.ijournals.cn",
+          "snippet": "... 变性腰推侧凸症的临床疗效。方法回顾性分. 析有完整随访资料的. 例患者, 根据临床表现 ... 高龄已不是脊. 柱外科手术绝对禁忌,手术不仅可行,而且可以取得. 满意的疗效 ...",
+          "htmlSnippet": "... <b>变性</b>腰推侧凸症的临床疗效。方法回顾性分. 析有完整随访资料的. 例患者, 根据临床表现 ... 高龄已不是脊. 柱外科<b>手术</b>绝对禁忌,<b>手术</b>不仅可行,而且可以取得. 满意的疗效&nbsp;...",
+          "formattedUrl": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no...",
+          "htmlFormattedUrl": "https://tjyxxb.ijournals.cn/ch/reader/create_pdf.aspx?file_no...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1z5W31FvbvmoVP2we_Ec8Xmw21S1UW5Xn6Neh6BIlTuK0k_oOf9TbOsc&s",
+                "width": "256",
+                "height": "197"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20150407132659",
+                "creator": "ReaderEx_DIS_C 2.0.0 Build 3925",
+                "producer": "CNKI®ReaderEx(2.0.0 Build 3925)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///896698415dc7d16b0e8d2126ebed194f4d4ba6aa8ca120388236aeecf97f4b44"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "原发性喉淀粉样变性4例及文献回顾",
+          "htmlTitle": "原发性喉淀粉样<b>变性</b>4例及文献回顾",
+          "link": "http://zgebyheldwkzz.ijournals.cn/zgebyheldwkzz/article/pdf/1007-1520202001018?file_name=93B673825CB84645AFA992DD124E2D27AA1A8368EA64A468A19E893909FE66E6689EF0C5B4FC7C3E90079277A4CEEB1AE1C5FB45244B265A18AC66A336EC6F89&open_type=self",
+          "displayLink": "zgebyheldwkzz.ijournals.cn",
+          "snippet": "结果4例患者病变组织. 均经手术切除，其中2例喉正中裂开肿物切除，2例支撑喉镜下二氧化碳激光手术切除，病理结果示淀粉样变，无喉. 气管功能损伤，无临床及实验证据表明 ...",
+          "htmlSnippet": "结果4例患者病变组织. 均经<b>手术</b>切除，其中2例喉正中裂开肿物切除，2例支撑喉镜下二氧化碳激光<b>手术</b>切除，病理结果示淀粉样变，无喉. 气管功能损伤，无临床及实验证据表明&nbsp;...",
+          "formattedUrl": "http://zgebyheldwkzz.ijournals.cn/.../article/.../1007-1520202001018?...",
+          "htmlFormattedUrl": "http://zgebyheldwkzz.ijournals.cn/.../article/.../1007-1520202001018?...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDXo3PUg8NSoU7YplvbTnRXtosI5GKn3XyZBa2X18Rh910sCjAeb4BfTx&s",
+                "width": "260",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200302151017+08'00'",
+                "creationdate": "D:20200302150954+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0325c74b6270b14b39ac1eac47947918537839d46f3c8bc31e1e040e144ee0f3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "经手术治疗的非小细胞肺癌伴三角肌转移长期生存1 例",
+          "htmlTitle": "经<b>手术</b>治疗的非小细胞肺癌伴三角肌转移长期生存1 例",
+          "link": "http://www.cjco.cn/cn/article/pdf/preview/10.12354/j.issn.1000-8179.2022.20210616.pdf",
+          "displayLink": "www.cjco.cn",
+          "snippet": "过去手术并不是Ⅳ期NSCLC 患者的首选。进入21. 世纪，研究发现对于某些患有寡 ... 老年性脑变性无肾上腺转移. 2012/11/26. 1.45. 2.1. 0.5. 左肺术后，左侧胸腔包裹性积 ...",
+          "htmlSnippet": "过去<b>手术</b>并不是Ⅳ期NSCLC 患者的首选。进入21. 世纪，研究发现对于某些患有寡 ... 老年性脑<b>变性</b>无肾上腺转移. 2012/11/26. 1.45. 2.1. 0.5. 左肺术后，左侧胸腔包裹性积&nbsp;...",
+          "formattedUrl": "http://www.cjco.cn/cn/article/pdf/.../j.issn.1000-8179.2022.20210616.pdf",
+          "htmlFormattedUrl": "http://www.cjco.cn/cn/article/pdf/.../j.issn.1000-8179.2022.20210616.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbDH6lV4DWiQijIq2YhTseVDobsQUUV31TxRyrheVeu95DrDlQT3njAUy&s",
+                "width": "267",
+                "height": "189"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220211100909+08'00'",
+                "creationdate": "D:20220211100909+08'00'",
+                "producer": "rhhz"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///364339c26ab6741ee2dfceb288bae3213d890470115a883f48e0f5a817c4bbda"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.cjrmp.net/zhfsyx/ch/reader/create_pdf.aspx?file_no=19910621&year_id=1991&quarter_id=6&falg=1",
+          "displayLink": "www.cjrmp.net",
+          "snippet": "1977年11月行左胸壁清创游离植皮. 术,清创范围12cm×10cm,术后因部分皮片坏死,. 行二次补皮手术。 ... 严重变性区常超出皮肤损伤区的范围。作者认. 为:骨性组织的清创原则是, ...",
+          "htmlSnippet": "1977年11月行左胸壁清创游离植皮. 术,清创范围12cm×10cm,术后因部分皮片坏死,. 行二次补皮<b>手术</b>。 ... 严重<b>变性</b>区常超出皮肤损伤区的范围。作者认. 为:骨性组织的清创原则是,&nbsp;...",
+          "formattedUrl": "http://www.cjrmp.net/zhfsyx/ch/reader/create_pdf.aspx?file...",
+          "htmlFormattedUrl": "http://www.cjrmp.net/zhfsyx/ch/reader/create_pdf.aspx?file...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-C9X8JeGPmpE8wVjy5D3SmgFwOUny6elD7cbFynQuB1RVYNmE2lUFmhs&s",
+                "width": "188",
+                "height": "268"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "Thu Jul 21 23:47:20 2005",
+                "creator": "Adobe Photoshop 6.0",
+                "creationdate": "Sat Jul 16 00:41:34 2005",
+                "producer": "Adobe Photoshop for Windows"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///a526a051da72c4fc96388a2fcea60679d110296fff534d58cd64fc3283ac6582"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "恩沙替尼对比安慰剂用于间变性淋巴瘤激酶（ALK）阳性的IB- IIIB 期 ...",
+          "htmlTitle": "恩沙替尼对比安慰剂用于间<b>变性</b>淋巴瘤激酶（ALK）阳性的IB- IIIB 期 ...",
+          "link": "https://www.ynszlyy.com/ContentData/UPLOAD_FILE/file/2023/12/29/844e53cf-e9c1-4b76-9b0f-dcb33ac123ef.OAF/2.%E6%81%A9%E6%B2%99%E6%9B%BF%E5%B0%BC%E5%AF%B9%E6%AF%94%E5%AE%89%E6%85%B0%E5%89%82%E7%94%A8%E4%BA%8E%E9%97%B4%E5%8F%98%E6%80%A7%E6%B7%8B%E5%B7%B4%E7%98%A4%E6%BF%80%E9%85%B6%EF%BC%88ALK%EF%BC%89%E9%98%B3%E6%80%A7%E7%9A%84IB-IIIB%E6%9C%9F%E9%9D%9E%E5%B0%8F%E7%BB%86%E8%83%9E%E8%82%BA%E7%99%8C%E8%BE%85%E5%8A%A9%E6%B2%BB%E7%96%97%E7%9A%84%E6%9C%89%E6%95%88%E6%80%A7%E5%92%8C%E5%AE%89%E5%85%A8%E6%80%A7%E7%9A%84%E5%A4%9A%E4%B8%AD%E5%BF%83%E3%80%81%E9%9A%8F%E6%9C%BA%E3%80%81%E5%AF%B9%E7%85%A7%E3%80%81%E5%8F%8C%E7%9B%B2%E7%9A%84III%E6%9C%9F%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6.pdf",
+          "displayLink": "www.ynszlyy.com",
+          "snippet": "Dec 29, 2023 ... 4. 原发性肺癌手术完全切除（R0）后经病理证实为IB 期、II 期、IIIA 期和IIIB 期（仅. T3N2M0）非小细胞肺癌受试者，疾病分期按美国癌症联合委员会（AJCC）/国际 ...",
+          "htmlSnippet": "Dec 29, 2023 <b>...</b> 4. 原发性肺癌<b>手术</b>完全切除（R0）后经病理证实为IB 期、II 期、IIIA 期和IIIB 期（仅. T3N2M0）非小细胞肺癌受试者，疾病分期按美国癌症联合委员会（AJCC）/国际&nbsp;...",
+          "formattedUrl": "https://www.ynszlyy.com/.../2.恩沙替尼对比安慰剂用于间变性淋巴瘤激酶...",
+          "htmlFormattedUrl": "https://www.ynszlyy.com/.../2.恩沙替尼对比安慰剂用于间<b>变性</b>淋巴瘤激酶...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231222092412+08'00'",
+                "creationdate": "D:20231222092412+08'00'",
+                "producer": "Microsoft: Print To PDF",
+                "title": "Microsoft Word - 20.iŽ‚¿-Ûß J-3.0-20230818"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "脑血管淀粉样变性相关脑出血的手术疗效分析",
+          "htmlTitle": "脑血管淀粉样<b>变性</b>相关脑出血的<b>手术</b>疗效分析",
+          "link": "http://zglcsjwk.paperopen.com/oa/pdfdow.aspx?Sid=202212009",
+          "displayLink": "zglcsjwk.paperopen.com",
+          "snippet": "相对年. 轻的CAA-ICH病人，显微手术是相对积极的治疗手段，可望获得较好的预后；但高龄CAA-ICH病人预后较差，全麻开颅手术应. 相对慎重。 【关键词】脑血管淀粉样变性相关脑 ...",
+          "htmlSnippet": "相对年. 轻的CAA-ICH病人，显微<b>手术</b>是相对积极的治疗手段，可望获得较好的预后；但高龄CAA-ICH病人预后较差，全麻开颅<b>手术</b>应. 相对慎重。 【关键词】脑血管淀粉样<b>变性</b>相关脑&nbsp;...",
+          "formattedUrl": "http://zglcsjwk.paperopen.com/oa/pdfdow.aspx?Sid=202212009",
+          "htmlFormattedUrl": "http://zglcsjwk.paperopen.com/oa/pdfdow.aspx?Sid=202212009",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230216083401+08'00'",
+                "creationdate": "D:20230216083356+08'00'",
+                "creator": "方正飞翔2012 创意版",
+                "author": "Microsoft Administrator",
+                "subject": "2018-10",
+                "producer": "Founder",
+                "title": "2022-12"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "神经妥乐平联合甲钴胺治疗退变性腰椎疾病术后残余下肢神经症状的 ...",
+          "htmlTitle": "神经妥乐平联合甲钴胺治疗退<b>变性</b>腰椎疾病术后残余下肢神经症状的 ...",
+          "link": "https://jms.fudan.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1519",
+          "displayLink": "jms.fudan.edu.cn",
+          "snippet": "不可逆损伤(手术减压不彻底(手术中对神经的侵. 扰(术后神经根炎症水肿(血肿及瘢痕组织压迫神. 经(脊柱生物力线异常(神经脱髓鞘病变(化学递质. 的刺激和免疫源性等#其性质 ...",
+          "htmlSnippet": "不可逆损伤(<b>手术</b>减压不彻底(<b>手术</b>中对神经的侵. 扰(术后神经根炎症水肿(血肿及瘢痕组织压迫神. 经(脊柱生物力线异常(神经脱髓鞘病变(化学递质. 的刺激和免疫源性等#其性质&nbsp;...",
+          "formattedUrl": "https://jms.fudan.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "htmlFormattedUrl": "https://jms.fudan.edu.cn/CN/article/downloadArticleFile.do?attachType...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20180124140759+08'00'",
+                "creationdate": "D:20180124140751+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Untitled",
+          "htmlTitle": "Untitled",
+          "link": "http://www.zhld.com/zkwb/page/1/2014-08-18/02/96101408294625949.pdf",
+          "displayLink": "www.zhld.com",
+          "snippet": "Aug 18, 2014 ... 刘霆变性手术新闻发布会$ 在广州举. 办! 刘霆宣布将在该整形机构进行 ... 当变性手术发生在一位&全国道德模. 范$身上!引发争议便是不可避免的情. 形 ...",
+          "htmlSnippet": "Aug 18, 2014 <b>...</b> 刘霆<b>变性手术</b>新闻发布会$ 在广州举. 办! 刘霆宣布将在该整形机构进行 ... 当<b>变性手术</b>发生在一位&amp;全国道德模. 范$身上!引发争议便是不可避免的情. 形&nbsp;...",
+          "formattedUrl": "http://www.zhld.com/zkwb/page/1/2014-08.../96101408294625949.pdf",
+          "htmlFormattedUrl": "http://www.zhld.com/zkwb/page/1/2014-08.../96101408294625949.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RIxvkYuKkqis9rpCMfeqWSYCsHoxJIlm--hIiIC0qvUExV1sLzrJ4AE&s",
+                "width": "276",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///b8af8ef9fd4bdcefe9bb38f86045152dd7b10ddee827d48ea5f31fcd5125ee4e"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国人民财产保险股份有限公司个人住院津贴保险A 款（互联网专属 ...",
+          "htmlTitle": "中国人民财产保险股份有限公司个人住院津贴保险A 款（互联网专属 ...",
+          "link": "https://mproperty.picc.com/clauses_for_wap/tiaokuan/070560.pdf",
+          "displayLink": "mproperty.picc.com",
+          "snippet": "（13）被保险人作为器官捐赠方接受器官捐赠手术；. Page 3. 3 / 26. （14）被保险人接受美容手术、矫形手术、变性手术或非因意外伤害而进行. 的整形手术；. （15）被保险人 ...",
+          "htmlSnippet": "（13）被保险人作为器官捐赠方接受器官捐赠手术；. Page 3. 3 / 26. （14）被保险人接受美容手术、矫形手术、<b>变性手术</b>或非因意外伤害而进行. 的整形手术；. （15）被保险人&nbsp;...",
+          "formattedUrl": "https://mproperty.picc.com/clauses_for_wap/tiaokuan/070560.pdf",
+          "htmlFormattedUrl": "https://mproperty.picc.com/clauses_for_wap/tiaokuan/070560.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_8b_wkujD9KGUP6129CK9QW2FM-7WAwxZsHPC_xFlhOMtPQ6ZzRNV6U&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230315162602+08'26'",
+                "creationdate": "D:20230315162602+08'26'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20230315162602+08'26'",
+                "author": "TANGNJ"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4a8f2264ab9e8119d5589447f6a4b079ae5ecea4bcae21639f41f0b2088590dd"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "交银人寿团体交银悠享人生医疗保险产品说明",
+          "htmlTitle": "交银人寿团体交银悠享人生医疗保险产品说明",
+          "link": "https://www.bocommlife.com/static/attach/202402271501260025.pdf",
+          "displayLink": "www.bocommlife.com",
+          "snippet": "... 手术、变性手术或非医疗性的服务；眼镜、义. 齿、义眼、义肢、助听器、轮椅等康复性器具或矫正器具；. （13）体格检查、疗养、特别护理、静养、康复性治疗、物理治疗 ...",
+          "htmlSnippet": "... 手术、<b>变性手术</b>或非医疗性的服务；眼镜、义. 齿、义眼、义肢、助听器、轮椅等康复性器具或矫正器具；. （13）体格检查、疗养、特别护理、静养、康复性治疗、物理治疗&nbsp;...",
+          "formattedUrl": "https://www.bocommlife.com/static/attach/202402271501260025.pdf",
+          "htmlFormattedUrl": "https://www.bocommlife.com/static/attach/202402271501260025.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20240227142635+08'00'",
+                "creationdate": "D:20240227142632+08'00'",
+                "creator": "Acrobat PDFMaker 15 Word 版",
+                "sourcemodified": "D:20240227013926",
+                "author": "wangzj1",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:50"
+  },
+  {
+    "page": 8,
+    "start_index": 71,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32900",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 61,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32900",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "32900",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 10,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.182788,
+        "formattedSearchTime": "0.18",
+        "totalResults": "32900",
+        "formattedTotalResults": "32,900"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "子宫肌瘤患者全子宫切除术后发热高危因素分析",
+          "htmlTitle": "子宫肌瘤患者全子宫切除术后发热高危因素分析",
+          "link": "https://www.aydxb.cn/upload/2024/07/15/20240715154732_104402.pdf",
+          "displayLink": "www.aydxb.cn",
+          "snippet": "Jul 15, 2024 ... 选择标准： ① 术后病理证实. 子宫肌瘤； ② 年龄、术前是否诊刮、贫血/输血、肌瘤. 部位、肌瘤变性、手术方式、手术范围、手术时间、术. 中出血、术后 ...",
+          "htmlSnippet": "Jul 15, 2024 <b>...</b> 选择标准： ① 术后病理证实. 子宫肌瘤； ② 年龄、术前是否诊刮、贫血/输血、肌瘤. 部位、肌瘤<b>变性</b>、<b>手术</b>方式、手术范围、手术时间、术. 中出血、术后&nbsp;...",
+          "formattedUrl": "https://www.aydxb.cn/upload/2024/07/15/20240715154732_104402.pdf",
+          "htmlFormattedUrl": "https://www.aydxb.cn/upload/2024/07/15/20240715154732_104402.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "creationdate": "D:20230913213228-08'00'",
+                "creator": "ReaderEx_DIS 2.4.0 Build 4047",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "平安海南省普惠型补充团体医疗保险条款",
+          "htmlTitle": "平安海南省普惠型补充团体医疗保险条款",
+          "link": "https://yl.pingan.com/app_upload/file/20231007/P0579%20%E5%B9%B3%E5%AE%89%E6%B5%B7%E5%8D%97%E7%9C%81%E6%99%AE%E6%83%A0%E5%9E%8B%E8%A1%A5%E5%85%85%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E6%9D%A1%E6%AC%BE-%E5%B9%B3%E4%BF%9D%E5%85%BB%E5%8F%91%E3%80%942023%E3%80%95332%E5%8F%B7_7724.pdf",
+          "displayLink": "yl.pingan.com",
+          "snippet": "被保险人接受美容手术、矫形手术、视力矫正、牙科治疗、变性手术或非因意外伤害而进行的整形手. 术；. 9．不孕不育治疗、人工受精、避孕、节育（含绝育）、绝育后复通 ...",
+          "htmlSnippet": "被保险人接受美容手术、矫形手术、视力矫正、牙科治疗、<b>变性手术</b>或非因意外伤害而进行的整形手. 术；. 9．不孕不育治疗、人工受精、避孕、节育（含绝育）、绝育后复通&nbsp;...",
+          "formattedUrl": "https://yl.pingan.com/.../P0579%20平安海南省普惠型补充团体医疗保险条...",
+          "htmlFormattedUrl": "https://yl.pingan.com/.../P0579%20平安海南省普惠型补充团体医疗保险条...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230926191738+08'00'",
+                "creationdate": "D:20230926191733+08'00'",
+                "creator": "Microsoft® Word 2016",
+                "author": "PA",
+                "producer": "Microsoft® Word 2016",
+                "title": "条款"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "退变性脊柱畸形截骨多节段经椎间孔椎间融合",
+          "htmlTitle": "退<b>变性</b>脊柱畸形截骨多节段经椎间孔椎间融合",
+          "link": "https://jxwk.ijournals.cn/zgjxwkzz/article/pdf/20230507?file_name=FA5781DA138E61513D095D5EBEAD4CE9950E12CFFA4396B7F5CD378C48F9C4E66987EA49B0231335E062459415614CD2BE1E8F0560B8E42AA122C5873BB348BF&open_type=self",
+          "displayLink": "jxwk.ijournals.cn",
+          "snippet": "Mar 5, 2023 ... 年6 月手术治疗的退变性脊柱侧后凸畸形71 例患者的临床资料。依据术前医患沟通结果，40 例采用PCO 联合局部TLIF （截. 骨融合组），另外31 例采用≥3 级截 ...",
+          "htmlSnippet": "Mar 5, 2023 <b>...</b> 年6 月<b>手术</b>治疗的退<b>变性</b>脊柱侧后凸畸形71 例患者的临床资料。依据术前医患沟通结果，40 例采用PCO 联合局部TLIF （截. 骨融合组），另外31 例采用≥3 级截&nbsp;...",
+          "formattedUrl": "https://jxwk.ijournals.cn/zgjxwkzz/article/pdf/20230507?file_name...",
+          "htmlFormattedUrl": "https://jxwk.ijournals.cn/zgjxwkzz/article/pdf/20230507?file_name...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBoL8NkW9SOnu16BWrCukBpGRZYkeBBIde09CjcYOe5hpa_MZnnUWcSw&s",
+                "width": "189",
+                "height": "266"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230605171527+08'00'",
+                "creationdate": "D:20230605171527+08'00'",
+                "producer": "iText® 5.5.13.2 ©2000-2020 iText Group NV (AGPL-version)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///250f628661f5cb8dfac609fcf79e05b21ef72e14567011c6291241c8e03085b5"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "准分子激光角膜屈光手术术前 例临床分析",
+          "htmlTitle": "准分子激光角膜屈光<b>手术</b>术前 例临床分析",
+          "link": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20100160?file_name=93B673825CB8464572DD4362DCF5B7082EA59E31757945DB308D2822B4D380C090AFE5F512745CD1EB500C948C9AAAD00A297E02788B1D54&open_type=self",
+          "displayLink": "gjyk.ijournals.cn",
+          "snippet": "膜变性有1囊样变性格子样变性色素性变性z样变性. 铺路石样变性等研究发现这些变性与视网膜脱离关系. 密切的是格子样变性和囊样变性组织学研究发现格子. 样变性区内视网膜 ...",
+          "htmlSnippet": "膜<b>变性</b>有1囊样<b>变性</b>格子样<b>变性</b>色素性<b>变性</b>z样<b>变性</b>. 铺路石样<b>变性</b>等研究发现这些<b>变性</b>与视网膜脱离关系. 密切的是格子样<b>变性</b>和囊样<b>变性</b>组织学研究发现格子. 样<b>变性</b>区内视网膜&nbsp;...",
+          "formattedUrl": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20100160?file_name...self",
+          "htmlFormattedUrl": "http://gjyk.ijournals.cn/gjykcn/article/pdf/20100160?file_name...self",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20100122101211+08'00'",
+                "creationdate": "D:20100122101211+08'00'",
+                "producer": "Acrobat Distiller 7.0 (Windows)",
+                "title": "untitled"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "汇丰附加安盈住院补贴医疗保险条款阅读指引",
+          "htmlTitle": "汇丰附加安盈住院补贴医疗保险条款阅读指引",
+          "link": "https://www.hsbcinsurance.com.cn/content/dam/hsbc/insh/docs/about-us/information-disclosure/product/offstock/%E6%B1%87%E4%B8%B0%E9%99%84%E5%8A%A0%E5%AE%89%E7%9B%88%E4%BD%8F%E9%99%A2%E8%A1%A5%E8%B4%B4%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9HC2.pdf",
+          "displayLink": "www.hsbcinsurance.com.cn",
+          "snippet": "产）、整容手术、变性手术所致者；. （8）不孕症、人工受孕、避孕及绝育手术及其导致之并发症；. （9）被保险人因遗传性疾病、先天性疾病、先天性畸形或缺陷、精. 神疾病 ...",
+          "htmlSnippet": "产）、整容手术、<b>变性手术</b>所致者；. （8）不孕症、人工受孕、避孕及绝育手术及其导致之并发症；. （9）被保险人因遗传性疾病、先天性疾病、先天性畸形或缺陷、精. 神疾病&nbsp;...",
+          "formattedUrl": "https://www.hsbcinsurance.com.cn/.../汇丰附加安盈住院补贴医疗保险HC2...",
+          "htmlFormattedUrl": "https://www.hsbcinsurance.com.cn/.../汇丰附加安盈住院补贴医疗保险HC2...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAb387HWtzzPOGO3DL2jXNykikfy8KeqWuA6QvqjxxIbBRV32bN7INdO-&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20191104152226+08'00'",
+                "creator": "Microsoft Word - 汇丰人寿保险有限公司产品目录及条款20191031",
+                "creationdate": "D:20191104152226+08'00'",
+                "author": "30609377",
+                "producer": "Nuance PDF Create 8",
+                "title": "Microsoft Word - 汇丰人寿保险有限公司产品目录及条款20191031"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///1f589c40fe75de2ffc9c3b2232c5202951eaa21a04cb88a24d99457919599f55"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "关节镜修补中老年退变性内侧半月板损伤的疗效观察及影像学评估",
+          "htmlTitle": "关节镜修补中老年退<b>变性</b>内侧半月板损伤的疗效观察及影像学评估",
+          "link": "http://www.cqyxzz.com/cqyx/article/pdf/208871?file_name=55455A4859C3AA360257250E7952415A8037859A8012135B8EC68513A7CE8C2F2A62D3E071E3594442462AFFFC09E7E46F093A4D89412EE7FA020ADA4CE4DB97&open_type=self",
+          "displayLink": "www.cqyxzz.com",
+          "snippet": "... 变性. 内侧半月板损伤患者的临床资料。手术采用全内缝合或者全内结合由内向外技术缝合半月板。记录手术前和. 末次随访(至少24个月)的IKDC评分、Tegner评分及Lysholm 评分 ...",
+          "htmlSnippet": "... <b>变性</b>. 内侧半月板损伤患者的临床资料。<b>手术</b>采用全内缝合或者全内结合由内向外技术缝合半月板。记录<b>手术</b>前和. 末次随访(至少24个月)的IKDC评分、Tegner评分及Lysholm 评分&nbsp;...",
+          "formattedUrl": "http://www.cqyxzz.com/cqyx/article/pdf/208871?file_name...open...",
+          "htmlFormattedUrl": "http://www.cqyxzz.com/cqyx/article/pdf/208871?file_name...open...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoK5tR-h6jC181F0IOOaFAH14lRP8GFS-IdYQ5MLNS-w0e7U0gEBWJoeKl&s",
+                "width": "281",
+                "height": "179"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "(D:20231212090258+08'00')",
+                "creationdate": "(D:20231212090258+08'00')",
+                "creator": "创建者",
+                "author": "作者",
+                "subject": "科目",
+                "producer": "生产者",
+                "title": "标题"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6e58f325e5674c9199ffa3f48840b567c6a21e840edcb2f591b1b5a7725d0bd8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "人类社会行为的双重属性及其双重判断",
+          "htmlTitle": "人类社会行为的双重属性及其双重判断",
+          "link": "https://lifescience.sinh.ac.cn/webadmin/upload/20221206151607_3451_8129.pdf",
+          "displayLink": "lifescience.sinh.ac.cn",
+          "snippet": "Jul 7, 2022 ... 为了追求自. 己的性别取向，同性恋者往往采用“变性手术”改. 变其生理性征。显然，这种情况下生物学属性还占. 有重要的位置。性别属性的进一步演化则出现 ...",
+          "htmlSnippet": "Jul 7, 2022 <b>...</b> 为了追求自. 己的性别取向，同性恋者往往采用“<b>变性手术</b>”改. 变其生理性征。显然，这种情况下生物学属性还占. 有重要的位置。性别属性的进一步演化则出现&nbsp;...",
+          "formattedUrl": "https://lifescience.sinh.ac.cn/webadmin/.../20221206151607_3451_8129.p...",
+          "htmlFormattedUrl": "https://lifescience.sinh.ac.cn/webadmin/.../20221206151607_3451_8129.p...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1q7BnDqDbk_qwZ_-MQOWSQckcO8yB1Y8RUCYkD7iKbEQoHKAxn_LsWw&s",
+                "width": "339",
+                "height": "118"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20220809171407+08'00'",
+                "creationdate": "D:20220809171405+08'00'",
+                "creator": "Adobe InDesign CS6 (Windows)",
+                "producer": "Adobe PDF Library 10.0.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///0281297c211b5a9624167674cf4d8667f5440c70f52be54eb49a57313fef0321"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "纳入特殊药品管理范围的药品",
+          "htmlTitle": "纳入特殊药品管理范围的药品",
+          "link": "https://file.m12333.cn/upfile/download/5d27a4d4-608b-11a5-b046-ed5867b9abd8.pdf",
+          "displayLink": "file.m12333.cn",
+          "snippet": "... 变性淋巴瘤激酶(ALK)阴性的、不可手术切. 除的局部晚期或转移性非鳞状非小细胞肺癌(NSCLC)的一线治疗；4.既往接受过一线. 化疗后疾病进展或不可耐受的局部晚期或转移性 ...",
+          "htmlSnippet": "... <b>变性</b>淋巴瘤激酶(ALK)阴性的、不可<b>手术</b>切. 除的局部晚期或转移性非鳞状非小细胞肺癌(NSCLC)的一线治疗；4.既往接受过一线. 化疗后疾病进展或不可耐受的局部晚期或转移性&nbsp;...",
+          "formattedUrl": "https://file.m12333.cn/.../5d27a4d4-608b-11a5-b046-ed5867b9abd8.pdf",
+          "htmlFormattedUrl": "https://file.m12333.cn/.../5d27a4d4-608b-11a5-b046-ed5867b9abd8.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231226165111+08'00'",
+                "creationdate": "D:20231226165057+08'00'",
+                "creator": "WPS 文字",
+                "author": "任豪亮"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "协议期内谈判药品部分（一）西药",
+          "htmlTitle": "协议期内谈判药品部分（一）西药",
+          "link": "https://hrss.tj.gov.cn/gongzhongfuwu/gonggongfuwuchaxun/gsbx/202401/W020240115647715715167.pdf",
+          "displayLink": "hrss.tj.gov.cn",
+          "snippet": "Jan 1, 2024 ... 变性淋巴瘤激酶(ALK)阴性、不可手术切. 除的局部晚期或转移性非鳞状非小细胞. 肺癌(NSCLC)的一线治疗。 2024年1月1日至. 2025年12月31日. C. *. 乙. 160.",
+          "htmlSnippet": "Jan 1, 2024 <b>...</b> <b>变性</b>淋巴瘤激酶(ALK)阴性、不可<b>手术</b>切. 除的局部晚期或转移性非鳞状非小细胞. 肺癌(NSCLC)的一线治疗。 2024年1月1日至. 2025年12月31日. C. *. 乙. 160.",
+          "formattedUrl": "https://hrss.tj.gov.cn/gongzhongfuwu/.../W020240115647715715167.pdf",
+          "htmlFormattedUrl": "https://hrss.tj.gov.cn/gongzhongfuwu/.../W020240115647715715167.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20231225110400+03'04'",
+                "creationdate": "D:20231225110400+03'04'",
+                "creator": "WPS 表格",
+                "sourcemodified": "D:20231225110400+03'04'",
+                "author": "韩丽娜"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中荷附加住院费用D 款医疗保险产品说明书",
+          "htmlTitle": "中荷附加住院费用D 款医疗保险产品说明书",
+          "link": "http://www.bob-cardif.com/_upload/products_all/shuomingshu/HRD.pdf",
+          "displayLink": "www.bob-cardif.com",
+          "snippet": "（3）手术中所用的手术材料费及手术室设备使用费。 住院医疗费用保险金：. 被 ... （16）被保险人因做变性手术而住院；. （17）被保险人进行潜水、跳伞、攀岩活动 ...",
+          "htmlSnippet": "（3）手术中所用的手术材料费及手术室设备使用费。 住院医疗费用保险金：. 被 ... （16）被保险人因做<b>变性手术</b>而住院；. （17）被保险人进行潜水、跳伞、攀岩活动&nbsp;...",
+          "formattedUrl": "http://www.bob-cardif.com/_upload/products_all/shuomingshu/HRD.pdf",
+          "htmlFormattedUrl": "http://www.bob-cardif.com/_upload/products_all/shuomingshu/HRD.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20230519161107+08'00'",
+                "creator": "Microsoft® Office Word 2007",
+                "creationdate": "D:20230331141515+08'00'",
+                "author": "钟雪",
+                "producer": "Microsoft® Office Word 2007"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:53"
+  },
+  {
+    "page": 9,
+    "start_index": 81,
+    "query": "变性手术 filetype:pdf",
+    "response": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "86",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 6,
+            "startIndex": 71,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - 变性手术 filetype:pdf",
+            "totalResults": "86",
+            "searchTerms": "变性手术 filetype:pdf",
+            "count": 6,
+            "startIndex": 81,
+            "language": "lang_zh",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "0225c56949b944d03",
+            "cr": "countryCN"
+          }
+        ]
+      },
+      "context": {
+        "title": "new"
+      },
+      "searchInformation": {
+        "searchTime": 0.202853,
+        "formattedSearchTime": "0.20",
+        "totalResults": "86",
+        "formattedTotalResults": "86"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "^_ç'²èé‚°½9 U",
+          "htmlTitle": "^_ç&#39;²èé‚°½9 U",
+          "link": "https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=11290",
+          "displayLink": "xuebao.shsmu.edu.cn",
+          "snippet": ":，且F9*C示神经变性超过62f者，应积极手术治疗。 jM-等[33] 的研究表明 ... 度，以面神经变性62f作为手术减压的临界值。 @智. A等[W] 认为面神经麻:病程Z1 个Л ...",
+          "htmlSnippet": ":，且F9*C示神经<b>变性</b>超过62f者，应积极<b>手术</b>治疗。 jM-等[33] 的研究表明 ... 度，以面神经<b>变性</b>62f作为<b>手术</b>减压的临界值。 @智. A等[W] 认为面神经麻:病程Z1 个Л&nbsp;...",
+          "formattedUrl": "https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgaFveDgYjhJKPvYPpzsBMcTHFhvyaLGE4UC9E5FOqy5OqO-8FqTuk3fY&s",
+                "width": "225",
+                "height": "224"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20160929151645+08'00'",
+                "creationdate": "D:20160929151620+08'00'",
+                "producer": "Founder PDFGenerator"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///972810b6941f2876775788f2904362ea9e75c4b94403f4551393a0f4a36b3cb1"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "华泰财险户外运动人身意外伤害保险条款",
+          "htmlTitle": "华泰财险户外运动人身意外伤害保险条款",
+          "link": "https://static.51baoy.com/file/pdf/c48aa21abe2f45a699d95368a0f87e2a.pdf",
+          "displayLink": "static.51baoy.com",
+          "snippet": "... 手术、变性手术、人体试验和人工生殖，及由此而. 引起的并发症；. 4、被保险人发生的护理（陪住）费、取暖费、交通费、误工费、空调费、膳食费、特需服务费、营养性. 药品 ...",
+          "htmlSnippet": "... 手术、<b>变性手术</b>、人体试验和人工生殖，及由此而. 引起的并发症；. 4、被保险人发生的护理（陪住）费、取暖费、交通费、误工费、空调费、膳食费、特需服务费、营养性. 药品&nbsp;...",
+          "formattedUrl": "https://static.51baoy.com/file/pdf/c48aa21abe2f45a699d95368a0f87e2a.pdf",
+          "htmlFormattedUrl": "https://static.51baoy.com/file/pdf/c48aa21abe2f45a699d95368a0f87e2a.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20181127174541+09'45'",
+                "creationdate": "D:20181127174541+09'45'",
+                "creator": "WPS 文字",
+                "sourcemodified": "D:20181127174541+09'45'",
+                "author": "Administrator"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "双极电凝镊在扁桃体被膜外切除术中的应用",
+          "htmlTitle": "双极电凝镊在扁桃体被膜外切除术中的应用",
+          "link": "https://jcmp.yzu.edu.cn/cn/article/pdf/preview/10.7619/jcmp.201719055.pdf",
+          "displayLink": "jcmp.yzu.edu.cn",
+          "snippet": "手术器械，有效缩短了手术和麻醉的时间，术后因. 止血确切而极少发生原发性出血 ... 维结缔组织受热后蛋白胶原变性，形成薄层覆盖. 于扁桃体窝，保护了创面，减轻了 ...",
+          "htmlSnippet": "<b>手术</b>器械，有效缩短了<b>手术</b>和麻醉的时间，术后因. 止血确切而极少发生原发性出血 ... 维结缔组织受热后蛋白胶原<b>变性</b>，形成薄层覆盖. 于扁桃体窝，保护了创面，减轻了&nbsp;...",
+          "formattedUrl": "https://jcmp.yzu.edu.cn/cn/article/pdf/preview/10.../jcmp.201719055.pdf",
+          "htmlFormattedUrl": "https://jcmp.yzu.edu.cn/cn/article/pdf/preview/10.../jcmp.201719055.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAHyTkede1AXLbXXf8t_ah1hfTBAVR8ejX8ywpz9nDLjCTMoH59eBgPQ&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "creator": "ººÍõOCR",
+                "creationdate": "11/29/17 15:43:57",
+                "author": "TOM",
+                "subject": "OCR-PDF",
+                "producer": "ººÍõ¿Æ¼¼",
+                "title": "NONE"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2a1ac9d53aebf82d85b56ca3e8b0189f4ee8883787f83de63b8fa10e4627a453"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "中国石油大学（华东）学生保险简介",
+          "htmlTitle": "中国石油大学（华东）学生保险简介",
+          "link": "http://xglxy.upc.edu.cn/_upload/article/files/db/82/26ca3c3c4139b4761f884fb8a3f9/9c59711b-5781-4234-8782-df69dad1e521.pdf",
+          "displayLink": "xglxy.upc.edu.cn",
+          "snippet": "被保险人的视力矫正手术或变性手术；. 17.被保险人非因意外伤害导致的整容或矫形 ... 嘱；器官移植患者提交移植手术住院病历、抗排异治疗方案或手术医院抗. 排异 ...",
+          "htmlSnippet": "被保险人的视力矫正手术或<b>变性手术</b>；. 17.被保险人非因意外伤害导致的整容或矫形 ... 嘱；器官移植患者提交移植手术住院病历、抗排异治疗方案或手术医院抗. 排异&nbsp;...",
+          "formattedUrl": "http://xglxy.upc.edu.cn/_.../9c59711b-5781-4234-8782-df69dad1e521.pdf",
+          "htmlFormattedUrl": "http://xglxy.upc.edu.cn/_.../9c59711b-5781-4234-8782-df69dad1e521.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuy8iFTMsSl4PHtL91bVq0qtBzL-ifn54baX7KWRMxxb5bhfZNT_hcc0&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20190401121148+08'00'",
+                "creator": "Microsoft® Word 2013",
+                "creationdate": "D:20190401121148+08'00'",
+                "author": "宗先波",
+                "producer": "Microsoft® Word 2013"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///728c19f621e70c37475fa6ce6be4cba4af0faa8099f3996b847fdcfb5bba2100"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "右冠状动脉—左心室瘘合并二尖瓣腱索断裂、脱垂一例",
+          "htmlTitle": "右冠状动脉—左心室瘘合并二尖瓣腱索断裂、脱垂一例",
+          "link": "https://www.nccd.org.cn/uploadfile/201504/20150415231500227227232.pdf",
+          "displayLink": "www.nccd.org.cn",
+          "snippet": "期手术。术前常规行冠状动脉造影（冠造）检查。 冠状动脉造影示：右冠状动脉 ... 瓣病理“纤维瓣膜组织透明变性、粘液变性伴钙化”，符合血. 流冲击或紊乱引发的组织 ...",
+          "htmlSnippet": "期<b>手术</b>。术前常规行冠状动脉造影（冠造）检查。 冠状动脉造影示：右冠状动脉 ... 瓣病理“纤维瓣膜组织透明<b>变性</b>、粘液<b>变性</b>伴钙化”，符合血. 流冲击或紊乱引发的组织&nbsp;...",
+          "formattedUrl": "https://www.nccd.org.cn/uploadfile/.../20150415231500227227232.pdf",
+          "htmlFormattedUrl": "https://www.nccd.org.cn/uploadfile/.../20150415231500227227232.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8gFdBZqfguM9VWyUKlGFVybzMCzH7DJrPeFWT5jL_r1-UUjyzFALRnbY&s",
+                "width": "193",
+                "height": "262"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20141125111559+08'00'",
+                "creationdate": "D:20141125111558+08'00'",
+                "creator": "Adobe InDesign CS5 (7.0.2)",
+                "producer": "Adobe PDF Library 9.9"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///2705869b17d7fb9a7bf094f8470ad1ce45b8696e57adfa4fc0be08584057c955"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "拟穴青蟹线粒体COI 基因序列克隆及SNPs 位点分析",
+          "htmlTitle": "拟穴青蟹线粒体COI 基因序列克隆及SNPs 位点分析",
+          "link": "https://biotech.aiijournal.com/EN/article/downloadArticleFile.do?attachType=PDF&id=6105",
+          "displayLink": "biotech.aiijournal.com",
+          "snippet": "0），用灭菌手术剪剪碎，混匀后. 加入终浓度为1% 的SDS 和100 μg / mL 的 ... 94℃预变性5 min； 94℃ 变性30 s，54℃ 复性50 s，. 72℃延伸50 s，共进行38 个循环 ...",
+          "htmlSnippet": "0），用灭菌<b>手术</b>剪剪碎，混匀后. 加入终浓度为1% 的SDS 和100 μg / mL 的 ... 94℃预<b>变性</b>5 min； 94℃ <b>变性</b>30 s，54℃ 复性50 s，. 72℃延伸50 s，共进行38 个循环&nbsp;...",
+          "formattedUrl": "https://biotech.aiijournal.com/EN/article/downloadArticleFile.do?...PDF...",
+          "htmlFormattedUrl": "https://biotech.aiijournal.com/EN/article/downloadArticleFile.do?...PDF...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4IF7A4JrKCFlKHvqVe_0zx2pTIHI_ICb_uLeiU09NswOT9IqUFeSBYeA&s",
+                "width": "197",
+                "height": "256"
+              }
+            ],
+            "metatags": [
+              {
+                "creationdate": "D:20111021094732-08'00'",
+                "creator": "ReaderEx_DIS 2.0.0 Build 3684",
+                "author": "CNKI",
+                "producer": "TTKN"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///c7b9e0600c25b61a6759cb21913bd38cdb0add8235d2b3a1e539cd07286bc3e8"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    "timestamp": "2024-10-28 20:50:55"
+  }
+]
