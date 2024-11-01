@@ -85,7 +85,7 @@ def main():
             print(f"Processing: {url}")
             result = get_ai_classification(
                 data.get('title'),
-                data.get('link'),
+                url,
                 data.get('snippet'),
                 gen_struct_path,
                 template

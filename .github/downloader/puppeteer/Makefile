@@ -14,9 +14,11 @@ trans_news:
 	QUERY="易性癖 新闻" node search_wait.js
 	QUERY="易性癖 filetype:pdf" node search_wait.js
 	QUERY="性别认同障碍 filetype:pdf" node search.js
+
 trans:
 	QUERY="性别认同障碍" node search.js
 	QUERY="性别多元化" node search.js
 	QUERY="跨性别 青少年" node search.js
 	QUERY="跨性别 切除" node search.js
-
+	QUERY="男跨女" node search.js
+	QUERY="女跨男" node search.js

@@ -5,7 +5,9 @@ import argparse
 from pathlib import Path
 import json
 from pdfdown import download_pdf, get_file_md5
+from webdown import download_webpage
 import hashlib
+import re
 
 def check_file_exists_by_md5(md5_hash):
     """Check if file exists in visit_links.yml"""
@@ -52,13 +54,15 @@ def check_link_exists(url, visited_data):
             return True
     return False
 
-def process_links_file(yaml_path, output_dir, related_filter='true'):
-    """Process YAML file and download files based on is_related filter"""
+def process_links_file(yaml_path, output_dir, related_filter='true', file_pattern=r'pdf', download_type='both'):
+    """Process YAML file and download files based on is_related filter and file pattern"""
     print("\n" + "="*50)
     print(f"Starting download process:")
     print(f"  YAML file: {yaml_path}")
     print(f"  Output directory: {output_dir}")
     print(f"  Filter: is_related='{related_filter}'")
+    print(f"  File pattern: {file_pattern}")
+    print(f"  Download type: {download_type}")
     print("="*50 + "\n")
     
     # Create output directory if it doesn't exist
@@ -110,10 +114,10 @@ def process_links_file(yaml_path, output_dir, related_filter='true'):
             results['skipped'].append((url, f"is_related='{info.get('is_related', '')}'"))
             continue
         
-        # only download pdf files
-        if 'pdf' not in info.get('link', '').lower():
-            print("→ Skipping: Path does not contain 'pdf'")
-            results['skipped'].append((url, "Path does not contain 'pdf'"))
+        # Filter files based on regex pattern
+        if not re.search(file_pattern, info.get('link', ''), re.IGNORECASE):
+            print(f"→ Skipping: Path does not match pattern '{file_pattern}'")
+            results['skipped'].append((url, f"Path does not match pattern '{file_pattern}'"))
             continue
     
         if not info.get('link'):
@@ -129,8 +133,17 @@ def process_links_file(yaml_path, output_dir, related_filter='true'):
             if not title or title == '' or title == 'Untitled':
                 title = info['snippet'][10:30]
             
-            success, result = download_pdf(info['link'], output_dir, title)
-            
+            # Choose download function based on download_type
+            if download_type == 'pdf':
+                success, result = download_pdf(info['link'], output_dir, title)
+            elif download_type == 'webpage':
+                success, result = download_webpage(info['link'], output_dir, title)
+            elif download_type == 'both':
+                # Try PDF first, if it fails try webpage
+                success, result = download_pdf(info['link'], output_dir, title)
+                if not success:
+                    success, result = download_webpage(info['link'], output_dir, title)
+
             if success:
                 output_path = result  # result contains the file path on success
                 # Calculate MD5 and update visit_links.yml
@@ -210,6 +223,19 @@ def main():
         default='true',
         help='Filter entries by is_related value'
     )
+    
+    parser.add_argument(
+        '--pattern',
+        default=r'pdf',
+        help='Regex pattern to filter file URLs (default: pdf)'
+    )
+
+    parser.add_argument(
+        '--download-type',
+        choices=['pdf', 'webpage', 'both'],
+        default='pdf',
+        help='Type of download to perform (default: both)'
+    )
 
     args = parser.parse_args()
     
@@ -220,9 +246,11 @@ def main():
     print(f"  YAML path: {yaml_path}")
     print(f"  Output directory: {output_dir}")
     print(f"  Related filter: {args.related}")
+    print(f"  File pattern: {args.pattern}")
+    print(f"  Download type: {args.download_type}")
 
     # Process the files
-    results = process_links_file(yaml_path, output_dir, args.related)
+    results = process_links_file(yaml_path, output_dir, args.related, args.pattern, args.download_type)
     
     # Print final summary
     print("\nDownload Summary:")
